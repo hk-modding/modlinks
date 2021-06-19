@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="HollowKnight.ModManager"
+           targetNamespace="HollowKnight.ModManager"
+           elementFormDefault="qualified">
+
+<xs:element name="ModLinks">
+  <xs:complexType>
+    <xs:sequence minOccurs="0" maxOccurs="unbounded">
+      <xs:element name="Manifest" type="ManifestType" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:complexType name="ManifestType">
+  <xs:sequence>
+    <xs:element name="Name" type="xs:string" />
+    <xs:element name="Description" type="xs:string" />
+    <xs:element name="Version" type="PatchStringType" />
+    <xs:element name="GamePatch" type="PatchStringType" />
+    <xs:choice>
+      <xs:element name="Links" type="LinksType" />
+      <xs:element name="Link" type="SingleLinkType" />
+    </xs:choice>
+    <xs:element name="Files" type="FileListType" />
+    <xs:element name="Dependencies" type="DepListType" />
+  </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="LinksType">
+  <xs:sequence>
+    <xs:element name="Linux" type="SingleLinkType" />
+    <xs:element name="Mac" type="SingleLinkType" />
+    <xs:element name="Windows" type="SingleLinkType" />
+  </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="SingleLinkType">
+  <xs:simpleContent>
+    <xs:extension base="LinkStringType">
+      <xs:attribute name="SHA256" type="ShaStringType" use="required" />
+    </xs:extension>
+  </xs:simpleContent>
+</xs:complexType>
+
+<xs:complexType name="FileListType">
+  <xs:sequence minOccurs="0" maxOccurs="unbounded">
+    <xs:element name="File" type="FileType" />
+  </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="FileType">
+  <xs:simpleContent>
+    <xs:extension base="xs:string">
+      <xs:attribute name="SHA256" type="ShaStringType" use="required" />
+    </xs:extension>
+  </xs:simpleContent>
+</xs:complexType>
+
+<xs:complexType name="DepListType">
+  <xs:sequence minOccurs="0" maxOccurs="unbounded">
+    <xs:element name="File" type="xs:string" />
+  </xs:sequence>
+</xs:complexType>
+
+<xs:simpleType name="ShaStringType">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="([0-9]|[a-f]|[A-F]){64}"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="LinkStringType">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="https?:\/\/.*"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="PatchStringType">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="(\d+\.){3}\d+"/>
+  </xs:restriction>
+</xs:simpleType>
+
+</xs:schema>
