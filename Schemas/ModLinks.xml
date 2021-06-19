@@ -16,8 +16,6 @@
   <xs:sequence>
     <xs:element name="Name" type="xs:string" />
     <xs:element name="Description" type="xs:string" />
-    <xs:element name="Version" type="PatchStringType" />
-    <xs:element name="GamePatch" type="PatchStringType" />
     <xs:choice>
       <xs:element name="Links" type="LinksType" />
       <xs:element name="Link" type="SingleLinkType" />
@@ -72,12 +70,6 @@
 <xs:simpleType name="LinkStringType">
   <xs:restriction base="xs:string">
     <xs:pattern value="https?://.*"/>
-  </xs:restriction>
-</xs:simpleType>
-
-<xs:simpleType name="PatchStringType">
-  <xs:restriction base="xs:string">
-    <xs:pattern value="(\d+\.){3}\d+"/>
   </xs:restriction>
 </xs:simpleType>
 

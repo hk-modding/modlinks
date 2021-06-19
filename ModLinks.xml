@@ -7,19 +7,17 @@ xsi:schemaLocation="https://raw.githubusercontent.com/SFGrenade/HollowKnight.Mod
     <!--<Manifest>
         <Name>Test Name</Name>
         <Description>Test description</Description>
-        <Version>0.0.0.1</Version>
-        <GamePatch>1.4.3.2</GamePatch>
 
         Only one of these two
         <Links>
-            <Linux SHA256="0000000000000000000000000000000000000000000000000000000000000000">https:// linux link</Linux>
-            <Mac SHA256="0000000000000000000000000000000000000000000000000000000000000000">https:// mac link</Mac>
-            <Windows SHA256="0000000000000000000000000000000000000000000000000000000000000000">https:// windows link</Windows>
+            <Linux SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https:// linux link]]></Linux>
+            <Mac SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https:// mac link]]></Mac>
+            <Windows SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https:// windows link]]></Windows>
         </Links>
-        <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000">https:// link for all platforms</Link>
+        <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https:// link for all platforms]]></Link>
         
         <Files>
-            <File SHA256="0000000000000000000000000000000000000000000000000000000000000000">Test Filename</File>
+            <File SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[Test Filename]]></File>
         </Files>
         <Dependencies>
             <Dependency>Test Dependency</Dependency>
