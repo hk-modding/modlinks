@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ApiLinks
+xmlns="HollowKnight.ModManager"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://raw.githubusercontent.com/SFGrenade/HollowKnight.ModLinks/SingleFile/schema.xml">
+    <!--<Manifest>
+        <Version>60</Version>
+        <GamePatch>1.4.3.2</GamePatch>
+
+        Only one of these two
+        <Links>
+            <Linux SHA256="0000000000000000000000000000000000000000000000000000000000000000">https:// linux link</Linux>
+            <Mac SHA256="0000000000000000000000000000000000000000000000000000000000000000">https:// mac link</Mac>
+            <Windows SHA256="0000000000000000000000000000000000000000000000000000000000000000">https:// windows link</Windows>
+        </Links>
+        <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000">https:// link for all platforms</Link>
+        
+        <Files>
+            <File SHA256="0000000000000000000000000000000000000000000000000000000000000000">Test Filename</File>
+        </Files>
+    </Manifest>-->
+</ApiLinks>
