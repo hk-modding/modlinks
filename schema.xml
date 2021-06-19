@@ -59,7 +59,7 @@
 
 <xs:complexType name="DepListType">
   <xs:sequence minOccurs="0" maxOccurs="unbounded">
-    <xs:element name="File" type="xs:string" />
+    <xs:element name="Dependency" type="xs:string" />
   </xs:sequence>
 </xs:complexType>
 
@@ -71,7 +71,7 @@
 
 <xs:simpleType name="LinkStringType">
   <xs:restriction base="xs:string">
-    <xs:pattern value="https?:\/\/.*"/>
+    <xs:pattern value="https?://.*"/>
   </xs:restriction>
 </xs:simpleType>
 
