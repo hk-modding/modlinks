@@ -26,7 +26,7 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      - name: XML Lint
+      - name: XML Lint ModLinks
         # You may pin to the exact commit or the version.
         # uses: ChristophWurst/xmllint-action@d18a551aab4728e4af449617638600634d7a48cb
         uses: ChristophWurst/xmllint-action@d18a551aab4728e4af449617638600634d7a48cb
@@ -34,4 +34,15 @@ jobs:
           # The source (.xml) file
           xml-file: ./ModLinks.xml
           # The schema (.xsd) file
-          xml-schema-file: ./Schemas/Modlinks.xml
+          xml-schema-file: ./Schemas/ModLinks.xml
+
+      # Runs a single command using the runners shell
+      - name: XML Lint ApiLinks
+        # You may pin to the exact commit or the version.
+        # uses: ChristophWurst/xmllint-action@d18a551aab4728e4af449617638600634d7a48cb
+        uses: ChristophWurst/xmllint-action@d18a551aab4728e4af449617638600634d7a48cb
+        with:
+          # The source (.xml) file
+          xml-file: ./ApiLinks.xml
+          # The schema (.xsd) file
+          xml-schema-file: ./Schemas/ApiLinks.xml
