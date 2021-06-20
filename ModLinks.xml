@@ -41,6 +41,24 @@
             <File>QoL.pdb</File>
         </Files>
         
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>Vasi</Name>
+        <Description>A library with some utility classes.</Description>
+        <Version>2.0.0.0</Version>
+        
+        <Link SHA256="B1045E28E004BCBA58140AB9BB84F76F22808C7A3482B215541CD84A0CBFEE87">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Vasi/releases/download/v2/Vasi.zip]]>
+        </Link>
+        
+        <Files>
+            <File>Vasi.dll</File>
+            <File>Vasi.pdb</File>
+        </Files>
+        
         <Dependencies />
     </Manifest>
 </ModLinks>
