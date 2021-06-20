@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
 <ModLinks
-xmlns="HollowKnight.ModManager"
-xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="https://raw.githubusercontent.com/SFGrenade/HollowKnight.ModLinks/SingleFile/schema.xml">
+    xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://raw.githubusercontent.com/SFGrenade/HollowKnight.ModLinks/SingleFile/schema.xml"
+>
     <!--
     <Manifest>
         <Name>Test Name</Name>
@@ -26,4 +27,20 @@ xsi:schemaLocation="https://raw.githubusercontent.com/SFGrenade/HollowKnight.Mod
         </Dependencies>
     </Manifest>
     -->
+    <Manifest>
+        <Name>QoL</Name>
+        <Description>A collection of various quality of life improvements.</Description>
+        <Version>3.0.0.0</Version>
+        
+        <Link SHA256="45F781AC426D5AD21BCDD9324433D868B2B448F21C1E9DC6499EB100AA81F4EA">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v3/QoL.zip]]>
+        </Link>
+        
+        <Files>
+            <File>QoL.dll</File>
+            <File>QoL.pdb</File>
+        </Files>
+        
+        <Dependencies />
+    </Manifest>
 </ModLinks>
