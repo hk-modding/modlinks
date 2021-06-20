@@ -5,19 +5,35 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://raw.githubusercontent.com/SFGrenade/HollowKnight.ModLinks/SingleFile/schema.xml"
 >
-    <!--<Manifest>
-        <Version>0</Version>
+    <Manifest>
+        <Version>61</Version>
 
-        Only one of these two
         <Links>
-            <Linux SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https:// linux link]]></Linux>
-            <Mac SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https:// mac link]]></Mac>
-            <Windows SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https:// windows link]]></Windows>
+            <Linux SHA256="4F95F556D470E33C0668E134EA2AAF9AE0A6C5B382D52FC35E01E3B8FB406D15">
+                <![CDATA[https://github.com/HollowKnight-Modding/HollowKnight.Modding/releases/download/v1.5.68.11808-61/ModdingApiUnix.zip]]>
+            </Linux>
+            <Mac SHA256="4F95F556D470E33C0668E134EA2AAF9AE0A6C5B382D52FC35E01E3B8FB406D15">
+                <![CDATA[https://github.com/HollowKnight-Modding/HollowKnight.Modding/releases/download/v1.5.68.11808-61/ModdingApiUnix.zip]]>
+            </Mac>
+            <Windows SHA256="9866A9023181C27B599B46E259798580E5EAB76DE343E95E3B1E98D3F820CAE0">
+                <![CDATA[https://github.com/HollowKnight-Modding/HollowKnight.Modding/releases/download/v1.5.68.11808-61/ModdingApiWin.zip]]>
+            </Windows>
         </Links>
-        <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https:// link for all platforms]]></Link>
         
         <Files>
-            <File><![CDATA[Test Filename]]></File>
+            <File>Assembly-CSharp.dll</File>
+            <File>Assembly-CSharp.xml</File>
+            
+            <File>MMHOOK_Assembly-CSharp.dll</File>
+            <File>MMHOOK_PlayMaker.dll</File>
+            
+            <File>Mono.Cecil.dll</File>
+            <File>MonoMod.RuntimeDetour.dll</File>
+            <File>MonoMod.Utils.dll</File>
+            
+            <File>mscorlib.dll</File>
+            
+            <File>Newtonsoft.Json.dll</File>
         </Files>
-    </Manifest>-->
+    </Manifest>
 </ApiLinks>
