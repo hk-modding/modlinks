@@ -3,7 +3,7 @@
     xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://raw.githubusercontent.com/SFGrenade/HollowKnight.ModLinks/SingleFile/schema.xml"
+    xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml"
 >
     <!--
     <Manifest>
