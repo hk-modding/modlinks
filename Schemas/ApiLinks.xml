@@ -6,7 +6,7 @@
 
 <xs:element name="ApiLinks">
   <xs:complexType>
-    <xs:sequence minOccurs="0" maxOccurs="unbounded">
+    <xs:sequence minOccurs="0" maxOccurs="1">
       <xs:element name="Manifest" type="ManifestType" />
     </xs:sequence>
   </xs:complexType>
