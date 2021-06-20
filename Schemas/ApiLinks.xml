@@ -14,6 +14,7 @@
 
 <xs:complexType name="ManifestType">
   <xs:sequence>
+    <xs:element name="Version" type="VersionStringType" />
     <xs:choice>
       <xs:element name="Links" type="LinksType" />
       <xs:element name="Link" type="SingleLinkType" />
@@ -40,16 +41,8 @@
 
 <xs:complexType name="FileListType">
   <xs:sequence minOccurs="0" maxOccurs="unbounded">
-    <xs:element name="File" type="FileType" />
+    <xs:element name="File" type="xs:string" />
   </xs:sequence>
-</xs:complexType>
-
-<xs:complexType name="FileType">
-  <xs:simpleContent>
-    <xs:extension base="xs:string">
-      <xs:attribute name="SHA256" type="ShaStringType" use="required" />
-    </xs:extension>
-  </xs:simpleContent>
 </xs:complexType>
 
 <xs:simpleType name="ShaStringType">
@@ -61,6 +54,12 @@
 <xs:simpleType name="LinkStringType">
   <xs:restriction base="xs:string">
     <xs:pattern value="https?://.*"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="VersionStringType">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="\d+"/>
   </xs:restriction>
 </xs:simpleType>
 

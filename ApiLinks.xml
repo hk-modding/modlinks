@@ -5,6 +5,7 @@ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://raw.githubusercontent.com/SFGrenade/HollowKnight.ModLinks/SingleFile/schema.xml">
     <!--<Manifest>
+        <Version>0</Version>
 
         Only one of these two
         <Links>
@@ -15,7 +16,7 @@ xsi:schemaLocation="https://raw.githubusercontent.com/SFGrenade/HollowKnight.Mod
         <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https:// link for all platforms]]></Link>
         
         <Files>
-            <File SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[Test Filename]]></File>
+            <File><![CDATA[Test Filename]]></File>
         </Files>
     </Manifest>-->
 </ApiLinks>
