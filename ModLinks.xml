@@ -19,9 +19,6 @@
         </Links>
         <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://multiplatform.link]]></Link>
         
-        <Files>
-            <File><![CDATA[Test Filename]]></File>
-        </Files>
         <Dependencies>
             <Dependency>Test Dependency</Dependency>
         </Dependencies>
@@ -47,6 +44,17 @@
         
         <Link SHA256="B93FA7ECDF40D5F91F942ACFD31CD2A5243551720C96E18DDE99FD64919162EC">
             <![CDATA[https://github.com/fifty-six/HollowKnight.Vasi/releases/download/v2/Vasi.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>HowwowKnyight</Name>
+        <Description>Twanswates aww of de text in Howwow Knyight into de much supewiow UwU wanguage, incwuding menyus, usew intewface and in-game diawogues! OwO </Description>
+        <Version>3.7.5.0</Version>
+        
+        <Link SHA256="b8be2445f5ce7d9f7a3a5c2d1ce39e11f3275a041127b984804a8ce78b5f92b4">
+            <![CDATA[https://github.com/DDRM-VGV/HowwowKnyight/releases/download/3.7.5/HowwowKnyight.zip]]>
         </Link>
         
         <Dependencies />
