@@ -36,11 +36,6 @@
             <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v3/QoL.zip]]>
         </Link>
         
-        <Files>
-            <File>QoL.dll</File>
-            <File>QoL.pdb</File>
-        </Files>
-        
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
@@ -53,11 +48,6 @@
         <Link SHA256="B93FA7ECDF40D5F91F942ACFD31CD2A5243551720C96E18DDE99FD64919162EC">
             <![CDATA[https://github.com/fifty-six/HollowKnight.Vasi/releases/download/v2/Vasi.zip]]>
         </Link>
-        
-        <Files>
-            <File>Vasi.dll</File>
-            <File>Vasi.pdb</File>
-        </Files>
         
         <Dependencies />
     </Manifest>

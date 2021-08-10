@@ -21,7 +21,6 @@
       <xs:element name="Links" type="LinksType" />
       <xs:element name="Link" type="SingleLinkType" />
     </xs:choice>
-    <xs:element name="Files" type="FileListType" />
     <xs:element name="Dependencies" type="DepListType" />
   </xs:sequence>
 </xs:complexType>
@@ -40,12 +39,6 @@
       <xs:attribute name="SHA256" type="ShaStringType" use="required" />
     </xs:extension>
   </xs:simpleContent>
-</xs:complexType>
-
-<xs:complexType name="FileListType">
-  <xs:sequence minOccurs="0" maxOccurs="unbounded">
-    <xs:element name="File" type="xs:string" />
-  </xs:sequence>
 </xs:complexType>
 
 <xs:complexType name="DepListType">
