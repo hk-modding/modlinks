@@ -70,4 +70,26 @@
         
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>Benchwarp</Name>
+        <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
+        <Version>3.0.0.0</Version>
+        
+        <Link SHA256="EC380B135684D6DF4B2E18B136C9AF7B7961AD5940FA1F2E6E1C7DCE33BD5548">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.0.0.0/Benchwarp.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>PaletteSwapper</Name>
+        <Description>Mod which changes room color tint.</Description>
+        <Version>1.1.0.0</Version>
+        
+        <Link SHA256="3B2B2F1CBEA97DF19E308A15842189E47145653E9B08B68C834859E90966C702">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.PaletteSwapper/releases/download/v1.1/PaletteSwapper.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
 </ModLinks>
