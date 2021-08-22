@@ -92,4 +92,248 @@
         
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>AdditionalMaps</Name>
+        <Description>Adds white palace and godhome maps.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="7E71E7C71EC54C89EB198DCD5DA6DF3C1C78922B8E5CB5158F4A8D0F99E4AB51">
+            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5/AdditionalMaps.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>BenchWarpFix</Name>
+        <Description>When benchwarping into a scene without a bench, instead of softlock drops you into dirtmouth.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="DDEAA47C5C1A1DD0D8A390EEF50DDEDB38E09BB00F132E62A754F33CD6C56CAF">
+            <![CDATA[https://github.com/SFGrenade/BenchWarpFix/releases/download/v1.5/BenchWarpFix.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>BlindRadiance</Name>
+        <Description>Makes background darker in selected scenes to make foreground objects more visible.</Description>
+        <Version>1.5.0.2</Version>
+        
+        <Link SHA256="E40C7452781B7AD9E5988F648164564335C872FE36526AB1670F7D85DE7A18C0">
+            <![CDATA[https://github.com/SFGrenade/BlindRadiance/releases/download/v1.5.0.2/BlindRadiance.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>CustomBgm</Name>
+        <Description>Allows customization of background music.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="4B7A121FE12CED6248E2CC638FC05EABD106A51257E0AB943B379322C1F500BB">
+            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5/CustomBgm.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>CustomSaveArt</Name>
+        <Description>Makes white palace save art funny.</Description>
+        <Version>1.5.0.1</Version>
+        
+        <Link SHA256="31B8641094C9B5C08534CF8A37C59ED321F5B8FDF4D20695F0C9DC7715CA9B6F">
+            <![CDATA[https://github.com/SFGrenade/CustomSaveArt/releases/download/v1.5.0.1/CustomSaveArt.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>EnemyChanger</Name>
+        <Description>Despite the name, it dumps sprites.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="A98474F1061F438DA6F7EFEA63C350DC627D7529EB96756CB294BEA382D26958">
+            <![CDATA[https://github.com/SFGrenade/EnemyChanger/releases/download/v1.5/EnemyChanger.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>FireIsSmolBrain</Name>
+        <Description>Adds a soul totem to dirtmouth and blocks off boss arenas.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="BEA36DFF4167716714D029D453F7F9A9F76A8A8A932964FC6708CFB740F914F9">
+            <![CDATA[https://github.com/SFGrenade/FireIsSmolBrain/releases/download/v1.5/FireIsSmolBrain.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>FuryFix</Name>
+        <Description>Tries to fix fury for 1 max health saves.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="B110C728F9CF4E1C17C8D79DB4523130BE9F3600AAC777DC49C57354092D51D1">
+            <![CDATA[https://github.com/SFGrenade/FuryFix/releases/download/v1.5/FuryFix.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>GeoLog</Name>
+        <Description>Logs all geo locations in the game, takes hours to load into the game.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="ABEC7EADFE94487D9D64DDDA27695F49DF7EBE376E27C9EE86323951780DA328">
+            <![CDATA[https://github.com/SFGrenade/GeoLog/releases/download/v1.5/GeoLog.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>HKHKHKHKHK</Name>
+        <Description>VVVVVVV</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="EB9BCEFD05F77986F9FD5D85AD031D317AAC578E3224F903B0E724B8E79EFF6E">
+            <![CDATA[https://github.com/SFGrenade/HKHKHKHKHK/releases/download/v1.5/HKHKHKHKHK.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>LanguageSupport</Name>
+        <Description>Allows additional languages to be supported.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="41066D324C1D9F0E7DE2C04BEC8318BE252D43D0404A35818330D02372C3A85E">
+            <![CDATA[https://github.com/SFGrenade/LanguageSupport/releases/download/v1.5/LanguageSupport.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>MenuThemesInGame</Name>
+        <Description>Applies the menu color correction to gameplay.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="3078D008332ED01EE3BCC9954518DF39C9775F4962E71B0CD456D934737A041D">
+            <![CDATA[https://github.com/SFGrenade/MenuThemesInGame/releases/download/v1.5/MenuThemesInGame.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>MetroidVania</Name>
+        <Description>Hollow Knight is a metroidvania. (Extremely WIP)</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="611FE3196EBA334774D0735E9CEAB244B23E1DE3247F9639F2F1DCBD857D8761">
+            <![CDATA[https://github.com/SFGrenade/MetroidVania/releases/download/v1.5/MetroidVania.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>MoreHealing</Name>
+        <Description>Adds more healing charms.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="504C558795BAA1DB31670DF8949812E7F9D1205A887C68F984605B48D8ADBA12">
+            <![CDATA[https://github.com/SFGrenade/MoreHealing/releases/download/v1.5/MoreHealing.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>NailsmithBackPay</Name>
+        <Description>Get your geo back from the nailsmith after upgrading your nail.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="EA885D6DAE92995D9E9354F796D9BE40ED31BEBCE07854FC25EB88A72DDE91DD">
+            <![CDATA[https://github.com/SFGrenade/NailsmithBackPay/releases/download/v1.5/NailsmithBackPay.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>PvpArena</Name>
+        <Description>Adds an arena in Dirtmouth next to the bench. (Invisible entrance)</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="6EBE7830362F0916E9CF3ABA2270B3238AD3EE2B2FFEFB60E79174F7CEFFF096">
+            <![CDATA[https://github.com/SFGrenade/PvpArena/releases/download/v1.5/PvpArena.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>RedoBirthplace</Name>
+        <Description>Redo the Birthplace cutscene.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="ECAE429E083B270054031D5127C5369FD7A521B8BF9243BEA638D57E354C022A">
+            <![CDATA[https://github.com/SFGrenade/RedoBirthplace/releases/download/v1.5/RedoBirthplace.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>ResetCharmNotches</Name>
+        <Description>Reset charm notches and charm notch cost.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="5D168876FE2992B6AB4C24DCB9D6BC4101CEE992CD1D5BBEDB6B0D2C8C378FC3">
+            <![CDATA[https://github.com/SFGrenade/ResetCharmNotches/releases/download/v1.5/ResetCharmNotches.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>SFCore</Name>
+        <Description>Library mod used by other mods.</Description>
+        <Version>1.5.1.1</Version>
+        
+        <Link SHA256="DD755F10A8BE5E88044D5557FA4F888749943F4BDD9FFBB8093C6F9D91552466">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.1.1/SFCore.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>TestOfTeamwork</Name>
+        <Description>Adds a Path of Pain style section to the White Palace.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="DFCDE32EDE8245C5CFEA04CAC791B665863CE02C1DDD6751E2FBB1BFCF00920E">
+            <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/releases/download/v1.5/TestOfTeamwork.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
