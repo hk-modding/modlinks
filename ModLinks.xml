@@ -64,8 +64,19 @@
         <Description>Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.</Description>
         <Version>0.9.0.0</Version>
         
-        <Link SHA256="e2bb5f90555f5ffc0912536fd92662fec7b929a6a21fbfa8661f2b415ee5e105">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v0.9/CompassAlwaysOn.zip]]>
+        <Link SHA256="fd40bcc1b892436c13131b4f11cb704c7a78dc8b6c618c6753e0c442b42917c1">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.0/CompassAlwaysOn.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Kronk</Name>
+        <Description>Simple object counter used for speedruns. Mainly used for Kronk% (all levers).</Description>
+        <Version>1.0.0.0</Version>
+        
+        <Link SHA256="54001f3e7ed720a0e68f3ab05d06d49a8f9252f42c66926ffe6c24a427a30d91">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.0/Kronk.zip]]>
         </Link>
         
         <Dependencies />
