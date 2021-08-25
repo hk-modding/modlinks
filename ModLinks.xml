@@ -73,10 +73,10 @@
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.0.0.0</Version>
+        <Version>3.1.0.0</Version>
         
-        <Link SHA256="EC380B135684D6DF4B2E18B136C9AF7B7961AD5940FA1F2E6E1C7DCE33BD5548">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.0.0.0/Benchwarp.zip]]>
+        <Link SHA256="6B60E92C6DF251B184A4473311D22193DC86EAE13C7F8727AD37CC9BEA42E273">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.0.0/Benchwarp.zip]]>
         </Link>
         
         <Dependencies />
@@ -88,6 +88,28 @@
         
         <Link SHA256="3B2B2F1CBEA97DF19E308A15842189E47145653E9B08B68C834859E90966C702">
             <![CDATA[https://github.com/homothetyhk/HollowKnight.PaletteSwapper/releases/download/v1.1/PaletteSwapper.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>InfiniteNotches</Name>
+        <Description>Togglable mod for enabling infinite charm notches.</Description>
+        <Version>2.0.0.1</Version>
+        
+        <Link SHA256="07C0F10F060E57D579E15C1426F07BD0065081B2EEB0A24E38A14CCD71BA7765">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.InfiniteNotches/releases/download/v2001/InfiniteNotches.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>EasyMode</Name>
+        <Description>Togglable mod for making the game slightly easier.</Description>
+        <Version>1.1.0.0</Version>
+        
+        <Link SHA256="D5402B10D124C6278FE897CB34912D0F3AD6CD2659D21B8423BACFFECE2B9152">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.EasyMode/releases/download/v1.1/EasyMode.zip]]>
         </Link>
         
         <Dependencies />
