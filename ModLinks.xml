@@ -438,4 +438,39 @@
             <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.7/DebugMod.zip]]></Link>
         <Dependencies></Dependencies>
     </Manifest>
+	<Manifest>
+        <Name>WeaverCore</Name>
+        <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
+        <Version>0.3.1.0</Version>
+        <Link SHA256="05616CD37BD112EC9428D2968006513DF0AAFD49CEEA751A2F8215FF24FC09E7">
+			<![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v0.3.1.0-beta/WeaverCore.zip]]>
+		</Link>
+        
+        <Dependencies />
+    </Manifest>
+	<Manifest>
+        <Name>Inferno King Grimm</Name>
+        <Description>A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu</Description>
+        <Version>4.0.0.0</Version>
+        <Link SHA256="BEF8A7D9BD7BFEB81D4A709CE6079A342D7E721383B49EDAF95D254A7A77B94A">
+			<![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.0.0.0/InfernoKingGrimm.zip]]>
+		</Link>
+        
+        <Dependencies>
+            <Dependency>WeaverCore</Dependency>
+        </Dependencies>
+    </Manifest>
+	
+	<Manifest>
+        <Name>Corrupted Kin</Name>
+        <Description>A mod that significantly changes up the Lost Kin bossfight</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="78CA4B0B75683DCAFA9523595423344FD265D2C629C0135D4974380A739CFB4D">
+			<![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.1.0.0/CorruptedKin.zip]]>
+		</Link>
+        
+        <Dependencies>
+            <Dependency>WeaverCore</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
