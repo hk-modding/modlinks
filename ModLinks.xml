@@ -38,6 +38,19 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>Pale Prince</Name>
+        <Description>Overhaul of the Pure Vessel fight with a significant increase in difficulty</Description>
+        <Version>2.0.0.0</Version>
+        
+        <Link SHA256="9392DED9FA84AD41992D11384340F8EBAA67A4BE59FB84E1A17CB758F90BFA66">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Pale-Prince/releases/download/v2/Pale.Prince.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>Vasi</Name>
         <Description>A library with some utility classes.</Description>
         <Version>2.0.0.0</Version>
