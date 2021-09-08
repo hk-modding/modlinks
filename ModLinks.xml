@@ -38,6 +38,19 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>The Pain of the Path</Name>
+        <DescriptionAllows the player to complete the Path of Pain backwards, starting just above the final drop to the Kingsmoulds.</Description>
+        <Version>2.0.0.0</Version>
+        
+        <Link SHA256="5982D2E598E7716A93BDD6A10D699F78296779C4408A81E8B91C25E96476F057">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.ThePainOfThePath/releases/download/v2/ThePainOfThePath.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>Pale Prince</Name>
         <Description>Overhaul of the Pure Vessel fight with a significant increase in difficulty</Description>
         <Version>2.0.0.0</Version>
