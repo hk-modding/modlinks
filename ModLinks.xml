@@ -73,6 +73,17 @@
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Transtrans</Name>
+        <Description>Tiktiks for trans rights</Description>
+        <Version>1.0.0.0</Version>
+        
+        <Link SHA256="DF2EB160F5536485470C8C43045DC26F0BFAD31D67DDD826F55AAFC0090D9292">
+            <![CDATA[https://files.catbox.moe/hbilqn.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>CompassAlwaysOn</Name>
         <Description>Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.</Description>
         <Version>1.0.0.0</Version>
