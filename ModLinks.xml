@@ -62,6 +62,17 @@
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Hell Mod</Name>
+        <Description>Various nerfs to the player and buffs to the enemies to increase the game difficulty.</Description>
+        <Version>2.0.0.0</Version>
+        
+        <Link SHA256="CBED75606E848BC7F0255EA00C9641B19716EA72C12F74F37D25558A1A608DCF">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.HellMod/releases/download/v2/HellMod.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>HowwowKnyight</Name>
         <Description>Twanswates aww of de text in Howwow Knyight into de much supewiow UwU wanguage, incwuding menyus, usew intewface and in-game diawogues! OwO </Description>
         <Version>3.8.2.0</Version>
