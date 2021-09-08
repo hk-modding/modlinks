@@ -38,19 +38,6 @@
         </Dependencies>
     </Manifest>
     <Manifest>
-        <Name>AsciiCamera</Name>
-        <Description>Applies a shader to the camera which makes the game output as ascii characters.</Description>
-        <Version>2.0.0.0</Version>
-        
-        <Link SHA256="5A963E550E2488C7B0284CCAB08FD1478E0408C7B2DE19BBD92FAE8B6E8ABC2A">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.AsciiCamera/releases/download/v2/AsciiCamera.zip]]>
-        </Link>
-        
-        <Dependencies>
-            <Dependency>Vasi</Dependency>
-        </Dependencies>
-    </Manifest>
-    <Manifest>
         <Name>The Pain of the Path</Name>
         <DescriptionAllows the player to complete the Path of Pain backwards, starting just above the final drop to the Kingsmoulds.</Description>
         <Version>2.0.0.0</Version>
@@ -145,10 +132,10 @@
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.1.0.0</Version>
+        <Version>3.1.1.0</Version>
         
-        <Link SHA256="6B60E92C6DF251B184A4473311D22193DC86EAE13C7F8727AD37CC9BEA42E273">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.0.0/Benchwarp.zip]]>
+        <Link SHA256="9D36AB70E6E24BC7B2AF24659C6B5754FA261947215654FB52E76D06C6AF2233">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.1.0/Benchwarp.zip]]>
         </Link>
         
         <Dependencies />
