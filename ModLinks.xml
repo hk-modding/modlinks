@@ -38,6 +38,19 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>AsciiCamera</Name>
+        <Description>Applies a shader to the camera which makes the game output as ascii characters.</Description>
+        <Version>2.0.0.0</Version>
+
+        <Link SHA256="5A963E550E2488C7B0284CCAB08FD1478E0408C7B2DE19BBD92FAE8B6E8ABC2A">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.AsciiCamera/releases/download/v2/AsciiCamera.zip]]>
+        </Link>
+
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>The Pain of the Path</Name>
         <Description>Allows the player to complete the Path of Pain backwards, starting just above the final drop to the Kingsmoulds.</Description>
         <Version>2.0.0.0</Version>
