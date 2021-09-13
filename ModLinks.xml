@@ -51,6 +51,19 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>ModConsole</Name>
+        <Description>In-game C# REPL which allows you to easily test code.</Description>
+        <Version>2.0.0.0</Version>
+
+        <Link SHA256="781845BE012D013B0CB3DF9F74D37FCC12ECB01794CA0457496E03D9B143C0FA">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.ModConsole/releases/download/v2/ModConsole.zip]]>
+        </Link>
+
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>The Pain of the Path</Name>
         <Description>Allows the player to complete the Path of Pain backwards, starting just above the final drop to the Kingsmoulds.</Description>
         <Version>2.0.0.0</Version>
