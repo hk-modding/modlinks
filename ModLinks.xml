@@ -55,7 +55,7 @@
         <Description>In-game C# REPL which allows you to easily test code.</Description>
         <Version>2.0.0.0</Version>
 
-        <Link SHA256="781845BE012D013B0CB3DF9F74D37FCC12ECB01794CA0457496E03D9B143C0FA">
+        <Link SHA256="2429F59254FD05D37C2A5EE1681E7122BBF171F8EBD93DF68BA422B5CCF70928">
             <![CDATA[https://github.com/fifty-six/HollowKnight.ModConsole/releases/download/v2/ModConsole.zip]]>
         </Link>
 
