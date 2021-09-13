@@ -40,10 +40,10 @@
     <Manifest>
         <Name>AsciiCamera</Name>
         <Description>Applies a shader to the camera which makes the game output as ascii characters.</Description>
-        <Version>2.0.0.0</Version>
+        <Version>2.1.0.0</Version>
 
-        <Link SHA256="5A963E550E2488C7B0284CCAB08FD1478E0408C7B2DE19BBD92FAE8B6E8ABC2A">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.AsciiCamera/releases/download/v2/AsciiCamera.zip]]>
+        <Link SHA256="7169219D39F62E5F446A4FDB003A07BE9D80812A373487FE50707BF6A4C11B14">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.AsciiCamera/releases/download/v2.1/AsciiCamera.zip]]>
         </Link>
 
         <Dependencies>
