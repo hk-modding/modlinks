@@ -51,6 +51,19 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>Sanic</Name>
+        <Description>Allows changing the game timescale.</Description>
+        <Version>2.0.0.0</Version>
+
+        <Link SHA256="F2492AE8252982F0D2F50745606F1BC47218F267974798E085FE1BF74B2F6E35">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Sanic/releases/download/v2/Sanic.zip]]>
+        </Link>
+
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>ModConsole</Name>
         <Description>In-game C# REPL which allows you to easily test code.</Description>
         <Version>2.0.0.0</Version>
