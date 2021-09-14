@@ -55,7 +55,7 @@
         <Description>Allows changing the game timescale.</Description>
         <Version>2.0.0.0</Version>
 
-        <Link SHA256="F2492AE8252982F0D2F50745606F1BC47218F267974798E085FE1BF74B2F6E35">
+        <Link SHA256="AE4064DC03040EE2BD458C1198FA9C9B9A799270ED934FA60C3AB3869B737181">
             <![CDATA[https://github.com/fifty-six/HollowKnight.Sanic/releases/download/v2/Sanic.zip]]>
         </Link>
 
