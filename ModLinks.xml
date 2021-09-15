@@ -310,7 +310,7 @@
         
         <Dependencies />
     </Manifest>
-    <Manifest>
+    <!--<Manifest>
         <Name>EnemyChanger</Name>
         <Description>Despite the name, it dumps sprites.</Description>
         <Version>1.5.0.0</Version>
@@ -322,7 +322,7 @@
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
-    </Manifest>
+    </Manifest>-->
     <Manifest>
         <Name>FireIsSmolBrain</Name>
         <Description>Adds a soul totem to dirtmouth and blocks off boss arenas.</Description>
@@ -347,7 +347,7 @@
             <Dependency>SFCore</Dependency>
         </Dependencies>
     </Manifest>
-    <Manifest>
+    <!--<Manifest>
         <Name>GeoLog</Name>
         <Description>Logs all geo locations in the game, takes hours to load into the game.</Description>
         <Version>1.5.0.0</Version>
@@ -359,7 +359,7 @@
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
-    </Manifest>
+    </Manifest>-->
     <Manifest>
         <Name>HKHKHKHKHK</Name>
         <Description>VVVVVVV</Description>
@@ -397,7 +397,7 @@
         
         <Dependencies />
     </Manifest>
-    <Manifest>
+    <!--<Manifest>
         <Name>MetroidVania</Name>
         <Description>Hollow Knight is a metroidvania. (Extremely WIP)</Description>
         <Version>1.5.0.0</Version>
@@ -409,7 +409,7 @@
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
-    </Manifest>
+    </Manifest>-->
     <Manifest>
         <Name>MoreHealing</Name>
         <Description>Adds more healing charms.</Description>
@@ -434,7 +434,7 @@
         
         <Dependencies />
     </Manifest>
-    <Manifest>
+    <!--<Manifest>
         <Name>PvpArena</Name>
         <Description>Adds an arena in Dirtmouth next to the bench. (Invisible entrance)</Description>
         <Version>1.5.0.0</Version>
@@ -446,7 +446,7 @@
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
-    </Manifest>
+    </Manifest>-->
     <Manifest>
         <Name>RedoBirthplace</Name>
         <Description>Redo the Birthplace cutscene.</Description>
@@ -482,7 +482,7 @@
         
         <Dependencies />
     </Manifest>
-    <Manifest>
+    <!--<Manifest>
         <Name>TestOfTeamwork</Name>
         <Description>Adds a Path of Pain style section to the White Palace.</Description>
         <Version>1.5.0.0</Version>
@@ -494,7 +494,7 @@
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
-    </Manifest>
+    </Manifest>-->
     <Manifest>
         <Name>DebugMod</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities</Description>
