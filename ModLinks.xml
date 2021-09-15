@@ -499,16 +499,22 @@
         <Name>DebugMod</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities</Description>
         <Version>1.4.7.0</Version>
+
         <Link SHA256="9F9FED88D2550726CEFF2C58A5BFDE9262B4D7BBCB5BE062242E7113E104B1D3">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.7/DebugMod.zip]]></Link>
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.7/DebugMod.zip]]>
+        </Link>
+
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>MoreSaves</Name>
         <Description>Allows for infinite saves. Also, uses modmenu to provide other save file features such as backup/restore saves, rename saves and edit values in saves</Description>
         <Version>0.5.3.0</Version>
+
         <Link SHA256="47F76CCD59D5EB01BE5288679C6708B886B1AE456D469C483B87FDB03A8307F1">
-            <![CDATA[https://github.com/TheMulhima/MoreSaves/releases/download/v0.5.3/MoreSaves.zip]]></Link>
+            <![CDATA[https://github.com/TheMulhima/MoreSaves/releases/download/v0.5.3/MoreSaves.zip]]>
+        </Link>
+
         <Dependencies />
     </Manifest>
     <Manifest>
@@ -524,9 +530,11 @@
         <Name>Inferno King Grimm</Name>
         <Description>A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu</Description>
         <Version>4.0.0.0</Version>
+
         <Link SHA256="BEF8A7D9BD7BFEB81D4A709CE6079A342D7E721383B49EDAF95D254A7A77B94A">
             <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.0.0.0/InfernoKingGrimm.zip]]>
         </Link>
+
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
         </Dependencies>
@@ -535,6 +543,7 @@
         <Name>Corrupted Kin</Name>
         <Description>A mod that significantly changes up the Lost Kin bossfight</Description>
         <Version>1.1.0.0</Version>
+
         <Link SHA256="78CA4B0B75683DCAFA9523595423344FD265D2C629C0135D4974380A739CFB4D">
             <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.1.0.0/CorruptedKin.zip]]>
         </Link>
@@ -547,9 +556,11 @@
         <Name>HKMP</Name>
         <Description>Hollow Knight Multiplayer allows people to host games and let others join them in their adventures.</Description>
         <Version>1.0.0.0</Version>
+
         <Link SHA256="D57A1535D464307D1C948529E4DD242D0B513895EDAC9D46C24935D5A4C017E0">
             <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v1.0.0/HKMP.dll]]>
         </Link>
+        
         <Dependencies />
     </Manifest>
 </ModLinks>
