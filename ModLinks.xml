@@ -51,6 +51,19 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>Random Pantheons</Name>
+        <Description>Randomizes Godhome’s Pantheons so bosses appear in random order.</Description>
+        <Version>1.0.0.0</Version>
+
+        <Link SHA256="1B5DB4F49028DFD2F2D3A20641AEBD03FCAAF09CC8F8DF6DC2F1B8F5D8934EBF">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.RandomizedPantheons/releases/download/v1/RandomPantheons.zip]]>
+        </Link>
+
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>Sanic</Name>
         <Description>Allows changing the game timescale.</Description>
         <Version>2.1.0.0</Version>
