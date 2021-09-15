@@ -64,6 +64,19 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>Mantis Gods</Name>
+        <Description>Significantly buffs the Mantis Lords fight.</Description>
+        <Version>1.1.0.0</Version>
+
+        <Link SHA256="B614AF6A8E69568F2900F5AEF08AC8256F4C21EF744CD94544CD898127ABE9AD">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Mantis-Gods/releases/download/v1.1/Mantis.Gods.zip]]>
+        </Link>
+
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>Sanic</Name>
         <Description>Allows changing the game timescale.</Description>
         <Version>2.1.0.0</Version>
