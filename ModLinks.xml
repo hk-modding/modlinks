@@ -563,4 +563,15 @@
         
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>GlassSoul</Name>
+        <Description>Makes you die in one hit. Also adds option in modmenu to increases damage dealt by 1 for each extra health</Description>
+        <Version>1.1.0.1</Version>
+
+        <Link SHA256="6C6DCD462B753903968DDAC20C8B3D3E7E7BA4055E408D0FFCB94BCB35F5AB98">
+            <![CDATA[https://github.com/TheMulhima/GlassSoulMod/releases/download/v1.1.0.1/GlassSoul.zip]]>
+        </Link>
+
+        <Dependencies />
+    </Manifest>
 </ModLinks>
