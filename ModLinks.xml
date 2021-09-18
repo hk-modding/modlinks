@@ -53,10 +53,10 @@
     <Manifest>
         <Name>Darkness</Name>
         <Description>Makes every room into a dark room (akin to rooms which require lantern without it).</Description>
-        <Version>1.1.0.0</Version>
+        <Version>1.2.0.0</Version>
 
-        <Link SHA256="86D3286442923B5E4E2821A83C76633316034EE064971AC7DE95E4A73E2570AC">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.Darkness/releases/download/v1.1/Darkness.zip]]>
+        <Link SHA256="E6B94D0DD0338B6CD83070DAF6556CDA5098D4006DB2ED8F3B746CB81093">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Darkness/releases/download/v1.2/Darkness.zip]]>
         </Link>
 
         <Dependencies>
