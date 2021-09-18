@@ -583,6 +583,6 @@
             <![CDATA[https://github.com/ricardosouzag/Enemy-HP-Bars/releases/download/v2.2.0/EnemyHPBar.zip]]>
         </Link>
         
-        </Dependencies>
+        <Dependencies />
     </Manifest>
 </ModLinks>
