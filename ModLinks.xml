@@ -577,7 +577,7 @@
     <Manifest>
         <Name>Enemy HP Bar</Name>
         <Description>Adds a customizable HP bar to every enemy and boss in the game.</Description>
-        <Version>2.2.0</Version>
+        <Version>2.2.0.0</Version>
         
         <Link SHA256="298C2A96A69F2E2C3BF0199D2105F0956DEE9B9EC14E5124F9109BDC7028860B">
             <![CDATA[https://github.com/ricardosouzag/Enemy-HP-Bars/releases/download/v2.2.0/EnemyHPBar.zip]]>
