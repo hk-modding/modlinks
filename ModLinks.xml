@@ -51,6 +51,19 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>HollowTwitch</Name>
+        <Description>Allows Twitch Chat to use tons of commands that spice up and vary gameplay.</Description>
+        <Version>2.0.0.0</Version>
+
+        <Link SHA256="FDD0ADDA0E299106665CA40D40E728F98E0A81A95AA3890C69EF8EB172AEE658">
+            <![CDATA[https://github.com/Sid-003/HKTwitch/releases/download/v2/HollowTwitch.zip]]>
+        </Link>
+
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>Darkness</Name>
         <Description>Makes every room into a dark room (akin to rooms which require lantern without it).</Description>
         <Version>1.2.0.0</Version>
