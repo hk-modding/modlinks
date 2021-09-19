@@ -508,26 +508,24 @@
             <Dependency>SFCore</Dependency>
         </Dependencies>
     </Manifest>-->
-    <Manifest>
+       <Manifest>
         <Name>DebugMod</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities</Description>
-        <Version>1.4.7.0</Version>
+        <Version>1.4.7.2</Version>
 
-        <Link SHA256="9F9FED88D2550726CEFF2C58A5BFDE9262B4D7BBCB5BE062242E7113E104B1D3">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.7/DebugMod.zip]]>
+        <Link SHA256="A05F69B6A3F043CD0B8EFC6EE02B0DEBF347456ACFF79D23F41C41AAD8DDBDBD">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.7.2/DebugMod.zip]]>
         </Link>
-
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>MoreSaves</Name>
         <Description>Allows for infinite saves. Also, uses modmenu to provide other save file features such as backup/restore saves, rename saves and edit values in saves</Description>
-        <Version>0.5.3.0</Version>
+        <Version>0.5.4.0</Version>
 
-        <Link SHA256="47F76CCD59D5EB01BE5288679C6708B886B1AE456D469C483B87FDB03A8307F1">
-            <![CDATA[https://github.com/TheMulhima/MoreSaves/releases/download/v0.5.3/MoreSaves.zip]]>
+        <Link SHA256="47010DF4E1E2437ABA591A471048F055E19CDECC965E5141A2B098568B85C772">
+            <![CDATA[https://github.com/TheMulhima/MoreSaves/releases/download/0.5.4/MoreSaves.zip]]>
         </Link>
-
         <Dependencies />
     </Manifest>
     <Manifest>
