@@ -575,6 +575,15 @@
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>HKVR</Name>
+        <Description>Play Hollow Knight in virtual reality.</Description>
+        <Version>0.0.0.0</Version>
+        <Link SHA256="7AC26132874B7E63576B43A792D674D94CD434D39A507C9D40CDD1756E5273E9">
+            <![CDATA[https://github.com/jngo102/HKVR/releases/download/Releases/HKVR.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>GlassSoul</Name>
         <Description>Makes you die in one hit. Also adds option in modmenu to increases damage dealt by 1 for each extra health</Description>
         <Version>1.1.0.2</Version>
