@@ -77,6 +77,19 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>God Soul</Name>
+        <Description>Makes the game really, really hard</Description>
+        <Version>1.0.0.0</Version>
+
+        <Link SHA256="E86BED3F8227AF4806ECC7B3C512B2AD66AB15D0">
+            <![CDATA[https://github.com/Nexade/God-Soul-Mod/releases/download/mod/GodSoul.zip]]>
+        </Link>
+
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>Random Pantheons</Name>
         <Description>Randomizes Godhome’s Pantheons so bosses appear in random order.</Description>
         <Version>1.0.0.0</Version>
