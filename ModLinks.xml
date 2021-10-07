@@ -677,5 +677,13 @@
         <Link SHA256="4abf4a36f447db22bd1f635c5d2f3ed01069cca8f2c7d83a14805972755dfb36"><![CDATA[https://github.com/yoink-city/memesong/releases/download/v1.5.0b/Memesong.dll]]></Link> 
         <Dependencies />
     </Manifest>
-    
+    <Manifest>
+        <Name>Grassy Knight</Name>
+        <Description>Tracks and shows you how much grass you've cut.</Description>
+        <Version>0.1.4.0</Version>
+
+        <Link SHA256="3ddf5cf525b546ff367bccfdd8b020e5411574d6649da0bfa774c0d7e0cd8afc"><![CDATA[https://github.com/mandar1jn/GrassyKnight/releases/download/1.4.0/GrassyKnight.zip]]></Link>
+        
+        <Dependencies />
+    </Manifest>
 </ModLinks>
