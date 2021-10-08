@@ -682,6 +682,16 @@
         <Description>Library mod containing stuff for adding journal entries and npcs</Description>
         <Version>0.0.2.0</Version>
         <Link SHA256="7152c97698e2c42bec765702a08ba7acd17eb00f696f2054f17f9a12dbf871e1"><![CDATA[https://github.com/mandar1jn/FrogCore/releases/download/0.0.2.0/FrogCore.zip]]></Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Grassy Knight</Name>
+        <Description>Tracks and shows you how much grass you've cut.</Description>
+        <Version>0.1.4.0</Version>
+
+        <Link SHA256="3ddf5cf525b546ff367bccfdd8b020e5411574d6649da0bfa774c0d7e0cd8afc"><![CDATA[https://github.com/mandar1jn/GrassyKnight/releases/download/1.4.0/GrassyKnight.zip]]></Link>
+        
         <Dependencies />
     </Manifest>
 </ModLinks>
