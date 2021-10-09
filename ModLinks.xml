@@ -701,4 +701,11 @@
         <Link SHA256="327798DB830A030F424DB78862651C72E8C14E062BBBE488CCCB144E51A3A562"><![CDATA[https://github.com/jngo102/UExplorer/releases/download/1.0.0.0/UExplorer.zip]]></Link>
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>Game Object Dump</Name>
+        <Description>Allows extraction of atlases, sprites, and audio clips from game objects in the scene.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="B47DAC56BCC723912BA0B39D793C1106AF2E4645A65ED866AD6E20D53EBCBB4B"><![CDATA[https://github.com/jngo102/HollowKnight.GODump/releases/download/1.0.0/GODump.zip]]></Link>
+        <Dependencies />
+    </Manifest>
 </ModLinks>
