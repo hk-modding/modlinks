@@ -708,4 +708,13 @@
         <Link SHA256="B47DAC56BCC723912BA0B39D793C1106AF2E4645A65ED866AD6E20D53EBCBB4B"><![CDATA[https://github.com/jngo102/HollowKnight.GODump/releases/download/1.0.0/GODump.zip]]></Link>
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>Toggleable Bindings</Name>
+        <Description>Adds the ability to activate/deactivate individual Godhome bindings at any time and lets other developers create custom bindings easier.</Description>
+        <Version>0.1.3.0</Version>
+        <Link SHA256="7BC8BBBA3F9A77F9782A4737C674B2D61D71633122858B3E6A9082215FEBED47"><![CDATA[https://github.com/Unordinal/HollowKnight.ToggleableBindings/releases/download/v0.1.3/ToggleableBindings.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
