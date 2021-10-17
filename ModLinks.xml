@@ -720,10 +720,10 @@
     <Manifest>
         <Name>HollowPoint</Name>
         <Description>Gives the player a gun, reworks charms and abilities to play around the concept of gun usage</Description>
-        <Version>1.1.0.0</Version>
+        <Version>1.4.0.0</Version>
 
-        <Link SHA256="839777582528DE96A2E4F534BAE38F5AAB263FCC47A3A308DA93EE2979D8E14D">
-            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/releases/download/1.1.0.0/HollowPoint.zip]]>
+        <Link SHA256="3BA0DE9C735F59047723C5872496604F1BCFB20431D800179A12BC7C5A6A544C">
+            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/releases/download/1.4.0.0/HollowPoint.zip]]>
         </Link>
 
         <Dependencies>
