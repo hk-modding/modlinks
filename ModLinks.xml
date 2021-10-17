@@ -733,7 +733,7 @@
     <Manifest>
         <Name>Golden Godhome</Name>
         <Description>Reskins bosses in the Godhome to have more golden designs and details</Description>
-        <Version>1.0.0</Version>
+        <Version>0.1.0.0</Version>
         <Link SHA256="fdfcb02acf21c35280c6f14647fdbac191e939e3564ee7dd21914c14d87267a8">
             <![CDATA[https://github.com/mandar1jn/GoldenGodhome/releases/download/1.0.0/GoldenGodhome.zip]]>
         </Link>
