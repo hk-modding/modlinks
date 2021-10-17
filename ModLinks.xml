@@ -349,19 +349,19 @@
         
         <Dependencies />
     </Manifest>
-    <!--<Manifest>
+    <Manifest>
         <Name>EnemyChanger</Name>
-        <Description>Despite the name, it dumps sprites.</Description>
-        <Version>1.5.0.0</Version>
+        <Description>Allows to dump and replace enemy textures. Refer to the readme on how to do that.</Description>
+        <Version>1.5.1.0</Version>
         
-        <Link SHA256="A98474F1061F438DA6F7EFEA63C350DC627D7529EB96756CB294BEA382D26958">
-            <![CDATA[https://github.com/SFGrenade/EnemyChanger/releases/download/v1.5/EnemyChanger.zip]]>
+        <Link SHA256="043D3E2B3DBA10C45A5961F8C7D63EFC22C59A4B4B4AAE6838D9A2B396589055">
+            <![CDATA[https://github.com/SFGrenade/EnemyChanger/releases/download/v1.5.1/EnemyChanger.zip]]>
         </Link>
         
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
-    </Manifest>-->
+    </Manifest>
     <Manifest>
         <Name>FireIsSmolBrain</Name>
         <Description>Adds a soul totem to dirtmouth and blocks off boss arenas.</Description>
