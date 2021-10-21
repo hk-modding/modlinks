@@ -6,7 +6,7 @@
     xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ApiLinks.xml"
 >
     <Manifest>
-        <Version>64</Version>
+        <Version>65</Version>
 
         <Links>
             <Linux SHA256="96A553D93A710983BDC83E8FBF2CE5E6D21A3546AFBFEE09D458A1DC5E45AEBC">
