@@ -739,4 +739,15 @@
         </Link>
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>Hall of Gods Extras</Name>
+        <Description>Adds The Hollow Knight and The Radiance to the Hall of Gods.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="21B33C8296106CFA3573A955013F357BEF5DBB12FDCF029345A24C9DF6FD029B">
+            <![CDATA[https://github.com/jngo102/HoGExtras/releases/download/1.0.0.0/HoGExtras.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
