@@ -750,4 +750,15 @@
             <Dependency>Vasi</Dependency>
         </Dependencies>
     </Manifest>
+    <Manifest>
+        <Name>Custom Trial</Name>
+        <Description>Allows creation of custom trials for the Colosseum of Fools.</Description>
+        <Version>0.0.0.1</Version>
+        <Link SHA256="16F9C08555B18D14B28740D0E0C1F2EBF8C12CC72410B59190E6F6092F7B858C">
+            <![CDATA[https://github.com/jngo102/HollowKnight.CustomTrial/releases/download/0.0.0.1/CustomTrial.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
