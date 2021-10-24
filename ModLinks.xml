@@ -634,8 +634,8 @@
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods</Description>
-        <Version>0.6.0.0</Version>
-        <Link SHA256="da5f14c1df8ba14e7a2ccd0fc250889188922cd7a9fa3316c5462bb9f7390a8e"><![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/0.6.0b/Satchel.dll]]></Link>        
+        <Version>0.7.2.0</Version>
+        <Link SHA256="6892da07d7aae74468efe6fab8be8543f0ad8e18e5e72f69009f312821950893"><![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.7.2/Satchel.dll]]></Link>        
         <Dependencies />
     </Manifest>
     <Manifest>
