@@ -762,7 +762,7 @@
         </Dependencies>
     </Manifest>
     <Manifest>
-        <Name>SilkSong but not really</Name>
+        <Name>SilkSong (but not really)</Name>
         <Description>Allows the player to play as hornet.</Description>
         <Version>0.4.0.1</Version>
         <Link SHA256="a607e38182dbbd5577d93c4e6eafad2f1f4a5766a24f2addd0557e10b89eab47">
