@@ -247,6 +247,19 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>Godseeker Memory Jump</Name>
+        <Description>Face right when dreamnailing the godseeker to warp to the hidden memory, even if you've been there before.</Description>
+        <Version>1.0.0.0</Version>
+        
+        <Link SHA256="8dbf4e27f1c19f49a4704d2fb49534b81403190a2155eb830f9939163a349c1e">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.GodseekerMemoryJump/releases/download/v1.0/GodseekerMemoryJump.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
         <Version>3.1.1.0</Version>
