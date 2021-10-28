@@ -794,4 +794,17 @@
         </Link>
         <Dependencies />
     </Manifest>
+	<Manifest>
+        <Name>GodSeekerPlus</Name>
+        <Description>Various tweaks to enhance your Godhome experience</Description>
+        <Version>0.9.1.0</Version>
+
+        <Link SHA256="FD3D1EB8CC3CD8CA9C0B55A4502EE1FC3ADED73F5F87138919B33434632B3B3D">
+            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.9.1]]>
+        </Link>
+
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
