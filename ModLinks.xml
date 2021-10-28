@@ -27,10 +27,10 @@
     <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
-        <Version>4.0.0.0</Version>
+        <Version>4.1.0.0</Version>
         
-        <Link SHA256="12DBADBD771790D9CEF0C32163FC6FFD3B75A025FD11B2E86976FBCE3F1E6BB6">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4/QoL.zip]]>
+        <Link SHA256="D2FE3026701398C2175DF91EA9F178AB6D9976F931E86FC33452933E5621B31B">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.1/QoL.zip]]>
         </Link>
         
         <Dependencies>
@@ -802,7 +802,17 @@
         <Link SHA256="FD3D1EB8CC3CD8CA9C0B55A4502EE1FC3ADED73F5F87138919B33434632B3B3D">
             <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.9.1]]>
         </Link>
-
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>Vanilla Map Mod</Name>
+        <Description>Adds all items/locations to the existing map.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="64084076cfeee5ab002d582b5ae6bba11e368b86ba4ee11c1e64cff0a9f28c25">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.0/VanillaMapMod.zip]]>
+        </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
