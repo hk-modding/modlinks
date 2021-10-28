@@ -794,4 +794,15 @@
         </Link>
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>Vanilla Map Mod</Name>
+        <Description>Adds all items/locations to the existing map.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="64084076cfeee5ab002d582b5ae6bba11e368b86ba4ee11c1e64cff0a9f28c25">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.0/VanillaMapMod.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
