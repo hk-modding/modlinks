@@ -214,10 +214,10 @@
     <Manifest>
         <Name>CompassAlwaysOn</Name>
         <Description>Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.</Description>
-        <Version>1.1.0.0</Version>
+        <Version>1.2.0.0</Version>
         
-        <Link SHA256="b3e32e5b57681eb6e6fb45f59734d17c59efb5d9255696636bf6e1f67765a092">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.1/CompassAlwaysOn.zip]]>
+        <Link SHA256="b6d50f37b941bdd32ff4097ae0204c864a0c0559ec2d7c98954a1afe6dad46dc">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2/CompassAlwaysOn.zip]]>
         </Link>
         
         <Dependencies />
@@ -225,10 +225,10 @@
     <Manifest>
         <Name>Kronk</Name>
         <Description>Simple object counter used for speedruns. Mainly used for Kronk% (all levers).</Description>
-        <Version>1.0.0.0</Version>
+        <Version>1.2.0.0</Version>
         
-        <Link SHA256="54001f3e7ed720a0e68f3ab05d06d49a8f9252f42c66926ffe6c24a427a30d91">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.0/Kronk.zip]]>
+        <Link SHA256="4a8a895c5ec9df0286cb457c397777c9489fb26bdb04ccc4639d4ba60476034c">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.2/Kronk.zip]]>
         </Link>
         
         <Dependencies />
@@ -249,10 +249,10 @@
     <Manifest>
         <Name>Godseeker Memory Jump</Name>
         <Description>Face right when dreamnailing the godseeker to warp to the hidden memory, even if you've been there before.</Description>
-        <Version>1.0.0.0</Version>
+        <Version>1.1.0.0</Version>
         
-        <Link SHA256="8dbf4e27f1c19f49a4704d2fb49534b81403190a2155eb830f9939163a349c1e">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.GodseekerMemoryJump/releases/download/v1.0/GodseekerMemoryJump.zip]]>
+        <Link SHA256="7598a72f05a618a386aaf18d6288dfe559f60df64552cffd9db5f690a0286227">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.GodseekerMemoryJump/releases/download/v1.1/GodseekerMemoryJump.zip]]>
         </Link>
         
         <Dependencies>
