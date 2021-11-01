@@ -817,4 +817,13 @@
             <Dependency>Vasi</Dependency>
         </Dependencies>
     </Manifest>
+    <Manifest>
+        <Name>GeoHunger</Name>
+        <Description>You gradually lose geo and gradually lose health at 0 geo.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="41BB378117DB13E13653B4124211CBDA46012A0F6A8A9B6DAA6C61986727DFD8">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.GeoHunger/releases/download/v1.1.0/GeoHunger.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
 </ModLinks>
