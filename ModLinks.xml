@@ -236,10 +236,10 @@
     <Manifest>
         <Name>Menderbug's Revenge</Name>
         <Description>Kill the knight whenever you break a background object.</Description>
-        <Version>1.0.0.0</Version>
+        <Version>1.2.0.0</Version>
         
-        <Link SHA256="8e0d7266b476e2296305762648da22f1109b3c4606f896f68732099c1d42e7e5">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.MenderbugsRevenge/releases/download/v1.0/MenderbugsRevenge.zip]]>
+        <Link SHA256="8d91f09a627e7713a44332841e12eb0891e1d029069172a7ba420f4e59dc12d3">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.MenderbugsRevenge/releases/download/v1.2/MenderbugsRevenge.zip]]>
         </Link>
         
         <Dependencies>
