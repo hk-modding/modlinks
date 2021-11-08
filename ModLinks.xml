@@ -528,8 +528,8 @@
         <Description>Library mod used by other mods.</Description>
         <Version>1.5.1.1</Version>
         
-        <Link SHA256="DD755F10A8BE5E88044D5557FA4F888749943F4BDD9FFBB8093C6F9D91552466">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.1.1/SFCore.zip]]>
+        <Link SHA256="D7D26081B028C70FD88FA5B83902C58D58530D167997B695F421C7B547210E4B">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.2.0/SFCore.zip]]>
         </Link>
         
         <Dependencies />
