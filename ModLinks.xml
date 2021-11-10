@@ -319,10 +319,10 @@
     <Manifest>
         <Name>BenchWarpFix</Name>
         <Description>When benchwarping into a scene without a bench, instead of softlock drops you into dirtmouth.</Description>
-        <Version>1.5.0.0</Version>
+        <Version>1.5.1.0</Version>
         
-        <Link SHA256="DDEAA47C5C1A1DD0D8A390EEF50DDEDB38E09BB00F132E62A754F33CD6C56CAF">
-            <![CDATA[https://github.com/SFGrenade/BenchWarpFix/releases/download/v1.5/BenchWarpFix.zip]]>
+        <Link SHA256="CDB635991A4005D1BE8CD3E490227F6B4B3C18CC7E9ED71D08E4DE901DFB90A7">
+            <![CDATA[https://github.com/SFGrenade/BenchWarpFix/releases/download/v1.5.1/BenchWarpFix.zip]]>
         </Link>
         
         <Dependencies />
@@ -526,7 +526,7 @@
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.1.1</Version>
+        <Version>1.5.2.0</Version>
         
         <Link SHA256="D7D26081B028C70FD88FA5B83902C58D58530D167997B695F421C7B547210E4B">
             <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.2.0/SFCore.zip]]>
