@@ -826,4 +826,13 @@
         </Link>
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>Pantheons Hit Counter</Name>
+        <Description>Counts hits in pantheons.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="85B9453FD414198C33DA72CB5A73B024A2B2DF51AD4831C59D322C0A4B3B3D0E">
+            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.0.0/PantheonsHitCounter.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
 </ModLinks>
