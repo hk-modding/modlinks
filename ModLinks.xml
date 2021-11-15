@@ -822,9 +822,9 @@
     <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="64084076cfeee5ab002d582b5ae6bba11e368b86ba4ee11c1e64cff0a9f28c25">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.0/VanillaMapMod.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="1978db63b0b1c009e99f01e213922ef732feb4a680c04a7092d4094b2b197381">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.1/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -833,9 +833,9 @@
     <Manifest>
         <Name>GeoHunger</Name>
         <Description>You gradually lose geo and gradually lose health at 0 geo.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="B7EE477768FB878CD51F42DF9D071F660F203677AB359AF111F13D587225BFA2">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.GeoHunger/releases/download/v1.2.0/GeoHunger.zip]]>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="24730884D0367A77CDB817CB6ED76766907520B47A4546C8780BDA04224A101D">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.GeoHunger/releases/download/v1.3.0/GeoHunger.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
