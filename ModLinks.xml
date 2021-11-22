@@ -821,10 +821,10 @@
 	<Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks to enhance your Godhome experience</Description>
-        <Version>0.11.0.0</Version>
+        <Version>0.12.0.0</Version>
 
-        <Link SHA256="A563A0912B8C552CDAB661F23ABEF928DB629DD4A2C7F2498F6089A7C635ED4D">
-            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.11.0]]>
+        <Link SHA256="07A27DF4B835DE0DA3E401840AA002B10A4AD42527FC79675D3AC95D4B99D67E">
+            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.12.0]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
