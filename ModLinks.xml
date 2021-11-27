@@ -342,7 +342,7 @@
     </Manifest>
     <Manifest>
         <Name>BenchWarpFix</Name>
-        <Description>When benchwarping into a scene without a bench, instead of softlock drops you into dirtmouth.</Description>
+        <Description>When benchwarping into a scene without a bench, instead of softlock drops you into dirtmouth. Probably doesn't work with glitched runs.</Description>
         <Version>1.5.1.0</Version>
         
         <Link SHA256="CDB635991A4005D1BE8CD3E490227F6B4B3C18CC7E9ED71D08E4DE901DFB90A7">
@@ -366,7 +366,7 @@
     </Manifest>
     <Manifest>
         <Name>CustomBgm</Name>
-        <Description>Allows customization of background music.</Description>
+        <Description>Allows customization of background music. See its readme for a how-to.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="4B7A121FE12CED6248E2CC638FC05EABD106A51257E0AB943B379322C1F500BB">
@@ -377,7 +377,7 @@
     </Manifest>
     <Manifest>
         <Name>CustomSaveArt</Name>
-        <Description>Makes white palace save art funny.</Description>
+        <Description>Makes white palace save art funny. Literally nothing else.</Description>
         <Version>1.5.0.1</Version>
         
         <Link SHA256="31B8641094C9B5C08534CF8A37C59ED321F5B8FDF4D20695F0C9DC7715CA9B6F">
@@ -438,7 +438,7 @@
     </Manifest>-->
     <Manifest>
         <Name>HKHKHKHKHK</Name>
-        <Description>VVVVVVV</Description>
+        <Description>VVVVVVV but in HK. Flip gravity with the R key.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="EB9BCEFD05F77986F9FD5D85AD031D317AAC578E3224F903B0E724B8E79EFF6E">
@@ -451,7 +451,7 @@
     </Manifest>
     <Manifest>
         <Name>LanguageSupport</Name>
-        <Description>Allows additional languages to be supported.</Description>
+        <Description>Allows additional languages to be supported. Doesn't allow for some characters of other languages yet.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="41066D324C1D9F0E7DE2C04BEC8318BE252D43D0404A35818330D02372C3A85E">
@@ -464,7 +464,7 @@
     </Manifest>
     <Manifest>
         <Name>MenuThemesInGame</Name>
-        <Description>Applies the menu color correction to gameplay.</Description>
+        <Description>Applies the menu color correction to gameplay. Breaks immersion.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="3078D008332ED01EE3BCC9954518DF39C9775F4962E71B0CD456D934737A041D">
@@ -475,7 +475,7 @@
     </Manifest>
     <!--<Manifest>
         <Name>MetroidVania</Name>
-        <Description>Hollow Knight is a metroidvania. (Extremely WIP)</Description>
+        <Description>Hollow Knight is a metroidvania. Doesn't add much yet.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="611FE3196EBA334774D0735E9CEAB244B23E1DE3247F9639F2F1DCBD857D8761">
@@ -512,7 +512,7 @@
     </Manifest>
     <!--<Manifest>
         <Name>PvpArena</Name>
-        <Description>Adds an arena in Dirtmouth next to the bench. (Invisible entrance)</Description>
+        <Description>Adds an arena in Dirtmouth next to the bench. Entrance is invisible.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="6EBE7830362F0916E9CF3ABA2270B3238AD3EE2B2FFEFB60E79174F7CEFFF096">
