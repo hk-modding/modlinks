@@ -284,6 +284,19 @@
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Invincibility Monitor</Name>
+        <Description>Grants invincibility in some scenarios.</Description>
+        <Version>1.1.1.0</Version>
+        
+        <Link SHA256="E4FD0A617ED94BFAAEFFE38C20F4B217CE80B006C8C8915E35C41C0F049E3286">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.InvincibilityMonitor/releases/download/v1.1.1/InvincibilityMonitor.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
         <Version>3.1.1.0</Version>
