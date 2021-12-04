@@ -1,0 +1,11 @@
+name: purge-jsdelivr-cache
+
+on:
+    push:
+        branches: [ main ]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - run: curl https://purge.jsdelivr.net/hk-modding/modlinks/

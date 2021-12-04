@@ -27,10 +27,10 @@
     <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
-        <Version>4.0.0.0</Version>
+        <Version>4.1.0.0</Version>
         
-        <Link SHA256="12DBADBD771790D9CEF0C32163FC6FFD3B75A025FD11B2E86976FBCE3F1E6BB6">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4/QoL.zip]]>
+        <Link SHA256="D2FE3026701398C2175DF91EA9F178AB6D9976F931E86FC33452933E5621B31B">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.1/QoL.zip]]>
         </Link>
         
         <Dependencies>
@@ -55,8 +55,8 @@
         <Description>Allows Twitch Chat to use tons of commands that spice up and vary gameplay.</Description>
         <Version>2.0.0.0</Version>
 
-        <Link SHA256="FDD0ADDA0E299106665CA40D40E728F98E0A81A95AA3890C69EF8EB172AEE658">
-            <![CDATA[https://github.com/Sid-003/HKTwitch/releases/download/v2/HollowTwitch.zip]]>
+        <Link SHA256="80B2F3F42532FCB2D7C4D518BC41FDCF95F0B09377C2830ED2690C0498669AD2">
+            <![CDATA[https://github.com/Sid-003/HKTwitch/releases/download/v2.1/HollowTwitch.zip]]>
         </Link>
 
         <Dependencies>
@@ -74,6 +74,19 @@
 
         <Dependencies>
             <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>God Soul</Name>
+        <Description>Makes the game really, really hard</Description>
+        <Version>1.0.0.0</Version>
+
+        <Link SHA256="AC7D27A1F9E286C4F533BDDCFAFACC4971608FDBF2B06DB6E5586839C9E82DB7">
+            <![CDATA[https://github.com/Nexade/God-Soul-Mod/releases/download/mod/GodSoul.zip]]>
+        </Link>
+
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
@@ -201,10 +214,10 @@
     <Manifest>
         <Name>CompassAlwaysOn</Name>
         <Description>Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.</Description>
-        <Version>1.0.0.0</Version>
+        <Version>1.2.0.0</Version>
         
-        <Link SHA256="fd40bcc1b892436c13131b4f11cb704c7a78dc8b6c618c6753e0c442b42917c1">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.0/CompassAlwaysOn.zip]]>
+        <Link SHA256="b6d50f37b941bdd32ff4097ae0204c864a0c0559ec2d7c98954a1afe6dad46dc">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2/CompassAlwaysOn.zip]]>
         </Link>
         
         <Dependencies />
@@ -212,13 +225,76 @@
     <Manifest>
         <Name>Kronk</Name>
         <Description>Simple object counter used for speedruns. Mainly used for Kronk% (all levers).</Description>
-        <Version>1.0.0.0</Version>
+        <Version>1.2.0.0</Version>
         
-        <Link SHA256="54001f3e7ed720a0e68f3ab05d06d49a8f9252f42c66926ffe6c24a427a30d91">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.0/Kronk.zip]]>
+        <Link SHA256="4a8a895c5ec9df0286cb457c397777c9489fb26bdb04ccc4639d4ba60476034c">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.2/Kronk.zip]]>
         </Link>
         
         <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Menderbug's Revenge</Name>
+        <Description>Kill the knight whenever you break a background object.</Description>
+        <Version>1.2.0.0</Version>
+        
+        <Link SHA256="8d91f09a627e7713a44332841e12eb0891e1d029069172a7ba420f4e59dc12d3">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.MenderbugsRevenge/releases/download/v1.2/MenderbugsRevenge.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>Godseeker Memory Jump</Name>
+        <Description>Face right when dreamnailing the godseeker to warp to the hidden memory, even if you've been there before.</Description>
+        <Version>1.1.0.0</Version>
+        
+        <Link SHA256="7598a72f05a618a386aaf18d6288dfe559f60df64552cffd9db5f690a0286227">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.GodseekerMemoryJump/releases/download/v1.1/GodseekerMemoryJump.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>BingoUI</Name>
+        <Description>Automatic tracking of bingo goals for bingo speedrun races.</Description>
+        <Version>2.0.0.0</Version>
+        
+        <Link SHA256="4d99a1cbffd777bf9cb089ef5f719d161fe14278e6877323e7deac26258bf12b">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.0/BingoUI.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>EssenceAlways</Name>
+        <Description>Choose between always or never dropping an essence when killing an enemy (if you have dream nail).</Description>
+        <Version>1.0.0.0</Version>
+        
+        <Link SHA256="36DB612E4C8B0F6D85ADE8CFF030F297A7831DB953861CBF0576F8352A219FEF">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.EssenceAlways/releases/download/v1.0/EssenceAlways.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Invincibility Monitor</Name>
+        <Description>Grants invincibility in some scenarios.</Description>
+        <Version>1.1.1.0</Version>
+        
+        <Link SHA256="E4FD0A617ED94BFAAEFFE38C20F4B217CE80B006C8C8915E35C41C0F049E3286">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.InvincibilityMonitor/releases/download/v1.1.1/InvincibilityMonitor.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>Benchwarp</Name>
@@ -279,11 +355,11 @@
     </Manifest>
     <Manifest>
         <Name>BenchWarpFix</Name>
-        <Description>When benchwarping into a scene without a bench, instead of softlock drops you into dirtmouth.</Description>
-        <Version>1.5.0.0</Version>
+        <Description>When benchwarping into a scene without a bench, instead of softlock drops you into dirtmouth. Probably doesn't work with glitched runs.</Description>
+        <Version>1.5.1.0</Version>
         
-        <Link SHA256="DDEAA47C5C1A1DD0D8A390EEF50DDEDB38E09BB00F132E62A754F33CD6C56CAF">
-            <![CDATA[https://github.com/SFGrenade/BenchWarpFix/releases/download/v1.5/BenchWarpFix.zip]]>
+        <Link SHA256="CDB635991A4005D1BE8CD3E490227F6B4B3C18CC7E9ED71D08E4DE901DFB90A7">
+            <![CDATA[https://github.com/SFGrenade/BenchWarpFix/releases/download/v1.5.1/BenchWarpFix.zip]]>
         </Link>
         
         <Dependencies />
@@ -303,7 +379,7 @@
     </Manifest>
     <Manifest>
         <Name>CustomBgm</Name>
-        <Description>Allows customization of background music.</Description>
+        <Description>Allows customization of background music. See its readme for a how-to.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="4B7A121FE12CED6248E2CC638FC05EABD106A51257E0AB943B379322C1F500BB">
@@ -314,7 +390,7 @@
     </Manifest>
     <Manifest>
         <Name>CustomSaveArt</Name>
-        <Description>Makes white palace save art funny.</Description>
+        <Description>Makes white palace save art funny. Literally nothing else.</Description>
         <Version>1.5.0.1</Version>
         
         <Link SHA256="31B8641094C9B5C08534CF8A37C59ED321F5B8FDF4D20695F0C9DC7715CA9B6F">
@@ -323,19 +399,19 @@
         
         <Dependencies />
     </Manifest>
-    <!--<Manifest>
+    <Manifest>
         <Name>EnemyChanger</Name>
-        <Description>Despite the name, it dumps sprites.</Description>
-        <Version>1.5.0.0</Version>
+        <Description>Allows to dump and replace enemy textures. Refer to the readme on how to do that.</Description>
+        <Version>1.5.1.0</Version>
         
-        <Link SHA256="A98474F1061F438DA6F7EFEA63C350DC627D7529EB96756CB294BEA382D26958">
-            <![CDATA[https://github.com/SFGrenade/EnemyChanger/releases/download/v1.5/EnemyChanger.zip]]>
+        <Link SHA256="043D3E2B3DBA10C45A5961F8C7D63EFC22C59A4B4B4AAE6838D9A2B396589055">
+            <![CDATA[https://github.com/SFGrenade/EnemyChanger/releases/download/v1.5.1/EnemyChanger.zip]]>
         </Link>
         
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
-    </Manifest>-->
+    </Manifest>
     <Manifest>
         <Name>FireIsSmolBrain</Name>
         <Description>Adds a soul totem to dirtmouth and blocks off boss arenas.</Description>
@@ -375,7 +451,7 @@
     </Manifest>-->
     <Manifest>
         <Name>HKHKHKHKHK</Name>
-        <Description>VVVVVVV</Description>
+        <Description>VVVVVVV but in HK. Flip gravity with the R key.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="EB9BCEFD05F77986F9FD5D85AD031D317AAC578E3224F903B0E724B8E79EFF6E">
@@ -388,7 +464,7 @@
     </Manifest>
     <Manifest>
         <Name>LanguageSupport</Name>
-        <Description>Allows additional languages to be supported.</Description>
+        <Description>Allows additional languages to be supported. Doesn't allow for some characters of other languages yet.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="41066D324C1D9F0E7DE2C04BEC8318BE252D43D0404A35818330D02372C3A85E">
@@ -401,7 +477,7 @@
     </Manifest>
     <Manifest>
         <Name>MenuThemesInGame</Name>
-        <Description>Applies the menu color correction to gameplay.</Description>
+        <Description>Applies the menu color correction to gameplay. Breaks immersion.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="3078D008332ED01EE3BCC9954518DF39C9775F4962E71B0CD456D934737A041D">
@@ -412,7 +488,7 @@
     </Manifest>
     <!--<Manifest>
         <Name>MetroidVania</Name>
-        <Description>Hollow Knight is a metroidvania. (Extremely WIP)</Description>
+        <Description>Hollow Knight is a metroidvania. Doesn't add much yet.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="611FE3196EBA334774D0735E9CEAB244B23E1DE3247F9639F2F1DCBD857D8761">
@@ -449,7 +525,7 @@
     </Manifest>
     <!--<Manifest>
         <Name>PvpArena</Name>
-        <Description>Adds an arena in Dirtmouth next to the bench. (Invisible entrance)</Description>
+        <Description>Adds an arena in Dirtmouth next to the bench. Entrance is invisible.</Description>
         <Version>1.5.0.0</Version>
         
         <Link SHA256="6EBE7830362F0916E9CF3ABA2270B3238AD3EE2B2FFEFB60E79174F7CEFFF096">
@@ -487,10 +563,10 @@
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.1.1</Version>
+        <Version>1.5.2.0</Version>
         
-        <Link SHA256="DD755F10A8BE5E88044D5557FA4F888749943F4BDD9FFBB8093C6F9D91552466">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.1.1/SFCore.zip]]>
+        <Link SHA256="D7D26081B028C70FD88FA5B83902C58D58530D167997B695F421C7B547210E4B">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.2.0/SFCore.zip]]>
         </Link>
         
         <Dependencies />
@@ -511,10 +587,10 @@
        <Manifest>
         <Name>DebugMod</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities</Description>
-        <Version>1.4.7.2</Version>
+        <Version>1.4.8.0</Version>
 
-        <Link SHA256="A05F69B6A3F043CD0B8EFC6EE02B0DEBF347456ACFF79D23F41C41AAD8DDBDBD">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.7.2/DebugMod.zip]]>
+        <Link SHA256="89BAF122181CA3BBC0F0DBD0B3A948FCD5C8D6263A83C4D089820B54F29D28A0">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.8/DebugMod.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -566,10 +642,10 @@
     <Manifest>
         <Name>HKMP</Name>
         <Description>Hollow Knight Multiplayer allows people to host games and let others join them in their adventures.</Description>
-        <Version>1.0.0.0</Version>
+        <Version>1.0.1.0</Version>
 
-        <Link SHA256="D57A1535D464307D1C948529E4DD242D0B513895EDAC9D46C24935D5A4C017E0">
-            <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v1.0.0/HKMP.dll]]>
+        <Link SHA256="D2C10C36715F9AED0EA6850F3CD17AE1BAB0F00F594E2BABCFF76DD5E68089AB">
+            <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v1.0.1/HKMP.dll]]>
         </Link>
         
         <Dependencies />
@@ -608,8 +684,8 @@
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods</Description>
-        <Version>0.6.0.0</Version>
-        <Link SHA256="da5f14c1df8ba14e7a2ccd0fc250889188922cd7a9fa3316c5462bb9f7390a8e"><![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/0.6.0b/Satchel.dll]]></Link>        
+        <Version>0.7.2.0</Version>
+        <Link SHA256="6892da07d7aae74468efe6fab8be8543f0ad8e18e5e72f69009f312821950893"><![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.7.2/Satchel.dll]]></Link>        
         <Dependencies />
     </Manifest>
     <Manifest>
@@ -652,11 +728,155 @@
         <Dependencies />
     </Manifest>
         <Manifest>
-        <Name>GlassCannonMod</Name>
+        <Name>Glass Cannon Mod</Name>
         <Description>Makes everything one shot, including you</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="9021c10217fa8e9f8e981e1681b2f79f5cbbc6af1d66aec52b6b76406d4b9d09"><![CDATA[https://github.com/Nexade/GlassCannon/releases/download/1.0/GlassCannonMod.dll]]></Link> 
         <Dependencies />
     </Manifest>
-    
+    <Manifest>
+        <Name>FrogCore</Name>
+        <Description>Library mod containing stuff for adding journal entries and npcs</Description>
+        <Version>0.0.2.0</Version>
+        <Link SHA256="7152c97698e2c42bec765702a08ba7acd17eb00f696f2054f17f9a12dbf871e1"><![CDATA[https://github.com/mandar1jn/FrogCore/releases/download/0.0.2.0/FrogCore.zip]]></Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Grassy Knight</Name>
+        <Description>Tracks and shows you how much grass you've cut.</Description>
+        <Version>0.1.4.0</Version>
+
+        <Link SHA256="3ddf5cf525b546ff367bccfdd8b020e5411574d6649da0bfa774c0d7e0cd8afc"><![CDATA[https://github.com/mandar1jn/GrassyKnight/releases/download/1.4.0/GrassyKnight.zip]]></Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Unity Explorer</Name>
+        <Description>Useful tool for mod developers to view and edit how the game is structured.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="327798DB830A030F424DB78862651C72E8C14E062BBBE488CCCB144E51A3A562"><![CDATA[https://github.com/jngo102/UExplorer/releases/download/1.0.0.0/UExplorer.zip]]></Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Game Object Dump</Name>
+        <Description>Allows extraction of atlases, sprites, and audio clips from game objects in the scene.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="B47DAC56BCC723912BA0B39D793C1106AF2E4645A65ED866AD6E20D53EBCBB4B"><![CDATA[https://github.com/jngo102/HollowKnight.GODump/releases/download/1.0.0/GODump.zip]]></Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Toggleable Bindings</Name>
+        <Description>Adds the ability to activate/deactivate individual Godhome bindings at any time and lets other developers create custom bindings easier.</Description>
+        <Version>0.1.3.0</Version>
+        <Link SHA256="7BC8BBBA3F9A77F9782A4737C674B2D61D71633122858B3E6A9082215FEBED47"><![CDATA[https://github.com/Unordinal/HollowKnight.ToggleableBindings/releases/download/v0.1.3/ToggleableBindings.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>HollowPoint</Name>
+        <Description>Gives the player a gun, reworks charms and abilities to play around the concept of gun usage</Description>
+        <Version>1.4.0.0</Version>
+
+        <Link SHA256="3BA0DE9C735F59047723C5872496604F1BCFB20431D800179A12BC7C5A6A544C">
+            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/releases/download/1.4.0.0/HollowPoint.zip]]>
+        </Link>
+
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>Golden Godhome</Name>
+        <Description>Reskins bosses in the Godhome to have more golden designs and details</Description>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="c3d2fe63c8dbde25f0d85b8ee780f4d2651e4992e5e59df52da8fc9efda8c031">
+            <![CDATA[https://github.com/mandar1jn/GoldenGodhome/releases/download/1.1.0/GoldenGodhome.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Hall of Gods Extras</Name>
+        <Description>Adds The Hollow Knight and The Radiance to the Hall of Gods.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="5EF40B19DF220AC601256806CF687EAEDA239882B0D01B7B9B630E963D3D9C6F">
+            <![CDATA[https://github.com/jngo102/HoGExtras/releases/download/1.0.0.0/HoGExtras.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>Custom Trial</Name>
+        <Description>Allows creation of custom trials for the Colosseum of Fools.</Description>
+        <Version>0.0.0.1</Version>
+        <Link SHA256="8BF8AA894B63168633A08D25B8F77039396A0910DEFDD46C23D2873B7EDDFD7A">
+            <![CDATA[https://github.com/jngo102/HollowKnight.CustomTrial/releases/download/0.0.0.1/CustomTrial.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>SilkSong (but not really)</Name>
+        <Description>Allows the player to play as hornet.</Description>
+        <Version>0.4.0.1</Version>
+        <Link SHA256="a607e38182dbbd5577d93c4e6eafad2f1f4a5766a24f2addd0557e10b89eab47">
+            <![CDATA[https://github.com/yoink-city/Silksong_bnr/releases/download/v0.4.0/Silksong.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>Discord Rich Presence</Name>
+        <Description>Formerly known as "HollowKnightDRPC", this mod adds detailed game status to your Discord profile (when clicked on the username).</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="64B041F0324BDAED612A1E2416955A458F27F48C60BBAD09A92E8B87E7D0A432">
+            <![CDATA[https://github.com/KaanGaming/HollowKnightDRPC/releases/download/1.0.0/HollowKnightDRPC.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+	<Manifest>
+        <Name>GodSeekerPlus</Name>
+        <Description>Various tweaks to enhance your Godhome experience</Description>
+        <Version>0.12.0.0</Version>
+
+        <Link SHA256="07A27DF4B835DE0DA3E401840AA002B10A4AD42527FC79675D3AC95D4B99D67E">
+            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.12.0]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>Vanilla Map Mod</Name>
+        <Description>Adds all items/locations to the existing map.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="1978db63b0b1c009e99f01e213922ef732feb4a680c04a7092d4094b2b197381">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.1/VanillaMapMod.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>GeoHunger</Name>
+        <Description>You gradually lose geo and gradually lose health at 0 geo.</Description>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="24730884D0367A77CDB817CB6ED76766907520B47A4546C8780BDA04224A101D">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.GeoHunger/releases/download/v1.3.0/GeoHunger.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Pantheons Hit Counter</Name>
+        <Description>Counts hits in pantheons.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="0D156DBD55EFB8CDCA43D8153ABD2AD619330A4410882E1A58D5542490885B56">
+            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.1.0/PantheonsHitCounter.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
 </ModLinks>
