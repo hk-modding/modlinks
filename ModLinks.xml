@@ -728,6 +728,13 @@
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Glass Cannon Mod</Name>
+        <Description>Makes everything one shot, including you</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="9021c10217fa8e9f8e981e1681b2f79f5cbbc6af1d66aec52b6b76406d4b9d09"><![CDATA[https://github.com/Nexade/GlassCannon/releases/download/1.0/GlassCannonMod.dll]]></Link> 
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>FrogCore</Name>
         <Description>Library mod containing stuff for adding journal entries and npcs</Description>
         <Version>0.0.2.0</Version>
