@@ -879,4 +879,15 @@
         </Link>
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>Hit Counter</Name>
+        <Description>Allow creating custom counters for counting hits.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="3C341027545572EFE9F5CCF447DD46F2C296117A44B4E4D9F09FBB4A9CE1BCC6">
+            <![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter/releases/download/v1.0.0/HitCounter.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
