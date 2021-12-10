@@ -891,7 +891,7 @@
         </Dependencies>
     </Manifest>
 	<Manifest>
-		<Name>DoubleRadiance</name>
+		<Name>DoubleRadiance</Name>
 		<Description>You can battle with two radiance at same time ,their hp is shared.</Description>
 		<Version>1.0.0.0</Version>
 		<Link SHA256="1E67B23F6F20EAB1383B934BD5DFD14BC263702947FAB1F41CAFCA61EFEA592A">
