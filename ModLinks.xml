@@ -262,10 +262,10 @@
     <Manifest>
         <Name>BingoUI</Name>
         <Description>Automatic tracking of bingo goals for bingo speedrun races.</Description>
-        <Version>2.0.0.0</Version>
+        <Version>2.0.1.0</Version>
         
-        <Link SHA256="4d99a1cbffd777bf9cb089ef5f719d161fe14278e6877323e7deac26258bf12b">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.0/BingoUI.zip]]>
+        <Link SHA256="D5C8114F6F619562657848891B8D729C404F4B465BC56443A872E8E56D68971D">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.1/BingoUI.zip]]>
         </Link>
         
         <Dependencies>
@@ -295,6 +295,17 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>SkillUpgrades</Name>
+        <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
+        <Version>0.7.0.0</Version>
+        
+        <Link SHA256="74A44CFF80859271B352F7FA90AB32C52B825A1512F3566385790712318E36DB">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.7/SkillUpgrades.zip]]>
+        </Link>
+        
+        <Dependencies />
     </Manifest>
     <Manifest>
         <Name>Benchwarp</Name>
