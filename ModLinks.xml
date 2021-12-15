@@ -262,10 +262,10 @@
     <Manifest>
         <Name>BingoUI</Name>
         <Description>Automatic tracking of bingo goals for bingo speedrun races.</Description>
-        <Version>2.0.0.0</Version>
+        <Version>2.0.1.0</Version>
         
-        <Link SHA256="4d99a1cbffd777bf9cb089ef5f719d161fe14278e6877323e7deac26258bf12b">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.0/BingoUI.zip]]>
+        <Link SHA256="D5C8114F6F619562657848891B8D729C404F4B465BC56443A872E8E56D68971D">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.1/BingoUI.zip]]>
         </Link>
         
         <Dependencies>
@@ -295,6 +295,17 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>SkillUpgrades</Name>
+        <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
+        <Version>0.7.0.0</Version>
+        
+        <Link SHA256="74A44CFF80859271B352F7FA90AB32C52B825A1512F3566385790712318E36DB">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.7/SkillUpgrades.zip]]>
+        </Link>
+        
+        <Dependencies />
     </Manifest>
     <Manifest>
         <Name>Benchwarp</Name>
@@ -563,9 +574,9 @@
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.2.0</Version>
+        <Version>1.5.2.1</Version>
         
-        <Link SHA256="D7D26081B028C70FD88FA5B83902C58D58530D167997B695F421C7B547210E4B">
+        <Link SHA256="D7BA195760F4CAAE0DDB72618CFB0D702B2E63B9EEA1323D8C11B69B7FC7532E">
             <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.2.0/SFCore.zip]]>
         </Link>
         
@@ -841,10 +852,10 @@
 	<Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks to enhance your Godhome experience</Description>
-        <Version>0.12.0.0</Version>
+        <Version>0.13.1.0</Version>
 
-        <Link SHA256="07A27DF4B835DE0DA3E401840AA002B10A4AD42527FC79675D3AC95D4B99D67E">
-            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.12.0]]>
+        <Link SHA256="EE82A569842EF5FC4E7B6251EE3B75883FB101B4C582EF7482CF654832E07DE0">
+            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.13.1]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
