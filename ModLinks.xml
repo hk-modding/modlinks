@@ -862,6 +862,18 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>CompanionCloth</Name>
+        <Description>Let Cloth accompany and fight with you all the way</Description>
+        <Version>0.1.0.0</Version>
+
+        <Link SHA256="9E501A37CE1CD44B9A8EDEB128E6695FBA698D57B2A2AB1E3450D7C51F49C90C">
+            <![CDATA[https://jmp.clazex.net/hk-mod/companion-cloth/v0.1.0]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
         <Version>1.0.1.0</Version>
