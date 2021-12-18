@@ -925,9 +925,9 @@
 	<Manifest>
 		<Name>CustomImage</Name>
 		<Description>You can change some sprites.</Description> 
-		<Version>1.0.0.0</Version>
-		<Link SHA256="11D4075ADD3971C99ABC5D41E5150492A7F30EA1FCB925D920FDEF1AE8C098A3">
-			<![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage/releases/download/1.5.78/CustomImage.dll]]>
+		<Version>1.0.0.1</Version>
+		<Link SHA256="2d342774ac177565b3da60eb23b667e532204383bef1809226018f3cb9588883">
+			<![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage/releases/download/1.5.7.8-2/CustomImage.dll]]>
 		</Link>
 		<Dependencies />
 	</Manifest>	
