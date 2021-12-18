@@ -951,4 +951,12 @@
 			<Dependency>Vasi</Dependency>
 		</Dependencies>
 	</Manifest>
+	<Manifest>
+        	<Name>Fragile Purse</Name>
+        	<Description>Makes you drop geo whenever you get hit, and has a setting to kill you if you get hit without any geo</Description>
+        	<Version>0.1.0.0</Version>
+        	<Link SHA256="A032FB1CC49C8A23B0FB4078B5BEDEFE2E8B8B4D6356D60E3B3EEC64C7478BC7">
+			<![CDATA[https://github.com/Mimijackz/FragilePurse/releases/download/beta/FragilePurse.zip]]></Link>
+        	<Dependencies />
+    	</Manifest>
 </ModLinks>
