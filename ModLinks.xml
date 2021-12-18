@@ -354,10 +354,10 @@
     <Manifest>
         <Name>AdditionalMaps</Name>
         <Description>Adds white palace and godhome maps.</Description>
-        <Version>1.5.0.0</Version>
+        <Version>1.5.0.1</Version>
         
-        <Link SHA256="7E71E7C71EC54C89EB198DCD5DA6DF3C1C78922B8E5CB5158F4A8D0F99E4AB51">
-            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5/AdditionalMaps.zip]]>
+        <Link SHA256="BF3564A2CD42CBB60DD43C9F8A1CCAFA85399E9318AC0A2E65AB0F6F0C030AFC">
+            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.0.1/AdditionalMaps.zip]]>
         </Link>
         
         <Dependencies>
@@ -369,7 +369,7 @@
         <Description>When benchwarping into a scene without a bench, instead of softlock drops you into dirtmouth. Probably doesn't work with glitched runs.</Description>
         <Version>1.5.1.0</Version>
         
-        <Link SHA256="CDB635991A4005D1BE8CD3E490227F6B4B3C18CC7E9ED71D08E4DE901DFB90A7">
+        <Link SHA256="98430CB24309274ED7806567241B5CF41B7255263FA6C9E47D96416E61797FE5">
             <![CDATA[https://github.com/SFGrenade/BenchWarpFix/releases/download/v1.5.1/BenchWarpFix.zip]]>
         </Link>
         
@@ -378,10 +378,10 @@
     <Manifest>
         <Name>BlindRadiance</Name>
         <Description>Makes background darker in selected scenes to make foreground objects more visible.</Description>
-        <Version>1.5.0.2</Version>
+        <Version>1.5.1.0</Version>
         
-        <Link SHA256="E40C7452781B7AD9E5988F648164564335C872FE36526AB1670F7D85DE7A18C0">
-            <![CDATA[https://github.com/SFGrenade/BlindRadiance/releases/download/v1.5.0.2/BlindRadiance.zip]]>
+        <Link SHA256="9111BBC3F5C4B059EDE9C06F3BD26C9DC09DAF8500336CD70B153187B6E92BED">
+            <![CDATA[https://github.com/SFGrenade/BlindRadiance/releases/download/v1.5.1/BlindRadiance.zip]]>
         </Link>
         
         <Dependencies>
@@ -393,7 +393,7 @@
         <Description>Allows customization of background music. See its readme for a how-to.</Description>
         <Version>1.5.0.0</Version>
         
-        <Link SHA256="4B7A121FE12CED6248E2CC638FC05EABD106A51257E0AB943B379322C1F500BB">
+        <Link SHA256="B2F3828A0E1F544480FB715345124B85D364FD323377D2919EAA6F136E586E62">
             <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5/CustomBgm.zip]]>
         </Link>
         
@@ -404,7 +404,7 @@
         <Description>Makes white palace save art funny. Literally nothing else.</Description>
         <Version>1.5.0.1</Version>
         
-        <Link SHA256="31B8641094C9B5C08534CF8A37C59ED321F5B8FDF4D20695F0C9DC7715CA9B6F">
+        <Link SHA256="8302BE9F5D2FB9464310E9F74E11A7581A99185B81662DC09449BDC426A7C060">
             <![CDATA[https://github.com/SFGrenade/CustomSaveArt/releases/download/v1.5.0.1/CustomSaveArt.zip]]>
         </Link>
         
@@ -428,7 +428,7 @@
         <Description>Adds a soul totem to dirtmouth and blocks off boss arenas.</Description>
         <Version>1.5.0.0</Version>
         
-        <Link SHA256="BEA36DFF4167716714D029D453F7F9A9F76A8A8A932964FC6708CFB740F914F9">
+        <Link SHA256="5A7FC5C3AC551B0258BB01D1BE42D6D1073DF18C0FC767327A6497B65F80A12B">
             <![CDATA[https://github.com/SFGrenade/FireIsSmolBrain/releases/download/v1.5/FireIsSmolBrain.zip]]>
         </Link>
         
@@ -439,7 +439,7 @@
         <Description>Tries to fix fury for 1 max health saves.</Description>
         <Version>1.5.0.0</Version>
         
-        <Link SHA256="B110C728F9CF4E1C17C8D79DB4523130BE9F3600AAC777DC49C57354092D51D1">
+        <Link SHA256="7B30BF03780F7E5CA3C83D9D61B5EA19B6C6A0314B04874FAD1392ED7A1FF1D8">
             <![CDATA[https://github.com/SFGrenade/FuryFix/releases/download/v1.5/FuryFix.zip]]>
         </Link>
         
@@ -465,7 +465,7 @@
         <Description>VVVVVVV but in HK. Flip gravity with the R key.</Description>
         <Version>1.5.0.0</Version>
         
-        <Link SHA256="EB9BCEFD05F77986F9FD5D85AD031D317AAC578E3224F903B0E724B8E79EFF6E">
+        <Link SHA256="4C8765071FA4722BC9D553F18B355282BC44B1595E5DCCF61CB4AA08E9B156F6">
             <![CDATA[https://github.com/SFGrenade/HKHKHKHKHK/releases/download/v1.5/HKHKHKHKHK.zip]]>
         </Link>
         
@@ -491,7 +491,7 @@
         <Description>Applies the menu color correction to gameplay. Breaks immersion.</Description>
         <Version>1.5.0.0</Version>
         
-        <Link SHA256="3078D008332ED01EE3BCC9954518DF39C9775F4962E71B0CD456D934737A041D">
+        <Link SHA256="8AF2B8C9FCBD5076F846F88BB2527ADF1DFE2EC47D77DCD7581D821831890CB0">
             <![CDATA[https://github.com/SFGrenade/MenuThemesInGame/releases/download/v1.5/MenuThemesInGame.zip]]>
         </Link>
         
@@ -515,7 +515,7 @@
         <Description>Adds more healing charms.</Description>
         <Version>1.5.0.0</Version>
         
-        <Link SHA256="504C558795BAA1DB31670DF8949812E7F9D1205A887C68F984605B48D8ADBA12">
+        <Link SHA256="77523EF284E1A1A5FF987EF1985173017F71BCF77620919BA8C7629598DC6FD1">
             <![CDATA[https://github.com/SFGrenade/MoreHealing/releases/download/v1.5/MoreHealing.zip]]>
         </Link>
         
@@ -528,7 +528,7 @@
         <Description>Get your geo back from the nailsmith after upgrading your nail.</Description>
         <Version>1.5.0.0</Version>
         
-        <Link SHA256="EA885D6DAE92995D9E9354F796D9BE40ED31BEBCE07854FC25EB88A72DDE91DD">
+        <Link SHA256="16188DCD98860FCE814F075966936B434F8FAC7A1556881FFD8CD29A1030E40A">
             <![CDATA[https://github.com/SFGrenade/NailsmithBackPay/releases/download/v1.5/NailsmithBackPay.zip]]>
         </Link>
         
@@ -552,7 +552,7 @@
         <Description>Redo the Birthplace cutscene.</Description>
         <Version>1.5.0.0</Version>
         
-        <Link SHA256="ECAE429E083B270054031D5127C5369FD7A521B8BF9243BEA638D57E354C022A">
+        <Link SHA256="7944573C1D3567406D2D298F166204B3C8A6B03C2D30E248A43612B0B31653CC">
             <![CDATA[https://github.com/SFGrenade/RedoBirthplace/releases/download/v1.5/RedoBirthplace.zip]]>
         </Link>
         
@@ -565,7 +565,7 @@
         <Description>Reset charm notches and charm notch cost.</Description>
         <Version>1.5.0.0</Version>
         
-        <Link SHA256="5D168876FE2992B6AB4C24DCB9D6BC4101CEE992CD1D5BBEDB6B0D2C8C378FC3">
+        <Link SHA256="69F8A5979D2C208933229FE7AD1FCFFB3201B07AF26C7958FCED9A5CDAF6834A">
             <![CDATA[https://github.com/SFGrenade/ResetCharmNotches/releases/download/v1.5/ResetCharmNotches.zip]]>
         </Link>
         
@@ -576,7 +576,7 @@
         <Description>Library mod used by other mods.</Description>
         <Version>1.5.2.1</Version>
         
-        <Link SHA256="D7BA195760F4CAAE0DDB72618CFB0D702B2E63B9EEA1323D8C11B69B7FC7532E">
+        <Link SHA256="1FBC2C69122794B0D9B52264DF7B1A3B89E4DCB7F0682EE07655FBB2F275545B">
             <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.2.0/SFCore.zip]]>
         </Link>
         
