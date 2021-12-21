@@ -534,6 +534,17 @@
         
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>NeverMuffle</Name>
+        <Description>Removes the muffling sound effect when taking damage.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="16188DCD98860FCE814F075966936B434F8FAC7A1556881FFD8CD29A1030E40A">
+            <![CDATA[https://github.com/SFGrenade/NeverMuffle/releases/download/v1.5/NeverMuffle.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
     <!--<Manifest>
         <Name>PvpArena</Name>
         <Description>Adds an arena in Dirtmouth next to the bench. Entrance is invisible.</Description>
