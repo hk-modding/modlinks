@@ -354,10 +354,10 @@
     <Manifest>
         <Name>AdditionalMaps</Name>
         <Description>Adds white palace and godhome maps.</Description>
-        <Version>1.5.0.1</Version>
+        <Version>1.5.1.0</Version>
         
-        <Link SHA256="BF3564A2CD42CBB60DD43C9F8A1CCAFA85399E9318AC0A2E65AB0F6F0C030AFC">
-            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.0.1/AdditionalMaps.zip]]>
+        <Link SHA256="620D1428C4FB4B4D90ECF4F6778A7633BC0A77003B75229241043194C86A3386">
+            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.1/AdditionalMaps.zip]]>
         </Link>
         
         <Dependencies>
@@ -367,10 +367,10 @@
     <Manifest>
         <Name>BenchWarpFix</Name>
         <Description>When benchwarping into a scene without a bench, instead of softlock drops you into dirtmouth. Probably doesn't work with glitched runs.</Description>
-        <Version>1.5.1.0</Version>
+        <Version>1.5.1.1</Version>
         
-        <Link SHA256="98430CB24309274ED7806567241B5CF41B7255263FA6C9E47D96416E61797FE5">
-            <![CDATA[https://github.com/SFGrenade/BenchWarpFix/releases/download/v1.5.1/BenchWarpFix.zip]]>
+        <Link SHA256="D22C6C90EFEFBB649314586EFD3A8FAACDD2D772CA0917FC3F701B574DE17FDE">
+            <![CDATA[https://github.com/SFGrenade/BenchWarpFix/releases/download/v1.5.1.1/BenchWarpFix.zip]]>
         </Link>
         
         <Dependencies />
@@ -534,6 +534,17 @@
         
         <Dependencies />
     </Manifest>
+    <Manifest>
+        <Name>NeverMuffle</Name>
+        <Description>Removes the muffling sound effect when taking damage.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="16188DCD98860FCE814F075966936B434F8FAC7A1556881FFD8CD29A1030E40A">
+            <![CDATA[https://github.com/SFGrenade/NeverMuffle/releases/download/v1.5/NeverMuffle.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
     <!--<Manifest>
         <Name>PvpArena</Name>
         <Description>Adds an arena in Dirtmouth next to the bench. Entrance is invisible.</Description>
@@ -576,8 +587,8 @@
         <Description>Library mod used by other mods.</Description>
         <Version>1.5.2.1</Version>
         
-        <Link SHA256="1FBC2C69122794B0D9B52264DF7B1A3B89E4DCB7F0682EE07655FBB2F275545B">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.2.0/SFCore.zip]]>
+        <Link SHA256="1F83DE5E772B61B423B5497324DDA9361B46266DB6AFA554D1F467C6B033D1D8">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.2.1/SFCore.zip]]>
         </Link>
         
         <Dependencies />
@@ -598,10 +609,10 @@
        <Manifest>
         <Name>DebugMod</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities</Description>
-        <Version>1.4.8.0</Version>
+        <Version>1.4.9.1</Version>
 
-        <Link SHA256="89BAF122181CA3BBC0F0DBD0B3A948FCD5C8D6263A83C4D089820B54F29D28A0">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.8/DebugMod.zip]]>
+        <Link SHA256="CC0EF7E26B80C73E3D3B1DCED4D09DC47FD0FFCA135DE7C00BDA9F038B2EBF5A">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.9/DebugMod.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -962,5 +973,14 @@
             <Dependency>Benchwarp</Dependency>
             <Dependency>QoL</Dependency>
         </Dependencies>
+    </Manifest>
+    <Manifest>
+      <Name>Fragile Purse</Name>
+      <Description>Makes you drop geo whenever you get hit, and has a setting to kill you if you get hit without any geo</Description>
+      <Version>0.1.0.0</Version>
+      <Link SHA256="A032FB1CC49C8A23B0FB4078B5BEDEFE2E8B8B4D6356D60E3B3EEC64C7478BC7">
+        <![CDATA[https://github.com/Mimijackz/FragilePurse/releases/download/beta/FragilePurse.zip]]>
+      </Link>
+      <Dependencies />
     </Manifest>
 </ModLinks>
