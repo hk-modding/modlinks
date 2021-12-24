@@ -706,15 +706,15 @@
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods</Description>
-        <Version>0.7.2.0</Version>
-        <Link SHA256="6892da07d7aae74468efe6fab8be8543f0ad8e18e5e72f69009f312821950893"><![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.7.2/Satchel.dll]]></Link>        
+        <Version>0.7.4.0</Version>
+        <Link SHA256="D9C0755767819F1D808346FB43AE5CABC1449E40C73B020E5981C6387CBFDD7F"><![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.7.4/Satchel.dll]]></Link>        
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>Custom Knight</Name>
         <Description>Allows changing skins</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="b99084020edaeb0146b83f426d062e4325137159b8610c0ca3420db899b79f5e"><![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v1.5.0/CustomKnight.zip]]></Link>        
+        <Version>1.6.0.0</Version>
+        <Link SHA256="7C638199EAF0BDDBE4358FFD9FC5001EE959CAE5CE423E4DB17813942D55AD34"><![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v1.6.0/CustomKnight.zip]]></Link>        
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
