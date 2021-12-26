@@ -888,10 +888,10 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks to enhance your Godhome experience</Description>
-        <Version>0.13.1.0</Version>
+        <Version>0.14.0.0</Version>
 
-        <Link SHA256="EE82A569842EF5FC4E7B6251EE3B75883FB101B4C582EF7482CF654832E07DE0">
-            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.13.1]]>
+        <Link SHA256="1C7AE03C4F739E078E3B8F33E851BA49115FD5368974224B695DE74D3950412E">
+            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.14.0]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
