@@ -556,6 +556,20 @@
         
         <Dependencies />
     </Manifest>
+	<Manifest>
+        <Name>Pail Curt</Name>
+        <Description>This is the Pale Court mod.
+Enjoy!</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="36BDB259BBA354B041CADA9E4DC4A18696997E1073CBBFB948075A8CE84F252E">
+            <![CDATA[https://github.com/SFGrenade/Pail-Curt/releases/download/v1.5/Pail-Curt.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>FrogCore</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
     <!--<Manifest>
         <Name>PvpArena</Name>
         <Description>Adds an arena in Dirtmouth next to the bench. Entrance is invisible.</Description>
