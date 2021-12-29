@@ -633,6 +633,16 @@ Enjoy!</Description>
     </Manifest>-->
        <Manifest>
         <Name>DebugMod</Name>
+        <Description>A mod that randomly teleports you to another scene</Description>
+        <Version>0.0.3.1</Version>
+
+        <Link SHA256="450EDD2D04006354B352F5798620CC91217EB36E7E5550A881974583744F88EB">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.RandomTeleport/releases/download/v0.3.1/RandomTeleport.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+	<Manifest>
+        <Name>RandomTeleport</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities</Description>
         <Version>1.4.9.1</Version>
 
