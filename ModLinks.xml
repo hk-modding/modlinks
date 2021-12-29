@@ -264,8 +264,8 @@
         <Description>Automatic tracking of bingo goals for bingo speedrun races.</Description>
         <Version>2.0.1.0</Version>
         
-        <Link SHA256="D5C8114F6F619562657848891B8D729C404F4B465BC56443A872E8E56D68971D">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.1/BingoUI.zip]]>
+        <Link SHA256="D5D6A298FDB89DAE757E9F6682FE9C5AE6F30FAFFBB536D8259F627F55182E1B">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.1.1/BingoUI.zip]]>
         </Link>
         
         <Dependencies>
@@ -303,6 +303,17 @@
         
         <Link SHA256="74A44CFF80859271B352F7FA90AB32C52B825A1512F3566385790712318E36DB">
             <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.7/SkillUpgrades.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>PlayerDataManager</Name>
+        <Description>Override player data values (for example, always set `hasQuill` to false). Having DebugMod is helpful, but not required.</Description>
+        <Version>0.4.1.0</Version>
+        
+        <Link SHA256="D278BC350D3F98F74B73DF56BAA3E323C87CD28E65A3A29168C10C7A4AF43C3F">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.PlayerDataManager/releases/download/v0.4.1/PlayerDataManager.zip]]>
         </Link>
         
         <Dependencies />
@@ -545,6 +556,20 @@
         
         <Dependencies />
     </Manifest>
+	<Manifest>
+        <Name>Pail Curt</Name>
+        <Description>This is the Pale Court mod.
+Enjoy!</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="36BDB259BBA354B041CADA9E4DC4A18696997E1073CBBFB948075A8CE84F252E">
+            <![CDATA[https://github.com/SFGrenade/Pail-Curt/releases/download/v1.5/Pail-Curt.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>FrogCore</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
     <!--<Manifest>
         <Name>PvpArena</Name>
         <Description>Adds an arena in Dirtmouth next to the bench. Entrance is invisible.</Description>
@@ -706,15 +731,15 @@
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods</Description>
-        <Version>0.7.2.0</Version>
-        <Link SHA256="6892da07d7aae74468efe6fab8be8543f0ad8e18e5e72f69009f312821950893"><![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.7.2/Satchel.dll]]></Link>        
+        <Version>0.7.4.0</Version>
+        <Link SHA256="D9C0755767819F1D808346FB43AE5CABC1449E40C73B020E5981C6387CBFDD7F"><![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.7.4/Satchel.dll]]></Link>        
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>Custom Knight</Name>
         <Description>Allows changing skins</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="b99084020edaeb0146b83f426d062e4325137159b8610c0ca3420db899b79f5e"><![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v1.5.0/CustomKnight.zip]]></Link>        
+        <Version>1.6.0.0</Version>
+        <Link SHA256="7C638199EAF0BDDBE4358FFD9FC5001EE959CAE5CE423E4DB17813942D55AD34"><![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v1.6.0/CustomKnight.zip]]></Link>        
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -863,10 +888,10 @@
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks to enhance your Godhome experience</Description>
-        <Version>0.13.1.0</Version>
+        <Version>0.14.0.0</Version>
 
-        <Link SHA256="EE82A569842EF5FC4E7B6251EE3B75883FB101B4C582EF7482CF654832E07DE0">
-            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.13.1]]>
+        <Link SHA256="1C7AE03C4F739E078E3B8F33E851BA49115FD5368974224B695DE74D3950412E">
+            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.14.0]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -887,9 +912,9 @@
     <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="1978db63b0b1c009e99f01e213922ef732feb4a680c04a7092d4094b2b197381">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.1/VanillaMapMod.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="a756354f66d49f40af8c62fe3d3137c78ba76b1387fb6aa6888b8368a5349bdf">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.2/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -965,9 +990,9 @@
     <Manifest>
         <Name>Randomizer 3.5</Name>
         <Description>Mixes up charms, spells, abilities, etc. for new saves, difficulty settings and randomization seeds included. Includes a room and area rando mode.</Description>
-        <Version>3.5.0.0</Version>
-        <Link SHA256="159B5D4B82BCD7032A305B93DE7E9C1565A149C3E66087012B767AFD55025C76">
-            <![CDATA[https://github.com/Extremelyd1/HollowKnight.RandomizerMod/releases/download/v3.5.0(645)/RandomizerMod3.5.zip]]>
+        <Version>3.5.1.0</Version>
+        <Link SHA256="BAB507C9F3DE1D3286273CEB06128132AC4FF4E1CE114F54E1F9EDB3272BF6F5">
+            <![CDATA[https://github.com/Extremelyd1/HollowKnight.RandomizerMod/releases/download/v3.5.1(742)/RandomizerMod3.5.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
