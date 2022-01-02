@@ -9,14 +9,14 @@
         <Version>67</Version>
 
         <Links>
-            <Linux SHA256="BDAC485C6E98AE5B5FAC51AB9D6DD4CD46737C209E969DB927A7283494E0D7AC">
-                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-67/ModdingApiUnix.zip]]>
+            <Linux SHA256="E8C44496B135227C08EC6AF47924EA90A23ADB2647C9A36BFCC018855ACAABB6">
+                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-68/ModdingApiLinux.zip]]>
             </Linux>
-            <Mac SHA256="BDAC485C6E98AE5B5FAC51AB9D6DD4CD46737C209E969DB927A7283494E0D7AC">
-                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-67/ModdingApiUnix.zip]]>
+            <Mac SHA256="BD1EDE108A8C7EB866B8A008637CE6D725FE970EB3D476DCA3894F451AEC9365">
+                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-68/ModdingApiMac.zip]]>
             </Mac>
-            <Windows SHA256="09F70FDA902BE9C4BF1C072079DDA8DD8DE73B56E23F0C584D6648B91740DD4A">
-                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-67/ModdingApiWin.zip]]>
+            <Windows SHA256="7D8C16DAA279DE97665DE33ABE2087CAF0D65FB68398E4436313E65F6A9CB454">
+                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-68/ModdingApiWin.zip]]>
             </Windows>
         </Links>
         
