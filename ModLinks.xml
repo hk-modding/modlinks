@@ -900,13 +900,13 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks to enhance your Godhome experience</Description>
-        <Version>0.14.0.0</Version>
+        <Version>0.15.0.0</Version>
 
-        <Link SHA256="1C7AE03C4F739E078E3B8F33E851BA49115FD5368974224B695DE74D3950412E">
-            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.14.0]]>
+        <Link SHA256="F3605AF14E84BFA715D180A6F23C0047B03E3FE87ADAB0E02DFECAD86EC6E821">
+            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.15.0]]>
         </Link>
         <Dependencies>
-            <Dependency>Vasi</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
