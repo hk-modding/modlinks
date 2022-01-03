@@ -924,9 +924,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="a756354f66d49f40af8c62fe3d3137c78ba76b1387fb6aa6888b8368a5349bdf">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.2/VanillaMapMod.zip]]>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="73dc74d68793fd2f9064e4ff6734fd51a6e50e8f2e267102600d5ee1cb6756a9">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.3/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
