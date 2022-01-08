@@ -444,8 +444,8 @@
 	
     <Manifest>
         <Name>Randomizer Map S</Name>
-        <Description>A Randomizer 4 add-on for providing user-defined item pools.</Description>
-        <Version>1.0.0.0</Version>
+        <Description>A Randomizer 4 add-on with options to show the player where items are on the World Map and what they are.</Description>
+        <Version>1.5.0.0</Version>
         
         <Link SHA256="DB5832D49E50C6859BF3BE503D48F72B818CE016BE3BBA35C74C38120602FD94">
             <![CDATA[https://github.com/dpinela/HollowKnight.RandoMapMod/releases/download/v1.5/MapModS.zip]]>
@@ -453,6 +453,7 @@
         
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
+	    <Dependency>RandomizerCore</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
