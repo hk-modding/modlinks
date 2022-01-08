@@ -261,11 +261,11 @@
     </Manifest>
     <Manifest>
         <Name>BingoUI</Name>
-        <Description>Automatic tracking of bingo goals for bingo speedrun races.</Description>
-        <Version>2.1.2.0</Version>
+        <Description>Automatic tracking of bingo goals for randomizer and speedrun bingo races.</Description>
+        <Version>2.1.2.1</Version>
         
-        <Link SHA256="746750C258AD9C7AECCC928D0C4514D26870F06B869298C6DA51CAAA8B5B26CB">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.1.2/BingoUI.zip]]>
+        <Link SHA256="D7420E40F291C223123C09CE6FF2742B0B151EFA48017B8A918E3E2FFBFEE998">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.1.2.1/BingoUI.zip]]>
         </Link>
         
         <Dependencies>
@@ -299,13 +299,52 @@
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.7.0.0</Version>
+        <Version>0.9.0.0</Version>
         
-        <Link SHA256="74A44CFF80859271B352F7FA90AB32C52B825A1512F3566385790712318E36DB">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.7/SkillUpgrades.zip]]>
+        <Link SHA256="AEC8AECF467B0B1ABD38F68A7D9E14F74EA78E8621B4687866A8361437A9BC2E">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9/SkillUpgrades.zip]]>
         </Link>
         
         <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>CondensedSpoilerLogger</Name>
+        <Description>Creates a Condensed Spoiler Log in the Rando Logs directory with the key information about the seed.</Description>
+        <Version>0.5.0.0</Version>
+        
+        <Link SHA256="5D6F9FD40F7A55B70A7B2BF3FE3E42CEE31DEEC5EA6170F0DA2458BC648D2321">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v0.5/CondensedSpoilerLogger.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>TrandoPlus</Name>
+        <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
+        <Version>0.6.0.0</Version>
+        
+        <Link SHA256="8DF0B3B36D832E7547064011851E969329DEAB3FDA3DBD1564A677A924D8BFFE">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v0.6/TrandoPlus.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>RecentItemsDisplay</Name>
+        <Description>Add-on for ItemChanger (and Rando) which displays recently obtained pickups in the top-right of the screen.</Description>
+        <Version>1.0.0.0</Version>
+        
+        <Link SHA256="704AE7736F5CE7698E1B5C7DAC033BA2B29895BBEADFA8A77BE5F787E2A52D21">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.0/RecentItemsDisplay.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>PlayerDataManager</Name>
