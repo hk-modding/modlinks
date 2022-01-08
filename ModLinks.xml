@@ -321,13 +321,80 @@
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.1.1.0</Version>
+        <Version>3.1.2.0</Version>
         
-        <Link SHA256="9D36AB70E6E24BC7B2AF24659C6B5754FA261947215654FB52E76D06C6AF2233">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.1.0/Benchwarp.zip]]>
+        <Link SHA256="B01315A8E88926446BF202F4C4B69B367D1DDE182BF543B6B47800F5B9FF5A16">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.2.0/Benchwarp.zip]]>
         </Link>
         
         <Dependencies />
+    </Manifest>
+	
+    <Manifest>
+        <Name>Randomizer 4</Name>
+        <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
+        <Version>4.0.0.0</Version>
+        
+        <Link SHA256="055F617555E6D5333BE9B99075749EA4834838522137D94358300A90076E7270">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v1.0.0/RandomizerMod.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+	    <Dependency>MenuChanger</Dependency>
+	    <Dependency>RandomizerCore</Dependency>
+	    <Dependency>Benchwarp</Dependency>
+	    <Dependency>QoL</Dependency>
+        </Dependencies>
+    </Manifest>
+    
+    <Manifest>
+        <Name>ItemChanger</Name>
+        <Description>Mod which handles editing items and locations for other mods.</Description>
+        <Version>2.0.0.0</Version>
+        
+        <Link SHA256="DB578338321EFB240A5F6B330FB8B6BB6451E22DD9407AA7FF88276724BE1ECB">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.0/ItemChanger.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>MenuChanger</Name>
+        <Description>Mod which handles editing the main menu for other mods.</Description>
+        <Version>1.1.0.0</Version>
+        
+        <Link SHA256="C9F4CFDC49CA057A5A2B2A6D70AEBF80AFC8E7F6604C44574518AF97BC6B5016">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v.1.0.0/MenuChanger.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+    
+    <Manifest>
+        <Name>RandomizerCore</Name>
+        <Description>A library for randomizer logic and algorithms. </Description>
+        <Version>1.0.0.0</Version>
+        
+        <Link SHA256="74ADB005929E8D4AF3E0D60A207CD01DBEEE75F79F53BFB66A2FEE96733AFEBC">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.0/RandomizerCore.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+	
+    <Manifest>
+        <Name>CustomPoolInjector</Name>
+        <Description>A Randomizer 4 add-on for providing user-defined item pools.</Description>
+        <Version>1.0.0.0</Version>
+        
+        <Link SHA256="79728615A01477D8B5667AEE4FCB06A215FBD05EC2BCFC142C52EE80122902E3">
+            <![CDATA[https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.0.0/CustomPoolInjector.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>PaletteSwapper</Name>
@@ -361,6 +428,33 @@
         </Link>
         
         <Dependencies />
+    </Manifest>
+	
+    <Manifest>
+        <Name>LoadNormalizer</Name>
+        <Description>Mod which extends loads to a user-defined cap, to synchronize loading for races.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="2CB3736916AE0645848B777EDDD23104C10FC768D63AF9849644BC2E5BD595F9">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.LoadNormalizer/releases/download/v1.5/LoadNormalizer.zip]]>
+        </Link>
+        
+        <Dependencies />
+    </Manifest>
+	
+    <Manifest>
+        <Name>Randomizer Map S</Name>
+        <Description>A Randomizer 4 add-on with options to show the player where items are on the World Map and what they are.</Description>
+        <Version>1.5.0.0</Version>
+        
+        <Link SHA256="DB5832D49E50C6859BF3BE503D48F72B818CE016BE3BBA35C74C38120602FD94">
+            <![CDATA[https://github.com/dpinela/HollowKnight.RandoMapMod/releases/download/v1.5/MapModS.zip]]>
+        </Link>
+        
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+	    <Dependency>RandomizerCore</Dependency>
+        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>AdditionalMaps</Name>
@@ -997,18 +1091,6 @@ Enjoy!</Description>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
-        </Dependencies>
-    </Manifest>
-    <Manifest>
-        <Name>Randomizer 3.5</Name>
-        <Description>Mixes up charms, spells, abilities, etc. for new saves, difficulty settings and randomization seeds included. Includes a room and area rando mode.</Description>
-        <Version>3.5.1.0</Version>
-        <Link SHA256="BAB507C9F3DE1D3286273CEB06128132AC4FF4E1CE114F54E1F9EDB3272BF6F5">
-            <![CDATA[https://github.com/Extremelyd1/HollowKnight.RandomizerMod/releases/download/v3.5.1(742)/RandomizerMod3.5.zip]]>
-        </Link>
-        <Dependencies>
-            <Dependency>Benchwarp</Dependency>
-            <Dependency>QoL</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
