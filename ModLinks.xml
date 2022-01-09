@@ -361,6 +361,26 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>ItemSync</Name>
+        <Description>A RandomizerMod 4 add-on for sharing item pickups between players.</Description>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="CCB4EE9F04026EA213C6606B1688F4B3C0C90488C3E5835B001968D9CEDC6BD5">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.0.0/ItemSync.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MultiWorldLib</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>MultiWorldLib</Name>
+        <Description>A library for ItemSync and MultiWorld network transmission.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="44DBE29BC942592E3BC69FE7C8641C97AFD3520420A5EFECE691BDA9538CE040">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.0.0/MultiWorldLib.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>PaletteSwapper</Name>
         <Description>Mod which changes room color tint.</Description>
         <Version>1.1.0.0</Version>
