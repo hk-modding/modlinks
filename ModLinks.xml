@@ -254,7 +254,9 @@
         <Link SHA256="AEC8AECF467B0B1ABD38F68A7D9E14F74EA78E8621B4687866A8361437A9BC2E">
             <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9/SkillUpgrades.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
