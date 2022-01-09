@@ -671,9 +671,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DebugMod</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities</Description>
-        <Version>1.4.9.1</Version>
-        <Link SHA256="CC0EF7E26B80C73E3D3B1DCED4D09DC47FD0FFCA135DE7C00BDA9F038B2EBF5A">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.9/DebugMod.zip]]>
+        <Version>1.4.9.2</Version>
+        <Link SHA256="AF40F475C5B7041C33D024F2570053F10606A9B6138795A6D27A8CFC84792274">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.9.2/DebugMod.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
