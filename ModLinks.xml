@@ -312,9 +312,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.0.0.0</Version>
-        <Link SHA256="055F617555E6D5333BE9B99075749EA4834838522137D94358300A90076E7270">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v1.0.0/RandomizerMod.zip]]>
+        <Version>4.0.1.0</Version>
+        <Link SHA256="2C04C0614C05C83FBCCF714151B8F9F64907207FE18C8C0365A711CE041EB235">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.1/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -327,9 +327,9 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="DB578338321EFB240A5F6B330FB8B6BB6451E22DD9407AA7FF88276724BE1ECB">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.0/ItemChanger.zip]]>
+        <Version>2.0.1.0</Version>
+        <Link SHA256="7BF9A5416BAFB5A1584B0D405C7E001CF3774023E3E6C1C7F0D2BCE647CEBE62">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.1/ItemChanger.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -345,9 +345,9 @@
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="74ADB005929E8D4AF3E0D60A207CD01DBEEE75F79F53BFB66A2FEE96733AFEBC">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.0/RandomizerCore.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="548B920F74033A1E58A8B7F95AD3D235E9B3FEA2EA605F29591B561CEAD0B920">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.1/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
