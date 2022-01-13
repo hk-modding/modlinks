@@ -262,8 +262,8 @@
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log in the Rando Logs directory with the key information about the seed.</Description>
         <Version>0.5.0.0</Version>
-        <Link SHA256="5D6F9FD40F7A55B70A7B2BF3FE3E42CEE31DEEC5EA6170F0DA2458BC648D2321">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v0.5/CondensedSpoilerLogger.zip]]>
+        <Link SHA256="D810B241630042A84200C033DA85FEBB4D6D38AD913A4EEAE6995C75985065E6">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v0.6/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -283,9 +283,9 @@
     <Manifest>
         <Name>RecentItemsDisplay</Name>
         <Description>Add-on for ItemChanger (and Rando) which displays recently obtained pickups in the top-right of the screen.</Description>
-        <Version>1.0.1.0</Version>
+        <Version>1.0.2.0</Version>
         <Link SHA256="183199157973A60C9B21E58AD807C8DAF3EDC5EBFC3B58098E81CF5DF819138C">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.0.1/RecentItemsDisplay.zip]]>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.0.2/RecentItemsDisplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
