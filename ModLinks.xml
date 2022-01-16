@@ -1061,9 +1061,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKTracker</Name>
         <Description>Tracks player data. Most frequently used to display abilities/charms during streams</Description>
-        <Version>3.4.0.1</Version>
-        <Link SHA256="63F347598EF4CBE1525E7E6CA2C32D2A5F14342B0D44125303D6C7FF597249FB">
-            <![CDATA[https://github.com/kingkiller39/HollowKnightRandomizerTracker2.8/releases/download/V3.4.0.1/HKTracker.zip]]>
+        <Version>3.4.1.0</Version>
+        <Link SHA256="47CE456B641482FBF0A0F55CEACB267CD5AED5B68DA12FC120ED220B63E76E7F">
+            <![CDATA[https://github.com/kingkiller39/HollowKnightRandomizerTracker2.8/releases/download/V3.4.1.0/HKTracker.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
