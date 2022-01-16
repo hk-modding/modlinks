@@ -250,9 +250,9 @@
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.9.0.0</Version>
-        <Link SHA256="AEC8AECF467B0B1ABD38F68A7D9E14F74EA78E8621B4687866A8361437A9BC2E">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9/SkillUpgrades.zip]]>
+        <Version>0.9.2.0</Version>
+        <Link SHA256="74D0D63309609E98FEA8541601CF0523C6BAC19853638241E23AA7949827BFE6">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.2/SkillUpgrades.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -262,8 +262,8 @@
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log in the Rando Logs directory with the key information about the seed.</Description>
         <Version>0.5.0.0</Version>
-        <Link SHA256="5D6F9FD40F7A55B70A7B2BF3FE3E42CEE31DEEC5EA6170F0DA2458BC648D2321">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v0.5/CondensedSpoilerLogger.zip]]>
+        <Link SHA256="D810B241630042A84200C033DA85FEBB4D6D38AD913A4EEAE6995C75985065E6">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v0.6/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -283,9 +283,9 @@
     <Manifest>
         <Name>RecentItemsDisplay</Name>
         <Description>Add-on for ItemChanger (and Rando) which displays recently obtained pickups in the top-right of the screen.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="704AE7736F5CE7698E1B5C7DAC033BA2B29895BBEADFA8A77BE5F787E2A52D21">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.0/RecentItemsDisplay.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="183199157973A60C9B21E58AD807C8DAF3EDC5EBFC3B58098E81CF5DF819138C">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.0.2/RecentItemsDisplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -312,9 +312,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.0.0.0</Version>
-        <Link SHA256="055F617555E6D5333BE9B99075749EA4834838522137D94358300A90076E7270">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v1.0.0/RandomizerMod.zip]]>
+        <Version>4.0.1.0</Version>
+        <Link SHA256="2C04C0614C05C83FBCCF714151B8F9F64907207FE18C8C0365A711CE041EB235">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.1/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -327,9 +327,9 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="DB578338321EFB240A5F6B330FB8B6BB6451E22DD9407AA7FF88276724BE1ECB">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.0/ItemChanger.zip]]>
+        <Version>2.0.1.0</Version>
+        <Link SHA256="7BF9A5416BAFB5A1584B0D405C7E001CF3774023E3E6C1C7F0D2BCE647CEBE62">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.1/ItemChanger.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -345,9 +345,9 @@
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="74ADB005929E8D4AF3E0D60A207CD01DBEEE75F79F53BFB66A2FEE96733AFEBC">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.0/RandomizerCore.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="548B920F74033A1E58A8B7F95AD3D235E9B3FEA2EA605F29591B561CEAD0B920">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.1/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -640,9 +640,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.2.1</Version>
-        <Link SHA256="1F83DE5E772B61B423B5497324DDA9361B46266DB6AFA554D1F467C6B033D1D8">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.2.1/SFCore.zip]]>
+        <Version>1.5.2.2</Version>
+        <Link SHA256="98CD191BC2EF0FF6F171EE5F766DE5EDA641694FF2E020A27799EE1305A78059">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.2.2/SFCore.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -671,9 +671,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DebugMod</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities</Description>
-        <Version>1.4.9.1</Version>
-        <Link SHA256="CC0EF7E26B80C73E3D3B1DCED4D09DC47FD0FFCA135DE7C00BDA9F038B2EBF5A">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.9/DebugMod.zip]]>
+        <Version>1.4.9.2</Version>
+        <Link SHA256="AF40F475C5B7041C33D024F2570053F10606A9B6138795A6D27A8CFC84792274">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.9.2/DebugMod.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -689,18 +689,18 @@ Enjoy!</Description>
     <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
-        <Version>0.3.1.0</Version>
-        <Link SHA256="05616CD37BD112EC9428D2968006513DF0AAFD49CEEA751A2F8215FF24FC09E7">
-            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v0.3.1.0-beta/WeaverCore.zip]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="595A81D2EF30A3F24E0128D3AC4CBDEF521625C673E19A1C75C7B8AEF92C002B">
+            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.0.0.0/WeaverCore.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>Inferno King Grimm</Name>
         <Description>A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu</Description>
-        <Version>4.0.0.0</Version>
-        <Link SHA256="BEF8A7D9BD7BFEB81D4A709CE6079A342D7E721383B49EDAF95D254A7A77B94A">
-            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.0.0.0/InfernoKingGrimm.zip]]>
+        <Version>4.1.0.0</Version>
+        <Link SHA256="4251157386DD182FB074944C2B2E6AC0722D04474A9505F4D0F54E6681743E9B">
+            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.1.0.0/InfernoKingGrimm.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
@@ -709,9 +709,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Corrupted Kin</Name>
         <Description>A mod that significantly changes up the Lost Kin bossfight</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="78CA4B0B75683DCAFA9523595423344FD265D2C629C0135D4974380A739CFB4D">
-            <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.1.0.0/CorruptedKin.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="CF1C23FCA2561268F86422DA669DB235498237E08E1FDC59471A584EAA4381B9">
+            <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.2.0.0/CorruptedKin.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
