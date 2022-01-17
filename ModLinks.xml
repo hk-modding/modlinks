@@ -250,9 +250,9 @@
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.9.2.0</Version>
-        <Link SHA256="74D0D63309609E98FEA8541601CF0523C6BAC19853638241E23AA7949827BFE6">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.2/SkillUpgrades.zip]]>
+        <Version>0.9.3.0</Version>
+        <Link SHA256="157A1C47A2D2BCD5F6CF6ABB4F261367DA667D8AC9C7DD7E0C2F8B4232BCA6C6">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.3/SkillUpgrades.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -270,11 +270,22 @@
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>RandoPlus</Name>
+        <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="084802248171C77C378719742CE31A37037517DCADE761540E4EE8B2ECC02CA8">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.1.0/RandoPlus.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>0.6.0.0</Version>
-        <Link SHA256="8DF0B3B36D832E7547064011851E969329DEAB3FDA3DBD1564A677A924D8BFFE">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v0.6/TrandoPlus.zip]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="94461AC226DA011DB6EB55C36FE89BED83AA448E1AAB2AC3919C0FA8418266B7">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -283,9 +294,9 @@
     <Manifest>
         <Name>RecentItemsDisplay</Name>
         <Description>Add-on for ItemChanger (and Rando) which displays recently obtained pickups in the top-right of the screen.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="183199157973A60C9B21E58AD807C8DAF3EDC5EBFC3B58098E81CF5DF819138C">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.0.2/RecentItemsDisplay.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="B19113AA7757E3CA2FC226673E894587362165463CCBD3B0CA2AE23B8610EAF6">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.1/RecentItemsDisplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
