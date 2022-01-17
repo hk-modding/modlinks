@@ -974,9 +974,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Pantheons Hit Counter</Name>
         <Description>Counts hits in pantheons.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="DECF98A085A81DF7DDCF8E0C554FB5C579F099C014F7DEB056239BE5771284F2">
-            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.2.0/PantheonsHitCounter.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="ACAFDF10AE99B9A51DF84BF89EBB26FD97F606DD23E96D72B4174783F3F8C47C">
+            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.2.1/PantheonsHitCounter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
