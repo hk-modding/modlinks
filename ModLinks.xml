@@ -261,7 +261,7 @@
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>0.5.0.0</Version>
+        <Version>0.6.0.0</Version>
         <Link SHA256="D810B241630042A84200C033DA85FEBB4D6D38AD913A4EEAE6995C75985065E6">
             <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v0.6/CondensedSpoilerLogger.zip]]>
         </Link>
