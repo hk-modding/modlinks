@@ -822,6 +822,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>ModScript</Name>
+        <Description>Allows writing scripts in JavaScript to mod the game.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="88ce4a7a4b288d5bb217b59b75344d2d1cb1b202485f241ce5de687a1038739d">
+            <![CDATA[https://github.com/PrashantMohta/ModScript/releases/download/0.1/ModScript.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>HKmote</Name>
         <Description>Use emotes during multiplayer</Description>
         <Version>1.4.0.0</Version>
