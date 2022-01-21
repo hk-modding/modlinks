@@ -454,14 +454,15 @@
     </Manifest>
     <Manifest>
         <Name>Randomizer Map S</Name>
-        <Description>A Randomizer 4 add-on with options to show the player where items are on the World Map and what they are.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="12d95fac00999dd9367f77dd0a5f093e3e154622177a6709541399534a3158a5">
-            <![CDATA[https://github.com/dpinela/HollowKnight.RandoMapMod/releases/download/v1.5/MapModS.zip]]>
+        <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="d1e2076fa83f4c7a5d329a1dd4c2ae73e69c88a8f07cacfa1e9359e24925ee1a">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.0.0/MapModS.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>RandomizerCore</Dependency>
+            <Dependency>Vasi</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
