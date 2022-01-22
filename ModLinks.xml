@@ -937,7 +937,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Hall of Gods Extras</Name>
         <Description>Adds The Hollow Knight and The Radiance to the Hall of Gods.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="5EF40B19DF220AC601256806CF687EAEDA239882B0D01B7B9B630E963D3D9C6F">
+        <Link SHA256="E354058D15193D900C2AE435204E8CC83540E205BFA7CD94FBA601B55CA64338">
             <![CDATA[https://github.com/jngo102/HoGExtras/releases/download/1.0.0.0/HoGExtras.zip]]>
         </Link>
         <Dependencies>
