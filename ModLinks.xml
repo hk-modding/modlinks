@@ -803,8 +803,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Custom Knight</Name>
         <Description>Allows changing skins</Description>
         <Version>1.6.0.0</Version>
-        <Link SHA256="7C638199EAF0BDDBE4358FFD9FC5001EE959CAE5CE423E4DB17813942D55AD34">
-            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v1.6.0/CustomKnight.zip]]>
+        <Link SHA256="8f839c8f383652e596ad6d7c4b500c6bb85c62c0f8e0f9fe9ed6a618bc290b6b">
+            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v1.6.0b/CustomKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
