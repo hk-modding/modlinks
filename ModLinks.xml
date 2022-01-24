@@ -869,9 +869,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>FrogCore</Name>
         <Description>Library mod containing stuff for adding journal entries and npcs</Description>
-        <Version>0.0.2.0</Version>
-        <Link SHA256="7152c97698e2c42bec765702a08ba7acd17eb00f696f2054f17f9a12dbf871e1">
-            <![CDATA[https://github.com/mandar1jn/FrogCore/releases/download/0.0.2.0/FrogCore.zip]]>
+        <Version>0.0.2.1</Version>
+        <Link SHA256="64F26D72CF41B533AED3848DA5B5007BC324B6BB844EF4E6A301281EEC98AEDC">
+            <![CDATA[https://github.com/SFGrenade/FrogCore/releases/download/v0.0.1.1/FrogCore.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
