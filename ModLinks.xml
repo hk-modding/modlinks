@@ -250,9 +250,9 @@
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.9.3.0</Version>
-        <Link SHA256="157A1C47A2D2BCD5F6CF6ABB4F261367DA667D8AC9C7DD7E0C2F8B4232BCA6C6">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.3/SkillUpgrades.zip]]>
+        <Version>0.9.4.0</Version>
+        <Link SHA256="04B7276F45EFE60C3D3CF2E6222133000E4D2A8065FB1715EB204D452C7C5F91">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.4/SkillUpgrades.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
