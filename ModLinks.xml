@@ -1144,4 +1144,16 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Vasi</Dependency>
         </Dependencies>
     </Manifest>
+    <Manifest>
+        <Name>BingoBoard</Name>
+        <Description>In-game bingo board display.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="6019b35dfdedb19a8f7aeeb3469d5d9c6e0db512127f91ffe99b5ffbf8725541">
+            <![CDATA[https://github.com/JasonILTG/HollowKnight.BingoBoard/releases/download/1.0.0.0/BingoBoard.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
