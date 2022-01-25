@@ -790,6 +790,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies />
     </Manifest>
+	<Manifest>
+		<Name>MagicUI</Name>
+		<Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
+		<Version>1.0.8060.11819</Version>
+		<Link SHA256="8E34A7A2D4E34FBF56F2A1821C109AB3BE4C4085DC53B0D77B58E670B671A262">
+			<![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.0.8060.11819/MagicUI.zip]]>
+		</Link>
+		<Dependencies />
+	</Manifest>
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
