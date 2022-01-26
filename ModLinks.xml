@@ -1029,9 +1029,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Pantheons Hit Counter</Name>
         <Description>Counts hits in pantheons.</Description>
-        <Version>1.3.1.0</Version>
-        <Link SHA256="EE2F001F72F05BED4CE2E87430DCD90682A8FD78A55B37FFE1B4BD6E4DA5F72A">
-            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.3.1/PantheonsHitCounter.zip]]>
+        <Version>1.3.2.0</Version>
+        <Link SHA256="F92BABEF85B4CE97D38685B08A1638D95F3843D0F9485E63996C8CD929468DED">
+            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.3.2/PantheonsHitCounter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
