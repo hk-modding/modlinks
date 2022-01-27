@@ -1163,6 +1163,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="b84062b646438221deb0980240954b8053b73252231fe525bdec88a200301402">
 			<![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.0.1.4/HKTool.dll]]>
 		</Link>
+    <Dependencies />
     </Manifest>
 	<Manifest>
 		<Name>ShieldParry</Name>
