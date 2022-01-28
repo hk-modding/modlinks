@@ -1167,4 +1167,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
     </Manifest>
+    <Manifest>
+        <Name>HKTool</Name>
+        <Description>A library mod</Description>
+        <Version>1.0.1.5</Version>
+        <Link SHA256="d81346d8350e80b3c63a06a97e25909ce0ce9f83bc82b44cb31da53fc66518bb">
+			<![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.0.1.5/HKTool.dll]]>
+		</Link>
+    <Dependencies />
+    </Manifest>
+	<Manifest>
+		<Name>ShieldParry</Name>
+		<Description>Allows player to use shield in the game</Description>
+		<Version>0.0.0.1</Version>
+		<Link SHA256="f407b484940d2697502687a9241bc3f79bc2db97073e321142fe37ee0e1e34d4">
+			<![CDATA[https://github.com/HKLab/DCParry/releases/download/v0.0.0.1/DCParry.dll]]>
+		</Link>
+		<Dependencies>
+			<Dependency>HKTool</Dependency>
+		</Dependencies>
+	</Manifest>
 </ModLinks>
