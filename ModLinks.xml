@@ -1168,9 +1168,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
 		<Name>ShieldParry</Name>
 		<Description>Allows player to use shield in the game</Description>
-		<Version>0.0.0.0</Version>
-		<Link SHA256="239d6c8a290a7767202ac5c115b4e506436470b3b5b94fae94fedf2b2c4b1926">
-			<![CDATA[https://github.com/HKLab/DCParry/releases/download/v0.0.0.0/DCParry.dll]]>
+		<Version>0.0.0.1</Version>
+		<Link SHA256="f407b484940d2697502687a9241bc3f79bc2db97073e321142fe37ee0e1e34d4">
+			<![CDATA[https://github.com/HKLab/DCParry/releases/download/v0.0.0.1/DCParry.dll]]>
 		</Link>
 		<Dependencies>
 			<Dependency>HKTool</Dependency>
