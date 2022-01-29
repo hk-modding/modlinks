@@ -1148,9 +1148,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ParryKnight</Name>
         <Description>Enemies who can be parried only take damage from parries. Only spells can damage other enemies.</Description>
-        <Version>0.1.4.0</Version>
-        <Link SHA256="f2db5a5a31ec7bf60e051ca98e3c06a0d9ce81cc24f89d96c35ded9e40f5f89d">
-            <![CDATA[https://github.com/AngelSassin/ParryKnight1.5/releases/download/v0.1.4/ParryKnight.zip]]>
+        <Version>0.2.3.0</Version>
+        <Link SHA256="819b83a5b837654f8a3711844d8463b3c7b3ea6d62e36be02436ea3c28f48e35">
+            <![CDATA[https://github.com/AngelSassin/ParryKnight1.5/releases/download/v0.2.3/ParryKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
