@@ -261,9 +261,9 @@
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>0.7.0.0</Version>
-        <Link SHA256="9008EB5B06697E1568F8BA8AF28548D4E8A876A93A052F93E134DFC552C78D2E">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v0.7/CondensedSpoilerLogger.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="313ACFCBC652C05E2AD452E045F423F15505C9AE7BF8BF34F77C8C01307B6F23">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.0.1/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -284,8 +284,8 @@
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
         <Version>1.0.2.0</Version>
-        <Link SHA256="B7A3CACE2EBB5385DC1291D91BEF3AD16CBF375FC927DDA0CF516D79EA6F0140">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.0.2/RandomizableLevers.zip]]>
+        <Link SHA256="64AE57C357E45B17411428C7CF3A748165985DDF57AA35214A30EEB381A94360">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.0.3/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
