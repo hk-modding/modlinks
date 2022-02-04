@@ -1098,7 +1098,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="38dafedf2fde8241900b31258f86151d184a02f231c9208fa0ed940bd58aca2e">
             <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage/releases/download/Journal/CustomImage.dll]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>ThecurseofSly</Name>
@@ -1107,9 +1109,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="9FD1AFC30E721366A8FE960B5EC999EDB2E716286D91FFC66A6E97A0896B9A30">
             <![CDATA[https://github.com/ygsbzr/HollowKnight.ThecurseofSly/releases/download/1.5-new/TheCurseofSly-2.1-fix.dll]]>
         </Link>
-        <Dependencies>
-            <Dependency>Satchel</Dependency>
-        </Dependencies>
+        <Dependencies />
     </Manifest>
     <Manifest>
         <Name>FuryMod</Name>
