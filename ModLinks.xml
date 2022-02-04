@@ -1021,9 +1021,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks to enhance your Godhome experience</Description>
-        <Version>0.16.0.0</Version>
-        <Link SHA256="26A15DF66777E81798C69CE9632E569EE571F89E70C7EA67E22539F7EE6BA471">
-            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.16.0]]>
+        <Version>0.17.0.0</Version>
+        <Link SHA256="B09B66B5EF283B96DA0E6AC03EE4AADBDC50DAB9AD02E50E81584C8EAA82627E">
+            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.17.0]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
