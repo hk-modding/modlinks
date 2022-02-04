@@ -67,7 +67,7 @@
         <Name>God Soul</Name>
         <Description>Makes the game really, really hard</Description>
         <Version>1.1.0.0</Version>
-        <Link SHA256="1C32D7BDBADF4B21EF23B50A0DE2BF28DD617FEA533AFE6BD232BC3764541315">
+        <Link SHA256="71E61430ED02137EF052F3BA889402AAEA689958AB52925B358DA3712455C587">
             <![CDATA[https://github.com/Nexade/God-Soul-Mod/releases/download/V1.1/GodSoul.zip]]>
         </Link>
         <Dependencies>
