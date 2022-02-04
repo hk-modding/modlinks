@@ -1094,9 +1094,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>CustomImage</Name>
         <Description>You can change some sprites.</Description>
-        <Version>1.0.0.3</Version>
-        <Link SHA256="3b8802cf929373024b07a9f0e126b2e23819df5ecadd832953826646735436df">
-            <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage/releases/download/1.5.4/CustomImage.dll]]>
+        <Version>1.0.0.4</Version>
+        <Link SHA256="38dafedf2fde8241900b31258f86151d184a02f231c9208fa0ed940bd58aca2e">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage/releases/download/Journal/CustomImage.dll]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -1107,7 +1107,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="9FD1AFC30E721366A8FE960B5EC999EDB2E716286D91FFC66A6E97A0896B9A30">
             <![CDATA[https://github.com/ygsbzr/HollowKnight.ThecurseofSly/releases/download/1.5-new/TheCurseofSly-2.1-fix.dll]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>FuryMod</Name>
