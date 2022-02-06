@@ -709,9 +709,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandomTeleport</Name>
         <Description>A mod that randomly teleports you to another scene</Description>
-        <Version>0.0.3.1</Version>
-        <Link SHA256="450EDD2D04006354B352F5798620CC91217EB36E7E5550A881974583744F88EB">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.RandomTeleport/releases/download/v0.3.1/RandomTeleport.zip]]>
+        <Version>0.0.4.0</Version>
+        <Link SHA256="AC64591ACF6B0E5742F46C2572C60548CD02EE8E4E0B1DF72F32BBFE863C2F85">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.RandomTeleport/releases/download/v0.4/RandomTeleport.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
