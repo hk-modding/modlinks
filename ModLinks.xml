@@ -715,6 +715,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
