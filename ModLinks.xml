@@ -822,13 +822,25 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Custom Knight</Name>
-        <Description>Allows changing skins</Description>
-        <Version>1.6.0.0</Version>
-        <Link SHA256="8f839c8f383652e596ad6d7c4b500c6bb85c62c0f8e0f9fe9ed6a618bc290b6b">
-            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v1.6.0b/CustomKnight.zip]]>
+        <Description>Allows changing skins for the player, enemies, bosses and rooms</Description>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="db429735c36e7915373f4661b759e8a263520cbc0634aed69d1d63fdca0418cb">
+            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.0.0/CustomKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>Asymmetric Knight</Name>
+        <Description>A Custom Knight Addon that allows left and right looking knight sprites to be different.Add a Knight_left.png, Sprint_left.png and Unn_left.png to use.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="10b73c19553ed35ea0a735e4275151773bdc36148ea0b78cba0019075b52fbbb">
+            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.0.0/AsymmetricKnight.dll]]>
+        </Link>
+        <Dependencies>
+	    <Dependency>Satchel</Dependency>
+            <Dependency>Custom Knight</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
