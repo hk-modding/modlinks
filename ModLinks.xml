@@ -261,9 +261,9 @@
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="313ACFCBC652C05E2AD452E045F423F15505C9AE7BF8BF34F77C8C01307B6F23">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.0.1/CondensedSpoilerLogger.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="178C0344A79B2E2DBCFC5FCC9DB6A69C28902E19A7AE73A866978CE495915EC9">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.1.0/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -272,9 +272,9 @@
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="084802248171C77C378719742CE31A37037517DCADE761540E4EE8B2ECC02CA8">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.1.0/RandoPlus.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="EB69F5976915D53DFBEBF6E27B2A7F3FDE7404A7F74B53274E8B2D3DF2088830">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.1.1/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -283,9 +283,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="55B254F17558CA3DC9B44450DC9CCEA7A799AE8DA2C088F5CD0A7FE04EA9AA94">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.1.1/RandomizableLevers.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="C2FEFE2B773199668FDA1385873EF8405B570F944D1DD28EEBFF19D83E9DB090">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.1.2/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -294,9 +294,9 @@
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="94461AC226DA011DB6EB55C36FE89BED83AA448E1AAB2AC3919C0FA8418266B7">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.0/TrandoPlus.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="2F9F83146E2D0FE0A31B29945A6A51892CFC3C6325FA2F6B9D79996ED50901E7">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.2.1/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
