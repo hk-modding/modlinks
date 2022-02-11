@@ -707,8 +707,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		</Dependencies>
 	</Manifest>
     <Manifest>
+        <Name>RandomGravityChange</Name>
+        <Description>A mod that randomly changes gravity periodically or on key press</Description>
+        <Version>0.0.1.3</Version>
+        <Link SHA256="9359F9A1625CB206FD57D1AC88E245679797814DE9276E752C9B042384FE2C00">
+            <![CDATA[https://github.com/TheMulhima/RandomGravityChange/releases/download/v0.0.1.3/RandomGravityChange.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>RandomTeleport</Name>
-        <Description>A mod that randomly teleports you to another scene</Description>
+        <Description>A mod that randomly teleports you to another scene periodically, on key press or on damage</Description>
         <Version>0.0.4.0</Version>
         <Link SHA256="AC64591ACF6B0E5742F46C2572C60548CD02EE8E4E0B1DF72F32BBFE863C2F85">
             <![CDATA[https://github.com/TheMulhima/HollowKnight.RandomTeleport/releases/download/v0.4/RandomTeleport.zip]]>
