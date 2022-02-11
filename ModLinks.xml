@@ -1108,7 +1108,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>CustomImage</Name>
         <Description>You can change some sprites.</Description>
         <Version>1.0.0.6</Version>
+<<<<<<< HEAD
         <Link SHA256="dfe41ab797121fccb154d571190bae31917f0f33b0aaf70b77c8aaca95b49c82">
+=======
+        <Link SHA256="ff311c9927271f73c9ca1d3dfae791b0625d4d2d662a8c99f28665ca99cc932c">
+>>>>>>> main
             <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage/releases/download/1.6.0/CustomImage.dll]]>
         </Link>
         <Dependencies>
