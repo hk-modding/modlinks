@@ -219,9 +219,9 @@
     <Manifest>
         <Name>BingoUI</Name>
         <Description>Automatic tracking of bingo goals for randomizer and speedrun bingo races.</Description>
-        <Version>2.1.2.1</Version>
-        <Link SHA256="D7420E40F291C223123C09CE6FF2742B0B151EFA48017B8A918E3E2FFBFEE998">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.1.2.1/BingoUI.zip]]>
+        <Version>2.1.2.2</Version>
+        <Link SHA256="5CDB06B79CB8275928AEE832BB78D82694A33744CD5250CDCDA41872D416031E">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.1.2.2/BingoUI.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
