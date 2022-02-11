@@ -1236,4 +1236,16 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Vasi</Dependency>
         </Dependencies>
     </Manifest>
+	<Manifest>
+		<Name>UnityExplorerPlus</Name>
+		<Description>A mod that adds functionality to UnityExplorer</Description>
+		<Version>0.0.0.0</Version>
+		<Link SHA256="fde62dbb5271f506283022afd74dc7657db74babc2386584b4942b1ea639e945">
+			<![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.0.0.0/UnityExplorerPlus.dll]]>
+		</Link>
+		<Dependencies>
+			<Dependency>HKTool</Dependency>
+			<Dependency>Unity Explore</Dependency>
+		</Dependencies>
+	</Manifest>
 </ModLinks>
