@@ -1245,7 +1245,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		</Link>
 		<Dependencies>
 			<Dependency>HKTool</Dependency>
-			<Dependency>Unity Explore</Dependency>
+			<Dependency>Unity Explorer</Dependency>
 		</Dependencies>
 	</Manifest>
 </ModLinks>
