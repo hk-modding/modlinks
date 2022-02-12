@@ -971,6 +971,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>SkipToRadiance</Name>
+        <Description>Makes HK instantly go to phase 4 after dying to The Radiance. Useful for practicing modded Radiance or just if you're too slack to fight HK over and over.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="A777BA08101E516D6F73F6D4BC6F4F20AA61D2DEC8CC785F113C1A8227B8DDBC">
+            <![CDATA[https://github.com/Nexade/SkipToRadiance/releases/download/V1.0/SkipToRadiance.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>Toggleable Bindings</Name>
         <Description>Adds the ability to activate/deactivate individual Godhome bindings at any time and lets other developers create custom bindings easier.</Description>
         <Version>0.1.3.0</Version>
