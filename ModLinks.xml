@@ -1269,4 +1269,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 			<Dependency>Unity Explorer</Dependency>
 		</Dependencies>
 	</Manifest>
+	<Manifest>
+		<Name>Dead Cells Barrel Launcher</Name>
+		<Description>Change the knight's weapon to Barrel Launcher</Description>
+		<Version>0.0.0.0</Version>
+		<Link SHA256="e0c38393f9a52d7ce4e7089df56f21e631874a2c9f10bdaa23467a5d05395125">
+			<![CDATA[https://github.com/HKLab/DCBarrelLauncher/releases/download/v0.0.0.0/DCBarrelLauncher.dll]]>
+		</Link>
+		<Dependencies>
+			<Dependency>HKTool</Dependency>
+		</Dependencies>
+	</Manifest>
 </ModLinks>
