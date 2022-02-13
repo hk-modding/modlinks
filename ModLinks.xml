@@ -1269,4 +1269,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 			<Dependency>Unity Explorer</Dependency>
 		</Dependencies>
 	</Manifest>
+	<Manifest>
+		<Name>HKTimer</Name>
+		<Description>An in game timer mod for 1.5</Description>
+		<Version>0.1.0.0</Version>
+		<Link SHA256="527A353A809E96263E4F5FAD3048B441A0023837D2DA021E9D0B9DE316440427">
+			<![CDATA[https://github.com/Yurihaia/HollowKnight-Timer/releases/download/v0.1.0/HKTimer-1.5.dll]]>
+		</Link>
+		<Dependencies>
+		</Dependencies>
+	</Manifest>
 </ModLinks>
