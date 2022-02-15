@@ -250,9 +250,9 @@
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.9.4.1</Version>
-        <Link SHA256="2EE10A77211BF0CEDEC0C34CBB23D4772DB7EABDBCE405A1C51864F8F82EA40D">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.4.1/SkillUpgrades.zip]]>
+        <Version>0.9.4.2</Version>
+        <Link SHA256="42D27EE651DD10F389697F0EB2A172BAB466880F70D7C9E5A0DAF694567CF1D0">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.4.2/SkillUpgrades.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -283,9 +283,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="C2FEFE2B773199668FDA1385873EF8405B570F944D1DD28EEBFF19D83E9DB090">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.1.2/RandomizableLevers.zip]]>
+        <Version>1.1.2.1</Version>
+        <Link SHA256="3B71E1C140923B0E11D18AFDF271161C960ABEBF6E431E18C941B6B20A4987D4">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.1.2.1/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
