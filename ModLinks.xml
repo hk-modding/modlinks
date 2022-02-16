@@ -1289,4 +1289,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		</Link>
 		<Dependencies />
 	</Manifest>
+    <Manifest>
+        <Name>SeedSummon</Name>
+        <Description>A mod you can summon lifeseed!</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="a7da4680976c04bbeb1cbb61a2ab42323e23b098825a1c1c6f58174715795ebf">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.seedSummon/releases/download/1.0/SeedSummon.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
