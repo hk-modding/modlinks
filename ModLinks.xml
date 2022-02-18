@@ -529,9 +529,9 @@
     <Manifest>
         <Name>EnemyChanger</Name>
         <Description>Allows to dump and replace enemy textures. Refer to the readme on how to do that.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="043D3E2B3DBA10C45A5961F8C7D63EFC22C59A4B4B4AAE6838D9A2B396589055">
-            <![CDATA[https://github.com/SFGrenade/EnemyChanger/releases/download/v1.5.1/EnemyChanger.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="F1193A62CF17066B449C096CB5ECBAAE4528D6DD5EB97BDB756074E22AB77AF0">
+            <![CDATA[https://github.com/SFGrenade/EnemyChanger/releases/download/v1.5.2/EnemyChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
