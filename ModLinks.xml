@@ -20,6 +20,15 @@
 	</Manifest>
 	-->
     <Manifest>
+        <Name>SteelSoulHUD</Name>
+        <Description>Enables the Steel Soul HUD in normal mode.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="C411A892B6409537EF01625EE3B42722D4C0FBA4F051316096939CE0DD46A7AF">
+            <![CDATA[https://github.com/dpinela/SteelSoulHUD/releases/download/v1.0/SteelSoulHUD.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
         <Version>4.1.0.0</Version>
