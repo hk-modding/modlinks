@@ -1309,4 +1309,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Satchel</Dependency>
         </Dependencies>
     </Manifest>
+	    <Manifest>
+        <Name>Negative Nail</Name>
+        <Description>Makes your nail do negative damage forcing you to rely on spells. Recommended you play with Enemy HP Bar mod.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="feb97537bf83f2afd691add41e27757df7848730d8a46e03ba46519ef25dd587">
+            <![CDATA[https://github.com/Nexade/NegativeNail/releases/download/V1.0/NegativeNail.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
 </ModLinks>
