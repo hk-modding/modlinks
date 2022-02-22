@@ -1325,5 +1325,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="2b04132c3b1557978032adaa0fe4b94788ac3053a98b683da108deb51346e903">
             <![CDATA[https://github.com/AngelSassin/Abskoth/releases/download/v1.0/Abskoth.zip]]>
         </Link>
+	<Dependencies />
     </Manifest>
 </ModLinks>
