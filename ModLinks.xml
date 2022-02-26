@@ -703,18 +703,18 @@ Enjoy!</Description>
         <Dependencies />
     </Manifest>
     <Manifest>
-		<Name>Test of Teamwork</Name>
-		<Description>Adds a Path of Pain style section to the White Palace.
+        <Name>Test of Teamwork</Name>
+        <Description>Adds a Path of Pain style section to the White Palace.
 Start by talking to people in and around dirtmouth.
 This is a singleplayer mod. The "teamwork" refers to in-game events.</Description>
-		<Version>1.5.76.57640</Version>
-		<Link SHA256="87ECF6401AAE0F4FB701FDA79727D187F03692E29E7D317F65729CA5EB3DD198">
+        <Version>1.5.76.57640</Version>
+        <Link SHA256="87ECF6401AAE0F4FB701FDA79727D187F03692E29E7D317F65729CA5EB3DD198">
             <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/releases/download/v1.5.76.57640/TestOfTeamwork.zip]]>
-		</Link>
-		<Dependencies>
-			<Dependency>SFCore</Dependency>
-		</Dependencies>
-	</Manifest>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+    </Manifest>
     <Manifest>
         <Name>RandomGravityChange</Name>
         <Description>A mod that randomly changes gravity periodically or on key press.</Description>
@@ -824,15 +824,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies />
     </Manifest>
-	<Manifest>
-		<Name>MagicUI</Name>
-		<Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-		<Version>1.0.8060.11819</Version>
-		<Link SHA256="8E34A7A2D4E34FBF56F2A1821C109AB3BE4C4085DC53B0D77B58E670B671A262">
-			<![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.0.8060.11819/MagicUI.zip]]>
-		</Link>
-		<Dependencies />
-	</Manifest>
+    <Manifest>
+        <Name>MagicUI</Name>
+        <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
+        <Version>1.0.8060.11819</Version>
+        <Link SHA256="8E34A7A2D4E34FBF56F2A1821C109AB3BE4C4085DC53B0D77B58E670B671A262">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.0.8060.11819/MagicUI.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
@@ -861,7 +861,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.0.0/AsymmetricKnight.dll]]>
         </Link>
         <Dependencies>
-	    <Dependency>Satchel</Dependency>
+        <Dependency>Satchel</Dependency>
             <Dependency>Custom Knight</Dependency>
         </Dependencies>
     </Manifest>
@@ -1240,21 +1240,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>A library mod</Description>
         <Version>1.2.0.0</Version>
         <Link SHA256="337CC65A31A73829B1BBF0ABD6EAD31D0A9F182F8B7086AC6045667FCBA2DBB8">
-			<![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/1.2.0.0/HKTool.dll]]>
-		</Link>
-    <Dependencies />
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/1.2.0.0/HKTool.dll]]>
+        </Link>
+        <Dependencies />
     </Manifest>
-	<Manifest>
-		<Name>ShieldParry</Name>
-		<Description>Allows player to use shield in the game</Description>
-		<Version>0.0.0.2</Version>
-		<Link SHA256="5e69f89e73d9db65505f123676c2ee4cb070d8d914d23a8fa5c9218dacd104c1">
-			<![CDATA[https://github.com/HKLab/DCParry/releases/download/v0.0.0.2/DCParry.dll]]>
-		</Link>
-		<Dependencies>
-			<Dependency>HKTool</Dependency>
-		</Dependencies>
-	</Manifest>
+    <Manifest>
+        <Name>ShieldParry</Name>
+        <Description>Allows player to use shield in the game</Description>
+        <Version>0.0.0.2</Version>
+        <Link SHA256="5e69f89e73d9db65505f123676c2ee4cb070d8d914d23a8fa5c9218dacd104c1">
+            <![CDATA[https://github.com/HKLab/DCParry/releases/download/v0.0.0.2/DCParry.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+    </Manifest>
     <Manifest>
         <Name>ChangeHud</Name>
         <Description>A mod let you can use different kinds of huds in same mode.</Description>
@@ -1266,38 +1266,38 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Vasi</Dependency>
         </Dependencies>
     </Manifest>
-	<Manifest>
-		<Name>UnityExplorerPlus</Name>
-		<Description>A mod that adds functionality to UnityExplorer</Description>
-		<Version>0.0.2.0</Version>
-		<Link SHA256="aad1be76505bc552a520b5c3a1c4124b08b78db45a7a2f1648c1f2a9f4af9dd5">
-			<![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.0.2.0/UnityExplorerPlus.dll]]>
-		</Link>
-		<Dependencies>
-			<Dependency>HKTool</Dependency>
-			<Dependency>Unity Explorer</Dependency>
-		</Dependencies>
-	</Manifest>
-	<Manifest>
-		<Name>Dead Cells Barrel Launcher</Name>
-		<Description>Change the knight's weapon to Barrel Launcher</Description>
-		<Version>0.0.0.0</Version>
-		<Link SHA256="e0c38393f9a52d7ce4e7089df56f21e631874a2c9f10bdaa23467a5d05395125">
-			<![CDATA[https://github.com/HKLab/DCBarrelLauncher/releases/download/v0.0.0.0/DCBarrelLauncher.dll]]>
-		</Link>
-		<Dependencies>
-			<Dependency>HKTool</Dependency>
-		</Dependencies>
-	</Manifest>
-  <Manifest>
-		<Name>HKTimer</Name>
-		<Description>An in game timer mod for 1.5</Description>
-		<Version>0.1.0.0</Version>
-		<Link SHA256="527A353A809E96263E4F5FAD3048B441A0023837D2DA021E9D0B9DE316440427">
-			<![CDATA[https://github.com/Yurihaia/HollowKnight-Timer/releases/download/v0.1.0/HKTimer-1.5.dll]]>
-		</Link>
-		<Dependencies />
-	</Manifest>
+    <Manifest>
+        <Name>UnityExplorerPlus</Name>
+        <Description>A mod that adds functionality to UnityExplorer</Description>
+        <Version>0.0.2.0</Version>
+        <Link SHA256="aad1be76505bc552a520b5c3a1c4124b08b78db45a7a2f1648c1f2a9f4af9dd5">
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.0.2.0/UnityExplorerPlus.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+            <Dependency>Unity Explorer</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>Dead Cells Barrel Launcher</Name>
+        <Description>Change the knight's weapon to Barrel Launcher</Description>
+        <Version>0.0.0.0</Version>
+        <Link SHA256="e0c38393f9a52d7ce4e7089df56f21e631874a2c9f10bdaa23467a5d05395125">
+            <![CDATA[https://github.com/HKLab/DCBarrelLauncher/releases/download/v0.0.0.0/DCBarrelLauncher.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>HKTimer</Name>
+        <Description>An in game timer mod for 1.5</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="527A353A809E96263E4F5FAD3048B441A0023837D2DA021E9D0B9DE316440427">
+            <![CDATA[https://github.com/Yurihaia/HollowKnight-Timer/releases/download/v0.1.0/HKTimer-1.5.dll]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
     <Manifest>
         <Name>SeedSummon</Name>
         <Description>A mod you can summon lifeseed!</Description>
@@ -1309,7 +1309,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Satchel</Dependency>
         </Dependencies>
     </Manifest>
-	    <Manifest>
+    <Manifest>
         <Name>Negative Nail</Name>
         <Description>Makes your nail do negative damage forcing you to rely on spells. Recommended you play with Enemy HP Bar mod.</Description>
         <Version>1.0.0.0</Version>
@@ -1325,7 +1325,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="2b04132c3b1557978032adaa0fe4b94788ac3053a98b683da108deb51346e903">
             <![CDATA[https://github.com/AngelSassin/Abskoth/releases/download/v1.0/Abskoth.zip]]>
         </Link>
-	<Dependencies />
+        <Dependencies />
     </Manifest>
     <Manifest>
         <Name>DumbEnemy</Name>
@@ -1334,17 +1334,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="f83496f0aa027aadf6f644737fe0520c3210d5e89d9043d08be42107f90fc252">
             <![CDATA[https://github.com/ygsbzr/HollowKnight.DumbEnemy/releases/download/v1.0/Dumb.dll]]>
         </Link>
-	<Dependencies />
-  </Manifest>
-  <Manifest>
-	<Name>Dead Cells The Queen</Name>
-	<Description>Replaced Grimm in Godhome with The Queen in Dead Cells</Description>
-	<Version>0.0.0.0</Version>
-	<Link SHA256="a7dbc69ccf10d83d239d3e8db5bb78acaf765dd046d8f6d44ff6f470410257f6">
-		<![CDATA[https://github.com/HKLab/DCQueen/releases/download/0.0.0.0/Queen.zip]]>
-	</Link>
-	<Dependencies>
-		<Dependency>HKTool</Dependency>
-	</Dependencies>
-  </Manifest>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>Dead Cells The Queen</Name>
+        <Description>Replaced Grimm in Godhome with The Queen in Dead Cells</Description>
+        <Version>0.0.0.0</Version>
+        <Link SHA256="a7dbc69ccf10d83d239d3e8db5bb78acaf765dd046d8f6d44ff6f470410257f6">
+            <![CDATA[https://github.com/HKLab/DCQueen/releases/download/0.0.0.0/Queen.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
