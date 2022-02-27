@@ -98,7 +98,7 @@
         <Name>Mantis Gods</Name>
         <Description>Significantly buffs the Mantis Lords fight.</Description>
         <Version>1.2.0.0</Version>
-        <Link SHA256="B614AF6A8E69568F2900F5AEF08AC8256F4C21EF744CD94544CD898127ABE9AD">
+        <Link SHA256="6625FD914B4478105AE4F4D44D83759A93D38024FEBF7FCA5519FCE12B6CD09E">
             <![CDATA[https://github.com/fifty-six/HollowKnight.Mantis-Gods/releases/download/v1.2/Mantis.Gods.zip]]>
         </Link>
         <Dependencies>
