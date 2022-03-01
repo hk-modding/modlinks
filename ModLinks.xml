@@ -334,18 +334,18 @@
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.1.2.0</Version>
-        <Link SHA256="B01315A8E88926446BF202F4C4B69B367D1DDE182BF543B6B47800F5B9FF5A16">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.2.0/Benchwarp.zip]]>
+        <Version>3.1.4.0</Version>
+        <Link SHA256="1172C47A43150AA64BBF3CE45E164ED1EDD4F993F64EF6FC6CB0F34AB12700C8">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.4.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.0.2.0</Version>
-        <Link SHA256="4840469FE6E361316A75531C58426984EC2DCAFE28E7D3C3E3662DC789B71075">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.2/RandomizerMod.zip]]>
+        <Version>4.0.3.0</Version>
+        <Link SHA256="3CEB92F9BA322C06E77CD6FDC433095929EFD27A03479C752F653481923457D2">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.3%2B056/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -358,36 +358,36 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.2.0</Version>
-        <Link SHA256="71FF23DD0A98FAD5B5697CBF343B71DA30B1916BC1F6B30EB3738180857474BB">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.2/ItemChanger.zip]]>
+        <Version>2.0.3.0</Version>
+        <Link SHA256="E26A368EB098A4F0813B7FB6D8EF820CF4933551516E0B5E6A2B6FE549C0C632">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.3%2B470/ItemChanger.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>MenuChanger</Name>
         <Description>Mod which handles editing the main menu for other mods.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="2508938215256CDF12D857E1583E2B24E0346A6D42310A7F15365E4950073BFE">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.1/MenuChanger.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="4B466CA5301E64762D2DD8915B9F2D68907E28239FF06BAA39DF79A5E968BB03">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.2%2B277/MenuChanger.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="C9D9B951C5CADE6096DBE81A723740C6C2A88F0DA9B1565E6D65CCD8126309D4">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.2/RandomizerCore.zip]]>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="2389E2DA8E8F313C7496B25FE6F91D93D5FDF72873E5E2BFEAE0A50F4F8C2574">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.3/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>CustomPoolInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined item pools for randomizing different item combinations.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="77D7C34E67A8D4C81719B0306D5D01345CE60C9C720C2B5720E54B4D29B604ED">
-            <![CDATA[https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.0.1/CustomPoolInjector.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="80784C5928C4C12CF0D48D095A03C51069CF3BED22E1D637302C3F81C747EF67">
+            <![CDATA[https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.0.2/CustomPoolInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -396,9 +396,9 @@
     <Manifest>
         <Name>CustomLogicInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined logic edits.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="F0BDEEAF81CE4E4B94752938DB05A8BFCDA1F201CB89DA1F67030C318655884A">
-            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.0.0/CustomLogicInjector.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="8F3D19FFD2EF0886534F93D3E3459D492C21CF3A7E3A4D64CB729F93C0B5BAEA">
+            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.0.1/CustomLogicInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -407,9 +407,9 @@
     <Manifest>
         <Name>CustomGroupInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined item groups for different split group randomizer options.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="09EA41D8C397B88D43848D561B5389574399F3349501CD8E0007E1ACEAED174E">
-            <![CDATA[https://github.com/homothetyhk/CustomGroupInjector/releases/download/v1.0.0/CustomGroupInjector.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="97953B441641361C41A2B8C0F30DBA022BF751A718004111A721129C8BB0DC03">
+            <![CDATA[https://github.com/homothetyhk/CustomGroupInjector/releases/download/v1.0.1/CustomGroupInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
