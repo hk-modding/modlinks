@@ -1189,8 +1189,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>DecorationMaster</Name>
         <Description>A mod for making area harder by adding spike and saw</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="a41eb5330596fd6163112b60f3430e2fbe78f6bb6a44b9a8d6e7604e874407bd">
-            <![CDATA[https://github.com/ygsbzr/HollowKnight.Decoration/releases/download/1.5beta/DecorationMaster.dll]]>
+        <Link SHA256="2b7e0dae6fab5316f899a5fc723c604e10ef7d332e8a72aae6f625160f7fab9c">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.Decoration/releases/download/1.5zip/Decoration.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
