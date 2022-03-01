@@ -475,14 +475,14 @@
     <Manifest>
         <Name>Randomizer Map S</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>2.2.0.0</Version>
-        <Link SHA256="d5d0d68d3d7a03f3840e97f50c7c07d70184923896b547242fbf96239d5226f1">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.2.0/MapModS.zip]]>
+        <Version>2.3.0.0</Version>
+        <Link SHA256="9465f0d96ac8b3f457a80298836472b3cbc59ec69a30403e1efb94191f0b99e0">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.3.0/MapModS.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>RandomizerCore</Dependency>
-            <Dependency>Benchwarp</Dependency>
+            <Dependency>ItemChanger</Dependency>
             <Dependency>Vasi</Dependency>
         </Dependencies>
     </Manifest>
@@ -1086,9 +1086,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>1.0.3.0</Version>
-        <Link SHA256="73dc74d68793fd2f9064e4ff6734fd51a6e50e8f2e267102600d5ee1cb6756a9">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.3/VanillaMapMod.zip]]>
+        <Version>1.0.4.0</Version>
+        <Link SHA256="bd2d9676f3f9fb206b65a966062c2e2b7b4a8df88274bf627042ccbaa3f4446b">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.4/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
