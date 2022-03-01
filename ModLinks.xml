@@ -643,7 +643,7 @@
         <Name>NeverMuffle</Name>
         <Description>Removes the muffling sound effect when taking damage.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256="B3372970F9C88C6B49B215A4D01642EC507BE83697425DF5DC3CAAFFC48E2E32">
+        <Link SHA256="b14e6174a37cb08def7d52c3c3b392e54b3e26b9fbdf989d2fc322b778787d15">
             <![CDATA[https://github.com/SFGrenade/NeverMuffle/releases/download/v1.5/NeverMuffle.zip]]>
         </Link>
         <Dependencies />
@@ -761,7 +761,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="595A81D2EF30A3F24E0128D3AC4CBDEF521625C673E19A1C75C7B8AEF92C002B">
+        <Link SHA256="29dc0ff12b1ba4217bf05c55250a2483d9607e719f1dc85c18ad26c33cdd4bb7">
             <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.0.0.0/WeaverCore.zip]]>
         </Link>
         <Dependencies />
@@ -770,7 +770,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Inferno King Grimm</Name>
         <Description>A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu</Description>
         <Version>4.1.0.0</Version>
-        <Link SHA256="4251157386DD182FB074944C2B2E6AC0722D04474A9505F4D0F54E6681743E9B">
+        <Link SHA256="0093207928c291b37f566e7db6bf640897785d11f47dd7dd01ac38e13d2c3e5a">
             <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.1.0.0/InfernoKingGrimm.zip]]>
         </Link>
         <Dependencies>
@@ -781,7 +781,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Corrupted Kin</Name>
         <Description>A mod that significantly changes up the Lost Kin bossfight</Description>
         <Version>1.2.0.0</Version>
-        <Link SHA256="CF1C23FCA2561268F86422DA669DB235498237E08E1FDC59471A584EAA4381B9">
+        <Link SHA256="93470a74d08ae8a6b8db604772fe4bd3a251be80d8858a665a01e3f0fca1fcf4">
             <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.2.0.0/CorruptedKin.zip]]>
         </Link>
         <Dependencies>
