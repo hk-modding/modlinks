@@ -43,7 +43,7 @@
         <Name>AsciiCamera</Name>
         <Description>Applies a shader to the camera which makes the game output as ascii characters.</Description>
         <Version>2.1.0.0</Version>
-        <Link SHA256="7169219D39F62E5F446A4FDB003A07BE9D80812A373487FE50707BF6A4C11B14">
+        <Link SHA256="C0A62A17F48896EB1F5DE825D2C0FE84A8D07B54348777253DF6C5ECDF1D6E1C">
             <![CDATA[https://github.com/fifty-six/HollowKnight.AsciiCamera/releases/download/v2.1/AsciiCamera.zip]]>
         </Link>
         <Dependencies>
@@ -97,9 +97,9 @@
     <Manifest>
         <Name>Mantis Gods</Name>
         <Description>Significantly buffs the Mantis Lords fight.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="B614AF6A8E69568F2900F5AEF08AC8256F4C21EF744CD94544CD898127ABE9AD">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.Mantis-Gods/releases/download/v1.1/Mantis.Gods.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="6625FD914B4478105AE4F4D44D83759A93D38024FEBF7FCA5519FCE12B6CD09E">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Mantis-Gods/releases/download/v1.2/Mantis.Gods.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -643,7 +643,7 @@
         <Name>NeverMuffle</Name>
         <Description>Removes the muffling sound effect when taking damage.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256="16188DCD98860FCE814F075966936B434F8FAC7A1556881FFD8CD29A1030E40A">
+        <Link SHA256="B3372970F9C88C6B49B215A4D01642EC507BE83697425DF5DC3CAAFFC48E2E32">
             <![CDATA[https://github.com/SFGrenade/NeverMuffle/releases/download/v1.5/NeverMuffle.zip]]>
         </Link>
         <Dependencies />
@@ -697,7 +697,7 @@ Enjoy!</Description>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
         <Version>1.5.2.4</Version>
-        <Link SHA256="31F4DA8B55936A6CF499BF517D05EDE005BFDD39F4B606E3FC13E9BBA39F7256">
+        <Link SHA256="EBA86B67FC1CE08198E3B011DD2532D0ABCECAF68478F5CD599825C2A95609C2">
             <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.2.4/SFCore.zip]]>
         </Link>
         <Dependencies />
@@ -846,7 +846,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Custom Knight</Name>
         <Description>Allows changing skins for the player, enemies, bosses and rooms</Description>
         <Version>2.0.0.0</Version>
-        <Link SHA256="db429735c36e7915373f4661b759e8a263520cbc0634aed69d1d63fdca0418cb">
+        <Link SHA256="6546EF2C92511145B3D3CAC427A8D7845C28657FEF7121401A9185FB042205B0">
             <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.0.0/CustomKnight.zip]]>
         </Link>
         <Dependencies>
@@ -907,7 +907,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Memesong</Name>
         <Description>Play some meme audio clips as you play (can add or remove clips to make stream friendly)</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256="4abf4a36f447db22bd1f635c5d2f3ed01069cca8f2c7d83a14805972755dfb36">
+        <Link SHA256="87b5b70760556884519f0fde957259091d7fec20f791aafac1f8ad07f4a3e330">
             <![CDATA[https://github.com/yoink-city/memesong/releases/download/v1.5.0b/Memesong.dll]]>
         </Link>
         <Dependencies />
@@ -1056,7 +1056,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Discord Rich Presence</Name>
         <Description>Formerly known as "HollowKnightDRPC", this mod adds detailed game status to your Discord profile (when clicked on the username).</Description>
         <Version>1.1.0.0</Version>
-        <Link SHA256="2FE502A1B30F0DA1C0B16A75095B016CD81BE9C5A6C59EDE9505938897441D2E">
+        <Link SHA256="2cc184f4a6c923b71c4ac71371c91f4a4c783ae9e33287f397a120ad276978eb">
             <![CDATA[https://github.com/KaanGaming/HollowKnightDRPC/releases/download/1.1.0/HollowKnightDRPC.zip]]>
         </Link>
         <Dependencies />
@@ -1238,9 +1238,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="337CC65A31A73829B1BBF0ABD6EAD31D0A9F182F8B7086AC6045667FCBA2DBB8">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/1.2.0.0/HKTool.dll]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="6DD1457A7C5D0CB03C448A973769FD0C1DC93C665BFD82AD90208FBAEF77D2FC">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.2.1.0/HKTool.dll]]>
         </Link>
         <Dependencies />
     </Manifest>
