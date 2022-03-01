@@ -21,3 +21,16 @@ jobs:
         run: xmllint --noblanks ModLinks.xml --schema Schemas/ModLinks.xml
       - name: Validate APILinks
         run: xmllint --noblanks ApiLinks.xml --schema Schemas/ApiLinks.xml
+
+  verify:
+    needs: [build]
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup ModLinksShaVerifier
+        run: Invoke-WebRequest -Uri "https://github.com/SFGrenade/ModLinksShaVerifier/releases/download/v1.0/ModLinksShaVerifier.exe" -OutFile "ModLinksShaVerifier.exe"
+      - name: Verify APILinks SHAs
+        run: .\ModLinksShaVerifier.exe ApiLinks.xml
+      - name: Verify ModLinks.xml SHAs
+        run: .\ModLinksShaVerifier.exe ModLinks.xml
