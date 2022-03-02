@@ -819,10 +819,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Enemy HP Bar</Name>
         <Description>Adds a customizable HP bar to every enemy and boss in the game.</Description>
         <Version>2.2.0.0</Version>
-        <Link SHA256="298C2A96A69F2E2C3BF0199D2105F0956DEE9B9EC14E5124F9109BDC7028860B">
-            <![CDATA[https://github.com/ricardosouzag/Enemy-HP-Bars/releases/download/v2.2.0/EnemyHPBar.zip]]>
+        <Link SHA256="f1463d3cf81d9b8ad7d3b0fe9d2471ddbd9ede4732db2832401a99c6e92d8f85">
+            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/menu/EnemyHPBar.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>MagicUI</Name>
