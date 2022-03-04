@@ -1360,9 +1360,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DumbEnemy</Name>
         <Description>Make Enemy and their attack invisible</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="faf3884323454338fd7260b5cc264916d516fe8d1a953969d5bbe177f60e84b2">
-            <![CDATA[https://github.com/ygsbzr/HollowKnight.DumbEnemy/releases/download/v1.1/Dumb.dll]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="59c928861cc170d8065c99465d0405b203ad91ad6b2a89b775dfe1fa1cb9268c">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.DumbEnemy/releases/download/v1.2/Dumb.dll]]>
         </Link>
         <Dependencies />
     </Manifest>
