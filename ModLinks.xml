@@ -818,9 +818,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Enemy HP Bar</Name>
         <Description>Adds a customizable HP bar to every enemy and boss in the game.</Description>
-        <Version>2.2.1.0</Version>
-        <Link SHA256="f1463d3cf81d9b8ad7d3b0fe9d2471ddbd9ede4732db2832401a99c6e92d8f85">
-            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/menu/EnemyHPBar.zip]]>
+        <Version>3.0.1.0</Version>
+        <Link SHA256="ff31da95964ebd02f662f99f7af7b91fbd9233a0f71a7fceb1590bfcb1b6b213">
+            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/v3.0.1/EnemyHPBar.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1360,9 +1360,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DumbEnemy</Name>
         <Description>Make Enemy and their attack invisible</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="faf3884323454338fd7260b5cc264916d516fe8d1a953969d5bbe177f60e84b2">
-            <![CDATA[https://github.com/ygsbzr/HollowKnight.DumbEnemy/releases/download/v1.1/Dumb.dll]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="59c928861cc170d8065c99465d0405b203ad91ad6b2a89b775dfe1fa1cb9268c">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.DumbEnemy/releases/download/v1.2/Dumb.dll]]>
         </Link>
         <Dependencies />
     </Manifest>
