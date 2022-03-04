@@ -1114,6 +1114,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>HealthShare</Name>
+        <Description>Let some bosses use shared health and provide health sharing API</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="3439A0FD6AB9CA7304ED9BCB63B566F57077F2975323FE1FDB828A32442CC4F7">
+            <![CDATA[https://jmp.clazex.net/hk-mod/health-share/v0.1.0]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
         <Version>1.0.4.0</Version>
