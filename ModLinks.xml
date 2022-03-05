@@ -1386,4 +1386,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>HKTool</Dependency>
         </Dependencies>
     </Manifest>
+    <Manifest>
+        <Name>ShadeControl</Name>
+        <Description>A DebugAddition make you can control shade spell</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="4415be9ee2abd2a82a566231f11beea8d1e9bf165d3a041ae27c803e33183030">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.ShadeControl/releases/download/v1.0/ShadeControl.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>DebugMod</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
