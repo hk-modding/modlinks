@@ -1116,9 +1116,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.18.0.0</Version>
-        <Link SHA256="3CDFCAE612D20137B1871E8F06FE4A35E37564F92FDBB6E98F5242399212F5E9">
-            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.18.0]]>
+        <Version>0.18.1.0</Version>
+        <Link SHA256="F46433F737D0417A10AEE98252DB345DCF76BD066B736D7360704FB8EDB83604">
+            <![CDATA[https://jmp.clazex.net/hk-mod/god-seeker-plus/v0.18.1]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1138,9 +1138,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HealthShare</Name>
         <Description>Let some bosses use shared health and provide health sharing API</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="3439A0FD6AB9CA7304ED9BCB63B566F57077F2975323FE1FDB828A32442CC4F7">
-            <![CDATA[https://jmp.clazex.net/hk-mod/health-share/v0.1.0]]>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="E92D1939A24B84326952578B2909121F6B459097DE27EEF9A043BAFE03C80626">
+            <![CDATA[https://jmp.clazex.net/hk-mod/health-share/v0.1.1]]>
         </Link>
         <Dependencies />
     </Manifest>
