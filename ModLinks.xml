@@ -259,9 +259,9 @@
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.9.4.2</Version>
-        <Link SHA256="42D27EE651DD10F389697F0EB2A172BAB466880F70D7C9E5A0DAF694567CF1D0">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.4.2/SkillUpgrades.zip]]>
+        <Version>0.9.4.3</Version>
+        <Link SHA256="3FA8C87E50F08F2EE787631EA2A338E3B71D26E58EBADEA053A1A4183B529238">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.4.3/SkillUpgrades.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -281,9 +281,9 @@
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="C094E35BDF9E2A3435B4B4617C2DB47DF4708B0728DD868948E2C25E1E9CCA19">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.2.0/RandoPlus.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="421D8DF0696D1D182F378AD41A43A6FD376EFACE5AC9D89563C789189B2D9BAC">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.2.1/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -292,9 +292,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.1.2.1</Version>
-        <Link SHA256="3B71E1C140923B0E11D18AFDF271161C960ABEBF6E431E18C941B6B20A4987D4">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.1.2.1/RandomizableLevers.zip]]>
+        <Version>1.1.4.0</Version>
+        <Link SHA256="4DB2339C2D2D25DD5FEB213F4472325BF169D33664E562331A21B14713BE8149">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.1.4/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
