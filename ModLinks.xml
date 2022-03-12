@@ -862,18 +862,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MagicUI</Name>
         <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-        <Version>1.0.8060.11819</Version>
-        <Link SHA256="8E34A7A2D4E34FBF56F2A1821C109AB3BE4C4085DC53B0D77B58E670B671A262">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.0.8060.11819/MagicUI.zip]]>
+        <Version>1.1.8106.41034</Version>
+        <Link SHA256="B1E23F0172A52FA7A0C3436F7D2EE92B675BB7D3DDB987476459222752267FF4">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.1.8106.41034/MagicUI.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>ConnectionMetadataInjector</Name>
         <Description>A core mod to allow randomizer-supplemental mods like RandoStats and MapModS to get custom metadata from connections without requiring hard dependencies.</Description>
-        <Version>1.0.8093.12933</Version>
-        <Link SHA256="63581F56BFC532F5B05B6862BAF20256AE7120F65EF164C4C75E5F971595ED21">
-            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/releases/download/v1.0.8093.12933/ConnectionMetadataInjector.zip]]>
+        <Version>1.1.8106.41043</Version>
+        <Link SHA256="3F738B487D27138511D07639A7BF4EC309243A277D228A7B6E108EDEBD666D2B">
+            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/releases/download/v1.1.8106.41043/ConnectionMetadataInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -884,14 +884,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoStats</Name>
         <Description>A randomizer-supplemental mod that provides detailed check and obtain stats on the completion screen.</Description>
-        <Version>1.0.8095.6910</Version>
-        <Link SHA256="12C9AEC6AB48F945048D567EB94627275D15C3679E0599B0A97EB1A780B56E38">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/releases/download/v1.0.8095.6910/RandoStats.zip]]>
+        <Version>1.1.8106.41552</Version>
+        <Link SHA256="0B500CFF0B4588D1FF44504F442D6C10F1151D268EF307EEF2AED9DBD8EB2EEC">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/releases/download/v1.1.8106.41552/RandoStats.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>RandomizerCore</Dependency>
             <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>MagicUI</Dependency>
         </Dependencies>
