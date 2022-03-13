@@ -430,8 +430,8 @@
         <Name>ItemSync</Name>
         <Description>A RandomizerMod 4 add-on for sharing item pickups between players.</Description>
         <Version>2.2.2.0</Version>
-        <Link SHA256="18C26C8EE9133C4B1E5F3EAF3A061E5FE10061BD09513DE8C0D0C5AF80CB8AEF">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.2.2/ItemSync.zip]]>
+        <Link SHA256="D0AB17EC731B63B330AD97EEF09A4554002135C2EFCA8D54CDB0EB7AEAD43100">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.2.3/ItemSync.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -441,9 +441,9 @@
     <Manifest>
         <Name>MultiWorldLib</Name>
         <Description>A library for ItemSync and MultiWorld network transmission.</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="C7D7192EFDFDCD5FCB047EEBFA58E11A53D62689E1FE247CBB8E5F4FCA5B3444">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.1.1/MultiWorldLib.zip]]>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="346F93DF17E8A495B2576FE608EF5749CA31EE9DC2773F187F5DC0867ADB43C7">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.2.3/MultiWorldLib.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
