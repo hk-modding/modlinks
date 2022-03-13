@@ -327,7 +327,7 @@
         <Description>Add-on for Randomizer 4 that allows you to randomize settings. See the README for info on how to select settings to randomize.</Description>
         <Version>0.1.1.0</Version>
         <Link SHA256="CDF48AA269610C26001B69C2B742C7C749319335881BCF09829E13B5B2CAC606">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizerSettingsRandomizer/releases/tag/v0.1.1]]>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizerSettingsRandomizer/releases/download/v0.1.1/RandomizerSettingsRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
