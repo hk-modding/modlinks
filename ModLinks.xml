@@ -325,12 +325,12 @@
     <Manifest>
         <Name>RandomizerSettingsRandomizer</Name>
         <Description>Add-on for Randomizer 4 that allows you to randomize settings. See the README for info on how to select settings to randomize.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="B19113AA7757E3CA2FC226673E894587362165463CCBD3B0CA2AE23B8610EAF6">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.1/RecentItemsDisplay.zip]]>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="CDF48AA269610C26001B69C2B742C7C749319335881BCF09829E13B5B2CAC606">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizerSettingsRandomizer/releases/tag/v0.1.1]]>
         </Link>
         <Dependencies>
-            <Dependency>ItemChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
