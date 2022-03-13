@@ -871,9 +871,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ConnectionMetadataInjector</Name>
         <Description>A core mod to allow randomizer-supplemental mods like RandoStats and MapModS to get custom metadata from connections without requiring hard dependencies.</Description>
-        <Version>1.1.8106.41043</Version>
-        <Link SHA256="3F738B487D27138511D07639A7BF4EC309243A277D228A7B6E108EDEBD666D2B">
-            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/releases/download/v1.1.8106.41043/ConnectionMetadataInjector.zip]]>
+        <Version>1.1.8107.6258</Version>
+        <Link SHA256="317408B3A964A4A429B726229FA2584A428156D6CE1E019DF3EC5001D5742A65">
+            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/releases/download/v1.1.8107.6258/ConnectionMetadataInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
