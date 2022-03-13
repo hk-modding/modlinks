@@ -1150,9 +1150,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HealthShare</Name>
         <Description>Let some bosses use shared health and provide health sharing API</Description>
-        <Version>0.1.1.0</Version>
-        <Link SHA256="E92D1939A24B84326952578B2909121F6B459097DE27EEF9A043BAFE03C80626">
-            <![CDATA[https://jmp.clazex.net/hk-mod/health-share/v0.1.1]]>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="C564FBE3E4E7723D501F7C7B7BF8A18F5F1A64F798847F95C56F34399B051C1E">
+            <![CDATA[https://jmp.clazex.net/hk-mod/health-share/v0.2.0]]>
         </Link>
         <Dependencies />
     </Manifest>
