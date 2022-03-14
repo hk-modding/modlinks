@@ -1311,9 +1311,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>1.4.11.0</Version>
-        <Link SHA256="053354C65BFEEADD96B082E8A4B1F14B4F563886F0182B29624AB050614C4A7C">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.4.11.0/HKTool.dll]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="5D4D5872E0195FBFCA7683B85BB12E2480FBCFAB3ACA98F54F29E359DF58B74F">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.5.1.0/HKTool.dll]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -1443,9 +1443,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
        <Name>Zote Killer</Name>
        <Description>Allows you to kill the Zote in the Colosseum</Description>
-       <Version>0.0.0.0</Version>
-       <Link SHA256="20b69557765cd841ffb9fe01cc5ccae58221252182290c2cc8467fe8fd4ae00a">
-           <![CDATA[https://github.com/HKLab/ZoteKiller/releases/download/v0.0.0.0/ZoteKiller.dll]]>
+       <Version>0.1.0.0</Version>
+       <Link SHA256="c0e1d68d361f54f551277a77014f013f808150455fad25f4809615211ed7bf4d">
+           <![CDATA[https://github.com/HKLab/ZoteKiller/releases/download/v0.1/ZoteKiller.dll]]>
        </Link>
        <Dependencies>
 	       <Dependency>HKTool</Dependency>
