@@ -248,9 +248,9 @@
     <Manifest>
         <Name>Invincibility Monitor</Name>
         <Description>Grants invincibility in some scenarios.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="E4FD0A617ED94BFAAEFFE38C20F4B217CE80B006C8C8915E35C41C0F049E3286">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.InvincibilityMonitor/releases/download/v1.1.1/InvincibilityMonitor.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="9276AC103E78CC2139CD0242619E419569D5EFD5098AF638A44D46A2411ECE74">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.InvincibilityMonitor/releases/download/v1.2/InvincibilityMonitor.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
