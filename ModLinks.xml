@@ -493,7 +493,7 @@
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>RandomizerCore</Dependency>
-            <Dependency>ItemChanger</Dependency>>
+            <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>Vasi</Dependency>
