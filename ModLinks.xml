@@ -1150,9 +1150,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HealthShare</Name>
         <Description>Let some bosses use shared health and provide health sharing API</Description>
-        <Version>0.2.0.0</Version>
-        <Link SHA256="C564FBE3E4E7723D501F7C7B7BF8A18F5F1A64F798847F95C56F34399B051C1E">
-            <![CDATA[https://jmp.clazex.net/hk-mod/health-share/v0.2.0]]>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="27C175F5EE605862C933E5370DBCA6370B6A00833D307A63034B93B8FD71678C">
+            <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/releases/download/v0.3.0/HealthShare.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
