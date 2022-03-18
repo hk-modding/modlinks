@@ -1157,6 +1157,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Everwatchers</Name>
+        <Description>A mod boss based on Watcher Knights, allowing you to fight all of them simutanuously and add more of them</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="71A2149DC21C2399FB112FCD9BFD0CF4684E9083779B1EEB257A82F4298AB47D">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/releases/download/v0.1.0/Everwatchers.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>HealthShare</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
         <Version>1.0.4.0</Version>
