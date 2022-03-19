@@ -1465,9 +1465,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 <Manifest>
        <Name>Qol Localization</Name>
        <Description>A mod that translates the Qol menu.See https://github.com/HKLab/Qol.Localization/blob/main/README.md for details</Description>
-       <Version>0.0.1.0</Version>
-       <Link SHA256="241ba1565c79562b6734f014d41d4e341cabff78e54c54ddb35d4e80550481ca">
-           <![CDATA[https://github.com/HKLab/Qol.Localization/releases/download/v0.0.1.0/Qol.Localization.zip]]>
+       <Version>0.1.0.0</Version>
+       <Link SHA256="353953938c521afff40c58c7591ebe314b484785a1a9768aa548b9399b878562">
+           <![CDATA[https://github.com/HKLab/Qol.Localization/releases/download/v0.1.0.0/Qol.Localization.dll]]>
        </Link>
        <Dependencies>
 	       <Dependency>HKTool</Dependency>
