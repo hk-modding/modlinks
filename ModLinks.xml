@@ -486,14 +486,16 @@
     <Manifest>
         <Name>Randomizer Map S</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>2.3.0.0</Version>
-        <Link SHA256="9465f0d96ac8b3f457a80298836472b3cbc59ec69a30403e1efb94191f0b99e0">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.3.0/MapModS.zip]]>
+        <Version>2.3.1.0</Version>
+        <Link SHA256="A533149BEB178F334E5D90BBDFD79F02184BA952F6AD65AE6062EC82A02CD692">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.3.1/MapModS.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>RandomizerCore</Dependency>
             <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>Vasi</Dependency>
         </Dependencies>
     </Manifest>
