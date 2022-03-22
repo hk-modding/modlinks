@@ -793,6 +793,19 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>HKMP HealthDisplay</Name>
+        <Description>An addon for HKMP. Displays the amount of health and/or soul other players in the room have</Description>
+        <Version>0.0.2.0</Version>
+        <Link SHA256="B0732E74D290BEF5A222274D5FB9170EA9D7539B1824F35330DF58337AD55FE7">
+            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.2/HKMP_HealthDisplay.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
         <Version>1.0.0.0</Version>
