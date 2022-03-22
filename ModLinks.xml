@@ -1264,9 +1264,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DeathCounter</Name>
         <Description>A cool DeathCounter</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="cff54035084e4cd1fe8542e2b71f945177cc0fffa9931fdf813b2d8d10a41002">
-            <![CDATA[https://github.com/ygsbzr/DeathCounter/releases/download/1.5.78-5/DeathCounter.dll]]>
+        <Version>1.6.0.0</Version>
+        <Link SHA256="81c8ecc8ed18a57b0694ac6e4a0d16d0051aed5ec46cd516b21f9aad334c4e2a">
+            <![CDATA[https://github.com/ygsbzr/DeathCounter/releases/download/1.5.78-6/DeathCounter.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
