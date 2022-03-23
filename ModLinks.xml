@@ -795,9 +795,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP HealthDisplay</Name>
         <Description>An addon for HKMP. Displays the amount of health and/or soul other players in the room have</Description>
-        <Version>0.0.2.0</Version>
-        <Link SHA256="E6C7CA3C845F30D6FE9E912B9107B5D249B5E53738DE990CFC6298B53D24F073">
-            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.2/HKMP_HealthDisplay.zip]]>
+        <Version>0.0.2.1</Version>
+        <Link SHA256="106B4532775D05A5B40E74A2BF1E1F7641F0B8817E43350145C17EEB16F92A28">
+            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.2.1/HKMP_HealthDisplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
