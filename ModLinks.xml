@@ -1171,6 +1171,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Aspidnest</Name>
+        <Description>Adds many unkillable enemies such as Primal Aspids, Crystal Hunters, Loodles, Mantis Petras, Hive Soldiers and Hive Guardians that follow you in the entirety of Hallownest. This mod is configurable to your own liking in the options page of this mod.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="97BCBD2B611614A8EB9B7CE9652F3F71D890F19AC1E5A55D6DB5624F1CBDDE80">
+            <![CDATA[https://github.com/KaanGaming/Aspidnest/releases/download/1.0.0.0/Aspidnest.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
         <Version>0.18.3.0</Version>
