@@ -31,7 +31,7 @@
     <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
-        <Version>4.1.0.0</Version>
+        <Version>4.2.0.0</Version>
         <Link SHA256="55FBBAE4B666D0BB83201A14DE0AF662D417B174F502E0E0F919A012B42B4EE9">
             <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.2/QoL.zip]]>
         </Link>
