@@ -354,9 +354,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.0.4.0</Version>
-        <Link SHA256="ABAEC9640BC303848D3A8B89196FC9491B8CC3F2FB27C88614479E36CF4124F1">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.4%2B469/RandomizerMod.zip]]>
+        <Version>4.0.4.1</Version>
+        <Link SHA256="505A91F8FA2BC7F3345B4E97268DE2C8AC6B7385C4B2A3315DF938DEEAB03408">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.4%2B372/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -369,9 +369,9 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.4.0</Version>
-        <Link SHA256="FC1181C6EF99EE0811C40021418AC04CCA95B58A6142CF513D07B0420A2577B8">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.4%2B410/ItemChanger.zip]]>
+        <Version>2.0.4.1</Version>
+        <Link SHA256="0ABCDB304437CEA927D0D9CAF407539D5390B2869D7162135876171C71D16290">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.4%2B213/ItemChanger.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -396,9 +396,9 @@
     <Manifest>
         <Name>ItemChangerDataLoader</Name>
         <Description>Mod for creating backups of randomizer saves and launching plandos.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="044C1FAC6928C1E3C7263150F4352F96FB7AA0613598436C2DABB476E9D54ADE">
-            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.0.0/ItemChangerDataLoader.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="12430C9A18AE97002BC62518000D0D53A32C77474AE37B167B1E521A8AD752AC">
+            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.0.1/ItemChangerDataLoader.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
