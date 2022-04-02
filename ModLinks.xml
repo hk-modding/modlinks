@@ -1176,7 +1176,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Discord Rich Presence</Name>
         <Description>Formerly known as "HollowKnightDRPC", this mod adds detailed game status to your Discord profile (when clicked on the username).</Description>
         <Version>1.1.1.0</Version>
-        <Link SHA256="BDEC30EED5770B3E4AD4B53346DF204D1800A9DCDF81527AC866F15C05C2CEBB">
+        <Link SHA256="5AA298AF8BF8F19618531BB0F06BA1F673EF9A3659D4B1A9251C524F30AAD861">
             <![CDATA[https://github.com/KaanGaming/HollowKnightDRPC/releases/download/1.1.1/HollowKnightDRPC.zip]]>
         </Link>
         <Dependencies />
