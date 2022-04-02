@@ -1089,6 +1089,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Gatling Aspid</Name>
+        <Description>Makes primal aspids wield gatling miniguns and optionally shoot crystals and grenades.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="7a4ba4b35aa48c757ac0fca229a1c1946571c205d681920db06d4a6842b27d14">
+            <![CDATA[https://github.com/jngo102/GatlingAspid/releases/download/9ab012144e6070c2307a/GatlingAspid.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>SkipToRadiance</Name>
         <Description>Makes HK instantly go to phase 4 after dying to The Radiance. Useful for practicing modded Radiance or just if you're too slack to fight HK over and over.</Description>
         <Version>1.0.0.0</Version>
