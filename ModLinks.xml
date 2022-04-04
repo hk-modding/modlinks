@@ -312,9 +312,9 @@
     <Manifest>
         <Name>RecentItemsDisplay</Name>
         <Description>Add-on for ItemChanger (and Rando) which displays recently obtained pickups in the top-right of the screen.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="B19113AA7757E3CA2FC226673E894587362165463CCBD3B0CA2AE23B8610EAF6">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.1/RecentItemsDisplay.zip]]>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="7A45472A9BFC5C44CA91165E95155CBE3EBDA5EEB375AAA4BC17E6F165D2A2DA">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.1.0.1/RecentItemsDisplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
