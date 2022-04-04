@@ -1337,9 +1337,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DeathCounter</Name>
         <Description>A cool DeathCounter</Description>
-        <Version>1.6.0.0</Version>
-        <Link SHA256="81c8ecc8ed18a57b0694ac6e4a0d16d0051aed5ec46cd516b21f9aad334c4e2a">
-            <![CDATA[https://github.com/ygsbzr/DeathCounter/releases/download/1.5.78-6/DeathCounter.dll]]>
+        <Version>1.8.0.0</Version>
+        <Link SHA256="c1f3ed64e6537e2dd2bd3c39d996e8b0933084059232d01f34a25542e2f8617e">
+            <![CDATA[https://github.com/ygsbzr/DeathCounter/releases/download/1.5.78-8/DeathCounter.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1572,5 +1572,16 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
            <Dependency>QoL</Dependency>
            <Dependency>RecentItemsDisplay</Dependency>
 	    </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>GreatChampion</Name>
+        <Description>A Modboss for failed champion</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="2ba540cc33b6ed471f7c50cc67005191e031ddb57177ac4575f1f5aa03223f9c">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.GreatChampion/releases/download/v1.0/GreatChampion.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
     </Manifest>
 </ModLinks>
