@@ -497,9 +497,9 @@
     <Manifest>
         <Name>Randomizer Map S</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>2.3.3.0</Version>
-        <Link SHA256="6EFBD469B2E2A3D25CB4859C10D1997317104ED1B0928A398DEFE5B17A7ED018">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.3.3/MapModS.zip]]>
+        <Version>2.4.0.0</Version>
+        <Link SHA256="1809B6B5A987FA7B67F3A06E21F0987AF2B5735A479B4C8AA6C6B1639281F577">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.4.0/MapModS.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1590,6 +1590,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Version>1.0.0.0</Version>
         <Link SHA256="2ba540cc33b6ed471f7c50cc67005191e031ddb57177ac4575f1f5aa03223f9c">
             <![CDATA[https://github.com/ygsbzr/HollowKnight.GreatChampion/releases/download/v1.0/GreatChampion.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
+        <Name>OrbTracker</Name>
+        <Description>Points an arrow to the closest Whispering Root orb, and counts how many you have gotten.</Description>
+        <Version>1.1.3.0</Version>
+        <Link SHA256="EA626E2671FFA385647789CBC7564F8AB87C251268609608BDF37A71FDB12EF2">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.OrbTracker/releases/download/v1.1.3/OrbTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
