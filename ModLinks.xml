@@ -1595,4 +1595,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Vasi</Dependency>
         </Dependencies>
     </Manifest>
+	<Manifest>
+        <Name>Cyclone Real Combat</Name>
+        <Description>Removed the learn Cyclone cutscene in and replaced it with real combat</Description>
+        <Version>0.0.0.0</Version>
+        <Link SHA256="a3a6b2c0294a28de26bda4caba4cf14bc80fcea31dce4a25259e158774efa50b">
+            <![CDATA[https://github.com/HKLab/NailMaster/releases/download/v1/NailMaster.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
