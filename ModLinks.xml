@@ -1440,9 +1440,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
-        <Version>0.5.0.0</Version>
-        <Link SHA256="e4281c62e9cf1c52404c87c1e2da6855d14a0489147d1397296d59633517ba67">
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/0.5.0.0/UnityExplorerPlus.zip]]>
+        <Version>0.5.1.0</Version>
+        <Link SHA256="ae006972ecc5a20b63534190942430a0c07eaa0d8b7bcbec2952a4a729b2b607">
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.5.1.0/UnityExplorerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
@@ -1593,6 +1593,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
+	<Manifest>
+        <Name>Cyclone Real Combat</Name>
+        <Description>Removed the learn Cyclone cutscene in and replaced it with real combat</Description>
+        <Version>0.0.0.0</Version>
+        <Link SHA256="a3a6b2c0294a28de26bda4caba4cf14bc80fcea31dce4a25259e158774efa50b">
+            <![CDATA[https://github.com/HKLab/NailMaster/releases/download/v1/NailMaster.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
