@@ -877,9 +877,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Enemy HP Bar</Name>
         <Description>Adds skinnable HP bars to every enemies and bosses in the game.</Description>
-        <Version>3.0.1.0</Version>
-        <Link SHA256="FF31DA95964EBD02F662F99F7AF7B91FBD9233A0F71A7FCEB1590BFCB1B6B213">
-            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/v3.0.1/EnemyHPBar.zip]]>
+        <Version>3.0.2.0</Version>
+        <Link SHA256="88792C0936195EF1B4B688EFFD7257503BFCC8756F9FD0AEBB21678429A6BBE8">
+            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/v3.0.2/EnemyHPBar.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1191,9 +1191,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.19.1.0</Version>
-        <Link SHA256="6CCD3E6AB52AC4463CAF17BA7002A8EFBFBCA8C34B2E8EEADBD71D55AB70DD1F">
-            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.19.1/GodSeekerPlus.zip]]>
+        <Version>0.19.2.0</Version>
+        <Link SHA256="72E7372A0739483D4038470CD75A1E4C7F3CEAE63CC989E10E55BEB15529301E">
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.19.2/GodSeekerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1234,9 +1234,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TribeOfBattle</Name>
         <Description>A boss based on Sisters of Battle and Traitor Lord</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="42824F032BAB84B8884E1B3847755593B8C2806C9C309B60C5F58425335CEBD8">
-            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/releases/download/v1.0.1/TribeOfBattle.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="9FD7EFFB80638036CCF56CFBEABCC40F7F4414637CAA937BFF982A63E2108CBD">
+            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/releases/download/v1.1.0/TribeOfBattle.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1246,9 +1246,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Crystalblobbles</Name>
         <Description>A boss based on Oblobbles</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="D2D2907614E2C2567CD16E088748EF2C6439E387A60A94EF32C06AE8D98474EF">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Crystalblobbles/releases/download/v1.0.0/Crystalblobbles.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="12598C714BFA39F4992973ED7B0BD170238D261194277D5D6CB4D4ED3B727558">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Crystalblobbles/releases/download/v1.0.1/Crystalblobbles.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
