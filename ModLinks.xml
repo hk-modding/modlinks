@@ -877,9 +877,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Enemy HP Bar</Name>
         <Description>Adds skinnable HP bars to every enemies and bosses in the game.</Description>
-        <Version>3.0.1.0</Version>
-        <Link SHA256="FF31DA95964EBD02F662F99F7AF7B91FBD9233A0F71A7FCEB1590BFCB1B6B213">
-            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/v3.0.1/EnemyHPBar.zip]]>
+        <Version>3.0.2.0</Version>
+        <Link SHA256="88792C0936195EF1B4B688EFFD7257503BFCC8756F9FD0AEBB21678429A6BBE8">
+            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/v3.0.2/EnemyHPBar.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
