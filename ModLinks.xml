@@ -828,9 +828,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Inferno King Grimm</Name>
         <Description>A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu</Description>
-        <Version>4.1.0.0</Version>
-        <Link SHA256="0093207928c291b37f566e7db6bf640897785d11f47dd7dd01ac38e13d2c3e5a">
-            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.1.0.0/InfernoKingGrimm.zip]]>
+        <Version>4.1.0.1</Version>
+        <Link SHA256="1f9f4099592a83b519dae951bafa70651757d16264e81a3da826bc05db898838">
+            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.1.0.1/InfernoKingGrimm.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
