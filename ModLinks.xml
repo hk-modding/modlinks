@@ -40,6 +40,18 @@
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Transcendence</Name>
+        <Description>Adds 14 new charms with various abilities. Can be used with the randomizer.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="F2AF8A7181D932731E43177298D3A42012FD0C54E1FA6C15D46E3DB13661EAE4">
+            <![CDATA[https://github.com/dpinela/Transcendence/releases/download/v1.0/Transcendence.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
         <Version>4.2.0.0</Version>
