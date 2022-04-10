@@ -23,7 +23,7 @@
         <Name>PureZote</Name>
         <Description>Enabled Grey Prince Zote to summon Eternal Ordeal and upgraded its skills.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="819cba749e4cdbc2e82b7c50e48df041fd7ebb1469a20b7e60383cd68bf3e703">
+        <Link SHA256="52fa80b5fb01ae7d756f0b9af3958c4f79cb95b826d14a3d5fef2692b77f65a5">
             <![CDATA[https://github.com/yunjord/PureZote/releases/download/1.0/PureZote.zip]]>
         </Link>
         <Dependencies>
