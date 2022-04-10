@@ -1103,9 +1103,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Game Object Dump</Name>
         <Description>Allows extraction of atlases, sprites, and audio clips from game objects in the scene.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="56A94DECDA976A4EA55D6ACF74301444E635193489DEE46C039951C728D590BD">
-            <![CDATA[https://github.com/jngo102/HollowKnight.GODump/releases/download/22-02-2022/GODump.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="7767c1d49d56a8615c3fdbff71647b7946344ee04d07d0079737bdecad37ce79">
+            <![CDATA[https://github.com/jngo102/HollowKnight.GODump/releases/download/af33bfb67a214162071e/GODUmp.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
