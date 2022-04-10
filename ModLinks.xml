@@ -282,18 +282,18 @@
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.9.4.3</Version>
-        <Link SHA256="3FA8C87E50F08F2EE787631EA2A338E3B71D26E58EBADEA053A1A4183B529238">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.4.3/SkillUpgrades.zip]]>
+        <Version>0.9.5.0</Version>
+        <Link SHA256="9D4447CEF5C2C51D6747C73F20C7F58F03153CAAFCA5FB0513953B6B0E84CA5A">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.9.5/SkillUpgrades.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="178C0344A79B2E2DBCFC5FCC9DB6A69C28902E19A7AE73A866978CE495915EC9">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.1.0/CondensedSpoilerLogger.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="25DCB285BF23DD384DF140EA96827EAE9F6E423DABB1AC4A5241B7EEBF48DBDA">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.2.0/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
