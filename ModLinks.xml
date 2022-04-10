@@ -1105,7 +1105,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Allows extraction of atlases, sprites, and audio clips from game objects in the scene.</Description>
         <Version>1.0.0.1</Version>
         <Link SHA256="7767c1d49d56a8615c3fdbff71647b7946344ee04d07d0079737bdecad37ce79">
-            <![CDATA[https://github.com/jngo102/HollowKnight.GODump/releases/download/af33bfb67a214162071e/GODUmp.zip]>
+            <![CDATA[https://github.com/jngo102/HollowKnight.GODump/releases/download/af33bfb67a214162071e/GODUmp.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
