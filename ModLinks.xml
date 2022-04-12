@@ -1111,10 +1111,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Gatling Aspid</Name>
-        <Description>Makes primal aspids wield gatling miniguns and optionally shoot crystals and grenades.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="7a4ba4b35aa48c757ac0fca229a1c1946571c205d681920db06d4a6842b27d14">
-            <![CDATA[https://github.com/jngo102/GatlingAspid/releases/download/9ab012144e6070c2307a/GatlingAspid.zip]]>
+        <Description>Makes primal aspids wield gatling miniguns; configuration options available.</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="b3cccc9d628611e36df46a834eb4c3f0de7e28631cb26b49f61e6083fd551ae3">
+            <![CDATA[https://github.com/jngo102/GatlingAspid/releases/download/6a031b3ac207d32305b5/GatlingAspid.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
