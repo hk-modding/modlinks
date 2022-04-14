@@ -1610,9 +1610,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GreatChampion</Name>
         <Description>A Modboss for failed champion</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="e55a0c096dcc41ce601336c4733d1d3889258802a7d9d60dff03fe4dd2669040">
-            <![CDATA[https://github.com/ygsbzr/HollowKnight.GreatChampion/releases/download/v2.0/GreatChampion.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="6cb8db8ac60a5c13ca7d8f9fc628470b142f8e9cc43a279003852f509ecc89aa">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.GreatChampion/releases/download/v2.1/GreatChampion.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
