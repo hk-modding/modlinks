@@ -949,9 +949,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MajorItemByAreaTracker</Name>
         <Description>A randomizer connection that adds a semi-spoiler randomizer game mode with an in-game tracker.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="35FA6A99384821326EBF7C919B6EA7E0ADD70B5365336592FD2A739751889335">
-            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/releases/download/v1.1.1.0/MajorItemByAreaTracker.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="ECB0BCA4CC8A663DB81686EB4634384D580CB31832D710A2EE2ADB9F0F9397AD">
+            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/releases/download/v1.1.2.0/MajorItemByAreaTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
