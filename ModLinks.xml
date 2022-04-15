@@ -829,9 +829,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP HealthDisplay</Name>
         <Description>An addon for HKMP. Displays the amount of health and/or soul other players in the room have</Description>
-        <Version>0.0.2.1</Version>
-        <Link SHA256="106B4532775D05A5B40E74A2BF1E1F7641F0B8817E43350145C17EEB16F92A28">
-            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.2.1/HKMP_HealthDisplay.zip]]>
+        <Version>0.0.3.0</Version>
+        <Link SHA256="C9CD569C1499B519BEA56AC8D54F8CF96EE10E013D5DA2CEC287CAFADF5A5D07">
+            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.3.0/HKMP_HealthDisplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -873,9 +873,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP</Name>
         <Description>Hollow Knight Multiplayer allows people to host games and let others join them in their adventures.</Description>
-        <Version>2.0.3.0</Version>
-        <Link SHA256="4096BF9E65FFA87DD840745400A24D2045C1B55ACB817DB7A4077C5189166E4E">
-            <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v2.0.3/HKMP.dll]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="B972670EA5620B45881D7D117937C5A6169078B5D95071DF6A6E6C3D4292F8D1">
+            <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v2.1.0/HKMP.dll]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -949,9 +949,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MajorItemByAreaTracker</Name>
         <Description>A randomizer connection that adds a semi-spoiler randomizer game mode with an in-game tracker.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="35FA6A99384821326EBF7C919B6EA7E0ADD70B5365336592FD2A739751889335">
-            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/releases/download/v1.1.1.0/MajorItemByAreaTracker.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="ECB0BCA4CC8A663DB81686EB4634384D580CB31832D710A2EE2ADB9F0F9397AD">
+            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/releases/download/v1.1.2.0/MajorItemByAreaTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1214,9 +1214,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.19.2.0</Version>
-        <Link SHA256="72E7372A0739483D4038470CD75A1E4C7F3CEAE63CC989E10E55BEB15529301E">
-            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.19.2/GodSeekerPlus.zip]]>
+        <Version>0.19.3.0</Version>
+        <Link SHA256="2B6FEF5EE15A8688BA7C5BEA00CB2C20951B15D5EDAA889026772C708DA64B9B">
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.19.3/GodSeekerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1648,5 +1648,16 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomPantheon/releases/download/v1.0/CustomPantheon.zip]]>
         </Link>
         <Dependencies />
+    </Manifest>
+    <Manifest>
+        <Name>HKMP.ModDiff</Name>
+        <Description>HKMP Addon for checking mod lists between Clients and Servers.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="819305ef8fd9fd467c609f9da377fcd9d85b579968b1d8d73f5960463b1a325d">
+            <![CDATA[https://github.com/BlindGarret/HKMP.ModDiff/releases/download/v1.0.0.0/HKMP.ModDiff.zip]]>
+        </Link>
+        <Dependencies>
+	       <Dependency>HKMP</Dependency>
+	    </Dependencies>
     </Manifest>
 </ModLinks>
