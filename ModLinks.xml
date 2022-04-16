@@ -1285,7 +1285,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Clazex/HollowKnight.ContinueCountdown/releases/download/v1.0.0/ContinueCountdown.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
