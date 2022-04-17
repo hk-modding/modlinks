@@ -1680,4 +1680,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	       <Dependency>HKMP</Dependency>
 	    </Dependencies>
     </Manifest>
+    <Manifest>
+        <Name>RandomCharm</Name>
+        <Description>A HollowKnight mod change charm you equipped each scene in random(include Transcendence new charms)</Description>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="83e3726db9320270b03f29a46c417c65353b5172674f602fa2e7aed7c26cc16c">
+            <![CDATA[https://github.com/ygsbzr/RandomCharm/releases/download/v1.2/RandomCharm.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+    </Manifest>
 </ModLinks>
