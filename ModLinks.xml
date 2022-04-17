@@ -1150,6 +1150,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
     </Manifest>
     <Manifest>
+        <Name>Toggle Rando Split Options</Name>
+        <Description>An extension to the mod Toggleable bindings. It adds split claw, split cloak and cursed nail to the binding list.</Description>
+        <Version>0.1.0.1</Version>
+        <Link SHA256="67419ED2CB0C60F2BF6CB5F7B9E52ED4A930B8AA880EB4913DFE802051ABE530">
+            <![CDATA[https://github.com/TheMulhima/Toggle-Rando-Split-Options/releases/download/v1.0.1/Toggle-Rando-Split-Options-master.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>HollowPoint</Name>
         <Description>Gives the player a gun, reworks charms and abilities to play around the concept of gun usage</Description>
         <Version>1.4.0.0</Version>
