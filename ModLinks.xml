@@ -1157,8 +1157,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/TheMulhima/Toggle-Rando-Split-Options/releases/download/v1.0.1/Toggle-Rando-Split-Options-master.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>Satchel</Dependency>
-            <Dependency>MagicUI</Dependency>
+            <Dependency>Toggleable Bindings</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
