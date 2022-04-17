@@ -109,9 +109,9 @@
     <Manifest>
         <Name>Random Pantheons</Name>
         <Description>Randomizes Godhome’s Pantheons so bosses appear in random order.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="1B5DB4F49028DFD2F2D3A20641AEBD03FCAAF09CC8F8DF6DC2F1B8F5D8934EBF">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.RandomizedPantheons/releases/download/v1/RandomPantheons.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="80973705F6CE894544006A72D9A813B14633CF78D4004A66EE11E4EE0BAEF533">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.RandomizedPantheons/releases/download/v1.1/RandomPantheons.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
