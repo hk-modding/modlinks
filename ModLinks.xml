@@ -1300,9 +1300,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ContinueCountdown</Name>
         <Description>Adds a countdown upon continuing</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="93DB5AA35A16196D7BD85C86D714777F10C69B897BDD452717560718F0D1F59C">
-            <![CDATA[https://github.com/Clazex/HollowKnight.ContinueCountdown/releases/download/v1.0.0/ContinueCountdown.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="09A00F1E7830A8C11978B93F071D075C28C11EBCA06297520BA721BB9641B22B">
+            <![CDATA[https://github.com/Clazex/HollowKnight.ContinueCountdown/releases/download/v1.0.1/ContinueCountdown.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
