@@ -364,7 +364,7 @@
         <Name>ItemSync</Name>
         <Description>A RandomizerMod 4 add-on for sharing item pickups between players.</Description>
         <Version>2.2.8.0</Version>
-        <Link SHA256="68B9E974D198473B9CDC547C496DC6B63689EAA195A3391FCA5EFE69AD812047">
+        <Link SHA256="6B7EF89AB35E12A758CDEA145FA4ED154AD4CB4684088DEA3CD650E0EC13BCFA">
             <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.2.8/ItemSync.zip]]>
         </Link>
         <Dependencies>
