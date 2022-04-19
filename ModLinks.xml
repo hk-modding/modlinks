@@ -1234,9 +1234,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.19.4.0</Version>
-        <Link SHA256="64D686E531EAFAD95DE54E162BE1DB90FA1C3188D49878160217F27664E31E82">
-            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.19.4/GodSeekerPlus.zip]]>
+        <Version>0.19.5.0</Version>
+        <Link SHA256="DB545C6E83E9A45E4043B4D4897C18BAD7ECE7FB80430C44071D4AC86C1882FB">
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.19.5/GodSeekerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
