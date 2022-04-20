@@ -1714,12 +1714,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    </Dependencies>
     </Manifest>
 	<Manifest>
-		<Name>press g to dab</Name>
-		<Description>press g then the knight will dab</Description>
+		<Name>Press G to dab</Name>
+		<Description>Press G then the knight will dab.</Description>
 		<Version>1.0.0.0</Version>
             <Link SHA256="665a045f81027575c86469acf405eb675a5170a0ba121c640c1595dc4efe3423"><![CDATA[https://github.com/Link459/PressGToDab/releases/download/1.0.0.0/press.g.to.dab.zip]]></Link>
-		<Dependencies>
-			<Dependencies />
-		</Dependencies>
+	    <Dependencies />
 	</Manifest>
 </ModLinks>
