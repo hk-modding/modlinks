@@ -1463,9 +1463,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>1.6.1.0</Version>
-        <Link SHA256="c7afdfeeda964f885a42372026ebd01a6918948cde30bfb1dce2327374630446">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.6.1.0/HKTool.zip]]>
+        <Version>1.6.2.0</Version>
+        <Link SHA256="de91df45faa9a31dbf337e4b2a9c12c9d3613abacd273a4407bd0fbcfe410650">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.6.2.0/HKTool.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -1701,5 +1701,16 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+    </Manifest>
+	<Manifest>
+       <Name>Uumuu Plus</Name>
+       <Description>Uumuu has been slightly enhanced</Description>
+       <Version>1.0.1.0</Version>
+       <Link SHA256="093b7df7d90a03c714e906bc473247e988463cfda21de30198489b2d7fcb64d1">
+           <![CDATA[https://github.com/HKLab/UumuuPlus/releases/download/v1.0.1.0/UumuuPlus.zip]]>
+       </Link>
+       <Dependencies>
+	       <Dependency>HKTool</Dependency>
+	    </Dependencies>
     </Manifest>
 </ModLinks>
