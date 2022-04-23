@@ -1233,6 +1233,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Osmi</Name>
+        <Description>A library mod providing utilities for other mods</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="7C1FA627AC42D9B11FEB3940D32DB3BAB9E2C6618FD43B506973BB523A495EDE">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.0/Osmi.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
         <Version>0.19.5.0</Version>
