@@ -1289,11 +1289,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TribeOfBattle</Name>
         <Description>A boss based on Sisters of Battle and Traitor Lord</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="9FD7EFFB80638036CCF56CFBEABCC40F7F4414637CAA937BFF982A63E2108CBD">
-            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/releases/download/v1.1.0/TribeOfBattle.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="FE5E8C27E36C404D105932206C7F74FF55AF75E2A7EFDD972E1F1A96416D3FCA">
+            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/releases/download/v1.1.1/TribeOfBattle.zip]]>
         </Link>
         <Dependencies>
+            <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>HealthShare</Dependency>
         </Dependencies>
