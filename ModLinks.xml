@@ -622,17 +622,18 @@
             <Dependency>SFCore</Dependency>
         </Dependencies>
     </Manifest>
-    <!--<Manifest>
+    <Manifest>
 		<Name>GeoLog</Name>
-		<Description>Logs all geo locations in the game, takes hours to load into the game.</Description>
-		<Version>1.5.0.0</Version>
-		<Link SHA256="ABEC7EADFE94487D9D64DDDA27695F49DF7EBE376E27C9EE86323951780DA328">
-            <![CDATA[https://github.com/SFGrenade/GeoLog/releases/download/v1.5/GeoLog.zip]]>
+		<Description>Logs all geo locations in the game.
+Takes hours to load into the game.</Description>
+		<Version>1.5.1.0</Version>
+		<Link SHA256="ABA4861BAA7FFDBF398AD22D6CE317FC41E5579843F80EFFD83B7C6355BE0093">
+            <![CDATA[https://github.com/SFGrenade/GeoLog/releases/download/v1.5.1/GeoLog.zip]]>
 		</Link>
 		<Dependencies>
 			<Dependency>SFCore</Dependency>
 		</Dependencies>
-	</Manifest>-->
+	</Manifest>
     <Manifest>
         <Name>HKHKHKHKHK</Name>
         <Description>VVVVVVV but in HK. Flip gravity with the R key.</Description>
