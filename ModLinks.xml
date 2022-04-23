@@ -1302,9 +1302,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Crystalblobbles</Name>
         <Description>A boss based on Oblobbles</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="12598C714BFA39F4992973ED7B0BD170238D261194277D5D6CB4D4ED3B727558">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Crystalblobbles/releases/download/v1.0.1/Crystalblobbles.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="E12194BE6FF701593B557B6DF662E350E87FB6C5B8EF9807DAA9217843950EAC">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Crystalblobbles/releases/download/v1.0.2/Crystalblobbles.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
