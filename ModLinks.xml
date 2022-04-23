@@ -1233,13 +1233,23 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Osmi</Name>
+        <Description>A library mod providing utilities for other mods</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="7C1FA627AC42D9B11FEB3940D32DB3BAB9E2C6618FD43B506973BB523A495EDE">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.0/Osmi.zip]]>
+        </Link>
+        <Dependencies />
+    </Manifest>
+    <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.19.5.0</Version>
-        <Link SHA256="DB545C6E83E9A45E4043B4D4897C18BAD7ECE7FB80430C44071D4AC86C1882FB">
-            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.19.5/GodSeekerPlus.zip]]>
+        <Version>0.19.6.0</Version>
+        <Link SHA256="9422558874FB78BCE3833456828CDFCEEF2F982FA4B61070AE77B2CF3A14740A">
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.19.6/GodSeekerPlus.zip]]>
         </Link>
         <Dependencies>
+            <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
         </Dependencies>
     </Manifest>
@@ -1266,11 +1276,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Everwatchers</Name>
         <Description>A mod boss based on Watcher Knights, allowing you to fight all of them simutanuously and add more of them</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="71A2149DC21C2399FB112FCD9BFD0CF4684E9083779B1EEB257A82F4298AB47D">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/releases/download/v0.1.0/Everwatchers.zip]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="68D8AC8A288D7E5126404973E1621C8F9391466068377FB6049FFD0B230D6B6A">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/releases/download/v1.0.0/Everwatchers.zip]]>
         </Link>
         <Dependencies>
+            <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>HealthShare</Dependency>
         </Dependencies>
@@ -1278,11 +1289,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TribeOfBattle</Name>
         <Description>A boss based on Sisters of Battle and Traitor Lord</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="9FD7EFFB80638036CCF56CFBEABCC40F7F4414637CAA937BFF982A63E2108CBD">
-            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/releases/download/v1.1.0/TribeOfBattle.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="FE5E8C27E36C404D105932206C7F74FF55AF75E2A7EFDD972E1F1A96416D3FCA">
+            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/releases/download/v1.1.1/TribeOfBattle.zip]]>
         </Link>
         <Dependencies>
+            <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>HealthShare</Dependency>
         </Dependencies>
@@ -1290,9 +1302,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Crystalblobbles</Name>
         <Description>A boss based on Oblobbles</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="12598C714BFA39F4992973ED7B0BD170238D261194277D5D6CB4D4ED3B727558">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Crystalblobbles/releases/download/v1.0.1/Crystalblobbles.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="E12194BE6FF701593B557B6DF662E350E87FB6C5B8EF9807DAA9217843950EAC">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Crystalblobbles/releases/download/v1.0.2/Crystalblobbles.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
