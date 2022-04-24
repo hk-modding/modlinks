@@ -302,9 +302,9 @@
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="421D8DF0696D1D182F378AD41A43A6FD376EFACE5AC9D89563C789189B2D9BAC">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.2.1/RandoPlus.zip]]>
+        <Version>1.2.1.1</Version>
+        <Link SHA256="db399c1a14b9e5a05ff0c4c2cd664debb1a2111bb54cf8ac9f119c6e48ea1dd9">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.2.1.1/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
