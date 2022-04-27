@@ -1416,7 +1416,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>DeathCounter</Name>
         <Description>A cool DeathCounter</Description>
         <Version>1.9.0.0</Version>
-        <Link SHA256="e5c28cb1a85a40d3ef865a0269245cef018297f36820047bf6f013276984bbf">
+        <Link SHA256="e5c28cb1a85a40d3ef865a0269245cef018297f36820047bf6f013276984bbfd">
             <![CDATA[https://github.com/ygsbzr/DeathCounter/releases/download/1.5.78-9/DeathCounter.zip]]>
         </Link>
         <Dependencies>
