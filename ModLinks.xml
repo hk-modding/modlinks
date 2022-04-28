@@ -1415,9 +1415,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DeathCounter</Name>
         <Description>A cool DeathCounter</Description>
-        <Version>1.8.0.0</Version>
-        <Link SHA256="c1f3ed64e6537e2dd2bd3c39d996e8b0933084059232d01f34a25542e2f8617e">
-            <![CDATA[https://github.com/ygsbzr/DeathCounter/releases/download/1.5.78-8/DeathCounter.dll]]>
+        <Version>1.9.0.0</Version>
+        <Link SHA256="e5c28cb1a85a40d3ef865a0269245cef018297f36820047bf6f013276984bbfd">
+            <![CDATA[https://github.com/ygsbzr/DeathCounter/releases/download/1.5.78-9/DeathCounter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1707,9 +1707,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandomCharm</Name>
         <Description>A HollowKnight mod change charm you equipped each scene in random(include Transcendence new charms)</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="5a304d99e1514dbf9379aa307dd9b4b791bd2c2270fef112aa2cce766493d209">
-            <![CDATA[https://github.com/ygsbzr/RandomCharm/releases/download/v1.4/RandomCharm.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="706c6779f6e22ad5232c7a92954f110dc6e1e55913501bf098fddaef74f06dfb">
+            <![CDATA[https://github.com/ygsbzr/RandomCharm/releases/download/v1.5/RandomCharm.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
