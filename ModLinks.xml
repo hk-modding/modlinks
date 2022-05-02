@@ -890,7 +890,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
-        <Name>Prop Hunt</Name>
+        <Name>HKMP Prop Hunt</Name>
         <Description>An HKMP add-on that adds Prop Hunt to multiplayer games.</Description>
         <Version>0.0.0.1</Version>
         <Link SHA256="257502229cf6b2a1b13e2f80c4700e5d34f49ad3bd1d48eb7d5bffebbac215e5">
