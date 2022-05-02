@@ -890,6 +890,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>Prop Hunt</Name>
+        <Description>An HKMP add-on that adds Prop Hunt to multiplayer games.</Description>
+        <Version>0.0.0.1</Version>
+        <Link SHA256="257502229cf6b2a1b13e2f80c4700e5d34f49ad3bd1d48eb7d5bffebbac215e5">
+            <![CDATA[https://github.com/jngo102/HKMP.PropHunt/releases/download/02.05.2022/PropHunt.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+	    <Dependency>Satchel</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>HKVR</Name>
         <Description>Play Hollow Knight in virtual reality.</Description>
         <Version>0.0.0.0</Version>
