@@ -1012,7 +1012,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
-        <Version>0.8.0.0</Version>
+        <Version>0.8.1.0</Version>
         <Link SHA256="e9657c7d42c68491173d4019beb02eff8a443996c414006248377e6fda8b8693">
             <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.1/Satchel.zip]]>
         </Link>
@@ -1021,7 +1021,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Custom Knight</Name>
         <Description>Allows changing skins for the player, enemies, bosses and rooms</Description>
-        <Version>2.1.0.0</Version>
+        <Version>2.1.1.0</Version>
         <Link SHA256="62bfb948e291cc1a1a8a658bfb25a802c864a06f6939f77b9b7b58e1699b2d60">
             <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.1.1/CustomKnight.zip]]>
         </Link>
