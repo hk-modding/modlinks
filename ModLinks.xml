@@ -165,8 +165,8 @@
         <Name>Pale Prince</Name>
         <Description>Overhaul of the Pure Vessel fight with a significant increase in difficulty</Description>
         <Version>2.0.0.0</Version>
-        <Link SHA256="9392DED9FA84AD41992D11384340F8EBAA67A4BE59FB84E1A17CB758F90BFA66">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.Pale-Prince/releases/download/v2/Pale.Prince.zip]]>
+        <Link SHA256="D5A5AF96618B468F5E48E5661B9857BEEA7213B12528E23456F80129E42E5655">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Pale-Prince/releases/download/v2.1/Pale.Prince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -890,6 +890,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
+        <Name>HKMP Prop Hunt</Name>
+        <Description>An HKMP add-on that adds Prop Hunt to multiplayer games.</Description>
+        <Version>0.0.0.2</Version>
+        <Link SHA256="491876bb23e3131bfbf028f56bda5cc51bd6b96cae88dcd1f9bb49daadf19e8b">
+            <![CDATA[https://github.com/jngo102/HKMP.PropHunt/releases/download/03.05.2022/PropHunt.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+	    <Dependency>Satchel</Dependency>
+        </Dependencies>
+    </Manifest>
+    <Manifest>
         <Name>HKVR</Name>
         <Description>Play Hollow Knight in virtual reality.</Description>
         <Version>0.0.0.0</Version>
@@ -1127,9 +1139,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Unity Explorer</Name>
         <Description>Useful tool for mod developers to view and edit how the game is structured.</Description>
-        <Version>1.0.0.4</Version>
-        <Link SHA256="527949e0707b787d2bf3af6ade21481bcc8269c559996e9ce1c6001ff4c6c2cb">
-            <![CDATA[https://github.com/jngo102/UExplorer/releases/download/bf3dcca46ebc1a5ff3ed/UExplorer.zip]]>
+        <Version>1.0.0.5</Version>
+        <Link SHA256="e84406a1c342dfebf2f6a707b7b9d7022d7ac6ea5827a09fb7a697c1a16f60f6">
+            <![CDATA[https://github.com/jngo102/UExplorer/releases/download/37d6ac170e66e0384602/UExplorer.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -1330,6 +1342,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Clazex/HollowKnight.Crystalblobbles/releases/download/v1.0.2/Crystalblobbles.zip]]>
         </Link>
         <Dependencies>
+            <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
         </Dependencies>
     </Manifest>
@@ -1499,9 +1512,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>1.6.2.0</Version>
-        <Link SHA256="de91df45faa9a31dbf337e4b2a9c12c9d3613abacd273a4407bd0fbcfe410650">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.6.2.0/HKTool.zip]]>
+        <Version>1.7.2.0</Version>
+        <Link SHA256="dc35254608c7f6d200fc2be2096d35ddb6aa955da2dfa882ccf4c7f54cd266f1">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.7.2.0/HKTool.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -1530,9 +1543,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
-        <Version>0.6.0.0</Version>
-        <Link SHA256="39207f541aed7c73e745d265648e69869f230b4c8cb332ff4749a839993916e2">
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.6.0.0/UnityExplorerPlus.zip]]>
+        <Version>0.7.1.0</Version>
+        <Link SHA256="ce3ce9bc26e8e155b7d4dafe8739dffed8d86562d04975758b741b3985f5b8fb">
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.7.1.0/UnityExplorerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
