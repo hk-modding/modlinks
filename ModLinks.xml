@@ -988,13 +988,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GhostHunter</Name>
         <Description>A mod that shows the positions of other player's enemies during multiplay.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="16f93f72a1e015c028bc425e54ce7f856852664667837399220f4a7770615f61">
-            <![CDATA[https://github.com/PrashantMohta/GhostHunter/releases/download/0.3/GhostHunter.dll]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="e662064d40a87289ec2ce131c506f2a0d60d666b3e3f97959210d547e847199e">
+            <![CDATA[https://github.com/PrashantMohta/GhostHunter/releases/download/v1.0.0/GhostHunter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
             <Dependency>HkmpPouch</Dependency>
+	    <Dependency>Satchel</Dependency>
         </Dependencies>
     </Manifest>
     <Manifest>
@@ -1011,18 +1012,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
-        <Version>0.8.0.0</Version>
-        <Link SHA256="17deb827f666334ad0a7456f57b682687b79fbe7c85a9e99942cc4760f47fde8">
-            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.0b/Satchel.dll]]>
+        <Version>0.8.1.0</Version>
+        <Link SHA256="e9657c7d42c68491173d4019beb02eff8a443996c414006248377e6fda8b8693">
+            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.1/Satchel.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>Custom Knight</Name>
         <Description>Allows changing skins for the player, enemies, bosses and rooms</Description>
-        <Version>2.1.0.0</Version>
-        <Link SHA256="ae348d3eb355f09ba370f75a6b5a63a0e1cf645cd15c9fbc1a493c93abd20948">
-            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.1.0/CustomKnight.zip]]>
+        <Version>2.1.1.0</Version>
+        <Link SHA256="62bfb948e291cc1a1a8a658bfb25a802c864a06f6939f77b9b7b58e1699b2d60">
+            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.1.1/CustomKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1036,7 +1037,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.0.0/AsymmetricKnight.dll]]>
         </Link>
         <Dependencies>
-        <Dependency>Satchel</Dependency>
+            <Dependency>Satchel</Dependency>
             <Dependency>Custom Knight</Dependency>
         </Dependencies>
     </Manifest>
