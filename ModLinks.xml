@@ -837,6 +837,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
+    <Manifest>
+        <Name>Gorb Plus</Name>
+        <Description>A mod that adds an additional attack when fighting gorb: a nail barrage.</Description>
+        <Version>0.0.1.0</Version>
+        <Link SHA256="CC969A0F1369A43B43B7A94BAEC22FF18BFF0E2B17DA2EDFEE4AB44D61B57031">
+            <![CDATA[https://github.com/TheMulhima/GorbPlus/releases/download/v0.0.1.0/GorbPlus.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+    </Manifest>
         <Name>HKMP HealthDisplay</Name>
         <Description>An addon for HKMP. Displays the amount of health and/or soul other players in the room have</Description>
         <Version>0.0.3.0</Version>
