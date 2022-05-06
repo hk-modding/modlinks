@@ -313,9 +313,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.1.4.1</Version>
-        <Link SHA256="11329B9ADF72D4DAC27D7203DD60157CDD6B5ED61A3A3FAC41132B1E136FE7CD">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.1.4.1/RandomizableLevers.zip]]>
+        <Version>1.1.5.0</Version>
+        <Link SHA256="ba24806eadf8c33bfa02e6f3ae21a8abd449ec688b8721d3897dc3a53ef2aa8c">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.1.5.0/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -324,9 +324,9 @@
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.2.1.1</Version>
-        <Link SHA256="cdec5d5412066f138f5f043cdee92c7cb3f3264c76da2fb79d56de9ba12f9811">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.2.1.1/TrandoPlus.zip]]>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="6549b39e7865bc18186e0536a5fff5ceef0b28ac95e8a134f653734b98c26784">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.3.0.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -357,18 +357,18 @@
     <Manifest>
         <Name>ReopenCityDoor</Name>
         <Description>Opens the locked door between Fungal Wastes and City (above Elder Hu's grave / near the elevator to Crossroads).</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="8896B19498253AC80E04E5638F395AB03E52785B11BEFDBFD769162279FDB0BF">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v0.1.0/ReopenCityDoor.zip]]>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="1ff643c2a9db2d874c341dba0f73394f9f5e35e1c18f5d314cf147f01e00fb7c">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v0.2.0.0/ReopenCityDoor.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
     <Manifest>
         <Name>PlayerDataManager</Name>
         <Description>Override player data values (for example, always set `hasQuill` to false). Having DebugMod is helpful, but not required.</Description>
-        <Version>0.4.1.0</Version>
-        <Link SHA256="D278BC350D3F98F74B73DF56BAA3E323C87CD28E65A3A29168C10C7A4AF43C3F">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.PlayerDataManager/releases/download/v0.4.1/PlayerDataManager.zip]]>
+        <Version>0.5.0.0</Version>
+        <Link SHA256="a722f9ca8d948ffc9941f9c3f314b0aed2f769c3b16d68d208ac18f87762c4a7">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.PlayerDataManager/releases/download/v0.5.0.0/PlayerDataManager.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
