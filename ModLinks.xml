@@ -384,9 +384,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.0.4.1</Version>
-        <Link SHA256="505A91F8FA2BC7F3345B4E97268DE2C8AC6B7385C4B2A3315DF938DEEAB03408">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.4%2B372/RandomizerMod.zip]]>
+        <Version>4.0.5.0</Version>
+        <Link SHA256="8E043046195D046A4B9B67A1351B856299F7D2D6391CD0975F1A41D233471BBA">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.5%2B980/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -399,9 +399,9 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.4.1</Version>
-        <Link SHA256="0ABCDB304437CEA927D0D9CAF407539D5390B2869D7162135876171C71D16290">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.4%2B213/ItemChanger.zip]]>
+        <Version>2.0.5.0</Version>
+        <Link SHA256="3CB29B5A81334B96EC6E6B735C9F69F2621CD6DAB9F91B4AD66854F853D89066">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.5%2B598/ItemChanger.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
