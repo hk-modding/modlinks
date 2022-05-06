@@ -837,7 +837,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
     </Manifest>
     <Manifest>
-    <Manifest>
         <Name>Gorb Plus</Name>
         <Description>A mod that adds an additional attack when fighting gorb: a nail barrage.</Description>
         <Version>0.0.1.0</Version>
@@ -848,6 +847,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Satchel</Dependency>
         </Dependencies>
     </Manifest>
+    <Manifest>
         <Name>HKMP HealthDisplay</Name>
         <Description>An addon for HKMP. Displays the amount of health and/or soul other players in the room have</Description>
         <Version>0.0.3.0</Version>
