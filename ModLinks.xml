@@ -357,9 +357,9 @@
     <Manifest>
         <Name>ReopenCityDoor</Name>
         <Description>Opens the locked door between Fungal Wastes and City (above Elder Hu's grave / near the elevator to Crossroads).</Description>
-        <Version>0.2.0.0</Version>
-        <Link SHA256="1ff643c2a9db2d874c341dba0f73394f9f5e35e1c18f5d314cf147f01e00fb7c">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v0.2.0.0/ReopenCityDoor.zip]]>
+        <Version>0.2.1.0</Version>
+        <Link SHA256="69f969ff4da11aad13f45a20ddee56f4a46f63ea199b2d63d5ce5662e1293750">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v0.2.1.0/ReopenCityDoor.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
