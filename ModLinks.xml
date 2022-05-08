@@ -529,9 +529,9 @@
     <Manifest>
         <Name>Randomizer Map S</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>2.4.3.0</Version>
-        <Link SHA256="56013F3CDBFB5F4761368B19E1468B949F802CBBDEEE9249911246F91FCE8A0F">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.4.3/MapModS.zip]]>
+        <Version>2.4.4.0</Version>
+        <Link SHA256="D6B25A00864B79537C6B4CC6390EE1FAD0F7BE1D54BA437FE4F4242BFC8DBA1F">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.4.4/MapModS.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1724,9 +1724,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>OrbTracker</Name>
         <Description>Points an arrow to the closest Whispering Root orb, and counts how many you have gotten.</Description>
-        <Version>1.1.3.0</Version>
-        <Link SHA256="EA626E2671FFA385647789CBC7564F8AB87C251268609608BDF37A71FDB12EF2">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.OrbTracker/releases/download/v1.1.3/OrbTracker.zip]]>
+        <Version>1.1.4.0</Version>
+        <Link SHA256="DB52FBC4CF83EAA5249F114EEB6FE9908B8A43B3B84C049A4034748C4EA50F5E">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.OrbTracker/releases/download/v1.1.4/OrbTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -1802,6 +1802,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+        </Dependencies>
+    </Manifest> 
+    <Manifest>
+        <Name>Rando Vanilla Tracker</Name>
+        <Description>Randomizer 4 add-on for tracking non-randomized items.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="7D5C3EA3DACA7AD525D318EA43B5B64696F32BCA53B7FEB6D1342199EC5277EF">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/releases/download/v1.0.1/RandoVanillaTracker.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+
         </Dependencies>
     </Manifest>	
 </ModLinks>
