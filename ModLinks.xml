@@ -1793,6 +1793,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Vasi</Dependency>
         </Dependencies>
     </Manifest>	
+     <Manifest>
+        <Name>PathOfPureVessel</Name>
+        <Description>Battle with PV at the end of POP</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="cea7e40543cb5dc9fdb42bddb6f908d6ddafc751192b4a1facf79b476c63fdc7">
+            <![CDATA[https://github.com/ygsbzr/PathOfPureVessel/releases/download/v1.0/PathOfPureVessel.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+    </Manifest> 
     <Manifest>
         <Name>Rando Vanilla Tracker</Name>
         <Description>Randomizer 4 add-on for tracking non-randomized items.</Description>
@@ -1802,6 +1813,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
+
         </Dependencies>
     </Manifest>	
 </ModLinks>
