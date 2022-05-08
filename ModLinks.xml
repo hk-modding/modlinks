@@ -1525,8 +1525,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>HKTool</Name>
         <Description>A library mod</Description>
         <Version>1.7.2.0</Version>
-        <Link SHA256="dc35254608c7f6d200fc2be2096d35ddb6aa955da2dfa882ccf4c7f54cd266f1">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.7.2.0/HKTool.zip]]>
+        <Link SHA256="ef523d0481b0f10908e0395d00e5d3d31a8a97c445161621d9e56fb0ddf814c0">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.7.4.0/Output.zip]]>
         </Link>
         <Dependencies />
     </Manifest>
@@ -1555,9 +1555,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
-        <Version>0.7.1.0</Version>
-        <Link SHA256="ce3ce9bc26e8e155b7d4dafe8739dffed8d86562d04975758b741b3985f5b8fb">
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.7.1.0/UnityExplorerPlus.zip]]>
+        <Version>0.7.2.0</Version>
+        <Link SHA256="3f909432c92b1bcfaff98f50d863e45bf112622e6860b1cdba8fc28c0b618d91">
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.7.2.0/Output.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
