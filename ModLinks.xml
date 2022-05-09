@@ -3,22 +3,22 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <!--
-	<Manifest>
-		<Name>Test Name</Name>
-		<Description>Test description</Description>
-		<Version>0.0.0.0</Version>
-		Only one of these two
-		<Links>
+    <Manifest>
+        <Name>Test Name</Name>
+        <Description>Test description</Description>
+        <Version>0.0.0.0</Version>
+        Only one of these two
+        <Links>
             <Linux SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://linux.link]]></Linux>
             <Mac SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://mac.link]]></Mac>
             <Windows SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://windows.link]]></Windows>
-		</Links>
+        </Links>
             <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://multiplatform.link]]></Link>
-		<Dependencies>
-			<Dependency>Test Dependency</Dependency>
-		</Dependencies>
-	</Manifest>
-	-->
+        <Dependencies>
+            <Dependency>Test Dependency</Dependency>
+        </Dependencies>
+    </Manifest>
+    -->
     <Manifest>
         <Name>PureZote</Name>
         <Description>Enabled Grey Prince Zote to summon Eternal Ordeal and upgraded its skills.</Description>
@@ -29,6 +29,9 @@
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/yunjord/PureZote/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>SteelSoulHUD</Name>
@@ -38,6 +41,9 @@
             <![CDATA[https://github.com/dpinela/SteelSoulHUD/releases/download/v1.0/SteelSoulHUD.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/dpinela/SteelSoulHUD/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Transcendence</Name>
@@ -50,6 +56,9 @@
             <Dependency>SFCore</Dependency>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dpinela/Transcendence/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>QoL</Name>
@@ -61,6 +70,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>AsciiCamera</Name>
@@ -72,6 +84,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.AsciiCamera/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HollowTwitch</Name>
@@ -83,6 +98,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Sid-003/HKTwitch/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Darkness</Name>
@@ -94,6 +112,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Darkness/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>God Soul</Name>
@@ -105,6 +126,9 @@
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Nexade/God-Soul-Mod/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Random Pantheons</Name>
@@ -116,6 +140,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.RandomizedPantheons/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Mantis Gods</Name>
@@ -127,6 +154,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Mantis-Gods/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Sanic</Name>
@@ -138,6 +168,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Sanic/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ModConsole</Name>
@@ -149,6 +182,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.ModConsole/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>The Pain of the Path</Name>
@@ -160,6 +196,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.ThePainOfThePath/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Pale Prince</Name>
@@ -171,6 +210,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Pale-Prince/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Vasi</Name>
@@ -180,6 +222,9 @@
             <![CDATA[https://github.com/fifty-six/HollowKnight.Vasi/releases/download/v2/Vasi.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.Vasi/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Hell Mod</Name>
@@ -189,6 +234,9 @@
             <![CDATA[https://github.com/fifty-six/HollowKnight.HellMod/releases/download/v2/HellMod.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/fifty-six/HollowKnight.HellMod/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HowwowKnyight</Name>
@@ -198,6 +246,9 @@
             <![CDATA[https://github.com/DDRM-VGV/HowwowKnyight/releases/download/3.8.2/HowwowKnyight.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/DDRM-VGV/HowwowKnyight/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Transtrans</Name>
@@ -207,6 +258,9 @@
             <![CDATA[https://files.catbox.moe/hbilqn.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://discord.com/channels/283467363729408000/327461802311155714/821819089898176554: https://cdn.discordapp.com/attachments/327461802311155714/821819089944838154/Transtrans.cs]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CompassAlwaysOn</Name>
@@ -216,6 +270,9 @@
             <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2/CompassAlwaysOn.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Kronk</Name>
@@ -225,6 +282,9 @@
             <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.2/Kronk.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Menderbug's Revenge</Name>
@@ -236,6 +296,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.MenderbugsRevenge/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Godseeker Memory Jump</Name>
@@ -247,6 +310,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.GodseekerMemoryJump/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>BingoUI</Name>
@@ -258,6 +324,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>EssenceAlways</Name>
@@ -267,6 +336,9 @@
             <![CDATA[https://github.com/flibber-hk/HollowKnight.EssenceAlways/releases/download/v1.0/EssenceAlways.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.EssenceAlways/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Invincibility Monitor</Name>
@@ -278,6 +350,9 @@
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.InvincibilityMonitor/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>SkillUpgrades</Name>
@@ -287,6 +362,9 @@
             <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.10.0.0/SkillUpgrades.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
@@ -298,6 +376,9 @@
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>RandoPlus</Name>
@@ -309,6 +390,9 @@
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Randomizable Levers</Name>
@@ -320,6 +404,9 @@
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>TrandoPlus</Name>
@@ -331,6 +418,9 @@
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>RecentItemsDisplay</Name>
@@ -342,6 +432,9 @@
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>RandomizerSettingsRandomizer</Name>
@@ -353,6 +446,9 @@
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizerSettingsRandomizer/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ReopenCityDoor</Name>
@@ -362,6 +458,9 @@
             <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v0.2.1.0/ReopenCityDoor.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>PlayerDataManager</Name>
@@ -371,6 +470,9 @@
             <![CDATA[https://github.com/flibber-hk/HollowKnight.PlayerDataManager/releases/download/v0.5.0.0/PlayerDataManager.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.PlayerDataManager/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Benchwarp</Name>
@@ -380,6 +482,9 @@
             <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.4.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Randomizer 4</Name>
@@ -395,6 +500,9 @@
             <Dependency>Benchwarp</Dependency>
             <Dependency>QoL</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ItemChanger</Name>
@@ -404,6 +512,9 @@
             <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.5%2B598/ItemChanger.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>MenuChanger</Name>
@@ -413,6 +524,9 @@
             <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.3%2B530/MenuChanger.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>RandomizerCore</Name>
@@ -422,6 +536,9 @@
             <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.3/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ItemChangerDataLoader</Name>
@@ -435,6 +552,9 @@
             <Dependency>MenuChanger</Dependency>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CustomPoolInjector</Name>
@@ -446,6 +566,9 @@
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/CustomPoolInjector/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CustomLogicInjector</Name>
@@ -457,6 +580,9 @@
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CustomGroupInjector</Name>
@@ -468,6 +594,9 @@
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/CustomGroupInjector/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ItemSync</Name>
@@ -480,6 +609,9 @@
             <Dependency>Randomizer 4</Dependency>
             <Dependency>MultiWorldLib</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>MultiWorldLib</Name>
@@ -489,6 +621,9 @@
             <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.2.8/MultiWorldLib.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>PaletteSwapper</Name>
@@ -498,6 +633,9 @@
             <![CDATA[https://github.com/homothetyhk/HollowKnight.PaletteSwapper/releases/download/v1.1/PaletteSwapper.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.PaletteSwapper/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>InfiniteNotches</Name>
@@ -507,6 +645,9 @@
             <![CDATA[https://github.com/homothetyhk/HollowKnight.InfiniteNotches/releases/download/v2001/InfiniteNotches.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.InfiniteNotches/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>EasyMode</Name>
@@ -516,6 +657,9 @@
             <![CDATA[https://github.com/homothetyhk/HollowKnight.EasyMode/releases/download/v1.1/EasyMode.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.EasyMode/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>LoadNormalizer</Name>
@@ -525,6 +669,9 @@
             <![CDATA[https://github.com/homothetyhk/HollowKnight.LoadNormalizer/releases/download/v1.5/LoadNormalizer.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.LoadNormalizer/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Randomizer Map S</Name>
@@ -541,6 +688,9 @@
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>AdditionalMaps</Name>
@@ -552,6 +702,9 @@
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>BenchWarpFix</Name>
@@ -561,6 +714,9 @@
             <![CDATA[https://github.com/SFGrenade/BenchWarpFix/releases/download/v1.5.1.1/BenchWarpFix.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/BenchWarpFix/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>BlindRadiance</Name>
@@ -572,6 +728,9 @@
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/BlindRadiance/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CustomBgm</Name>
@@ -581,6 +740,9 @@
             <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5/CustomBgm.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/CustomBgm/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CustomSaveArt</Name>
@@ -590,6 +752,9 @@
             <![CDATA[https://github.com/SFGrenade/CustomSaveArt/releases/download/v1.5.0.1/CustomSaveArt.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/CustomSaveArt/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>EnemyChanger</Name>
@@ -601,6 +766,9 @@
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/EnemyChanger/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>FireIsSmolBrain</Name>
@@ -610,6 +778,9 @@
             <![CDATA[https://github.com/SFGrenade/FireIsSmolBrain/releases/download/v1.5/FireIsSmolBrain.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/FireIsSmolBrain/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>FuryFix</Name>
@@ -621,19 +792,25 @@
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/FuryFix/]]>
+        </Repository>
     </Manifest>
     <Manifest>
-		<Name>GeoLog</Name>
-		<Description>Logs all geo locations in the game.
+        <Name>GeoLog</Name>
+        <Description>Logs all geo locations in the game.
 Takes hours to load into the game.</Description>
-		<Version>1.5.1.0</Version>
-		<Link SHA256="ABA4861BAA7FFDBF398AD22D6CE317FC41E5579843F80EFFD83B7C6355BE0093">
+        <Version>1.5.1.0</Version>
+        <Link SHA256="ABA4861BAA7FFDBF398AD22D6CE317FC41E5579843F80EFFD83B7C6355BE0093">
             <![CDATA[https://github.com/SFGrenade/GeoLog/releases/download/v1.5.1/GeoLog.zip]]>
-		</Link>
-		<Dependencies>
-			<Dependency>SFCore</Dependency>
-		</Dependencies>
-	</Manifest>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/GeoLog/]]>
+        </Repository>
+    </Manifest>
     <Manifest>
         <Name>HKHKHKHKHK</Name>
         <Description>VVVVVVV but in HK. Flip gravity with the R key.</Description>
@@ -644,6 +821,9 @@ Takes hours to load into the game.</Description>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/HKHKHKHKHK/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>LanguageSupport</Name>
@@ -655,6 +835,9 @@ Takes hours to load into the game.</Description>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/LanguageSupport/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>MenuThemesInGame</Name>
@@ -664,18 +847,10 @@ Takes hours to load into the game.</Description>
             <![CDATA[https://github.com/SFGrenade/MenuThemesInGame/releases/download/v1.5/MenuThemesInGame.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/MenuThemesInGame/]]>
+        </Repository>
     </Manifest>
-    <!--<Manifest>
-		<Name>MetroidVania</Name>
-		<Description>Hollow Knight is a metroidvania. Doesn't add much yet.</Description>
-		<Version>1.5.0.0</Version>
-		<Link SHA256="611FE3196EBA334774D0735E9CEAB244B23E1DE3247F9639F2F1DCBD857D8761">
-            <![CDATA[https://github.com/SFGrenade/MetroidVania/releases/download/v1.5/MetroidVania.zip]]>
-		</Link>
-		<Dependencies>
-			<Dependency>SFCore</Dependency>
-		</Dependencies>
-	</Manifest>-->
     <Manifest>
         <Name>MoreHealing</Name>
         <Description>Adds more healing charms.</Description>
@@ -686,6 +861,9 @@ Takes hours to load into the game.</Description>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/MoreHealing/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>NailsmithBackPay</Name>
@@ -695,6 +873,9 @@ Takes hours to load into the game.</Description>
             <![CDATA[https://github.com/SFGrenade/NailsmithBackPay/releases/download/v1.5/NailsmithBackPay.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/NailsmithBackPay/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>NeverMuffle</Name>
@@ -704,6 +885,9 @@ Takes hours to load into the game.</Description>
             <![CDATA[https://github.com/SFGrenade/NeverMuffle/releases/download/v1.5/NeverMuffle.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/NeverMuffle/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Pail Curt</Name>
@@ -718,18 +902,10 @@ Enjoy!</Description>
             <Dependency>SFCore</Dependency>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/Pail-Curt/]]>
+        </Repository>
     </Manifest>
-    <!--<Manifest>
-		<Name>PvpArena</Name>
-		<Description>Adds an arena in Dirtmouth next to the bench. Entrance is invisible.</Description>
-		<Version>1.5.0.0</Version>
-		<Link SHA256="6EBE7830362F0916E9CF3ABA2270B3238AD3EE2B2FFEFB60E79174F7CEFFF096">
-            <![CDATA[https://github.com/SFGrenade/PvpArena/releases/download/v1.5/PvpArena.zip]]>
-		</Link>
-		<Dependencies>
-			<Dependency>SFCore</Dependency>
-		</Dependencies>
-	</Manifest>-->
     <Manifest>
         <Name>RadiantMenu</Name>
         <Description>Adds a radiant menu theme to the game.</Description>
@@ -740,6 +916,9 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/RadiantMenu/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>RedoBirthplace</Name>
@@ -751,6 +930,9 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/RedoBirthplace/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ResetCharmNotches</Name>
@@ -760,6 +942,9 @@ Enjoy!</Description>
             <![CDATA[https://github.com/SFGrenade/ResetCharmNotches/releases/download/v1.5/ResetCharmNotches.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/ResetCharmNotches/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>SFCore</Name>
@@ -769,6 +954,9 @@ Enjoy!</Description>
             <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.3.1/SFCore.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/SFCore/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Test of Teamwork</Name>
@@ -782,6 +970,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>RandomGravityChange</Name>
@@ -794,6 +985,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Satchel</Dependency>
             <Dependency>MagicUI</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/RandomGravityChange/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>RandomTeleport</Name>
@@ -806,6 +1000,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Satchel</Dependency>
             <Dependency>MagicUI</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.RandomTeleport/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>DebugMod</Name>
@@ -815,6 +1012,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.9.4/DebugMod.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>SpeedRunQoL</Name>
@@ -826,6 +1026,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>DebugMod</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/SpeedRunQoL/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>MoreSaves</Name>
@@ -835,6 +1038,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/syyePhenomenol/MoreSaves/releases/download/v0.6.1/MoreSaves.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/MoreSaves/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Gorb Plus</Name>
@@ -846,6 +1052,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/GorbPlus/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HKMP HealthDisplay</Name>
@@ -859,6 +1068,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>MagicUI</Dependency>
             <Dependency>HKMP</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>WeaverCore</Name>
@@ -868,6 +1080,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.0.0.0/WeaverCore.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/nickc01/WeaverCore/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Inferno King Grimm</Name>
@@ -879,6 +1094,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Corrupted Kin</Name>
@@ -890,6 +1108,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/nickc01/Corrupted-Kin/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HKMP</Name>
@@ -899,6 +1120,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v2.1.0/HKMP.dll]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Extremelyd1/HKMP/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HKMP Prop Hunt</Name>
@@ -909,8 +1133,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
-	    <Dependency>Satchel</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/jngo102/HKMP.PropHunt/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HKVR</Name>
@@ -920,6 +1147,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/jngo102/HKVR/releases/download/Releases/HKVR.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/jngo102/HKVR/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>GlassSoul</Name>
@@ -929,6 +1159,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/TheMulhima/GlassSoulMod/releases/download/v1.1.0.2/GlassSoul.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/GlassSoulMod/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Enemy HP Bar</Name>
@@ -940,6 +1173,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>MagicUI</Name>
@@ -949,6 +1185,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.2.8160.1743/MagicUI.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ConnectionMetadataInjector</Name>
@@ -962,6 +1201,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>RandomizerCore</Dependency>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>RandoStats</Name>
@@ -978,6 +1220,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>MagicUI</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>MajorItemByAreaTracker</Name>
@@ -995,6 +1240,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>MagicUI</Dependency>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>GhostHunter</Name>
@@ -1006,8 +1254,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKMP</Dependency>
             <Dependency>HkmpPouch</Dependency>
-	    <Dependency>Satchel</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/GhostHunter/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HkmpPouch</Name>
@@ -1019,6 +1270,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKMP</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Satchel</Name>
@@ -1028,6 +1282,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.1/Satchel.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/Satchel/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Custom Knight</Name>
@@ -1039,6 +1296,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Asymmetric Knight</Name>
@@ -1051,6 +1311,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Satchel</Dependency>
             <Dependency>Custom Knight</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>SmolKnight</Name>
@@ -1062,6 +1325,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/Smolknight/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ModScript</Name>
@@ -1071,6 +1337,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/PrashantMohta/ModScript/releases/download/0.1/ModScript.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/ModScript/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HKmote</Name>
@@ -1080,6 +1349,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/PrashantMohta/hkmote/releases/download/v1.4/Hkmote.dll]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/hkmote/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Hat</Name>
@@ -1089,6 +1361,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/PrashantMohta/hat.hollowknight/releases/download/v1.4/Hat.dll]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/hat.hollowknight/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Memesong</Name>
@@ -1098,6 +1373,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/yoink-city/memesong/releases/download/v1.5.0b/Memesong.dll]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/yoink-city/memesong/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>GrubTrain</Name>
@@ -1109,6 +1387,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/GrubTrain/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Konpanion</Name>
@@ -1120,6 +1401,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/Konpanion/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Glass Cannon Mod</Name>
@@ -1129,6 +1413,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Nexade/GlassCannon/releases/download/1.0/GlassCannonMod.dll]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Nexade/GlassCannon/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>FrogCore</Name>
@@ -1138,6 +1425,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/SFGrenade/FrogCore/releases/download/v0.0.1.1/FrogCore.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/RedFrog6002/FrogCore/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Grassy Knight</Name>
@@ -1147,6 +1437,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/mandar1jn/GrassyKnight/releases/download/1.4.0/GrassyKnight.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/mandar1jn/GrassyKnight/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Unity Explorer</Name>
@@ -1156,6 +1449,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/jngo102/UExplorer/releases/download/37d6ac170e66e0384602/UExplorer.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/jngo102/UExplorer/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Game Object Dump</Name>
@@ -1165,6 +1461,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/jngo102/HollowKnight.GODump/releases/download/af33bfb67a214162071e/GODUmp.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/jngo102/HollowKnight.GODump/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Gatling Aspid</Name>
@@ -1176,6 +1475,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/jngo102/GatlingAspid/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>SkipToRadiance</Name>
@@ -1185,6 +1487,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Nexade/SkipToRadiance/releases/download/V1.0/SkipToRadiance.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Nexade/SkipToRadiance/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Toggleable Bindings</Name>
@@ -1196,6 +1501,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Unordinal/HollowKnight.ToggleableBindings/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Toggle Rando Split Options</Name>
@@ -1207,6 +1515,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Toggleable Bindings</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/Toggle-Rando-Split-Options/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HollowPoint</Name>
@@ -1218,6 +1529,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Golden Godhome</Name>
@@ -1227,6 +1541,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/mandar1jn/GoldenGodhome/releases/download/1.1.0/GoldenGodhome.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/mandar1jn/GoldenGodhome/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Hall of Gods Extras</Name>
@@ -1238,6 +1555,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/jngo102/HoGExtras/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Custom Trial</Name>
@@ -1249,6 +1569,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/jngo102/HollowKnight.CustomTrial/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>SilkSong (but not really)</Name>
@@ -1260,6 +1583,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/yoink-city/Silksong_bnr/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Discord Rich Presence</Name>
@@ -1269,6 +1595,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/KaanGaming/HollowKnightDRPC/releases/download/1.1.1/HollowKnightDRPC.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/KaanGaming/HollowKnightDRPC/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Aspidnest</Name>
@@ -1278,6 +1607,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/KaanGaming/Aspidnest/releases/download/1.1.0.0/Aspidnest.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/KaanGaming/Aspidnest/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Osmi</Name>
@@ -1287,6 +1619,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.1/Osmi.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>GodSeekerPlus</Name>
@@ -1299,6 +1634,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CompanionCloth</Name>
@@ -1310,6 +1648,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.CompanionCloth]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HealthShare</Name>
@@ -1319,6 +1660,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/releases/download/v0.3.0/HealthShare.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Everwatchers</Name>
@@ -1332,6 +1676,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Satchel</Dependency>
             <Dependency>HealthShare</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>TribeOfBattle</Name>
@@ -1345,6 +1692,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Satchel</Dependency>
             <Dependency>HealthShare</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Crystalblobbles</Name>
@@ -1357,6 +1707,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.Crystalblobbles/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ContinueCountdown</Name>
@@ -1368,6 +1721,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>MagicUI</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.ContinueCountdown/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Vanilla Map Mod</Name>
@@ -1379,6 +1735,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>GeoHunger</Name>
@@ -1388,6 +1747,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.GeoHunger/releases/download/v1.3.0/GeoHunger.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.GeoHunger/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Pantheons Hit Counter</Name>
@@ -1399,6 +1761,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Hit Counter</Name>
@@ -1410,6 +1775,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>DoubleRadiance</Name>
@@ -1419,6 +1787,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/ygsbzr/HollowKnight.DoubleRadiance/releases/download/1.5/DoubleRadiance.1578.dll]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.DoubleRadiance/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CustomImage</Name>
@@ -1430,6 +1801,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomImage/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ThecurseofSly</Name>
@@ -1439,6 +1813,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/ygsbzr/HollowKnight.ThecurseofSly/releases/download/v2.2/TheCurseofSly.dll]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.ThecurseofSly/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>FuryMod</Name>
@@ -1450,6 +1827,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.FuryMod/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Fragile Purse</Name>
@@ -1459,6 +1839,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Mimijackz/FragilePurse/releases/download/beta/FragilePurse.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Mimijackz/FragilePurse/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>DeathCounter</Name>
@@ -1470,6 +1853,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/DeathCounter/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>DecorationMaster</Name>
@@ -1479,6 +1865,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/ygsbzr/HollowKnight.Decoration/releases/download/1.5zip/Decoration.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.Decoration/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HKTracker</Name>
@@ -1488,6 +1877,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/kingkiller39/HollowKnightRandomizerTracker2.8/releases/download/V3.4.1.1/HKTracker.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/kingkiller39/HollowKnightRandomizerTracker2.8/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>FragileStrengthForNailArts</Name>
@@ -1497,6 +1889,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Araraura/FragileStrengthForNailArts/releases/download/1.0.0.0/FragileStrengthForNailArts.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Araraura/FragileStrengthForNailArts/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ParryKnight</Name>
@@ -1508,6 +1903,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/AngelSassin/ParryKnight1.5/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>BingoBoard</Name>
@@ -1520,6 +1918,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Vasi</Dependency>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/JasonILTG/HollowKnight.BingoBoard/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HKTool</Name>
@@ -1529,6 +1930,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.7.4.0/Output.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ShieldParry</Name>
@@ -1540,6 +1944,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/DCParry/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ChangeHud</Name>
@@ -1551,6 +1958,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.ChangeHud/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>UnityExplorerPlus</Name>
@@ -1563,6 +1973,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>HKTool</Dependency>
             <Dependency>Unity Explorer</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Dead Cells Barrel Launcher</Name>
@@ -1574,6 +1987,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/DCBarrelLauncher/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HKTimer</Name>
@@ -1583,6 +1999,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Yurihaia/HollowKnight-Timer/releases/download/v0.1.1-1.5/HKTimer.dll]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Yurihaia/HollowKnight-Timer/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>SeedSummon</Name>
@@ -1594,6 +2013,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.seedSummon/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Negative Nail</Name>
@@ -1603,6 +2025,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Nexade/NegativeNail/releases/download/V1.0/NegativeNail.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Nexade/NegativeNail/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Abskoth</Name>
@@ -1612,6 +2037,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/AngelSassin/Abskoth/releases/download/v1.0/Abskoth.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/AngelSassin/Abskoth/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>DumbEnemy</Name>
@@ -1621,6 +2049,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/ygsbzr/HollowKnight.DumbEnemy/releases/download/v1.5/Dumb.dll]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.DumbEnemy/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Dead Cells The Queen</Name>
@@ -1632,6 +2063,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/DCQueen/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ShadeControl</Name>
@@ -1643,6 +2077,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>DebugMod</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.ShadeControl/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CustomAudio</Name>
@@ -1652,30 +2089,39 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/ygsbzr/HKCustomAudio/releases/download/v1.1/CustomAudio.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HKCustomAudio/]]>
+        </Repository>
     </Manifest>
     <Manifest>
-       <Name>Zote Killer</Name>
-       <Description>Allows you to kill the Zote in the Colosseum</Description>
-       <Version>0.1.0.0</Version>
-       <Link SHA256="c0e1d68d361f54f551277a77014f013f808150455fad25f4809615211ed7bf4d">
-           <![CDATA[https://github.com/HKLab/ZoteKiller/releases/download/v0.1/ZoteKiller.dll]]>
-       </Link>
-       <Dependencies>
-	       <Dependency>HKTool</Dependency>
-	    </Dependencies>
+        <Name>Zote Killer</Name>
+        <Description>Allows you to kill the Zote in the Colosseum</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="c0e1d68d361f54f551277a77014f013f808150455fad25f4809615211ed7bf4d">
+            <![CDATA[https://github.com/HKLab/ZoteKiller/releases/download/v0.1/ZoteKiller.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/ZoteKiller/]]>
+        </Repository>
     </Manifest>
-<Manifest>
-       <Name>Cyclone Throws</Name>
-       <Description>Allows you to throw the Cyclone as a ranged weapon </Description>
-       <Version>0.0.0.0</Version>
-       <Link SHA256="b7d9cd795f0957873b433a96df0f4e1e8f59a13ca94b7c63a263ff364d12605c">
-           <![CDATA[https://github.com/HKLab/CycloneOut/releases/download/v0.0.0.0/CycloneOut.dll]]>
-       </Link>
-       <Dependencies>
-	       <Dependency>HKTool</Dependency>
-	    </Dependencies>
+    <Manifest>
+        <Name>Cyclone Throws</Name>
+        <Description>Allows you to throw the Cyclone as a ranged weapon </Description>
+        <Version>0.0.0.0</Version>
+        <Link SHA256="b7d9cd795f0957873b433a96df0f4e1e8f59a13ca94b7c63a263ff364d12605c">
+            <![CDATA[https://github.com/HKLab/CycloneOut/releases/download/v0.0.0.0/CycloneOut.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/CycloneOut/]]>
+        </Repository>
     </Manifest>
-<Manifest>
+    <Manifest>
         <Name>Mirrored Hallownest</Name>
         <Description>Mirrors the entire Hollow Knight map</Description>
         <Version>0.2.0.0</Version>
@@ -1683,6 +2129,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Mimijackz/HKModding.MirroredHallownest/releases/download/v0.1.1/MirroredHallownest.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Mimijackz/HKModding.MirroredHallownest/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>Archipelago</Name>
@@ -1692,12 +2141,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Ijwu/Archipelago.HollowKnight/releases/download/0.0.2/Archipelago.HollowKnight.zip]]>
         </Link>
         <Dependencies>
-	       <Dependency>ItemChanger</Dependency>
-           <Dependency>MenuChanger</Dependency>
-           <Dependency>Benchwarp</Dependency>
-           <Dependency>QoL</Dependency>
-           <Dependency>RecentItemsDisplay</Dependency>
-	    </Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Benchwarp</Dependency>
+            <Dependency>QoL</Dependency>
+            <Dependency>RecentItemsDisplay</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ijwu/Archipelago.HollowKnight/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>GreatChampion</Name>
@@ -1709,8 +2161,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.GreatChampion/]]>
+        </Repository>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>Cyclone Real Combat</Name>
         <Description>Removed the learn Cyclone cutscene in and replaced it with real combat</Description>
         <Version>0.0.0.0</Version>
@@ -1720,6 +2175,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/NailMaster/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>OrbTracker</Name>
@@ -1731,6 +2189,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.OrbTracker/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>CustomPantheon</Name>
@@ -1740,6 +2201,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomPantheon/releases/download/v1.1/CustomPantheon.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomPantheon/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HKMP.ModDiff</Name>
@@ -1749,8 +2213,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/BlindGarret/HKMP.ModDiff/releases/download/v1.0.1.0/HKMP.ModDiff.zip]]>
         </Link>
         <Dependencies>
-	       <Dependency>HKMP</Dependency>
-	    </Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BlindGarret/HKMP.ModDiff/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>RandomCharm</Name>
@@ -1762,26 +2229,36 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/RandomCharm/]]>
+        </Repository>
     </Manifest>
-	<Manifest>
-       <Name>Uumuu Plus</Name>
-       <Description>Uumuu has been slightly enhanced</Description>
-       <Version>1.0.1.0</Version>
-       <Link SHA256="093b7df7d90a03c714e906bc473247e988463cfda21de30198489b2d7fcb64d1">
-           <![CDATA[https://github.com/HKLab/UumuuPlus/releases/download/v1.0.1.0/UumuuPlus.zip]]>
-       </Link>
-       <Dependencies>
-	       <Dependency>HKTool</Dependency>
-	    </Dependencies>
+    <Manifest>
+        <Name>Uumuu Plus</Name>
+        <Description>Uumuu has been slightly enhanced</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="093b7df7d90a03c714e906bc473247e988463cfda21de30198489b2d7fcb64d1">
+            <![CDATA[https://github.com/HKLab/UumuuPlus/releases/download/v1.0.1.0/UumuuPlus.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/UumuuPlus/]]>
+        </Repository>
     </Manifest>
-	<Manifest>
-		<Name>press g to dab</Name>
-		<Description>press g and the knight will dab</Description>
-		<Version>1.0.0.0</Version>
-            <Link SHA256="f99eac66f7b971ba054da397d9b2ccc0166203fdb7b6576e19070941a120f5de"><![CDATA[https://github.com/Link459/PressGToDab/releases/download/1.0.0.0/PressGToDab.zip]]>
-		</Link>
+    <Manifest>
+        <Name>press g to dab</Name>
+        <Description>press g and the knight will dab</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="f99eac66f7b971ba054da397d9b2ccc0166203fdb7b6576e19070941a120f5de">
+            <![CDATA[https://github.com/Link459/PressGToDab/releases/download/1.0.0.0/PressGToDab.zip]]>
+        </Link>
         <Dependencies />
-	</Manifest>
+        <Repository>
+            <![CDATA[https://github.com/Link459/PressGToDab/]]>
+        </Repository>
+    </Manifest>
     <Manifest>
         <Name>Input Buffers</Name>
         <Description>Allows for buffering inputs for every knight action.</Description>
@@ -1792,8 +2269,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
-    </Manifest>	
-     <Manifest>
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.InputBuffers/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>PathOfPureVessel</Name>
         <Description>Battle with PV at the end of POP</Description>
         <Version>1.0.0.0</Version>
@@ -1803,7 +2283,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
-    </Manifest> 
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/PathOfPureVessel/]]>
+        </Repository>
+    </Manifest>
     <Manifest>
         <Name>Rando Vanilla Tracker</Name>
         <Description>Randomizer 4 add-on for tracking non-randomized items.</Description>
@@ -1813,7 +2296,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
-
         </Dependencies>
-    </Manifest>	
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/]]>
+        </Repository>
+    </Manifest>
 </ModLinks>
