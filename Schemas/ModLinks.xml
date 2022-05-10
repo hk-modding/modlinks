@@ -69,12 +69,6 @@
   </xs:restriction>
 </xs:simpleType>
 
-<xs:simpleType name="RepoLinkType">
-  <xs:restriction base="xs:string">
-    <xs:pattern value="(\d+\.){3}\d+"/>
-  </xs:restriction>
-</xs:simpleType>
-
 <xs:complexType name="TagListType">
   <xs:sequence minOccurs="0" maxOccurs="unbounded">
     <xs:element name="Tag" type="TagType" />
