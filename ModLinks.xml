@@ -17,6 +17,12 @@
         <Dependencies>
             <Dependency>Test Dependency</Dependency>
         </Dependencies>
+        <Integrations>
+            <Integration>Write an integration here, like 'HKMP: other people see you like xyz'</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Either of: 'Boss', 'Cosmetic', 'Expansion', 'Gameplay', 'HKMP Addon', 'Library', 'Miscellaneous', 'Rando Addon', 'Utility'</Tag>
+        </Tags>
     </Manifest>
     -->
     <Manifest>

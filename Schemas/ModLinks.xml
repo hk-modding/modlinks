@@ -24,6 +24,9 @@
     <xs:element name="Dependencies" type="DepListType" />
     <xs:element name="Repository" type="LinkStringType" />
     <xs:sequence minOccurs="0" maxOccurs="1">
+      <xs:element name="Integrations" type="IntegrationListType" />
+    </xs:sequence>
+    <xs:sequence minOccurs="0" maxOccurs="1">
       <xs:element name="Tags" type="TagListType" />
     </xs:sequence>
   </xs:sequence>
@@ -68,6 +71,12 @@
     <xs:pattern value="(\d+\.){3}\d+"/>
   </xs:restriction>
 </xs:simpleType>
+
+<xs:complexType name="IntegrationListType">
+  <xs:sequence minOccurs="1" maxOccurs="unbounded">
+    <xs:element name="Integration" type="xs:string" />
+  </xs:sequence>
+</xs:complexType>
 
 <xs:complexType name="TagListType">
   <xs:sequence minOccurs="1" maxOccurs="unbounded">
