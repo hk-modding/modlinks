@@ -70,7 +70,7 @@
 </xs:simpleType>
 
 <xs:complexType name="TagListType">
-  <xs:sequence minOccurs="0" maxOccurs="unbounded">
+  <xs:sequence minOccurs="1" maxOccurs="unbounded">
     <xs:element name="Tag" type="TagType" />
   </xs:sequence>
 </xs:complexType>
