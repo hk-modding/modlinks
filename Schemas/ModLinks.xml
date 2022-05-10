@@ -23,6 +23,9 @@
     </xs:choice>
     <xs:element name="Dependencies" type="DepListType" />
     <xs:element name="Repository" type="LinkStringType" />
+    <xs:sequence minOccurs="0" maxOccurs="1">
+      <xs:element name="Tags" type="TagListType" />
+    </xs:sequence>
   </xs:sequence>
 </xs:complexType>
 
@@ -69,6 +72,26 @@
 <xs:simpleType name="RepoLinkType">
   <xs:restriction base="xs:string">
     <xs:pattern value="(\d+\.){3}\d+"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:complexType name="TagListType">
+  <xs:sequence minOccurs="0" maxOccurs="unbounded">
+    <xs:element name="Tag" type="TagType" />
+  </xs:sequence>
+</xs:complexType>
+
+<xs:simpleType name="TagType">
+  <xs:restriction base="xs:string">
+    <xs:enumeration value="Boss" />
+    <xs:enumeration value="Cosmetic" />
+    <xs:enumeration value="Expansion" />
+    <xs:enumeration value="Gameplay" />
+    <xs:enumeration value="HKMP Addon" />
+    <xs:enumeration value="Library" />
+    <xs:enumeration value="Miscellaneous" />
+    <xs:enumeration value="Rando Addon" />
+    <xs:enumeration value="Utility" />
   </xs:restriction>
 </xs:simpleType>
 
