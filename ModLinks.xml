@@ -1087,6 +1087,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>Gravity Mod</Name>
+        <Description>Adds gravity to all objects</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="F5A14902F87BCA4CDBD07CDA87B03C8EF1C41FB9C088513618AFCF66674D6A7E">
+            <![CDATA[https://github.com/TheMulhima/GravityMod/releases/download/1.0.0.1/GravityMod.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/GravityMod/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
         <Version>1.0.0.0</Version>
