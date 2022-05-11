@@ -22,6 +22,7 @@
       <xs:element name="Link" type="SingleLinkType" />
     </xs:choice>
     <xs:element name="Dependencies" type="DepListType" />
+    <xs:element name="Repository" type="LinkStringType" />
   </xs:sequence>
 </xs:complexType>
 
@@ -60,6 +61,12 @@
 </xs:simpleType>
 
 <xs:simpleType name="VersionStringType">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="(\d+\.){3}\d+"/>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="RepoLinkType">
   <xs:restriction base="xs:string">
     <xs:pattern value="(\d+\.){3}\d+"/>
   </xs:restriction>
