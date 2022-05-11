@@ -1259,6 +1259,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>RandoChecksCounter</Name>
+        <Description>A Hollow Knight mod that provides a live counter of locations checked.</Description>
+        <Version>1.0.8166.12031</Version>
+        <Link SHA256="35E1D809501E60EB7DB8A923FCCDD2FC53165BC5E06E6B3C56AF24A526114EEE">
+            <![CDATA[https://github.com/BadMagic100/RandoChecksCounter/releases/download/v1.0.8166.12031/RandoChecksCounter.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/RandoChecksCounter/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>GhostHunter</Name>
         <Description>A mod that shows the positions of other player's enemies during multiplay.</Description>
         <Version>1.0.0.0</Version>
