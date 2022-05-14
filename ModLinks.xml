@@ -2341,6 +2341,48 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>Fennel</Name>
+        <Description>Ports the Fennel fight from Momodora Reverie Under the Moonlight into Hollow Knight</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="b03f6fe11aa17ea33cd36c3f121bc71492f6443cf5bba424743380593b15e6a0">
+            <![CDATA[https://github.com/ygsbzr/Fennel/releases/download/v1.1/Fennel.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/Fennel/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Propeller Knight</Name>
+        <Description>Adds Propeller Knight from Shovel Knight to Hollow Knight.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="30d9e1b3340a019395ba79e457192451e28c00a17b1e78fd4447ed0bf8cd5788">
+            <![CDATA[https://github.com/ygsbzr/Propeller-Knight/releases/download/v1.1/PropellerKnight.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/Propeller-Knight/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Cagney Carnation</Name>
+        <Description>Hollow Knight mod that adds Cagney Carnation boss from Cuphead.</Description>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="a4a668056d606daf30773d299fd5ec0dfb5441ae9db02f5a2a91ac61b908cd52">
+            <![CDATA[https://github.com/ygsbzr/CagneyCarnation/releases/download/1.0.3/CagneyCarnation.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/CagneyCarnation/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>Rando Vanilla Tracker</Name>
         <Description>Randomizer 4 add-on for tracking non-randomized items.</Description>
         <Version>1.0.1.0</Version>
