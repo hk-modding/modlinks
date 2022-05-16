@@ -842,9 +842,9 @@ Takes hours to load into the game.</Description>
     <Manifest>
         <Name>LanguageSupport</Name>
         <Description>Allows additional languages to be supported. Doesn't allow for some characters of other languages yet.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="41066D324C1D9F0E7DE2C04BEC8318BE252D43D0404A35818330D02372C3A85E">
-            <![CDATA[https://github.com/SFGrenade/LanguageSupport/releases/download/v1.5/LanguageSupport.zip]]>
+        <Version>1.5.0.1</Version>
+        <Link SHA256="32F71B3B50AF57117D0B5D9023B4DEC441A7DD017DB9C3C1DCB2FCA7EE6B7D0A">
+            <![CDATA[https://github.com/SFGrenade/LanguageSupport/releases/download/v1.5-1/LanguageSupport.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
