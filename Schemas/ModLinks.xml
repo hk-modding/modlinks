@@ -91,7 +91,7 @@
     <xs:enumeration value="Expansion" />
     <xs:enumeration value="Gameplay" />
     <xs:enumeration value="Library" />
-    <xs:enumeration value="Randomizer" /><!-- shoutouts to r4ndo, archipelago, and in the future enemy rando, alongside other, smaller randomizers -->>
+    <xs:enumeration value="Randomizer" /><!-- shoutouts to r4ndo, archipelago, and in the future enemy rando, alongside other, smaller randomizers -->
     <xs:enumeration value="Utility" />
   </xs:restriction>
 </xs:simpleType>
