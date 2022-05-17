@@ -21,7 +21,7 @@
             <Integration>Write an integration here, like 'HKMP: other people see you like xyz'</Integration>
         </Integrations>
         <Tags>
-            <Tag>Either of: 'Boss', 'Cosmetic', 'Expansion', 'Gameplay', 'HKMP Addon', 'Library', 'Miscellaneous', 'Rando Addon', 'Utility'</Tag>
+            <Tag>Either of: 'Boss', 'Cosmetic', 'Expansion', 'Gameplay', 'Library', 'Utility'</Tag>
         </Tags>
     </Manifest>
     -->
