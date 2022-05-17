@@ -90,10 +90,8 @@
     <xs:enumeration value="Cosmetic" />
     <xs:enumeration value="Expansion" />
     <xs:enumeration value="Gameplay" />
-    <xs:enumeration value="HKMP Addon" />
     <xs:enumeration value="Library" />
-    <xs:enumeration value="Miscellaneous" />
-    <xs:enumeration value="Rando Addon" />
+    <xs:enumeration value="Randomizer" /><!-- shoutouts to r4ndo, archipelago, and in the future enemy rando, alongside other, smaller randomizers -->>
     <xs:enumeration value="Utility" />
   </xs:restriction>
 </xs:simpleType>
