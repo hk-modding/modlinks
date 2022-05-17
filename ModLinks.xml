@@ -1260,9 +1260,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoStats</Name>
         <Description>A randomizer-supplemental mod that provides detailed check and obtain stats on the completion screen.</Description>
-        <Version>1.1.8106.41552</Version>
-        <Link SHA256="0B500CFF0B4588D1FF44504F442D6C10F1151D268EF307EEF2AED9DBD8EB2EEC">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/releases/download/v1.1.8106.41552/RandoStats.zip]]>
+        <Version>1.2.8172.816</Version>
+        <Link SHA256="18DD268383ED8738EC66F39D89662CCD00A583E362744DEB8A8FF35879B40769">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/releases/download/v1.2.8172.816/RandoStats.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1271,6 +1271,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>MenuChanger</Dependency>
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>MagicUI</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/]]>
