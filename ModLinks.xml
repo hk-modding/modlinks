@@ -133,9 +133,9 @@
     <Manifest>
         <Name>God Soul</Name>
         <Description>Makes the game really, really hard</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="DF29F158192424E1DD503E5BCF7B5B712DF997CEF5B51569A2AF25FCEB8935B4">
-            <![CDATA[https://github.com/Nexade/God-Soul-Mod/releases/download/V1.4/GodSoul.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="052652F86B16890D6882C0715A35E87995C6CF78DAA892E961CB2F4D7ED2986F">
+            <![CDATA[https://github.com/Nexade/God-Soul-Mod/releases/download/V1.5/GodSoul.dll]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
