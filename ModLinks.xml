@@ -1041,9 +1041,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/]]>
         </Repository>
-         <Integrations>
-            <Integration>HowwowKnyight</Integration>
-        </Integrations>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
