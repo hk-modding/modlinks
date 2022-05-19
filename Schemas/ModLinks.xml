@@ -1,43 +1,62 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
+           xmlns:mm="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
            targetNamespace="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
            elementFormDefault="qualified">
 
 <xs:element name="ModLinks">
   <xs:complexType>
     <xs:sequence minOccurs="0" maxOccurs="unbounded">
-      <xs:element name="Manifest" type="ManifestType" />
+      <xs:element name="Manifest" type="mm:ManifestType" />
     </xs:sequence>
   </xs:complexType>
+
+  <xs:key name="modName">
+    <xs:selector xpath="mm:Manifest"/>
+    <xs:field xpath="mm:Name"/>
+  </xs:key>
+  <xs:keyref name="dependencymodNameRef" refer="mm:modName">
+    <xs:selector xpath="mm:Manifest/mm:Dependencies/*"/>
+    <xs:field xpath="."/>
+  </xs:keyref>
+  <xs:keyref name="integrationmodNameRef" refer="mm:modName">
+    <xs:selector xpath="mm:Manifest/mm:Integrations/*"/>
+    <xs:field xpath="."/>
+  </xs:keyref>
 </xs:element>
 
 <xs:complexType name="ManifestType">
   <xs:sequence>
     <xs:element name="Name" type="xs:string" />
     <xs:element name="Description" type="xs:string" />
-    <xs:element name="Version" type="VersionStringType" />
+    <xs:element name="Version" type="mm:VersionStringType" />
     <xs:choice>
-      <xs:element name="Links" type="LinksType" />
-      <xs:element name="Link" type="SingleLinkType" />
+      <xs:element name="Links" type="mm:LinksType" />
+      <xs:element name="Link" type="mm:SingleLinkType" />
     </xs:choice>
-    <xs:element name="Dependencies" type="DepListType" />
-    <xs:element name="Repository" type="LinkStringType" />
+    <xs:element name="Dependencies" type="mm:DepListType" />
+    <xs:element name="Repository" type="mm:LinkStringType" />
+    <xs:sequence minOccurs="0" maxOccurs="1">
+      <xs:element name="Integrations" type="mm:IntegrationListType" />
+    </xs:sequence>
+    <xs:sequence minOccurs="0" maxOccurs="1">
+      <xs:element name="Tags" type="mm:TagListType" />
+    </xs:sequence>
   </xs:sequence>
 </xs:complexType>
 
 <xs:complexType name="LinksType">
   <xs:sequence>
-    <xs:element name="Linux" type="SingleLinkType" />
-    <xs:element name="Mac" type="SingleLinkType" />
-    <xs:element name="Windows" type="SingleLinkType" />
+    <xs:element name="Linux" type="mm:SingleLinkType" />
+    <xs:element name="Mac" type="mm:SingleLinkType" />
+    <xs:element name="Windows" type="mm:SingleLinkType" />
   </xs:sequence>
 </xs:complexType>
 
 <xs:complexType name="SingleLinkType">
   <xs:simpleContent>
-    <xs:extension base="LinkStringType">
-      <xs:attribute name="SHA256" type="ShaStringType" use="required" />
+    <xs:extension base="mm:LinkStringType">
+      <xs:attribute name="SHA256" type="mm:ShaStringType" use="required" />
     </xs:extension>
   </xs:simpleContent>
 </xs:complexType>
@@ -66,9 +85,26 @@
   </xs:restriction>
 </xs:simpleType>
 
-<xs:simpleType name="RepoLinkType">
+<xs:complexType name="IntegrationListType">
+  <xs:sequence minOccurs="1" maxOccurs="unbounded">
+    <xs:element name="Integration" type="xs:string" />
+  </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="TagListType">
+  <xs:sequence minOccurs="1" maxOccurs="unbounded">
+    <xs:element name="Tag" type="mm:TagType" />
+  </xs:sequence>
+</xs:complexType>
+
+<xs:simpleType name="TagType">
   <xs:restriction base="xs:string">
-    <xs:pattern value="(\d+\.){3}\d+"/>
+    <xs:enumeration value="Boss" />
+    <xs:enumeration value="Cosmetic" />
+    <xs:enumeration value="Expansion" />
+    <xs:enumeration value="Gameplay" />
+    <xs:enumeration value="Library" />
+    <xs:enumeration value="Utility" />
   </xs:restriction>
 </xs:simpleType>
 

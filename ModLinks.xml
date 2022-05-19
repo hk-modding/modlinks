@@ -15,8 +15,14 @@
         </Links>
             <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://multiplatform.link]]></Link>
         <Dependencies>
-            <Dependency>Test Dependency</Dependency>
+            <Dependency>Another mod's name that this mod depends on</Dependency>
         </Dependencies>
+        <Integrations>
+            <Integration>Another mod's name, like the dependency list, but not a hard dependency, but extra stuff when it is installed alongside</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Either of: 'Boss', 'Cosmetic', 'Expansion', 'Gameplay', 'Library', 'Utility'</Tag>
+        </Tags>
     </Manifest>
     -->
     <Manifest>
