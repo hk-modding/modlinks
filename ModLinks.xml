@@ -2392,9 +2392,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Rando Vanilla Tracker</Name>
         <Description>Randomizer 4 add-on for tracking non-randomized items.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="7D5C3EA3DACA7AD525D318EA43B5B64696F32BCA53B7FEB6D1342199EC5277EF">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/releases/download/v1.0.1/RandoVanillaTracker.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="CDC467F01EDB5959BFD51AAEE975E7A3625C45CDC745EDBEC57DDD93D4F6344D">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/releases/download/v1.1.0/RandoVanillaTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
