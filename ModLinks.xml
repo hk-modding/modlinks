@@ -1167,6 +1167,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>Poorly Translated</Name>
+        <Description>Poorly Translated Hollow Knight. All text in the game is run through a chain of google translates.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="372D34E25DA4E6B55F0DC3D9E5DABC9ACE7041BC36899601DD1A593D2D327065">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.TranslationMod/releases/download/v1.0.1/PoorlyTranslatedMod.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.TranslationMod/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
         <Version>1.0.1.0</Version>
