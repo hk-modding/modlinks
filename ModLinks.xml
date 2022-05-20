@@ -1706,6 +1706,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/]]>
         </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>GodSeekerPlus</Name>
@@ -1721,6 +1724,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>CompanionCloth</Name>
@@ -1735,6 +1742,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.CompanionCloth]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>HealthShare</Name>
@@ -1747,6 +1757,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/]]>
         </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+            <Tag>Library</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>Everwatchers</Name>
@@ -1763,6 +1777,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/]]>
         </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>TribeOfBattle</Name>
@@ -1779,6 +1796,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/]]>
         </Repository>
+        <Integrations>
+            <Integration>Mantis Gods</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>Crystalblobbles</Name>
@@ -1794,6 +1817,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.Crystalblobbles/]]>
         </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>ContinueCountdown</Name>
@@ -1808,6 +1834,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.ContinueCountdown/]]>
         </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>Vanilla Map Mod</Name>
