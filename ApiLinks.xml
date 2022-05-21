@@ -6,17 +6,17 @@
     xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ApiLinks.xml"
 >
     <Manifest>
-        <Version>69</Version>
+        <Version>71</Version>
 
         <Links>
-            <Linux SHA256="3e03267d1015db60d4369bfb33d2f316f94d713850a798270b0f654b9d55828e">
-                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-70/ModdingApiLinux.zip]]>
+            <Linux SHA256="3f5d9689ff3e37177eb1c315bae3bcc7441c2d4f1f7579dc8480afdfb50fc4b3">
+                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-71/ModdingApiLinux.zip]]>
             </Linux>
-            <Mac SHA256="01bcf6e9b0fa527b5d10c56184ba34e91c493e0db3ac6b22e1fcedc8022f6b7d">
-                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-70/ModdingApiMac.zip]]>
+            <Mac SHA256="763fb3e64169cfca64509a4dff23d22119d9e66bcf0c706bb88520f1b3fd3100">
+                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-71/ModdingApiMac.zip]]>
             </Mac>
-            <Windows SHA256="dee189070c012ac4417449a7ce653b9abb1a539a2959599f4aa91116f98c1f8d">
-                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-70/ModdingApiWin.zip]]>
+            <Windows SHA256="d392429443be24a7c13ee8eda43f0ed6042885810b5d2f259c7d9c1fdde4ed83">
+                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-71/ModdingApiWin.zip]]>
             </Windows>
         </Links>
         
