@@ -1273,6 +1273,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/]]>
         </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>MagicUI</Name>
@@ -2240,7 +2243,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/ygsbzr/HollowKnight.ShadeControl/]]>
         </Repository>
         <Tags>
-            <Tag>Expansion</Tag>
+            <Tag>Utility</Tag>
         </Tags>
     </Manifest>
     <Manifest>
@@ -2462,6 +2465,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
+            <Tag>Boss</Tag>
         </Tags>
     </Manifest>
     <Manifest>
