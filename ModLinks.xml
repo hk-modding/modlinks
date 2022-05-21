@@ -1064,14 +1064,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>MoreSaves</Name>
-        <Description>Allows for infinite saves. Also, uses modmenu to provide other save file features such as backup/restore saves, rename saves and edit values in saves.</Description>
-        <Version>0.6.1.0</Version>
-        <Link SHA256="854DAA1D505473DF628863C120C5B82C7BF2181B2681DE33E4902C110E9F7E20">
-            <![CDATA[https://github.com/syyePhenomenol/MoreSaves/releases/download/v0.6.1/MoreSaves.zip]]>
+        <Description>Allows for infinite saves. Uses modmenu to provide other features such as backup/restore, rename, lock and edit values in saves. Note: Editing the current save you are in now takes effect in game</Description>
+        <Version>0.7.0.0</Version>
+        <Link SHA256="2D9C19364575C182CA67CD578662F3BA4A45321D9E47E8820CA0A66103D39263">
+            <![CDATA[https://github.com/TheMulhima/MoreSaves/releases/download/v0.7.0/MoreSaves.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/syyePhenomenol/MoreSaves/]]>
+            <![CDATA[https://github.com/TheMulhima/MoreSaves/]]>
         </Repository>
         <Tags>
             <Tag>Utility</Tag>
