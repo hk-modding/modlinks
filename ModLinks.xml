@@ -2109,6 +2109,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/HKLab/UnityExplorerPlus/]]>
         </Repository>
+        <Integrations>
+            <Integration>Satchel</Integration>
+            <Integration>Game Object Dump</Integration>
+        </Integrations>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -2327,12 +2331,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
-        <Tags>
-            <Tag>Gameplay</Tag>
-        </Tags>
+        
         <Repository>
             <![CDATA[https://github.com/HKLab/NailMaster/]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>OrbTracker</Name>
