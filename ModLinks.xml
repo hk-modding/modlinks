@@ -1184,9 +1184,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="dc2935e713cef5349ff09468fca687b4f6f1d5c31aeec3cdc7debe1b3f3e14df">
-            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.0.1.0/WeaverCore.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="d945c15bac48c8ce360b2d82430cb03d80e7f3d48803a1a261aeaeb5e0af4990">
+            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.1.0.0/WeaverCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1196,9 +1196,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Inferno King Grimm</Name>
         <Description>A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu</Description>
-        <Version>4.1.0.2</Version>
-        <Link SHA256="2280757e7b45a189ab9ca6a44461e50fdb4fa754d44d8068bb5528fd3576cf82">
-            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.1.0.2/InfernoKingGrimm.zip]]>
+        <Version>4.1.0.3</Version>
+        <Link SHA256="9a5ee870dcdfcd3409eb91e780c722422992b8ac208cefc20ca64dc54986a0d5">
+            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.1.0.3/InfernoKingGrimm.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
@@ -1210,9 +1210,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Corrupted Kin</Name>
         <Description>A mod that significantly changes up the Lost Kin bossfight</Description>
-        <Version>1.2.0.1</Version>
-        <Link SHA256="1d049b11437ce095fdbd3fba181b170da09877e74af5b98c723660e36a6217bb">
-            <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.2.0.1/CorruptedKin.zip]]>
+        <Version>1.2.0.2</Version>
+        <Link SHA256="b09d62c38c3d3036b80763e16cd709ca5029ad618512ab1e4275864f26a0024b">
+            <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.2.0.2/CorruptedKin.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
