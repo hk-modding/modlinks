@@ -2053,10 +2053,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>1.8.0.0</Version>
-        <Link SHA256="f4773c2c58db0e7465cc59a1d325d8296860bfbcdf5b3d8b26adeb73bb6a54da">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.8.0.0/Output.zip]]>
+        <Version>1.8.1.0</Version>
+        <Link SHA256="9b56fa22c2252f9af2395fe16cd84dab7e8bc3061610e53c90d35ad06aef31cd">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.8.1.0/Output.zip]]>
         </Link>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/]]>
@@ -2101,6 +2104,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>HKTool</Dependency>
             <Dependency>Unity Explorer</Dependency>
         </Dependencies>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
         <Repository>
             <![CDATA[https://github.com/HKLab/UnityExplorerPlus/]]>
         </Repository>
@@ -2115,6 +2121,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
         <Repository>
             <![CDATA[https://github.com/HKLab/DCBarrelLauncher/]]>
         </Repository>
@@ -2191,6 +2200,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
         <Repository>
             <![CDATA[https://github.com/HKLab/DCQueen/]]>
         </Repository>
@@ -2231,6 +2243,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
         <Repository>
             <![CDATA[https://github.com/HKLab/ZoteKiller/]]>
         </Repository>
@@ -2245,6 +2260,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
         <Repository>
             <![CDATA[https://github.com/HKLab/CycloneOut/]]>
         </Repository>
@@ -2303,6 +2321,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
         <Repository>
             <![CDATA[https://github.com/HKLab/NailMaster/]]>
         </Repository>
@@ -2371,6 +2392,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
         <Repository>
             <![CDATA[https://github.com/HKLab/UumuuPlus/]]>
         </Repository>
