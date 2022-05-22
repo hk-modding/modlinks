@@ -711,6 +711,14 @@
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/]]>
         </Repository>
+        <Integrations>
+            <Integration>AdditionalMaps</Integration>
+            <Integration>Randomizable Levers</Integration>
+            <Integration>RandoPlus</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>AdditionalMaps</Name>
@@ -1943,6 +1951,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/]]>
         </Repository>
+        <Integrations>
+            <Integration>AdditionalMaps</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>GeoHunger</Name>
@@ -1955,6 +1969,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.GeoHunger/]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>Pantheons Hit Counter</Name>
@@ -2469,6 +2486,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.OrbTracker/]]>
         </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>CustomPantheon</Name>
@@ -2559,6 +2579,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.InputBuffers/]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>PathOfPureVessel</Name>
@@ -2642,5 +2665,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/]]>
         </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
 </ModLinks>
