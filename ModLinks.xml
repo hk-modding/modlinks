@@ -293,6 +293,10 @@
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/]]>
         </Repository>
+        <Integrations>
+            <Integration>AdditionalMaps</Integration>
+            <Integration>HKMP</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>Kronk</Name>
@@ -347,6 +351,9 @@
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.BingoUI/]]>
         </Repository>
+        <Integrations>
+            <Integration>ItemChanger</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>EssenceAlways</Name>
@@ -385,6 +392,9 @@
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/]]>
         </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
@@ -408,11 +418,14 @@
             <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.2.1.1/RandoPlus.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>Randomizer 4</Dependency>
+            <Dependency>ItemChanger</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/]]>
         </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>Randomizable Levers</Name>
@@ -427,6 +440,9 @@
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/]]>
         </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>TrandoPlus</Name>
@@ -481,6 +497,9 @@
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/]]>
         </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>PlayerDataManager</Name>
@@ -493,6 +512,9 @@
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.PlayerDataManager/]]>
         </Repository>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>Benchwarp</Name>
