@@ -83,9 +83,9 @@
     <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
-        <Version>4.5.0.0</Version>
-        <Link SHA256="B34E737764F7EF4CF2F7EFBFFAC4A75BFF86E0F4EC4B45B741CA9EC7998A21FC">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.5/QoL.zip]]>
+        <Version>4.6.0.0</Version>
+        <Link SHA256="D50B5B8CB91422006F25640EDBFF386A0297AE51AB3AE870533D9C6B873B15E5">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.6/QoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
