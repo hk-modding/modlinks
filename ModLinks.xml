@@ -1394,7 +1394,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
         <Tags>
             <Tag>Library</Tag>
-        <Tags>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>ConnectionMetadataInjector</Name>
@@ -1413,7 +1413,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
         <Tags>
             <Tag>Library</Tag>
-        <Tags>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>RandoStats</Name>
@@ -1456,7 +1456,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
-        <Tags>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>RandoChecksCounter</Name>
