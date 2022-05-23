@@ -35,15 +35,15 @@
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/IronLucario2012/MaskMakerNotchesMod/]]>
+        </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
         </Integrations>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
-        <Repository>
-            <![CDATA[https://github.com/IronLucario2012/MaskMakerNotchesMod/]]>
-        </Repository>
     </Manifest>
     <Manifest>
         <Name>PureZote</Name>
