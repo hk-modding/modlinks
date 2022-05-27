@@ -1292,10 +1292,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Poorly Translated</Name>
-        <Description>Poorly Translated Hollow Knight. All text in the game is run through a chain of google translates.</Description>
+        <Description>Poorly Translated Hollow Knight. All text in the game is run through a chain of google translates. Available in English, German, Spanish, French, Italian and Chinese. Note: the English translations were revamped from the 1.4 version to be translated even more poorly</Description>
         <Version>1.0.1.0</Version>
-        <Link SHA256="372D34E25DA4E6B55F0DC3D9E5DABC9ACE7041BC36899601DD1A593D2D327065">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.TranslationMod/releases/download/v1.0.1/PoorlyTranslatedMod.zip]]>
+        <Link SHA256="74FFC82CA39FEA4F8C6CAB675AD51B69216CB3061F65028F86CE127F974A53A0">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.TranslationMod/releases/download/v1.1.0/TranslationMod.zip]]>
         </Link>
         <Dependencies />
         <Repository>
