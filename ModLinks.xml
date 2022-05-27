@@ -1360,9 +1360,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP Prop Hunt</Name>
         <Description>An HKMP add-on that adds Prop Hunt to multiplayer games.</Description>
-        <Version>0.0.0.4</Version>
-        <Link SHA256="25e5ab7c7f5dce2d51b013a2c68de5a4de79c6457f44e0b7110ade92f2c08b3b">
-            <![CDATA[https://github.com/jngo102/HKMP.PropHunt/releases/download/26.05.2022/PropHunt.zip]]>
+        <Version>0.0.0.5</Version>
+        <Link SHA256="b348512a7c182838126b7f3c7345e3790f6a0ff203921b0c7bd16abca609787f">
+            <![CDATA[https://github.com/jngo102/HKMP.PropHunt/releases/download/27.05.2022/PropHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
