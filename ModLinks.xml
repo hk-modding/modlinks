@@ -1577,7 +1577,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Custom Knight</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/]]>
+            <![CDATA[https://github.com/PrashantMohta/RandomCompanions/]]>
         </Repository>
     </Manifest>
     <Manifest>
