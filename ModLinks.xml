@@ -1566,6 +1566,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>RandomCompanions</Name>
+        <Description>A Custom Knight Addon that allows hatchlings and weaverlings to use all available skins</Description>
+        <Version>3.0.0.0</Version>
+        <Link SHA256="918fe27d8100f445563e250b8a6ad7898f0fe08bc6798c44d7539c4e2944ad45">
+            <![CDATA[https://github.com/PrashantMohta/RandomCompanions/releases/download/v3.0.0/RandomCompanions.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Custom Knight</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/RandomCompanions/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>SmolKnight</Name>
         <Description>Allows changing size of the knight</Description>
         <Version>1.5.0.0</Version>
