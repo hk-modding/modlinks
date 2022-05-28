@@ -738,9 +738,9 @@
     <Manifest>
         <Name>Randomizer Map S</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>2.4.5.0</Version>
-        <Link SHA256="38DCB7B8A5ECB0105793E6C2804F82E8A986023EDD1D8AF25DE0ADE2C0BAECB8">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.4.5/MapModS.zip]]>
+        <Version>2.5.0.0</Version>
+        <Link SHA256="CA02EA5D0F26E6F4FB43921BD95DA695E623FB390A3093F87085CB78AFB85344">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.5.0/MapModS.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -748,6 +748,7 @@
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>ConnectionMetadataInjector</Dependency>
+            <Dependency>MagicUI</Dependency>
             <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
@@ -1404,9 +1405,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MagicUI</Name>
         <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-        <Version>1.4.8178.1840</Version>
-        <Link SHA256="6DEDDD432AA73BA26FBEFAF6004D4E946D7FBC5BC2F17F1C990169FEB5949B0A">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.4.8178.1840/MagicUI.zip]]>
+        <Version>1.4.8178.42957</Version>
+        <Link SHA256="3E18618E94C599F67EA9FB7A0854CEE6D4DEBC0E22767A3CB7BCD791F7885355">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.4.8178.42957/MagicUI.zip]]>
         </Link>
         <Dependencies />
         <Repository>
