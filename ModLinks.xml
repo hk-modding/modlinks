@@ -26,6 +26,25 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>CriticalSlash</Name>
+        <Description>Makes nail arts deal extra damage and return control faster if released at the earliest moment.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="FF220F390F5AF66F146EB0192ED8323B72526D17C769D57AF95C2684EBFAD569">
+            <![CDATA[https://github.com/beesnation/CriticalSlash/releases/download/v1.0.0.0/CriticalSlash.zip]]>
+        </Link>
+        <Repository>
+            <![CDATA[https://github.com/beesnation/CriticalSlash]]>
+        </Repository>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Integrations>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Mask Maker Notches</Name>
         <Description>A mod that adds a few buyable Charm Notches in Mask Maker's room.</Description>
         <Version>1.0.0.0</Version>
