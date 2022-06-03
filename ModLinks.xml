@@ -1323,6 +1323,25 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>Additional Challenge</Name>
+        <Description>A mod that allows you to use 46 different effects to make your game more challenging. There are 4 types of effects (Persistent, Cooldown, Boss Attack, Enemy Follow) that can be enabled from modmenu. There is also a choas mode that randomly selects effects to happen periodically.</Description>
+        <Version>0.0.2.0</Version>
+        <Link SHA256="08CB05F0A6136CF07A061E17B215F3CE7EE967329B76E8EBD614EFD4E1BA49BE">
+            <![CDATA[https://github.com/TheMulhima/AdditionalChallenge/releases/download/v0.2.0/AdditionalChallenge.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>DebugMod</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/AdditionalChallenge]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Poorly Translated</Name>
         <Description>Poorly Translated Hollow Knight. All text in the game is run through a chain of google translates. Available in English, German, Spanish, French, Italian and Chinese. Note: the English translations were revamped from the 1.4 version to be translated even more poorly</Description>
         <Version>1.0.1.0</Version>
