@@ -1326,7 +1326,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Additional Challenge</Name>
         <Description>A mod that allows you to use 46 different effects to make your game more challenging. There are 4 types of effects (Persistent, Cooldown, Boss Attack, Enemy Follow) that can be enabled from modmenu. There is also a choas mode that randomly selects effects to happen periodically.</Description>
         <Version>0.0.2.0</Version>
-        <Link SHA256="08CB05F0A6136CF07A061E17B215F3CE7EE967329B76E8EBD614EFD4E1BA49BE">
+        <Link SHA256="F7F59F315168668CC4D2BA9572A530FCE801B5A2589B5C232468447EFFC3143A">
             <![CDATA[https://github.com/TheMulhima/AdditionalChallenge/releases/download/v0.2.0/AdditionalChallenge.zip]]>
         </Link>
         <Dependencies>
