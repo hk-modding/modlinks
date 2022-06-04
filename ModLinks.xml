@@ -1438,9 +1438,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Enemy HP Bar</Name>
         <Description>Adds skinnable HP bars to every enemies and bosses in the game.</Description>
-        <Version>3.0.3.0</Version>
-        <Link SHA256="e5458628271a0b8b76c8ddcf124a139973e606bdc0e2f62d08cf97ae7e144cac">
-            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/v3.0.3/EnemyHPBar.zip]]>
+        <Version>3.0.5.0</Version>
+        <Link SHA256="cbb6cb64165c0a1be11a908e40cb1b456d1dcd9ba708b514119035e8aec8c510">
+            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/v3.0.5/EnemyHPBar.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1448,6 +1448,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/]]>
         </Repository>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -2218,9 +2221,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DecorationMaster</Name>
         <Description>A mod for making area harder by adding spike and saw</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="2b7e0dae6fab5316f899a5fc723c604e10ef7d332e8a72aae6f625160f7fab9c">
-            <![CDATA[https://github.com/ygsbzr/HollowKnight.Decoration/releases/download/1.5zip/Decoration.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="6090db10c6b36a8a1661834299bef620f47ef48612bdb1c1b3449f0edddcff8a">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.Decoration/releases/download/0.42/Decoration.zip]]>
         </Link>
         <Dependencies />
         <Repository>
