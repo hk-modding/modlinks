@@ -92,7 +92,7 @@
         <Name>CharmMod</Name>
         <Description>Creates lots more charms to wear and use.</Description>
         <Version>6.1.6</Version>
-        <Link SHA256="C411A892B6409537EF01625EE3B42722D4C0FBA4F051316096939CE0DD46A7AF">
+        <Link SHA256="b3ca8bfbfcc65429c524eb7206aa0ad5c347b0c0">
             <![CDATA[https://github.com/BubkisLord/CharmMod/releases/tag/v6.1.6]]>
         </Link>
         <Dependencies />
