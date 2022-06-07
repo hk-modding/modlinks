@@ -26,6 +26,23 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>FallDamage</Name>
+        <Description>Player takes fall damage proportional to their max health and time spent falling.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="3707FD192891049B8105E7ECAC63098C759B1937CD56099D165F161F25B5178E">
+            <![CDATA[https://github.com/Makeit-Hardcore/HK-FallDamage/releases/download/v1.1.0/FallDamage.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Makeit-Hardcore/HK-FallDamage]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>CriticalSlash</Name>
         <Description>Makes nail arts deal extra damage and return control faster if released at the earliest moment.</Description>
         <Version>1.0.0.0</Version>
