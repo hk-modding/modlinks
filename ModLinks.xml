@@ -1238,9 +1238,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreSaves</Name>
         <Description>Allows for infinite saves. Uses modmenu to provide other features such as backup/restore, rename, lock and edit values in saves. Note: Editing the current save you are in now takes effect in game</Description>
-        <Version>0.7.0.0</Version>
-        <Link SHA256="2D9C19364575C182CA67CD578662F3BA4A45321D9E47E8820CA0A66103D39263">
-            <![CDATA[https://github.com/TheMulhima/MoreSaves/releases/download/v0.7.0/MoreSaves.zip]]>
+        <Version>0.7.6.0</Version>
+        <Link SHA256="831451CC6FA51E11F5E08D93D15A01BEA27D51488A7DBBD44DBA98ED4FB8F95A">
+            <![CDATA[https://github.com/TheMulhima/MoreSaves/releases/download/v0.7.6/MoreSaves.zip]]>
         </Link>
         <Dependencies />
         <Repository>
