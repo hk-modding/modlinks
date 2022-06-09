@@ -2706,9 +2706,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Input Buffers</Name>
         <Description>Allows for buffering inputs for every knight action.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="3E26306591C21C2CBBFD717CC11C65363AC5FB74849C7E34A0F32FA0438A8E14">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.InputBuffers/releases/download/v1.0.2/InputBuffers.zip]]>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="8E654295C35AC373DF36CA83BCF03C97E94EE0E256A9AC81C9A5C27D8F10FBAB">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.InputBuffers/releases/download/v1.0.3/InputBuffers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
