@@ -1779,9 +1779,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Unity Explorer</Name>
         <Description>Useful tool for mod developers to view and edit how the game is structured.</Description>
-        <Version>1.0.0.5</Version>
-        <Link SHA256="e84406a1c342dfebf2f6a707b7b9d7022d7ac6ea5827a09fb7a697c1a16f60f6">
-            <![CDATA[https://github.com/jngo102/UExplorer/releases/download/37d6ac170e66e0384602/UExplorer.zip]]>
+        <Version>4.8.2.0</Version>
+        <Link SHA256="7cc932572f3a8946233ae8f95233a65df277e59c9aa73194d5a9eddcc382c195">
+            <![CDATA[https://github.com/jngo102/UExplorer/releases/download/74ef0f5a4041a5d54373/UExplorer.zip]]>
         </Link>
         <Dependencies />
         <Repository>
