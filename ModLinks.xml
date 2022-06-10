@@ -92,7 +92,7 @@
         <Name>CharmMod</Name>
         <Description>Creates lots more charms to wear and use.</Description>
         <Version>1.8.30.3</Version>
-        <Link SHA256="2ff84658b73ac0441836f829d04f50d6a2a2bc12e010b878c6698d9ca715a4cd">
+        <Link SHA256="43070E6C9CFF43DE1E2CC1DBB56EF9CD7B5A72116C64C56EC55EB97521069A0F">
             <![CDATA[https://github.com/BubkisLord/CharmMod/releases/download/v1.8.30.3/CharmMod.zip]]>
         </Link>
         <Dependencies>
