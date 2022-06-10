@@ -106,6 +106,21 @@
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>CharmMod</Name>
+        <Description>Creates lots more charms to wear and use.</Description>
+        <Version>1.8.30.3</Version>
+        <Link SHA256="43070E6C9CFF43DE1E2CC1DBB56EF9CD7B5A72116C64C56EC55EB97521069A0F">
+            <![CDATA[https://github.com/BubkisLord/CharmMod/releases/download/v1.8.30.3/CharmMod.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BubkisLord/CharmMod/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>Transcendence</Name>
         <Description>Adds 14 new charms with various abilities. Can be used with the randomizer.</Description>
         <Version>1.1.2.0</Version>
