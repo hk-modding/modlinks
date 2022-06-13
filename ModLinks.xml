@@ -2342,7 +2342,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="302169ef1f1bf8ba9067f21c55d65bc4ea9a7ad966008ebeabc79a7e98808318">
             <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.8.6.0/Output.zip]]>
         </Link>
-        
+
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/]]>
@@ -2393,7 +2393,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>HKTool</Dependency>
             <Dependency>Unity Explorer</Dependency>
         </Dependencies>
-        
+
         <Repository>
             <![CDATA[https://github.com/HKLab/UnityExplorerPlus/]]>
         </Repository>
@@ -2415,7 +2415,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
-        
+
         <Repository>
             <![CDATA[https://github.com/HKLab/DCBarrelLauncher/]]>
         </Repository>
@@ -2501,7 +2501,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
-        
+
         <Repository>
             <![CDATA[https://github.com/HKLab/DCQueen/]]>
         </Repository>
@@ -2551,7 +2551,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
-        
+
         <Repository>
             <![CDATA[https://github.com/HKLab/ZoteKiller/]]>
         </Repository>
@@ -2569,7 +2569,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
-        
+
         <Repository>
             <![CDATA[https://github.com/HKLab/CycloneOut/]]>
         </Repository>
@@ -2634,7 +2634,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
-        
+
         <Repository>
             <![CDATA[https://github.com/HKLab/NailMaster/]]>
         </Repository>
@@ -2715,7 +2715,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
-        
+
         <Repository>
             <![CDATA[https://github.com/HKLab/UumuuPlus/]]>
         </Repository>
@@ -2851,5 +2851,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Extremelyd1/HKMP-Tag/]]>
         </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>The Glimmering Realm</Name>
+        <Description>Adds a game mode that changes the layout, items and lore of Hallownest into a whole new world - the Glimmering Realm!</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://multiplatform.link]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ToboterXP/HollowKnight.TheGlimmeringRealm]]>
+        </Repository>
+        <Tags>
+            <Tag>Expansion</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
     </Manifest>
 </ModLinks>
