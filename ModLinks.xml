@@ -123,7 +123,7 @@
         </Repository>
     </Manifest>
     <Manifest>
-        <Name> Fyrenest</Name>
+        <Name>Fyrenest</Name>
         <Description>Creates lots more charms, dialogue, and more!</Description>
         <Version>2.9.35.24</Version>
         <Link SHA256="aa4d681f2718b0e0ed1ae1faae6b4c94d3067b5ea3db5b8b2838763d47102477">
