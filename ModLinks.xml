@@ -135,9 +135,6 @@
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
         </Dependencies>
-        <Integrations>
-            <Integration>Randomizer 4</Integration>
-        </Integrations>
         <Repository>
             <![CDATA[https://github.com/BubkisLord/CharmMod/]]>
         </Repository>
