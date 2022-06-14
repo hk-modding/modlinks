@@ -1409,7 +1409,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
         <Version>1.1.0.1</Version>
-        <Link SHA256="8a9c3cd2c627fa9d2be73fe4e244492ba922fbf78b8f46515d32ee04127fa475">
+        <Link SHA256="8A9C3CD2C627FA9D2BE73FE4E244492BA922FBF78B8F46515D32EE04127FA475">
             <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.1.0.1/WeaverCore.zip]]>
         </Link>
         <Dependencies />
@@ -1435,7 +1435,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Corrupted Kin</Name>
         <Description>A mod that significantly changes up the Lost Kin bossfight</Description>
         <Version>1.2.0.3</Version>
-        <Link SHA256="594e39bb697a372c84de0054236b55e327466103594d0cb7ca3cd11299ac4c45">
+        <Link SHA256="594E39BB697A372C84DE0054236B55E327466103594D0CB7CA3CD11299AC4C45">
             <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.2.0.3/CorruptedKin.zip]]>
         </Link>
         <Dependencies>
