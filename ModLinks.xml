@@ -2912,4 +2912,19 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Gameplay</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+        <Name>Convenient Path of Pain</Name>
+        <Description>This mod makes it so whenever you strike a Path of Pain Soul Totem or a Wingsmould with your nail it will fully refill your Soul Vessel. Currently this does not work with Nail Arts. Thank you to SFGrenade for making this compatible with non vanilla Totems and Wingsmoulds</Description>
+        <Version>1.0.0.0</Version>    
+            <Link SHA256="0b45dc07936f276f42310aaa7fbc9fcae6603086b35e3b0aae6198f95eb7ba48">
+                <![CDATA[https://github.com/EnderOnryo/Convenient_PoP/releases/download/1.0/Convenient.PoP.dll]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/EnderOnryo/Convenient_PoP]]>
+        </Repository>
+        <Integrations />
+        <Tags>
+            <Tag>Utility'</Tag>
+        </Tags>
+    </Manifest>
 </ModLinks>
