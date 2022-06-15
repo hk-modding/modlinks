@@ -2628,6 +2628,29 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>Archipleago Map Mod</Name>
+        <Description>An conversion of the Randomizer Map Mod S that works with Archipelago Randomizer</Description>
+        <Version>0.0.1.0</Version>
+        <Link SHA256="17BD0DCF9B5BF80B9228278A12C4A284133931843DA0BCE78A5F17EF7D12F4A0">
+            <![CDATA[https://github.com/KonoTyran/HollowKnight.APMapMod/releases/download/v0.1.0/APMapMod.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Archipelago</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/KonoTyran/HollowKnight.APMapMod/]]>
+        </Repository>
+        <Integrations>
+            <Integration>AdditionalMaps</Integration>
+            <Integration>Benchwarp</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>GreatChampion</Name>
         <Description>A Modboss for failed champion</Description>
         <Version>2.1.0.0</Version>
