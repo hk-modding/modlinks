@@ -2702,7 +2702,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
-        <Name>Archipleago Map Mod</Name>
+        <Name>Archipelago Map Mod</Name>
         <Description>An conversion of the Randomizer Map Mod S that works with Archipelago Randomizer</Description>
         <Version>0.0.1.1</Version>
         <Link SHA256="92BD76B71C7D91B4D64ACBFBB1E334360E8ACBF258875086C0DBCEAE8D9E011B">
