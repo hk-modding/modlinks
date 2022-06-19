@@ -567,9 +567,9 @@
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.3.0.0</Version>
-        <Link SHA256="6549b39e7865bc18186e0536a5fff5ceef0b28ac95e8a134f653734b98c26784">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.3.0.0/TrandoPlus.zip]]>
+        <Version>1.3.1.0</Version>
+        <Link SHA256="69e2240755a19bf45c8b15cc90de862d4d6e061182996c1cae33212745843700">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.3.1.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
