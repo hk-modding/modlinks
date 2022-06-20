@@ -115,6 +115,32 @@
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>AbsoluteZote</Name>
+        <Description>A new GPZ mod boss.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="1aad22dd9c6d90a37bb754dd2ead381e8f473f973189d4faa840648b94118394">
+            <![CDATA[https://github.com/yunjord/HollowKnight.AbsoluteZote/releases/download/1.0/AbsoluteZote.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/yunjord/HollowKnight.AbsoluteZote/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>HitboxOnly</Name>
+        <Description>Show only hitboxes and hide all sprites. This provides a new experience for several bosses since attack anticipation is no longer visible.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="a4c9bf4430ecb9275bd0a050b48a951a4e884855a8a85b60d534c69eb833cd6a">
+            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/releases/download/1.0/HitboxOnly-v1.0.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>PureZote</Name>
         <Description>Enabled Grey Prince Zote to summon Eternal Ordeal and upgraded its skills.</Description>
         <Version>1.0.0.0</Version>
