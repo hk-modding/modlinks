@@ -37,6 +37,7 @@
         <Link SHA256="a4c9bf4430ecb9275bd0a050b48a951a4e884855a8a85b60d534c69eb833cd6a">
             <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/releases/download/1.0/HitboxOnly-v1.0.zip]]>
         </Link>
+        <Dependencies />
     </Manifest>
     <Manifest>
         <Name>PureZote</Name>
