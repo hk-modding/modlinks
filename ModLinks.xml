@@ -64,8 +64,8 @@
         <Name>HueShifter</Name>
         <Description>Uses shaders to change the map colours. Can also make everything rainbows.</Description>
         <Version>0.1.1.0</Version>
-        <Link SHA256="29D20D23BE14D6A856A52FAD164057C86EDBC95AAF05463CFB8A2AD99901F973">
-            <![CDATA[https://github.com/beesnation/HueShifter/releases/download/v0.1.1.0/HueShifter.zip]]>
+        <Link SHA256="BFDAD0223C82D106E19A624BDEA921AD2A43EC339F0855C916BF7E94C9A49332">
+            <![CDATA[https://github.com/beesnation/HueShifter/releases/download/v0.2.0.0/HueShifter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
