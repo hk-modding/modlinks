@@ -63,9 +63,9 @@
     <Manifest>
         <Name>HueShifter</Name>
         <Description>Uses shaders to change the map colours. Can also make everything rainbows.</Description>
-        <Version>0.1.1.0</Version>
-        <Link SHA256="29D20D23BE14D6A856A52FAD164057C86EDBC95AAF05463CFB8A2AD99901F973">
-            <![CDATA[https://github.com/beesnation/HueShifter/releases/download/v0.1.1.0/HueShifter.zip]]>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="BFDAD0223C82D106E19A624BDEA921AD2A43EC339F0855C916BF7E94C9A49332">
+            <![CDATA[https://github.com/beesnation/HueShifter/releases/download/v0.2.0.0/HueShifter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -113,6 +113,32 @@
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>AbsoluteZote</Name>
+        <Description>A new GPZ mod boss.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="1aad22dd9c6d90a37bb754dd2ead381e8f473f973189d4faa840648b94118394">
+            <![CDATA[https://github.com/yunjord/HollowKnight.AbsoluteZote/releases/download/1.0/AbsoluteZote.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/yunjord/HollowKnight.AbsoluteZote/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>HitboxOnly</Name>
+        <Description>Show only hitboxes and hide all sprites. This provides a new experience for several bosses since attack anticipation is no longer visible.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="a4c9bf4430ecb9275bd0a050b48a951a4e884855a8a85b60d534c69eb833cd6a">
+            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/releases/download/1.0/HitboxOnly-v1.0.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>PureZote</Name>
@@ -567,9 +593,9 @@
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.3.0.0</Version>
-        <Link SHA256="6549b39e7865bc18186e0536a5fff5ceef0b28ac95e8a134f653734b98c26784">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.3.0.0/TrandoPlus.zip]]>
+        <Version>1.3.1.0</Version>
+        <Link SHA256="69e2240755a19bf45c8b15cc90de862d4d6e061182996c1cae33212745843700">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.3.1.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -639,9 +665,9 @@
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.1.4.0</Version>
-        <Link SHA256="1172C47A43150AA64BBF3CE45E164ED1EDD4F993F64EF6FC6CB0F34AB12700C8">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.4.0/Benchwarp.zip]]>
+        <Version>3.1.5.0</Version>
+        <Link SHA256="884F22A90346EDCFF5E9B23697A9EA5CE4235A14B95C031A2B2C4D6E0C2F814F">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.5.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -651,9 +677,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.0.5.0</Version>
-        <Link SHA256="8E043046195D046A4B9B67A1351B856299F7D2D6391CD0975F1A41D233471BBA">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.5%2B980/RandomizerMod.zip]]>
+        <Version>4.0.6.0</Version>
+        <Link SHA256="DB33E88724DC532AA559753F0FEEC42AEC67102A9F7209692D896F61E6D758B3">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.6%2B324/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -669,9 +695,9 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.5.0</Version>
-        <Link SHA256="3CB29B5A81334B96EC6E6B735C9F69F2621CD6DAB9F91B4AD66854F853D89066">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.5%2B598/ItemChanger.zip]]>
+        <Version>2.0.6.0</Version>
+        <Link SHA256="2E36B1915E9F61CEB0556D6A7852F2584F6BA6BC01D90B0CC1CA974C6792F18D">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.6%2B140/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -681,9 +707,9 @@
     <Manifest>
         <Name>MenuChanger</Name>
         <Description>Mod which handles editing the main menu for other mods.</Description>
-        <Version>1.1.3.0</Version>
-        <Link SHA256="3458E6171D2B01B4F830E3B0CB5B14B70351ED7B205405BCCE3870E91E8EE973">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.3%2B530/MenuChanger.zip]]>
+        <Version>1.1.4.0</Version>
+        <Link SHA256="C29D3C11DDD701545A3EBF3D015567ED30A408146A7800119776F80A0D25E58E">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.4%2B594/MenuChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -693,9 +719,9 @@
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>1.0.3.0</Version>
-        <Link SHA256="2389E2DA8E8F313C7496B25FE6F91D93D5FDF72873E5E2BFEAE0A50F4F8C2574">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.3/RandomizerCore.zip]]>
+        <Version>1.0.4.0</Version>
+        <Link SHA256="D980B5D6E2A66E61B8579AF915D49B7B6CC47457613B6811D2C0D97CEFD816BE">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.4/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -716,6 +742,20 @@
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>ICExtraDeployers</Name>
+        <Description>ItemChanger add-on which preloads more objects. Use as a dependency for IC files which place custom Baldurs, gates, and more.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="B3D794A14A562C65C9807DE38837303AF5BF964976FF60E74EE4CF7FB6A9A39C">
+            <![CDATA[https://github.com/homothetyhk/ICExtraDeployers/releases/download/v1.0.0/ICExtraDeployers.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/ICExtraDeployers/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -759,6 +799,25 @@
         <Repository>
             <![CDATA[https://github.com/homothetyhk/CustomGroupInjector/]]>
         </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>BenchRando</Name>
+        <Description>A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items. Currently in beta.</Description>
+        <Version>0.9.1.0</Version>
+        <Link SHA256="CE3DD68DEE5562ABD87EC7A46E86EEA953EDFCDB9A63B1E12958C3FB199961A7">
+            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v0.9.1/BenchRando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Benchwarp</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/BenchRando/]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>ItemSync</Name>
@@ -2925,5 +2984,19 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Godhome Win Loss Tracker</Name>
+        <Description>Tracks win/loss in Hall of Gods and pantheons.</Description>
+        <Version>0.0.4.0</Version>
+        <Link SHA256="EDE66AB0BC819BAFEBEBECBB3C7383A4EFF93D0A7C80F050F6A9F4083C9E5C15">
+            <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/releases/download/v0.0.4/GodhomeWinLossTracker.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/]]>
+        </Repository>
     </Manifest>
 </ModLinks>
