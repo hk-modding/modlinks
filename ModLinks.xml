@@ -29,6 +29,9 @@
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/yunjord/HollowKnight.AbsoluteZote/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>HitboxOnly</Name>
@@ -38,6 +41,9 @@
             <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/releases/download/1.0/HitboxOnly-v1.0.zip]]>
         </Link>
         <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>PureZote</Name>
