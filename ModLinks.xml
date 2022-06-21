@@ -2318,6 +2318,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>ReverseKnight</Name>
+        <Description>The knight... look a little strange...</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="ba9d0d7767cdeb39ce1c8b856bcf8232a22b02446c4e0fdacbac0b2b15638df2">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.ReverseKnight/releases/download/v1.0/ReverseKnight.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.ReverseKnight/]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Fragile Purse</Name>
         <Description>Makes you drop geo whenever you get hit, and has a setting to kill you if you get hit without any geo</Description>
         <Version>0.1.0.0</Version>
