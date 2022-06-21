@@ -131,9 +131,9 @@
     <Manifest>
         <Name>HitboxOnly</Name>
         <Description>Show only hitboxes and hide all sprites. This provides a new experience for several bosses since attack anticipation is no longer visible.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="a4c9bf4430ecb9275bd0a050b48a951a4e884855a8a85b60d534c69eb833cd6a">
-            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/releases/download/1.0/HitboxOnly-v1.0.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="2ef5f983eb143462f9edf24711e2560dd6f102c8e77f1d297d2feb7bf044bfe3">
+            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/releases/download/1.2/HitboxOnly-v1.2.zip]]>
         </Link>
         <Dependencies />
         <Repository>
