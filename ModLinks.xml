@@ -665,9 +665,9 @@
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.1.5.0</Version>
-        <Link SHA256="884F22A90346EDCFF5E9B23697A9EA5CE4235A14B95C031A2B2C4D6E0C2F814F">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.5.0/Benchwarp.zip]]>
+        <Version>3.1.6.0</Version>
+        <Link SHA256="18455F48456A9C73C13FB9B4673CB8A6296B698D59E50A743C2A6C35B5F827E0">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.6.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -803,21 +803,19 @@
     <Manifest>
         <Name>BenchRando</Name>
         <Description>A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items. Currently in beta.</Description>
-        <Version>0.9.1.0</Version>
-        <Link SHA256="CE3DD68DEE5562ABD87EC7A46E86EEA953EDFCDB9A63B1E12958C3FB199961A7">
-            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v0.9.1/BenchRando.zip]]>
+        <Version>0.9.2.0</Version>
+        <Link SHA256="FA04ADD8A31D1FADD46BD055A2A84DB1F9AA1B3CF61F54A415CEB787B72E4786">
+            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v0.9.2/BenchRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>RandomizerCore</Dependency>
+            <Dependency>Randomizer 4</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/homothetyhk/BenchRando/]]>
         </Repository>
-        <Integrations>
-            <Integration>Randomizer 4</Integration>
-        </Integrations>
     </Manifest>
     <Manifest>
         <Name>ItemSync</Name>
