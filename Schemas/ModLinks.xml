@@ -27,7 +27,7 @@
 
 <xs:complexType name="ManifestType">
   <xs:sequence>
-    <xs:element name="Name" type="xs:string" />
+    <xs:element name="Name" type="mm:NameStringType" />
     <xs:element name="Description" type="xs:string" />
     <xs:element name="Version" type="mm:VersionStringType" />
     <xs:choice>
@@ -63,9 +63,15 @@
 
 <xs:complexType name="DepListType">
   <xs:sequence minOccurs="0" maxOccurs="unbounded">
-    <xs:element name="Dependency" type="xs:string" />
+    <xs:element name="Dependency" type="mm:NameStringType" />
   </xs:sequence>
 </xs:complexType>
+
+<xs:simpleType name="NameStringType">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="[a-zA-Z].+"/>
+  </xs:restriction>
+</xs:simpleType>
 
 <xs:simpleType name="ShaStringType">
   <xs:restriction base="xs:string">
