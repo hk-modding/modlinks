@@ -168,10 +168,10 @@
     </Manifest>
     <Manifest>
         <Name>Fyrenest</Name>
-        <Description>Creates lots more charms, dialogue, and more!</Description>
-        <Version>2.9.35.24</Version>
+        <Description>Adds over 24 new charms, renames areas, and creates new lore to explore! Read the README.txt for info on how to get charms. If you don't want to get them this way, then use debug mod and press 'add all charms'</Description>
+        <Version>2.10.41.36</Version>
         <Link SHA256="52cfe62057bf6887c9cbf0ba2d042b2d0183f11b9543b048eebc6a649430851c">
-            <![CDATA[https://github.com/BubkisLord/CharmMod/releases/download/v2.9.36.25/Fyrenest.zip]]>
+            <![CDATA[https://github.com/BubkisLord/CharmMod/releases/download/v2.10.41.36/Fyrenest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
