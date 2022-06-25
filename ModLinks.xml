@@ -97,9 +97,9 @@
     <Manifest>
         <Name>Mask Maker Notches</Name>
         <Description>A mod that adds a few buyable Charm Notches in Mask Maker's room.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="32F62A028362D788FA3F902F6EBB882E8AB1898D3BCEF2A660D617A1904B8DD7">
-            <![CDATA[https://github.com/IronLucario2012/MaskMakerNotchesMod/releases/download/Release/MaskMakerNotches.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="345DF009A1A46CFCFC1864A05F7D4E4681083035D6315CD14B4BEF16CCA29707">
+            <![CDATA[https://github.com/IronLucario2012/MaskMakerNotchesMod/releases/download/v1.2/MaskMakerNotches.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -131,9 +131,9 @@
     <Manifest>
         <Name>HitboxOnly</Name>
         <Description>Show only hitboxes and hide all sprites. This provides a new experience for several bosses since attack anticipation is no longer visible.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="2ef5f983eb143462f9edf24711e2560dd6f102c8e77f1d297d2feb7bf044bfe3">
-            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/releases/download/1.2/HitboxOnly-v1.2.zip]]>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="a10a68b088628c6c4420067555e20b9cbc12e1238af26696cd1c0383b6c2dc17">
+            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/releases/download/1.3/HitboxOnly-v1.3.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -168,10 +168,10 @@
     </Manifest>
     <Manifest>
         <Name>Fyrenest</Name>
-        <Description>Creates lots more charms, dialogue, and more!</Description>
-        <Version>2.9.35.24</Version>
-        <Link SHA256="52cfe62057bf6887c9cbf0ba2d042b2d0183f11b9543b048eebc6a649430851c">
-            <![CDATA[https://github.com/BubkisLord/CharmMod/releases/download/v2.9.36.25/Fyrenest.zip]]>
+        <Description>Adds over 24 new charms, renames areas, and creates new lore to explore! Read the README.txt for info on how to get charms. If you don't want to get them this way, then use debug mod and press 'add all charms'</Description>
+        <Version>2.10.41.36</Version>
+        <Link SHA256="af7782214b2672526ae8a7d163b7afab4389e566307d086c807e2fd54b683eda">
+            <![CDATA[https://github.com/BubkisLord/CharmMod/releases/download/v2.10.41.36/Fyrenest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -186,9 +186,9 @@
     <Manifest>
         <Name>Transcendence</Name>
         <Description>Adds 14 new charms with various abilities. Can be used with the randomizer.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="22F4990A9107AC3A27DA0EF797A9158A92F8FC5A4832CAA41B3195BD78535410">
-            <![CDATA[https://github.com/dpinela/Transcendence/releases/download/v1.2/Transcendence.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="C2E0C49A33FF5A666CD6F22A3741CD5CAB7A1934ADFFEA7C9FEA88E836BFEAFB">
+            <![CDATA[https://github.com/dpinela/Transcendence/releases/download/v1.2.1/Transcendence.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -665,9 +665,9 @@
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.1.5.0</Version>
-        <Link SHA256="884F22A90346EDCFF5E9B23697A9EA5CE4235A14B95C031A2B2C4D6E0C2F814F">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.5.0/Benchwarp.zip]]>
+        <Version>3.1.6.0</Version>
+        <Link SHA256="18455F48456A9C73C13FB9B4673CB8A6296B698D59E50A743C2A6C35B5F827E0">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.6.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -803,21 +803,19 @@
     <Manifest>
         <Name>BenchRando</Name>
         <Description>A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items. Currently in beta.</Description>
-        <Version>0.9.1.0</Version>
-        <Link SHA256="CE3DD68DEE5562ABD87EC7A46E86EEA953EDFCDB9A63B1E12958C3FB199961A7">
-            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v0.9.1/BenchRando.zip]]>
+        <Version>0.9.2.0</Version>
+        <Link SHA256="FA04ADD8A31D1FADD46BD055A2A84DB1F9AA1B3CF61F54A415CEB787B72E4786">
+            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v0.9.2/BenchRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>RandomizerCore</Dependency>
+            <Dependency>Randomizer 4</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/homothetyhk/BenchRando/]]>
         </Repository>
-        <Integrations>
-            <Integration>Randomizer 4</Integration>
-        </Integrations>
     </Manifest>
     <Manifest>
         <Name>ItemSync</Name>
@@ -897,9 +895,9 @@
     <Manifest>
         <Name>Randomizer Map S</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>2.5.2.0</Version>
-        <Link SHA256="EEE580E39329F5DEC4570CD741BC699BABA08D05750955D6ED727A5F71E848DB">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.5.2/MapModS.zip]]>
+        <Version>2.6.0.0</Version>
+        <Link SHA256="BB34AD8A23B2F2F7AD44A4C645B87B48D8A91DEDEA0DFBAECCD4025773678E88">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.6.0/MapModS.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -2046,9 +2044,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Osmi</Name>
         <Description>A library mod providing utilities for other mods</Description>
-        <Version>0.1.3.0</Version>
-        <Link SHA256="EDB8A038168B36976F581E297E5C98A799A4679814C112CAAB2D1F490990C480">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.3/Osmi.zip]]>
+        <Version>0.1.4.0</Version>
+        <Link SHA256="6A906A2C13334235E42B412E0052053566731D97DCE4ECAF6B66E98AFEC6C59A">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.4/Osmi.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2061,9 +2059,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.20.0.0</Version>
-        <Link SHA256="401EC7B4C677338E6087B19FC8FAEF6447B5354A2E1741A4F731D6F7DC2775F1">
-            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.20.0/GodSeekerPlus.zip]]>
+        <Version>0.20.1.0</Version>
+        <Link SHA256="D1CFA76A75FB3B9B0AEDD04222EE96A09318DA50233CCCF3CCA0D9D8FBAD7774">
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.20.1/GodSeekerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
@@ -2224,9 +2222,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Pantheons Hit Counter</Name>
         <Description>Counts hits in pantheons automatically.</Description>
-        <Version>1.3.3.0</Version>
-        <Link SHA256="001972F071FF18321C3BA0A1C31D62A3E91723272F6BDCE1A66D70F721E54C51">
-            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.3.3/PantheonsHitCounter.zip]]>
+        <Version>1.3.4.0</Version>
+        <Link SHA256="C18D45B63F19B98F524B7767BD8636DBEF1022807116FC9F178394833E9718A9">
+            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.3.4/PantheonsHitCounter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -2702,11 +2700,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
-        <Name>Archipleago Map Mod</Name>
+        <Name>Archipelago Map Mod</Name>
         <Description>An conversion of the Randomizer Map Mod S that works with Archipelago Randomizer</Description>
-        <Version>0.0.1.1</Version>
-        <Link SHA256="92BD76B71C7D91B4D64ACBFBB1E334360E8ACBF258875086C0DBCEAE8D9E011B">
-            <![CDATA[https://github.com/KonoTyran/HollowKnight.APMapMod/releases/download/v0.1.1/APMapMod.zip]]>
+        <Version>0.0.1.2</Version>
+        <Link SHA256="196A225CA302A99A0D329AE2E8BE0F173A142D34E3387D1D8D0E74F858AF6142">
+            <![CDATA[https://github.com/KonoTyran/HollowKnight.APMapMod/releases/download/v0.1.2/APMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
