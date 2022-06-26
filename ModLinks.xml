@@ -2601,6 +2601,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>CountDownForLife</Name>
+        <Description>When CountDown went to zero,you will be punished</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="ffac0fa12dc750864f20bcf18c75e6f705632aee2295f7ce7e678bd3319e1794">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CountDownForLife/releases/download/v1.5/CountdownforLife.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CountDownForLife/]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Dead Cells The Queen</Name>
         <Description>Replaced Grimm in Godhome with The Queen in Dead Cells</Description>
         <Version>0.0.0.0</Version>
