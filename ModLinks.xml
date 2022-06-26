@@ -3050,9 +3050,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Godhome Win Loss Tracker</Name>
         <Description>Tracks win/loss in Hall of Gods and pantheons.</Description>
-        <Version>0.1.4.0</Version>
-        <Link SHA256="4DD09A95610D2575AA6E88DF7FC0C6F0206F5C52ADFAA5E7B41B266768A68AD8">
-            <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/releases/download/v0.1.4.0/GodhomeWinLossTracker.zip]]>
+        <Version>0.2.1.0</Version>
+        <Link SHA256="EB3BE746BE0C06F20A9A9C2C1BEA93A85A8EFF3C6DED1E52740A982041374C17">
+            <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/releases/download/v0.2.1.0/GodhomeWinLossTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
