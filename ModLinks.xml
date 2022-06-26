@@ -531,6 +531,20 @@
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>MylaFlower</Name>
+        <Description>Protect Myla from the infection by bringing her a flower.</Description>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="2c01ca8ca0b6a552ef47e8edb902d50430c29ec19052fb2a371eaa07044b0916">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v0.9.0.0/MylaFlower.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.MylaFlower/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
         <Version>0.10.0.0</Version>
@@ -579,9 +593,9 @@
     <Manifest>
         <Name>FountainPreview</Name>
         <Description>Add-on for ItemChanger that makes the basin fountain show the item it's going to give.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="00d2cea93700cb2e1326f3eeef2a93e14715a59d6323bdddea0108fc6a8ab09a">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.FountainPreview/releases/download/v0.1.0.0/FountainPreview.zip]]>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="7015e5e201a10d4175d0d340a388247b2bb063f9beb5055ac2ff100afe19114a">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.FountainPreview/releases/download/v0.1.1.0/FountainPreview.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -593,9 +607,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.1.6.0</Version>
-        <Link SHA256="1335a39b9bf32b75e273143cf1c7b694d4c20fbba437865931df8434c9d1e938">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.1.6.0/RandomizableLevers.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="a07bb580b70bd96a899efe5632007b8dc8417f616511ff6c84c53351ea5f5759">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.0.0/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
