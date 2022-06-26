@@ -218,9 +218,9 @@
     <Manifest>
         <Name>RainbowEggs</Name>
         <Description>A randomizer add-on that makes Rancid Eggs more colorful.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="AA9A58BE456E6AF05344B365F672F9B334B3A538B0BF5D2D4DFA38CAAFE819FB">
-            <![CDATA[https://github.com/dpinela/RainbowEggs/releases/download/v1.0/RainbowEggs.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="5732CF5A903913D6E2D107F1425EA0B777A9405653F8427470FEF2A54F02BB45">
+            <![CDATA[https://github.com/dpinela/RainbowEggs/releases/download/v1.1/RainbowEggs.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
