@@ -1956,9 +1956,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Gatling Aspid</Name>
         <Description>Makes primal aspids wield gatling miniguns; configuration options available.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="b3cccc9d628611e36df46a834eb4c3f0de7e28631cb26b49f61e6083fd551ae3">
-            <![CDATA[https://github.com/jngo102/GatlingAspid/releases/download/6a031b3ac207d32305b5/GatlingAspid.zip]]>
+        <Version>1.0.0.2</Version>
+        <Link SHA256="c9686e82bca1ef891ce6c0c1e88c06f46f289807ffe955a5e604dc93fd4147e8">
+            <![CDATA[https://github.com/jngo102/GatlingAspid/releases/download/e64c80a09b934a081534/GatlingAspid.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -1966,6 +1966,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/jngo102/GatlingAspid/]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>SkipToRadiance</Name>
