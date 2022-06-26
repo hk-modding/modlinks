@@ -26,6 +26,23 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>Dead Quirrel</Name>
+        <Description>He's dead. Stop being in denial. Now featuring support for whether or not he has a mask.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="419f8358d1dfaaa863d8c18a405d979e0e38db0614c0c043dde142ca7e80ecb0">
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.DeadQuirrel/releases/download/v1.0.1/DeadQuirrel.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.DeadQuirrel]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Challenge Mode</Name>
         <Description>A mod that adds randomly selected challege modifiers to Godhome with several customization options.</Description>
         <Version>1.0.0.0</Version>
@@ -201,9 +218,9 @@
     <Manifest>
         <Name>RainbowEggs</Name>
         <Description>A randomizer add-on that makes Rancid Eggs more colorful.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="AA9A58BE456E6AF05344B365F672F9B334B3A538B0BF5D2D4DFA38CAAFE819FB">
-            <![CDATA[https://github.com/dpinela/RainbowEggs/releases/download/v1.0/RainbowEggs.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="5732CF5A903913D6E2D107F1425EA0B777A9405653F8427470FEF2A54F02BB45">
+            <![CDATA[https://github.com/dpinela/RainbowEggs/releases/download/v1.1/RainbowEggs.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -514,6 +531,20 @@
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>MylaFlower</Name>
+        <Description>Protect Myla from the infection by bringing her a flower.</Description>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="2c01ca8ca0b6a552ef47e8edb902d50430c29ec19052fb2a371eaa07044b0916">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v0.9.0.0/MylaFlower.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.MylaFlower/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
         <Version>0.10.0.0</Version>
@@ -562,9 +593,9 @@
     <Manifest>
         <Name>FountainPreview</Name>
         <Description>Add-on for ItemChanger that makes the basin fountain show the item it's going to give.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="00d2cea93700cb2e1326f3eeef2a93e14715a59d6323bdddea0108fc6a8ab09a">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.FountainPreview/releases/download/v0.1.0.0/FountainPreview.zip]]>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="7015e5e201a10d4175d0d340a388247b2bb063f9beb5055ac2ff100afe19114a">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.FountainPreview/releases/download/v0.1.1.0/FountainPreview.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -576,9 +607,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.1.6.0</Version>
-        <Link SHA256="1335a39b9bf32b75e273143cf1c7b694d4c20fbba437865931df8434c9d1e938">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.1.6.0/RandomizableLevers.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="a07bb580b70bd96a899efe5632007b8dc8417f616511ff6c84c53351ea5f5759">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.0.0/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -2578,6 +2609,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/ygsbzr/HollowKnight.DumbEnemy/]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>CountDownForLife</Name>
+        <Description>When CountDown went to zero,you will be punished</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="ffac0fa12dc750864f20bcf18c75e6f705632aee2295f7ce7e678bd3319e1794">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CountDownForLife/releases/download/v1.5/CountdownforLife.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CountDownForLife/]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
