@@ -28,9 +28,9 @@
     <Manifest>
         <Name>Dead Quirrel</Name>
         <Description>He's dead. Stop being in denial. Now featuring support for whether or not he has a mask.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="abe308a3d96f74797918a119eee4548b36ffc642b8ad7a2b211e28326cfc85bf">
-            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.DeadQuirrel/releases/download/v1.0.0/DeadQuirrel.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="419f8358d1dfaaa863d8c18a405d979e0e38db0614c0c043dde142ca7e80ecb0">
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.DeadQuirrel/releases/download/v1.0.1/DeadQuirrel.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
