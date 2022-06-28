@@ -2667,6 +2667,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>Dead Cells Time Keeper</Name>
+        <Description>Replaced Grimm in Godhome with The Queen in Dead Cells</Description>
+        <Version>0.0.0.0</Version>
+        <Link SHA256="e67e8dfc5b71db5f016aad9a65eebfa15ae6992d4b4e54bcee46a0120c65987c">
+            <![CDATA[https://github.com/HKLab/DCTimeKeeper/releases/download/v0.0.0.0/Output.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+
+        <Repository>
+            <![CDATA[https://github.com/HKLab/DCTimeKeeper/]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>ShadeControl</Name>
         <Description>A DebugAddition make you can control shade spell</Description>
         <Version>1.0.0.0</Version>
