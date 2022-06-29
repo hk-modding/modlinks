@@ -1957,6 +1957,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>Fast Travel</Name>
+        <Description>Travel anywhere within Hallownest by clicking on the map.</Description>
+        <Version>1.0.0.2</Version>
+        <Link SHA256="ec7845f0bd45e6507b0a9cab53efa77b8ae08e599eb550260f1ad268ebb92d9a">
+            <![CDATA[https://github.com/jngo102/HollowKnight.FastTravel/releases/download/1.0.0.2/FastTravel.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/jngo102/HollowKnight.FastTravel]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>Game Object Dump</Name>
         <Description>Allows extraction of atlases, sprites, and audio clips from game objects in the scene.</Description>
         <Version>1.0.0.1</Version>
