@@ -199,18 +199,17 @@
     <Manifest>
         <Name>Fyrenest</Name>
         <Description>Adds over 24 new charms, renames areas, and creates new lore to explore! Read the README.txt for info on how to get charms. If you don't want to get them this way, then use debug mod and press 'add all charms'</Description>
-        <Version>2.10.41.36</Version>
+        <Version>2.10.41.38</Version>
         <Link SHA256="af7782214b2672526ae8a7d163b7afab4389e566307d086c807e2fd54b683eda">
-            <![CDATA[https://github.com/BubkisLord/CharmMod/releases/download/v2.10.41.36/Fyrenest.zip]]>
+            <![CDATA[https://github.com/BubkisLord/CharmMod/releases/download/v2.10.41.38/Fyrenest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>ItemChanger</Dependency>
-            <Dependency>MenuChanger</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/BubkisLord/CharmMod/]]>
+            <![CDATA[https://github.com/BubkisLord/Fyrenest/]]>
         </Repository>
     </Manifest>
     <Manifest>
