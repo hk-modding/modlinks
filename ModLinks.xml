@@ -2668,7 +2668,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Dead Cells Time Keeper</Name>
-        <Description>Replaced Grimm in Godhome with The Queen in Dead Cells</Description>
+        <Description>Add TimeKeeper statue</Description>
         <Version>0.0.0.0</Version>
         <Link SHA256="e67e8dfc5b71db5f016aad9a65eebfa15ae6992d4b4e54bcee46a0120c65987c">
             <![CDATA[https://github.com/HKLab/DCTimeKeeper/releases/download/v0.0.0.0/Output.zip]]>
