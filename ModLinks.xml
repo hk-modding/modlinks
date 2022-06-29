@@ -35,6 +35,9 @@
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/epiceuropean/Better-Void-Heart]]>
+        </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
