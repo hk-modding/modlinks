@@ -26,6 +26,22 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>RadianceExtras</Name>
+        <Description>Adds Extra Things to the Abs Rad Fight</Description>
+        <Version>1.0.0.0</Version>
+            <Link SHA256="958A7D5075FBEB5BA8DE73DFEA7045B156270EF605A472F39B26FB90871688A1">
+                <![CDATA[https://github.com/Zickles/RadianceExtras/releases/download/1.0.1/RadianceExtras.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Zickles/RadianceExtras]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Dead Quirrel</Name>
         <Description>He's dead. Stop being in denial. Now featuring support for whether or not he has a mask.</Description>
         <Version>1.0.1.0</Version>
