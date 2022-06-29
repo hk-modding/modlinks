@@ -2829,17 +2829,19 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>An conversion of the Randomizer Map Mod S that works with Archipelago Randomizer</Description>
-        <Version>0.0.1.2</Version>
-        <Link SHA256="196A225CA302A99A0D329AE2E8BE0F173A142D34E3387D1D8D0E74F858AF6142">
-            <![CDATA[https://github.com/KonoTyran/HollowKnight.APMapMod/releases/download/v0.1.2/APMapMod.zip]]>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="1BBEA1912C7FACD7CB2E879B98F33E2E1F75522189C81599F0BB457BF3900D14">
+            <![CDATA[https://github.com/KonoTyran/HollowKnight.ArchipelagoMapMod/releases/download/v0.3.0-AP/APMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>Vasi</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MenuChanger</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/KonoTyran/HollowKnight.APMapMod/]]>
+            <![CDATA[https://github.com/KonoTyran/HollowKnight.ArchipelagoMapMod/]]>
         </Repository>
         <Integrations>
             <Integration>AdditionalMaps</Integration>
