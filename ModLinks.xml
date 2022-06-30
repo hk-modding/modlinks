@@ -26,6 +26,39 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>Better Void Heart</Name>
+        <Description>Keep Kingsoul soul regen when you pick up Void Heart.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="73f26fb4a41dccb33eaea87a687a7cf2a26ead8c130a74bcffc7c5ccd96797cc">
+            <![CDATA[https://github.com/epiceuropean/Better-Void-Heart/releases/download/v1.0/Better.Void.Heart.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/epiceuropean/Better-Void-Heart]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>RadianceExtras</Name>
+        <Description>Adds Extra Things to the Abs Rad Fight</Description>
+        <Version>1.0.0.0</Version>
+            <Link SHA256="958A7D5075FBEB5BA8DE73DFEA7045B156270EF605A472F39B26FB90871688A1">
+                <![CDATA[https://github.com/Zickles/RadianceExtras/releases/download/1.0.1/RadianceExtras.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Zickles/RadianceExtras]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Dead Quirrel</Name>
         <Description>He's dead. Stop being in denial. Now featuring support for whether or not he has a mask.</Description>
         <Version>1.0.1.0</Version>
@@ -58,6 +91,19 @@
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Damage Values</Name>
+        <Description>Shows damage numbers when striking an enemy.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="620ffc698da598e819f3c96755929aede40f26f222e4f06761623da192c5e3e9"><![CDATA[https://github.com/jngo102/DamageValues/releases/download/1.0.0.0/DamageValues.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/jngo102/DamageValues]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
     <Manifest>
@@ -186,18 +232,17 @@
     <Manifest>
         <Name>Fyrenest</Name>
         <Description>Adds over 24 new charms, renames areas, and creates new lore to explore! Read the README.txt for info on how to get charms. If you don't want to get them this way, then use debug mod and press 'add all charms'</Description>
-        <Version>2.10.41.36</Version>
-        <Link SHA256="af7782214b2672526ae8a7d163b7afab4389e566307d086c807e2fd54b683eda">
-            <![CDATA[https://github.com/BubkisLord/CharmMod/releases/download/v2.10.41.36/Fyrenest.zip]]>
+        <Version>2.10.41.38</Version>
+        <Link SHA256="7d8e007fd31c7921e67beaaaabda60187c899e5da2ed2240f8a080f6d86bf86f">
+            <![CDATA[https://github.com/BubkisLord/CharmMod/releases/download/v2.10.41.38/Fyrenest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>ItemChanger</Dependency>
-            <Dependency>MenuChanger</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/BubkisLord/CharmMod/]]>
+            <![CDATA[https://github.com/BubkisLord/Fyrenest/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -851,9 +896,9 @@
     <Manifest>
         <Name>ItemSync</Name>
         <Description>A RandomizerMod 4 add-on for sharing item pickups between players.</Description>
-        <Version>2.3.2.0</Version>
-        <Link SHA256="8BC4643DB9E20CA81F3788CB7F23C701602C456A648FF43E84CE7B2C3CE72439">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.3.2/ItemSync.zip]]>
+        <Version>2.4.1.0</Version>
+        <Link SHA256="68BB3C5C4A28E8164AB49FFF98EC5468E3171E3E71F787E0674116E87A0F0412">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.4.1/ItemSync.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1929,6 +1974,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>Fast Travel</Name>
+        <Description>Travel anywhere within Hallownest by clicking on the map.</Description>
+        <Version>1.0.0.2</Version>
+        <Link SHA256="ec7845f0bd45e6507b0a9cab53efa77b8ae08e599eb550260f1ad268ebb92d9a">
+            <![CDATA[https://github.com/jngo102/HollowKnight.FastTravel/releases/download/1.0.0.2/FastTravel.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/jngo102/HollowKnight.FastTravel]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>Game Object Dump</Name>
         <Description>Allows extraction of atlases, sprites, and audio clips from game objects in the scene.</Description>
         <Version>1.0.0.1</Version>
@@ -1943,9 +2000,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Gatling Aspid</Name>
         <Description>Makes primal aspids wield gatling miniguns; configuration options available.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="b3cccc9d628611e36df46a834eb4c3f0de7e28631cb26b49f61e6083fd551ae3">
-            <![CDATA[https://github.com/jngo102/GatlingAspid/releases/download/6a031b3ac207d32305b5/GatlingAspid.zip]]>
+        <Version>1.0.0.2</Version>
+        <Link SHA256="c9686e82bca1ef891ce6c0c1e88c06f46f289807ffe955a5e604dc93fd4147e8">
+            <![CDATA[https://github.com/jngo102/GatlingAspid/releases/download/e64c80a09b934a081534/GatlingAspid.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -1953,6 +2010,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/jngo102/GatlingAspid/]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>SkipToRadiance</Name>
@@ -2461,9 +2521,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>1.9.0.0</Version>
-        <Link SHA256="c1df46ae3c23e70e3b6f64bf38f726f7dcbc66f1689e760be61ea91dc7b535f9">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.9.0.0/Output.zip]]>
+        <Version>1.9.3.0</Version>
+        <Link SHA256="59ce8adbc62b61f5e3f7f68596263850f449d62b5708de50451911c2ac2690fe">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.9.3.0/Output.zip]]>
         </Link>
 
         <Dependencies />
@@ -2508,9 +2568,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
-        <Version>0.8.0.0</Version>
-        <Link SHA256="ca91b14dc4575ac41614b2f0b9ae7c8a213fca120f4e70221949a9e6b6d2fd7a">
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.8.0.0/Output.zip]]>
+        <Version>0.8.2.0</Version>
+        <Link SHA256="a0eb1ef102b5732244911564e9983b0973196dc08eb081b476db5cca46ee5a14">
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.8.2.0/Output.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
@@ -2645,6 +2705,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 
         <Repository>
             <![CDATA[https://github.com/HKLab/DCQueen/]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Dead Cells Time Keeper</Name>
+        <Description>Add TimeKeeper statue</Description>
+        <Version>0.0.0.0</Version>
+        <Link SHA256="e67e8dfc5b71db5f016aad9a65eebfa15ae6992d4b4e54bcee46a0120c65987c">
+            <![CDATA[https://github.com/HKLab/DCTimeKeeper/releases/download/v0.0.0.0/Output.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+
+        <Repository>
+            <![CDATA[https://github.com/HKLab/DCTimeKeeper/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
