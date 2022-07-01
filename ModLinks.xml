@@ -289,6 +289,20 @@
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>ScreenshotMachine</Name>
+        <Description>A mod to better create Hollow Knight screenshots.</Description>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="D6EA2374A90A201185C05065ACC8DDC9002F0B9F8F44D3CA6653C52D9F9B8BFA">
+            <![CDATA[https://github.com/BasedJellyfish11/HollowKnight.ScreenshotMachine/releases/download/v2/ScreenshotMachine.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BasedJellyfish11/HollowKnight.ScreenshotMachine/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>AsciiCamera</Name>
         <Description>Applies a shader to the camera which makes the game output as ascii characters.</Description>
         <Version>2.1.0.0</Version>
