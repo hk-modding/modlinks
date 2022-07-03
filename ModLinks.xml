@@ -1780,11 +1780,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>EmoteWheel</Name>
+        <Description>A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="67c9993cb72ef342dd65c43d11ab1c6f95ce9d153c81711a4968196e746b3d7c">
+            <![CDATA[https://github.com/PrashantMohta/EmoteWheel/releases/download/1.0.0/EmoteWheel.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HkmpPouch</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/EmoteWheel/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>HkmpPouch</Name>
         <Description>A dependency mod for client side hkmp addons.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="ff669f32b9e962f0e3a7c69435752dcc18ab4fcd641db59c2f5d32a992e8f6e9">
-            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/releases/download/v0.1.0/HkmpPouch.dll]]>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="7788d6fd39cce2eee5e52cc244d8a6f615e0f804cf3d57d018d12f3f3c07baf3">
+            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/releases/download/v0.2.0/HkmpPouch.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -1914,9 +1929,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GrubTrain</Name>
         <Description>Grubs as Companions</Description>
-        <Version>0.4.0.0</Version>
-        <Link SHA256="15953e90c10c1aaf84e60cd0f463a07c0711f1c6b721f12315ad72bc6d1ddda5">
-            <![CDATA[https://github.com/PrashantMohta/GrubTrain/releases/download/v0.4/GrubTrain.dll]]>
+        <Version>0.5.0.0</Version>
+        <Link SHA256="acc9fe4b27718c665a67f635a5e142e496485a380ea3622d21fde2ec450065f2">
+            <![CDATA[https://github.com/PrashantMohta/GrubTrain/releases/download/v0.5/GrubTrain.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
