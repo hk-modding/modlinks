@@ -3110,9 +3110,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>The Glimmering Realm</Name>
-        <Description>Adds a game mode that changes the layout, items and lore of Hallownest into a whole new world to explore - the Glimmering Realm!</Description>
-        <Version>1.0.4.1</Version>
-        <Link SHA256="DEEE21FB783129354739C6F991116FB150C9ED52C94BC77E2BD1ABF820E10323"><![CDATA[https://github.com/ToboterXP/HollowKnight.TheGlimmeringRealm/releases/download/v1.0.4.1/TheGlimmeringRealm.zip]]></Link>
+        <Description>Adds a game mode that changes the layout, items and lore of Hallownest into a whole new world to explore - the Glimmering Realm! Now including the Dream of the Fallen Expansion</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="F797CF434E2962C429AA1AD33E63BB46EB79ACD3B2AF5BC89D6BAD5A1DB0878C"><![CDATA[https://github.com/ToboterXP/HollowKnight.TheGlimmeringRealm/releases/download/v1.1/TheGlimmeringRealm.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
