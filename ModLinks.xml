@@ -1780,6 +1780,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>EmoteWheel</Name>
+        <Description>A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="67c9993cb72ef342dd65c43d11ab1c6f95ce9d153c81711a4968196e746b3d7c">
+            <![CDATA[https://github.com/PrashantMohta/EmoteWheel/releases/download/1.0.0/EmoteWheel.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HkmpPouch</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/EmoteWheel/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>HkmpPouch</Name>
         <Description>A dependency mod for client side hkmp addons.</Description>
         <Version>0.1.0.0</Version>
