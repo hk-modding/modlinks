@@ -1929,9 +1929,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GrubTrain</Name>
         <Description>Grubs as Companions</Description>
-        <Version>0.4.0.0</Version>
-        <Link SHA256="15953e90c10c1aaf84e60cd0f463a07c0711f1c6b721f12315ad72bc6d1ddda5">
-            <![CDATA[https://github.com/PrashantMohta/GrubTrain/releases/download/v0.4/GrubTrain.dll]]>
+        <Version>0.5.0.0</Version>
+        <Link SHA256="acc9fe4b27718c665a67f635a5e142e496485a380ea3622d21fde2ec450065f2">
+            <![CDATA[https://github.com/PrashantMohta/GrubTrain/releases/download/v0.5/GrubTrain.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
