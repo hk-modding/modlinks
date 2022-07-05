@@ -1978,6 +1978,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/RedFrog6002/FrogCore/]]>
         </Repository>
     </Manifest>
+    <!--
     <Manifest>
         <Name>Grassy Knight</Name>
         <Description>Tracks and shows you how much grass you've cut.</Description>
@@ -1990,6 +1991,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/mandar1jn/GrassyKnight/]]>
         </Repository>
     </Manifest>
+    -->
     <Manifest>
         <Name>Unity Explorer</Name>
         <Description>Useful tool for mod developers to view and edit how the game is structured.</Description>
