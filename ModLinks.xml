@@ -1066,9 +1066,9 @@
     <Manifest>
         <Name>CustomBgm</Name>
         <Description>Allows customization of background music. See its readme for a how-to.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="B2F3828A0E1F544480FB715345124B85D364FD323377D2919EAA6F136E586E62">
-            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5/CustomBgm.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="A937757DBB7FA6EF809D9A7F12D43F40D4073F52FB1F490BDEFE7854861D131D">
+            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.1/CustomBgm.zip]]>
         </Link>
         <Dependencies />
         <Repository>
