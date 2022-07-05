@@ -31,7 +31,7 @@ jobs:
       - name: Setup ModLinksShaVerifier
         run: |
           wget https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v2/linux.zip
-          
+          unzip linux.zip
       - name: Verify APILinks SHAs
         run: ./ModlinksShaVerifier ApiLinks.xml
       - name: Verify ModLinks.xml SHAs
