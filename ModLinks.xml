@@ -26,6 +26,23 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>Heal On Wall</Name>
+        <Description>Makes it so you can Heal On Walls</Description>
+        <Version>1.0.0.0</Version>
+            <Link SHA256="0027A62BD007E12CFDD13D6CE9098D67AE155AE58DABF30903C4F141BDB72BC3">
+                <![CDATA[https://github.com/Zickles/Heal_On_Wall/releases/download/how1/Heal_On_Wall.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Zickles/Heal_On_Wall]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Better Void Heart</Name>
         <Description>Keep Kingsoul soul regen when you pick up Void Heart.</Description>
         <Version>1.0.0.0</Version>
