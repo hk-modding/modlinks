@@ -2250,18 +2250,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>HealthShare</Name>
-        <Description>Let some bosses use shared health and provide health sharing API</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="27C175F5EE605862C933E5370DBCA6370B6A00833D307A63034B93B8FD71678C">
-            <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/releases/download/v0.3.0/HealthShare.zip]]>
+        <Description>Let some bosses use shared health, API part has moved to Osmi</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="E45EDF18EAF0764FDDFCA5B9CB88D7A2D8D2A9CCAB80936963CA3F3CD76CA559">
+            <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/releases/download/v1.0.0/HealthShare.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
-            <Tag>Library</Tag>
         </Tags>
     </Manifest>
     <Manifest>
