@@ -2269,14 +2269,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Everwatchers</Name>
         <Description>A mod boss based on Watcher Knights, allowing you to fight all of them simutanuously and add more of them</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="68D8AC8A288D7E5126404973E1621C8F9391466068377FB6049FFD0B230D6B6A">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/releases/download/v1.0.0/Everwatchers.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="5F6EC894BCD143942B26A674E2ABE0541F5DAAE838B48A1909C0B2983936ACC0">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/releases/download/v1.0.1/Everwatchers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
-            <Dependency>HealthShare</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/]]>
