@@ -784,9 +784,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.0.6.0</Version>
-        <Link SHA256="014E635FF582D99BBECC34C8D55F46AAD3E2A40566EEB099139C2F575A322D1B">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.7%2B464/RandomizerMod.zip]]>
+        <Version>4.0.7.0</Version>
+        <Link SHA256="AEAB203113FFF5D94549E19E0D5CBA0D0891D5A6BC7B870BA33AC67EC0C13745">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.7%2B557/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -802,7 +802,7 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.6.0</Version>
+        <Version>2.0.7.0</Version>
         <Link SHA256="C14AD16EAC49AA234A64A3AF5242F81C4EBDFA939418BBE5CDDDB15BEF2C90E2">
             <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.7%2B699/ItemChanger.zip]]>
         </Link>
@@ -910,9 +910,9 @@
     <Manifest>
         <Name>BenchRando</Name>
         <Description>A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items. Currently in beta.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="F3B9C5160C4D201AF73E648939DB9919DDAE005B76C0FB3B2775FBA67A53A560">
-            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.0/BenchRando.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="6E3E6E0E2DCF402D94262A8A72083C7B53CA9135F447E96B771E7ADA10C1C55A">
+            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.0.1/BenchRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
