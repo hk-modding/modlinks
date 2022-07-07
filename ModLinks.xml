@@ -830,9 +830,9 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.7.0</Version>
-        <Link SHA256="C14AD16EAC49AA234A64A3AF5242F81C4EBDFA939418BBE5CDDDB15BEF2C90E2">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.7%2B699/ItemChanger.zip]]>
+        <Version>2.0.7.1</Version>
+        <Link SHA256="F2929DB9274CBC0C6C2C1F43FA943E8533DB08F7AE19ED5284C8C8A379105250">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.7%2B725/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1018,9 +1018,9 @@
     <Manifest>
         <Name>LoadNormalizer</Name>
         <Description>Mod which extends loads to a user-defined cap, to synchronize loading for races.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="E8F913C588CBFF8B6F58E02521F87BACA15B0A3BCEDAB84C02157077E3DD65DA">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.LoadNormalizer/releases/download/v2.0/LoadNormalizer.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="125DFDACDA85550ED73F7A4A625182D219A4097E007F93503F3F7139B4FE6B67">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.LoadNormalizer/releases/download/v2.1/LoadNormalizer.zip]]>
         </Link>
         <Dependencies />
         <Repository>
