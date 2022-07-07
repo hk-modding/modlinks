@@ -292,6 +292,34 @@
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>RandoZoomZoom</Name>
+        <Description>A randomizer add-on that makes early movement and geo collection a bit faster.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="B3EAA867B756A3773FFD57C8C222A71C6A043BFC4CA28BFC5F849CF4E7A3F3A7">
+            <![CDATA[https://github.com/dpinela/RandoZoomZoom/releases/download/v1.0/RandoZoomZoom.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dpinela/RandoZoomZoom/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>BenchwarpSpoilerCloak</Name>
+        <Description>A Benchwarp add-on that hides yet-to-be-visited bench names in the menu.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="A570AA49EAE949A91C7F5192A80F70F741247C92696B9658A48D7FFE66039B5E">
+            <![CDATA[https://github.com/dpinela/BenchwarpSpoilerCloak/releases/download/v1.0/BenchwarpSpoilerCloak.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Benchwarp</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dpinela/BenchwarpSpoilerCloak/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
         <Version>4.7.0.0</Version>
