@@ -2228,9 +2228,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Osmi</Name>
         <Description>A library mod providing utilities for other mods</Description>
-        <Version>0.1.4.0</Version>
-        <Link SHA256="6A906A2C13334235E42B412E0052053566731D97DCE4ECAF6B66E98AFEC6C59A">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.4/Osmi.zip]]>
+        <Version>0.1.5.0</Version>
+        <Link SHA256="3B63A272E3032AD4407BE4B2519AE48E9B51D952EC9DD6E97A15D3D697D3716E">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.5/Osmi.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2278,31 +2278,32 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>HealthShare</Name>
-        <Description>Let some bosses use shared health and provide health sharing API</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="27C175F5EE605862C933E5370DBCA6370B6A00833D307A63034B93B8FD71678C">
-            <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/releases/download/v0.3.0/HealthShare.zip]]>
+        <Description>Let some bosses use shared health, API part has moved to Osmi</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="E45EDF18EAF0764FDDFCA5B9CB88D7A2D8D2A9CCAB80936963CA3F3CD76CA559">
+            <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/releases/download/v1.0.0/HealthShare.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
-            <Tag>Library</Tag>
         </Tags>
     </Manifest>
     <Manifest>
         <Name>Everwatchers</Name>
         <Description>A mod boss based on Watcher Knights, allowing you to fight all of them simutanuously and add more of them</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="68D8AC8A288D7E5126404973E1621C8F9391466068377FB6049FFD0B230D6B6A">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/releases/download/v1.0.0/Everwatchers.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="5F6EC894BCD143942B26A674E2ABE0541F5DAAE838B48A1909C0B2983936ACC0">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/releases/download/v1.0.1/Everwatchers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
-            <Dependency>HealthShare</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/]]>
@@ -2314,14 +2315,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TribeOfBattle</Name>
         <Description>A boss based on Sisters of Battle and Traitor Lord</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="FE5E8C27E36C404D105932206C7F74FF55AF75E2A7EFDD972E1F1A96416D3FCA">
-            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/releases/download/v1.1.1/TribeOfBattle.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="809385B3951B9E99669EF48AF1074BA962E7A9ED1E9B3AFC501A2930F45421E0">
+            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/releases/download/v1.2.0/TribeOfBattle.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
-            <Dependency>HealthShare</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/]]>
