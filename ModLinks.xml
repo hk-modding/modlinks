@@ -292,6 +292,34 @@
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>RandoZoomZoom</Name>
+        <Description>A randomizer add-on that makes early movement and geo collection a bit faster.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="B3EAA867B756A3773FFD57C8C222A71C6A043BFC4CA28BFC5F849CF4E7A3F3A7">
+            <![CDATA[https://github.com/dpinela/RandoZoomZoom/releases/download/v1.0/RandoZoomZoom.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dpinela/RandoZoomZoom/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>BenchwarpSpoilerCloak</Name>
+        <Description>A Benchwarp add-on that hides yet-to-be-visited bench names in the menu.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="A570AA49EAE949A91C7F5192A80F70F741247C92696B9658A48D7FFE66039B5E">
+            <![CDATA[https://github.com/dpinela/BenchwarpSpoilerCloak/releases/download/v1.0/BenchwarpSpoilerCloak.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Benchwarp</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dpinela/BenchwarpSpoilerCloak/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
         <Version>4.7.0.0</Version>
@@ -309,11 +337,12 @@
         <Name>ScreenshotMachine</Name>
         <Description>A mod to better create Hollow Knight screenshots.</Description>
         <Version>2.0.0.0</Version>
-        <Link SHA256="D6EA2374A90A201185C05065ACC8DDC9002F0B9F8F44D3CA6653C52D9F9B8BFA">
-            <![CDATA[https://github.com/BasedJellyfish11/HollowKnight.ScreenshotMachine/releases/download/v2/ScreenshotMachine.zip]]>
+        <Link SHA256="703EA0E4E1BA3269725A121CFAA77BC37CE61A1CD1E0A4E44D4993699F7B5043">
+            <![CDATA[https://github.com/BasedJellyfish11/HollowKnight.ScreenshotMachine/releases/download/v2.1/ScreenshotMachine.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/BasedJellyfish11/HollowKnight.ScreenshotMachine/]]>
@@ -322,9 +351,9 @@
     <Manifest>
         <Name>AsciiCamera</Name>
         <Description>Applies a shader to the camera which makes the game output as ascii characters.</Description>
-        <Version>2.1.0.0</Version>
-        <Link SHA256="C0A62A17F48896EB1F5DE825D2C0FE84A8D07B54348777253DF6C5ECDF1D6E1C">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.AsciiCamera/releases/download/v2.1/AsciiCamera.zip]]>
+        <Version>2.2.0.0</Version>
+        <Link SHA256="FF83C558EDD7E6CC4B46728F129AC0D6D4990BE3F0D49FC7948827F4B2A41690">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.AsciiCamera/releases/download/v2.2/AsciiCamera.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -683,9 +712,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="a07bb580b70bd96a899efe5632007b8dc8417f616511ff6c84c53351ea5f5759">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.0.0/RandomizableLevers.zip]]>
+        <Version>1.2.1.1</Version>
+        <Link SHA256="c7ebfb05aec70292dad2a6622b30cb8f3b32e4389fbfaaf693bb99809e208daa">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.1.1/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -772,9 +801,9 @@
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.1.6.0</Version>
-        <Link SHA256="18455F48456A9C73C13FB9B4673CB8A6296B698D59E50A743C2A6C35B5F827E0">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.1.6.0/Benchwarp.zip]]>
+        <Version>3.2.0.0</Version>
+        <Link SHA256="01BF4096F03C5E6E883CFC37868A10191E192480F595CB65BEE05EA3C78BFBBA">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.0.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -784,9 +813,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.0.6.0</Version>
-        <Link SHA256="DB33E88724DC532AA559753F0FEEC42AEC67102A9F7209692D896F61E6D758B3">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.6%2B324/RandomizerMod.zip]]>
+        <Version>4.0.7.0</Version>
+        <Link SHA256="AEAB203113FFF5D94549E19E0D5CBA0D0891D5A6BC7B870BA33AC67EC0C13745">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.7%2B557/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -802,9 +831,9 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.6.0</Version>
-        <Link SHA256="2E36B1915E9F61CEB0556D6A7852F2584F6BA6BC01D90B0CC1CA974C6792F18D">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.6%2B140/ItemChanger.zip]]>
+        <Version>2.0.7.1</Version>
+        <Link SHA256="F2929DB9274CBC0C6C2C1F43FA943E8533DB08F7AE19ED5284C8C8A379105250">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.7%2B725/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -826,9 +855,9 @@
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>1.0.4.0</Version>
-        <Link SHA256="D980B5D6E2A66E61B8579AF915D49B7B6CC47457613B6811D2C0D97CEFD816BE">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.4/RandomizerCore.zip]]>
+        <Version>1.0.5.0</Version>
+        <Link SHA256="21A722820510A038C6C2FD611920BBC01273E2762F830E50C24AF86C4BF8924D">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.5/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -910,9 +939,9 @@
     <Manifest>
         <Name>BenchRando</Name>
         <Description>A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items. Currently in beta.</Description>
-        <Version>0.9.2.0</Version>
-        <Link SHA256="FA04ADD8A31D1FADD46BD055A2A84DB1F9AA1B3CF61F54A415CEB787B72E4786">
-            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v0.9.2/BenchRando.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="6E3E6E0E2DCF402D94262A8A72083C7B53CA9135F447E96B771E7ADA10C1C55A">
+            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.0.1/BenchRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -990,9 +1019,9 @@
     <Manifest>
         <Name>LoadNormalizer</Name>
         <Description>Mod which extends loads to a user-defined cap, to synchronize loading for races.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="2CB3736916AE0645848B777EDDD23104C10FC768D63AF9849644BC2E5BD595F9">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.LoadNormalizer/releases/download/v1.5/LoadNormalizer.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="125DFDACDA85550ED73F7A4A625182D219A4097E007F93503F3F7139B4FE6B67">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.LoadNormalizer/releases/download/v2.1/LoadNormalizer.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1002,9 +1031,9 @@
     <Manifest>
         <Name>Randomizer Map S</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>2.6.1.0</Version>
-        <Link SHA256="8D7CA5F0646FFCA726F344E570945BEB956327E28E046D8C0E85649D006A69F5">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.6.1/MapModS.zip]]>
+        <Version>2.6.2.0</Version>
+        <Link SHA256="D182FB1730448C1C130746E2914DF22D7B3A0D302E92BFDF73BB3E6B2D99BF98">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.6.2/MapModS.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -2200,9 +2229,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Osmi</Name>
         <Description>A library mod providing utilities for other mods</Description>
-        <Version>0.1.4.0</Version>
-        <Link SHA256="6A906A2C13334235E42B412E0052053566731D97DCE4ECAF6B66E98AFEC6C59A">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.4/Osmi.zip]]>
+        <Version>0.1.5.0</Version>
+        <Link SHA256="3B63A272E3032AD4407BE4B2519AE48E9B51D952EC9DD6E97A15D3D697D3716E">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.5/Osmi.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2250,31 +2279,32 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>HealthShare</Name>
-        <Description>Let some bosses use shared health and provide health sharing API</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="27C175F5EE605862C933E5370DBCA6370B6A00833D307A63034B93B8FD71678C">
-            <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/releases/download/v0.3.0/HealthShare.zip]]>
+        <Description>Let some bosses use shared health, API part has moved to Osmi</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="E45EDF18EAF0764FDDFCA5B9CB88D7A2D8D2A9CCAB80936963CA3F3CD76CA559">
+            <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/releases/download/v1.0.0/HealthShare.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.HealthShare/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
-            <Tag>Library</Tag>
         </Tags>
     </Manifest>
     <Manifest>
         <Name>Everwatchers</Name>
         <Description>A mod boss based on Watcher Knights, allowing you to fight all of them simutanuously and add more of them</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="68D8AC8A288D7E5126404973E1621C8F9391466068377FB6049FFD0B230D6B6A">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/releases/download/v1.0.0/Everwatchers.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="5F6EC894BCD143942B26A674E2ABE0541F5DAAE838B48A1909C0B2983936ACC0">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/releases/download/v1.0.1/Everwatchers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
-            <Dependency>HealthShare</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.Everwatchers/]]>
@@ -2286,14 +2316,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TribeOfBattle</Name>
         <Description>A boss based on Sisters of Battle and Traitor Lord</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="FE5E8C27E36C404D105932206C7F74FF55AF75E2A7EFDD972E1F1A96416D3FCA">
-            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/releases/download/v1.1.1/TribeOfBattle.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="809385B3951B9E99669EF48AF1074BA962E7A9ED1E9B3AFC501A2930F45421E0">
+            <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/releases/download/v1.2.0/TribeOfBattle.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
-            <Dependency>HealthShare</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.TribeOfBattle/]]>
