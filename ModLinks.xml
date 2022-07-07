@@ -28,7 +28,7 @@
     <Manifest>
         <Name>Heal On Wall</Name>
         <Description>Makes it so you can Heal On Walls</Description>
-        <Version>1.0.0.0</Version>
+        <Version>1.0.1.0</Version>
             <Link SHA256="E9D9D219034F221573FF2EE442E680C813AE2FA6533F9C8B75B9A1D4CAD91C3C">
                 <![CDATA[https://github.com/Zickles/Heal_On_Wall/releases/download/how0.1/Heal_On_Wall.zip]]></Link>
         <Dependencies>
