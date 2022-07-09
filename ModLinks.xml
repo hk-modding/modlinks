@@ -26,6 +26,24 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>Nightmare Spark</Name>
+        <Description>Adds a Grimm Troupe themed charm with various charm synergies.</Description>
+        <Version>1.0.0.0</Version>
+            <Link SHA256="697f4fa03d55b1a4418ea5a1b6e5dc0fb75a1f2661bb168bd525a192051e1737">
+                <![CDATA[https://github.com/RiverRobot/Nightmare-Spark/releases/download/v1.0.0/Nightmare.Spark.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/RiverRobot/Nightmare-Spark]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Heal On Wall</Name>
         <Description>Makes it so you can Heal On Walls</Description>
         <Version>1.0.1.0</Version>
