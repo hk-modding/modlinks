@@ -3253,4 +3253,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/]]>
         </Repository>
     </Manifest>
+         <Manifest>
+        <Name>Brothers of Battle</Name>
+        <Description>fight the brothers who where trained by the great nailsage sly</Description>
+        <Version>1.0.0.0</Version>
+            <Link SHA256="5041fd5afb347c7ae7aec5cf5c7852b8a2b9e072a0f7cd38ff4dc1ce6f86f134"><![CDATA[https://github.com/Link459/BrothersOfBattle/releases/download/1.0.0.0/BrothersOfBattle.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+          <Repository>
+            <![CDATA[https://github.com/Link459/BrothersOfBattle]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
 </ModLinks>
