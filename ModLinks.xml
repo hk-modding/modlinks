@@ -2921,7 +2921,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Vasi</Dependency>
         </Dependencies>
           <Repository>
-            <![CDATA[]]>
+            <![CDATA[https://github.com/Link459/BrothersOfBattle]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
