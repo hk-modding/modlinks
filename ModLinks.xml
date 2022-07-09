@@ -3235,4 +3235,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/]]>
         </Repository>
     </Manifest>
+    <Manifest>
+        <Name>Empty Menu</Name>
+        <Description>Adds an empty menu.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="ec6d3bb0af2d1b9f313474ec396336e8d3f0933fdd28e0196c4447b6721d6ee0">
+            <![CDATA[https://github.com/Cavernosa/HollowKnight.EmptyMenu/releases/download/v1/MenuTestMod.dll]]>
+        </Link>
+        <Repository>
+            <![CDATA[https://github.com/Cavernosa/HollowKnight.EmptyMenu]]>
+        </Repository>
+    </Manifest>
 </ModLinks>
