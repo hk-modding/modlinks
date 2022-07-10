@@ -47,7 +47,7 @@
         <Name>Heal On Wall</Name>
         <Description>Makes it so you can Heal On Walls</Description>
         <Version>1.0.1.0</Version>
-            <Link SHA256="B10F83E58F54B184A634FB41F6E11A99E962F2C8D6F19EA99685D8D48BD1873B
+            <Link SHA256="B10F83E58F54B184A634FB41F6E11A99E962F2C8D6F19EA99685D8D48BD1873B">
                 <![CDATA[https://github.com/Zickles/Heal_On_Wall/releases/download/how0.1/Heal_On_Wall.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
