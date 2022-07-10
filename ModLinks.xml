@@ -26,6 +26,24 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>Nightmare Spark</Name>
+        <Description>Adds a Grimm Troupe themed charm with various charm synergies.</Description>
+        <Version>1.0.0.1</Version>
+            <Link SHA256="6ee864b0d370d849506bd75daca3f2485e58c5ecd55daa023c8bf61284ba5f97">
+                <![CDATA[https://github.com/RiverRobot/Nightmare-Spark/releases/download/v1.0.1/Nightmare.Spark.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/RiverRobot/Nightmare-Spark]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Heal On Wall</Name>
         <Description>Makes it so you can Heal On Walls</Description>
         <Version>1.0.1.0</Version>
@@ -1227,9 +1245,9 @@ Takes hours to load into the game.</Description>
     <Manifest>
         <Name>LanguageSupport</Name>
         <Description>Allows additional languages to be supported. Doesn't allow for some characters of other languages yet.</Description>
-        <Version>1.5.0.1</Version>
-        <Link SHA256="32F71B3B50AF57117D0B5D9023B4DEC441A7DD017DB9C3C1DCB2FCA7EE6B7D0A">
-            <![CDATA[https://github.com/SFGrenade/LanguageSupport/releases/download/v1.5-1/LanguageSupport.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="F1C9853EFF0361019DCAEE19CE652EB972127C08711701E71D5C79C679F99609">
+            <![CDATA[https://github.com/SFGrenade/LanguageSupport/releases/download/v1.5.1/LanguageSupport.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -3191,8 +3209,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>The Glimmering Realm</Name>
         <Description>Adds a game mode that changes the layout, items and lore of Hallownest into a whole new world to explore - the Glimmering Realm! Now including the Dream of the Fallen Expansion</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="C58EE5131798F3F45EAE1C542C1B99D2D169C5D2DB93F07301EB35CB3BCDCCF9"><![CDATA[https://github.com/ToboterXP/HollowKnight.TheGlimmeringRealm/releases/download/v1.1.1/TheGlimmeringRealm.zip]]></Link>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="CE8B4D62481FE8B35BD14F6E8E2669A799663268076B372194ADBCC5E8635B97"><![CDATA[https://github.com/ToboterXP/HollowKnight.TheGlimmeringRealm/releases/download/v1.1.2/TheGlimmeringRealm.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -3234,5 +3252,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/]]>
         </Repository>
+    </Manifest>
+         <Manifest>
+        <Name>Brothers of Battle</Name>
+        <Description>fight the brothers who where trained by the great nailsage sly</Description>
+        <Version>1.0.0.0</Version>
+            <Link SHA256="5041fd5afb347c7ae7aec5cf5c7852b8a2b9e072a0f7cd38ff4dc1ce6f86f134"><![CDATA[https://github.com/Link459/BrothersOfBattle/releases/download/1.0.0.0/BrothersOfBattle.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+          <Repository>
+            <![CDATA[https://github.com/Link459/BrothersOfBattle]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
     </Manifest>
 </ModLinks>
