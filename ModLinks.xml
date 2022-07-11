@@ -2691,7 +2691,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/ygsbzr/HollowKnight.QuirrelFlower/]]>
         </Repository>
         <Integrations>
-            <Integration>CustomKnight</Integration>
+            <Integration>Custom Knight</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
