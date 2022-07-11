@@ -2678,6 +2678,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>QuirrelFlower</Name>
+        <Description>A little gift for qurriel</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="9d5dcaaa686bc8373f95a7500d7c4d9c34c93b8cef9fd6ce3e41e44a24555294">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.QuirrelFlower/releases/download/v1.1/QuirrelFlower-v1.1.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.QuirrelFlower/]]>
+        </Repository>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
         <Version>0.8.2.0</Version>
