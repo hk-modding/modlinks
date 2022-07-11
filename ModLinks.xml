@@ -26,10 +26,28 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>Nightmare Spark</Name>
+        <Description>Adds a Grimm Troupe themed charm with various charm synergies.</Description>
+        <Version>1.0.0.1</Version>
+            <Link SHA256="6ee864b0d370d849506bd75daca3f2485e58c5ecd55daa023c8bf61284ba5f97">
+                <![CDATA[https://github.com/RiverRobot/Nightmare-Spark/releases/download/v1.0.1/Nightmare.Spark.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/RiverRobot/Nightmare-Spark]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Heal On Wall</Name>
         <Description>Makes it so you can Heal On Walls</Description>
         <Version>1.0.1.0</Version>
-            <Link SHA256="E9D9D219034F221573FF2EE442E680C813AE2FA6533F9C8B75B9A1D4CAD91C3C">
+            <Link SHA256="B10F83E58F54B184A634FB41F6E11A99E962F2C8D6F19EA99685D8D48BD1873B">
                 <![CDATA[https://github.com/Zickles/Heal_On_Wall/releases/download/how0.1/Heal_On_Wall.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -3246,5 +3264,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Cavernosa/HollowKnight.EmptyMenu]]>
         </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Brothers of Battle</Name>
+        <Description>fight the brothers who where trained by the great nailsage sly</Description>
+        <Version>1.0.0.0</Version>
+            <Link SHA256="5041fd5afb347c7ae7aec5cf5c7852b8a2b9e072a0f7cd38ff4dc1ce6f86f134"><![CDATA[https://github.com/Link459/BrothersOfBattle/releases/download/1.0.0.0/BrothersOfBattle.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+          <Repository>
+            <![CDATA[https://github.com/Link459/BrothersOfBattle]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
     </Manifest>
 </ModLinks>
