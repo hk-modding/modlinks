@@ -2071,9 +2071,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Fast Travel</Name>
         <Description>Travel anywhere within Hallownest by clicking on the map.</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="ec7845f0bd45e6507b0a9cab53efa77b8ae08e599eb550260f1ad268ebb92d9a">
-            <![CDATA[https://github.com/jngo102/HollowKnight.FastTravel/releases/download/1.0.0.2/FastTravel.zip]]>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="1afb30c740935feee9023ff35084fc59b586f46b4ba5b60149d4ed735b2e85e6">
+            <![CDATA[https://github.com/jngo102/HollowKnight.FastTravel/releases/download/1.0.0.3/FastTravel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
