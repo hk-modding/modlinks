@@ -2388,6 +2388,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>CharmPreset</Name>
+        <Description>A mod that allows saving and loading charm presets</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="6061AE21D0EBED62BDFD4E88FCD9CB34B7AC34A5E93BF27C83155655BBFD231C">
+            <![CDATA[https://github.com/Clazex/HollowKnight.CharmPreset/releases/download/v0.1.0/CharmPreset.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.CharmPreset/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
         <Version>1.0.4.0</Version>
