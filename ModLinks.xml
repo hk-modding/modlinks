@@ -2406,6 +2406,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>DoubleJumpFix</Name>
+        <Description>A mod to fix the notorious bug that the double jump is sometimes not properly canceled</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="B6BC91C0657D05ADC94B5ECDF410E6753256FE283108B63E5B102C39CDE5F447">
+            <![CDATA[https://github.com/Clazex/HollowKnight.DoubleJumpFix/releases/download/v1.0.0/DoubleJumpFix.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.DoubleJumpFix/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
         <Version>1.0.4.0</Version>
