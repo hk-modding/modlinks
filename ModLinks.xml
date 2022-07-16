@@ -3003,6 +3003,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Vasi</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>MenuChanger</Dependency>
+            <Dependency>MagicUI</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/KonoTyran/HollowKnight.ArchipelagoMapMod/]]>
