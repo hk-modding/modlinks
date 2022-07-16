@@ -113,9 +113,9 @@
     <Manifest>
         <Name>Challenge Mode</Name>
         <Description>A mod that adds randomly selected challege modifiers to Godhome with several customization options.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="8e1a523a013e8676a36753ded5faaa0530ce02ef0e3f8eeb1a09c761d94970fc">
-            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.ChallengeMode/releases/download/v1.0.0.1/ChallengeMode.zip]]>
+        <Version>1.0.1.1</Version>
+        <Link SHA256="3EE4DE6578911D1FEA40C5925A8D5B8D5FB2B4F307E1D998D8BA502289F164A6">
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.ChallengeMode/releases/download/v1.0.1.1/ChallengeMode.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
