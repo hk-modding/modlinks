@@ -1875,7 +1875,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
-        <Version>0.8.2.0</Version>
+        <Version>0.8.3.0</Version>
         <Link SHA256="8dfe6e346a8a4d6658cfa46de7155b82983d6c84065580abb08df63d1194f516">
             <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.3b/Satchel.zip]]>
         </Link>
@@ -1916,7 +1916,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandomCompanions</Name>
         <Description>A Custom Knight Addon that allows hatchlings and weaverlings to use all available skins</Description>
-        <Version>3.0.1.0</Version>
+        <Version>3.1.0.0</Version>
         <Link SHA256="f46ceeb631c44ba32343aca3befa1577d48acbf948594917070e8f79257e3b01">
             <![CDATA[https://github.com/PrashantMohta/RandomCompanions/releases/download/v3.1.0/RandomCompanions.dll]]>
         </Link>
