@@ -1858,12 +1858,29 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/PrashantMohta/EmoteWheel/]]>
         </Repository>
     </Manifest>
+    
+    <Manifest>
+        <Name>MultiplayerEvents</Name>
+        <Description>A mod that adds some Multiplayer interactions.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="3fa8fdec4f06ac10fcc758b7cea1e17caa6e9877b5a160dcd54c1fc0a54065bc">
+            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v0.1.0/MultiplayerEvents.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HkmpPouch</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/]]>
+        </Repository>
+    </Manifest>
     <Manifest>
         <Name>HkmpPouch</Name>
         <Description>A dependency mod for client side hkmp addons.</Description>
-        <Version>0.2.0.0</Version>
-        <Link SHA256="7788d6fd39cce2eee5e52cc244d8a6f615e0f804cf3d57d018d12f3f3c07baf3">
-            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/releases/download/v0.2.0/HkmpPouch.dll]]>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="e6ed29dd8563bd9467dd7e688613553bb4b93947e2dc6590e3d47fac582e9ec6">
+            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/releases/download/v0.3.0/HkmpPouch.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
