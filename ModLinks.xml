@@ -2730,12 +2730,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>QuirrelFlower</Name>
         <Description>A little gift for qurriel</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="9d5dcaaa686bc8373f95a7500d7c4d9c34c93b8cef9fd6ce3e41e44a24555294">
-            <![CDATA[https://github.com/ygsbzr/HollowKnight.QuirrelFlower/releases/download/v1.1/QuirrelFlower-v1.1.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="2f54586510e73f8bce07a23c4d6233fd885c856b8d49fb70bc6f1ef9f6bbfc26">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.QuirrelFlower/releases/download/v1.2/QuirrelFlower-v1.2.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
+            <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/ygsbzr/HollowKnight.QuirrelFlower/]]>
