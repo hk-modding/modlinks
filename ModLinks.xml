@@ -3369,4 +3369,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Gameplay</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+        <Name>Infection Bomb</Name>
+        <Description>Spawns radiance whenever you kill an infected(or any) bug</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="F5F660A881DA4C2943F9B159C70B92D930FDCBE79AB76772F7570647B1D55A1A"><![CDATA[https://github.com/Mimijackz/HKModding.Infectionbomb/releases/download/v0.1.8220.34321/Infectionbomb.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Mimijackz/HKModding.Infectionbomb]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
 </ModLinks>
