@@ -112,10 +112,10 @@
     </Manifest>
     <Manifest>
         <Name>Challenge Mode</Name>
-        <Description>A mod that adds randomly selected challege modifiers to Godhome with several customization options.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="8e1a523a013e8676a36753ded5faaa0530ce02ef0e3f8eeb1a09c761d94970fc">
-            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.ChallengeMode/releases/download/v1.0.0.1/ChallengeMode.zip]]>
+        <Description>A mod that adds randomly selected challege modifiers to Godhome with several customization options. See ReadMe for info on modifiers and more.</Description>
+        <Version>1.0.1.2</Version>
+        <Link SHA256="909911BFCFF057F4CE5318FD07D3119E86464BA4218C6C5C2A737BDB05A16ADA">
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.ChallengeMode/releases/download/v1.0.1.2/ChallengeMode.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -161,9 +161,9 @@
     <Manifest>
         <Name>HueShifter</Name>
         <Description>Uses shaders to change the map colours. Can also make everything rainbows.</Description>
-        <Version>0.2.0.0</Version>
-        <Link SHA256="BFDAD0223C82D106E19A624BDEA921AD2A43EC339F0855C916BF7E94C9A49332">
-            <![CDATA[https://github.com/beesnation/HueShifter/releases/download/v0.2.0.0/HueShifter.zip]]>
+        <Version>0.2.1.0</Version>
+        <Link SHA256="7C8B4129C2864EDAEA52F545DFA21AD2FF9932EBAB227FD1C4D0BD257A576360">
+            <![CDATA[https://github.com/beesnation/HueShifter/releases/download/v0.2.1.0/HueShifter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -819,9 +819,9 @@
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.2.0.0</Version>
-        <Link SHA256="01BF4096F03C5E6E883CFC37868A10191E192480F595CB65BEE05EA3C78BFBBA">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.0.0/Benchwarp.zip]]>
+        <Version>3.2.1.0</Version>
+        <Link SHA256="4040062459FA2ADC55731F8840AC8E804C5BA25C636D3B4B2B4A7BE6F6944594">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.1.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -831,9 +831,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.0.7.0</Version>
-        <Link SHA256="AEAB203113FFF5D94549E19E0D5CBA0D0891D5A6BC7B870BA33AC67EC0C13745">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.7%2B557/RandomizerMod.zip]]>
+        <Version>4.0.8.0</Version>
+        <Link SHA256="A2D98FBE68E72211C4AB325465C9280A124BA7A20B589A6B827B11FEE0F534CA">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.8%2B618/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -849,9 +849,9 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.7.1</Version>
-        <Link SHA256="F2929DB9274CBC0C6C2C1F43FA943E8533DB08F7AE19ED5284C8C8A379105250">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.7%2B725/ItemChanger.zip]]>
+        <Version>2.0.8.0</Version>
+        <Link SHA256="50CF51E90CFB83779668008BB33A4BABBD5EAABCE280F673DD6080EF25CC5221">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.8%2B775/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -901,9 +901,9 @@
     <Manifest>
         <Name>ICExtraDeployers</Name>
         <Description>ItemChanger add-on which preloads more objects. Use as a dependency for IC files which place custom Baldurs, gates, and more.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="B3D794A14A562C65C9807DE38837303AF5BF964976FF60E74EE4CF7FB6A9A39C">
-            <![CDATA[https://github.com/homothetyhk/ICExtraDeployers/releases/download/v1.0.0/ICExtraDeployers.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="807B92C878FB57FD60604A7B653583B7F39981C3540713E8B10245C445738271">
+            <![CDATA[https://github.com/homothetyhk/ICExtraDeployers/releases/download/v1.1.0/ICExtraDeployers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -929,9 +929,9 @@
     <Manifest>
         <Name>CustomLogicInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined logic edits.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="8F3D19FFD2EF0886534F93D3E3459D492C21CF3A7E3A4D64CB729F93C0B5BAEA">
-            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.0.1/CustomLogicInjector.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="801DF39065F5F44CA463EBFD18A9BB6142BB2BB24C2582C6B3DBB4136B59DD79">
+            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.0.2/CustomLogicInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -957,9 +957,9 @@
     <Manifest>
         <Name>BenchRando</Name>
         <Description>A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items. Currently in beta.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="6E3E6E0E2DCF402D94262A8A72083C7B53CA9135F447E96B771E7ADA10C1C55A">
-            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.0.1/BenchRando.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="5B2BB929CBADCAFAD0B9050082B3362DE3CC1190C26784F0AFECA23A8367F1E5">
+            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.1/BenchRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -1326,9 +1326,9 @@ Takes hours to load into the game.</Description>
         <Name>Pail Curt</Name>
         <Description>This is the Pale Court mod.
 Enjoy!</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="36BDB259BBA354B041CADA9E4DC4A18696997E1073CBBFB948075A8CE84F252E">
-            <![CDATA[https://github.com/SFGrenade/Pail-Curt/releases/download/v1.5/Pail-Curt.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="544657FE1F245DBBD18CC27EF79923AF15604C5BCD4B8A82F536D035337AAD16">
+            <![CDATA[https://github.com/SFGrenade/Pail-Curt/releases/download/v1.5.1/Pail-Curt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>FrogCore</Dependency>
@@ -1738,9 +1738,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MagicUI</Name>
         <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-        <Version>1.4.8194.5854</Version>
-        <Link SHA256="82F2CF48ADE448C71EC111205A3D868FB46B49DA8B6832C73C2E977FCB5AD37B">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.4.8194.5854/MagicUI.zip]]>
+        <Version>1.4.8230.3302</Version>
+        <Link SHA256="7B38EDFADA9575B0EBCC4CB730D9FD58D8F8489C39BA59D0C3970E2A2B420319">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.4.8230.3302/MagicUI.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1858,12 +1858,29 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/PrashantMohta/EmoteWheel/]]>
         </Repository>
     </Manifest>
+    
+    <Manifest>
+        <Name>MultiplayerEvents</Name>
+        <Description>A mod that adds some Multiplayer interactions.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="3fa8fdec4f06ac10fcc758b7cea1e17caa6e9877b5a160dcd54c1fc0a54065bc">
+            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v0.1.0/MultiplayerEvents.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HkmpPouch</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/]]>
+        </Repository>
+    </Manifest>
     <Manifest>
         <Name>HkmpPouch</Name>
         <Description>A dependency mod for client side hkmp addons.</Description>
-        <Version>0.2.0.0</Version>
-        <Link SHA256="7788d6fd39cce2eee5e52cc244d8a6f615e0f804cf3d57d018d12f3f3c07baf3">
-            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/releases/download/v0.2.0/HkmpPouch.dll]]>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="e6ed29dd8563bd9467dd7e688613553bb4b93947e2dc6590e3d47fac582e9ec6">
+            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/releases/download/v0.3.0/HkmpPouch.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -1875,9 +1892,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
-        <Version>0.8.2.0</Version>
-        <Link SHA256="8ad8aa3f5fb7874525af5f47b147b3ed0018f9823de932baaf324df1f69ad1c3">
-            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.2b/Satchel.zip]]>
+        <Version>0.8.3.0</Version>
+        <Link SHA256="8dfe6e346a8a4d6658cfa46de7155b82983d6c84065580abb08df63d1194f516">
+            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.3b/Satchel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1916,9 +1933,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandomCompanions</Name>
         <Description>A Custom Knight Addon that allows hatchlings and weaverlings to use all available skins</Description>
-        <Version>3.0.1.0</Version>
-        <Link SHA256="3474cdda6d7b3ca6e32c0662b85daffe2b0c91138c53af3dfe231322cb3ed16c">
-            <![CDATA[https://github.com/PrashantMohta/RandomCompanions/releases/download/v3.0.1/RandomCompanions.dll]]>
+        <Version>3.1.0.0</Version>
+        <Link SHA256="f46ceeb631c44ba32343aca3befa1577d48acbf948594917070e8f79257e3b01">
+            <![CDATA[https://github.com/PrashantMohta/RandomCompanions/releases/download/v3.1.0/RandomCompanions.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -2071,9 +2088,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Fast Travel</Name>
         <Description>Travel anywhere within Hallownest by clicking on the map.</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="ec7845f0bd45e6507b0a9cab53efa77b8ae08e599eb550260f1ad268ebb92d9a">
-            <![CDATA[https://github.com/jngo102/HollowKnight.FastTravel/releases/download/1.0.0.2/FastTravel.zip]]>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="1afb30c740935feee9023ff35084fc59b586f46b4ba5b60149d4ed735b2e85e6">
+            <![CDATA[https://github.com/jngo102/HollowKnight.FastTravel/releases/download/1.0.0.3/FastTravel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2247,9 +2264,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Osmi</Name>
         <Description>A library mod providing utilities for other mods</Description>
-        <Version>0.1.5.0</Version>
-        <Link SHA256="3B63A272E3032AD4407BE4B2519AE48E9B51D952EC9DD6E97A15D3D697D3716E">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.5/Osmi.zip]]>
+        <Version>0.1.7.0</Version>
+        <Link SHA256="8F49F1832F730686B3D5004B3D705A125621CFC67A717607D5051ED6919F5989">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.7/Osmi.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2382,6 +2399,39 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.ContinueCountdown/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>CharmPreset</Name>
+        <Description>A mod that allows saving and loading charm presets</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="6061AE21D0EBED62BDFD4E88FCD9CB34B7AC34A5E93BF27C83155655BBFD231C">
+            <![CDATA[https://github.com/Clazex/HollowKnight.CharmPreset/releases/download/v0.1.0/CharmPreset.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.CharmPreset/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>DoubleJumpFix</Name>
+        <Description>A mod to fix the notorious bug that the double jump is sometimes not properly canceled</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="B6BC91C0657D05ADC94B5ECDF410E6753256FE283108B63E5B102C39CDE5F447">
+            <![CDATA[https://github.com/Clazex/HollowKnight.DoubleJumpFix/releases/download/v1.0.0/DoubleJumpFix.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.DoubleJumpFix/]]>
         </Repository>
         <Tags>
             <Tag>Utility</Tag>
@@ -2633,9 +2683,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>1.9.3.0</Version>
-        <Link SHA256="59ce8adbc62b61f5e3f7f68596263850f449d62b5708de50451911c2ac2690fe">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.9.3.0/Output.zip]]>
+        <Version>1.9.5.0</Version>
+        <Link SHA256="eacab71b04a3795ecb610baa37c6976ac8a285c483a86fa98598ca4fc1cda476">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.9.5.0/Output.zip]]>
         </Link>
 
         <Dependencies />
@@ -2678,11 +2728,32 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>QuirrelFlower</Name>
+        <Description>A little gift for qurriel</Description>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="2f54586510e73f8bce07a23c4d6233fd885c856b8d49fb70bc6f1ef9f6bbfc26">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.QuirrelFlower/releases/download/v1.2/QuirrelFlower-v1.2.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.QuirrelFlower/]]>
+        </Repository>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
-        <Version>0.8.2.0</Version>
-        <Link SHA256="a0eb1ef102b5732244911564e9983b0973196dc08eb081b476db5cca46ee5a14">
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.8.2.0/Output.zip]]>
+        <Version>0.8.3.0</Version>
+        <Link SHA256="728830a348031970bc2e5914d43b763205562b26adf34c30273d715213ad2ad1">
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.8.3.0/Output.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
@@ -2923,16 +2994,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.0.3.1</Version>
-        <Link SHA256="E1E99C6C17363BDEDB73FA80171003E234FD6216FA3E7C66B2DA6CE0EFAA28D6">
-            <![CDATA[https://github.com/Ijwu/Archipelago.HollowKnight/releases/download/0.0.3.1/Archipelago.HollowKnight.zip]]>
+        <Version>0.1.0.1</Version>
+        <Link SHA256="7B6380037B6AAF22E66ADF2A3B930862CADDEBFC75B70DB445983F62D23B5C2F">
+            <![CDATA[https://github.com/Ijwu/Archipelago.HollowKnight/releases/download/0.1.0.1/Archipelago.HollowKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>Benchwarp</Dependency>
             <Dependency>QoL</Dependency>
-            <Dependency>RecentItemsDisplay</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Ijwu/Archipelago.HollowKnight/]]>
@@ -2941,17 +3011,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>An conversion of the Randomizer Map Mod S that works with Archipelago Randomizer</Description>
-        <Version>0.0.1.2</Version>
-        <Link SHA256="196A225CA302A99A0D329AE2E8BE0F173A142D34E3387D1D8D0E74F858AF6142">
-            <![CDATA[https://github.com/KonoTyran/HollowKnight.APMapMod/releases/download/v0.1.2/APMapMod.zip]]>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="1BBEA1912C7FACD7CB2E879B98F33E2E1F75522189C81599F0BB457BF3900D14">
+            <![CDATA[https://github.com/KonoTyran/HollowKnight.ArchipelagoMapMod/releases/download/v0.3.0-AP/APMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>Vasi</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>MagicUI</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/KonoTyran/HollowKnight.APMapMod/]]>
+            <![CDATA[https://github.com/KonoTyran/HollowKnight.ArchipelagoMapMod/]]>
         </Repository>
         <Integrations>
             <Integration>AdditionalMaps</Integration>
@@ -3253,7 +3326,19 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/]]>
         </Repository>
     </Manifest>
-         <Manifest>
+    <Manifest>
+        <Name>Empty Menu</Name>
+        <Description>Adds an empty menu screen.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="ec6d3bb0af2d1b9f313474ec396336e8d3f0933fdd28e0196c4447b6721d6ee0">
+            <![CDATA[https://github.com/Cavernosa/HollowKnight.EmptyMenu/releases/download/v1/MenuTestMod.dll]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Cavernosa/HollowKnight.EmptyMenu]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>Brothers of Battle</Name>
         <Description>fight the brothers who where trained by the great nailsage sly</Description>
         <Version>1.0.0.0</Version>
@@ -3266,6 +3351,35 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Lore Master</Name>
+        <Description>Adds abilities to lore tablets and certain npc</Description>
+        <Version>1.0.2.0</Version>
+            <Link SHA256="ad641ec028038f846681464104481df2c48ea75945348a2ba33279038a148d48">
+                <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v1.0.2/LoreMaster.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/LoreMaster]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Infection Bomb</Name>
+        <Description>Spawns radiance whenever you kill an infected(or any) bug</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="F5F660A881DA4C2943F9B159C70B92D930FDCBE79AB76772F7570647B1D55A1A"><![CDATA[https://github.com/Mimijackz/HKModding.Infectionbomb/releases/download/v0.1.8220.34321/Infectionbomb.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Mimijackz/HKModding.Infectionbomb]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
         </Tags>
     </Manifest>
 </ModLinks>
