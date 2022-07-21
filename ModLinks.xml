@@ -2485,6 +2485,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/]]>
         </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>Hit Counter</Name>
