@@ -3315,7 +3315,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
-        <Name>Godhome Win/Loss &amp; Hit Tracker</Name>
+        <Name>Godhome Win Loss Tracker</Name>
         <Description>Tracks win/loss and hit stats in Hall of Gods and Pantheons.</Description>
         <Version>0.5.0.0</Version>
         <Link SHA256="95329410F9861732086DE40EE5930430C6AC70589A07CB2E6C3FD53FF7D87821">
