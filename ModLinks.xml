@@ -3386,4 +3386,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Gameplay</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+        <Name>Glass cannon fixed</Name>
+        <Description>A glass cannon mod to fix Nexade's broken unupdated mod</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="6782ECEAB316E4402CA3A1AA0490B60B521BDF996338291DEC472B553A469121"><![CDATA[https://github.com/supersonicsalt/GlassCannonFixed/archive/refs/tags/mod.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/supersonicsalt/GlassCannonFixed]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
 </ModLinks>
