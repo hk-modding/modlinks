@@ -1738,9 +1738,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MagicUI</Name>
         <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-        <Version>1.4.8230.3302</Version>
-        <Link SHA256="7B38EDFADA9575B0EBCC4CB730D9FD58D8F8489C39BA59D0C3970E2A2B420319">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.4.8230.3302/MagicUI.zip]]>
+        <Version>1.5.8240.8287</Version>
+        <Link SHA256="2E68A53F264D256AFDE79A10E062E0EB6CBA03BA7AC12FE2295129E5004528CC">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.5.8240.8287/MagicUI.zip]]>
         </Link>
         <Dependencies />
         <Repository>
