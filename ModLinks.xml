@@ -3093,9 +3093,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>CustomPantheon</Name>
         <Description>A mod add an extra boss door in God Home,BossSequence decided by yourself .</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="7c45620d49337d73f4b7a9cd31592fc32724e37c3138c5d047c31ff3f2ef1866">
-            <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomPantheon/releases/download/v1.1/CustomPantheon.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="d1fff2cd8822e72ce344f335311eac821251c34d0a5a92a80f6e91ce54e9d8bb">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomPantheon/releases/download/v1.2/CustomPantheon.zip]]>
         </Link>
         <Dependencies />
         <Repository>
