@@ -3365,6 +3365,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
                 <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v1.1.0/LoreMaster.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
+            <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Korzer420/LoreMaster]]>
