@@ -2687,9 +2687,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>1.9.5.0</Version>
-        <Link SHA256="eacab71b04a3795ecb610baa37c6976ac8a285c483a86fa98598ca4fc1cda476">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.9.5.0/Output.zip]]>
+        <Version>1.10.2.0</Version>
+        <Link SHA256="510e491e10255ed7c31445e7d26713c938f19bcfe172f1d5039bcb074367c811">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.10.2/Output.zip]]>
         </Link>
 
         <Dependencies />
