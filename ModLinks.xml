@@ -2986,13 +2986,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Mirrored Hallownest</Name>
         <Description>Mirrors the entire Hollow Knight map</Description>
-        <Version>0.2.0.0</Version>
-        <Link SHA256="C997E16673F8872C0961B40E8258C10ED70AC3DD12B960B9EC137E67C3BFABE9">
-            <![CDATA[https://github.com/Mimijackz/HKModding.MirroredHallownest/releases/download/v0.1.1/MirroredHallownest.zip]]>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="43730E8C83D76DEFB584300FA67E3E7A55F347B492F96AFB51BC62E2B1C7764B">
+            <![CDATA[https://github.com/Mimijackz-HKModding/MirroredHallownest/releases/download/v0.1.8247.18606/Mirrored_Hallownest.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/Mimijackz/HKModding.MirroredHallownest/]]>
+            <![CDATA[https://github.com/Mimijackz-HKModding/MirroredHallownest]]>
         </Repository>
     </Manifest>
     <Manifest>
