@@ -1473,8 +1473,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>DebugMod</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities.</Description>
         <Version>1.4.9.4</Version>
-        <Link SHA256="6A2482DE7A8419A969DEACB1A4E7B45E4A2C606DAA747961ECF6FA9AF2E1E3B3">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.9.4/DebugMod.zip]]>
+        <Link SHA256="276B2E08F1330556CE6C95936B5946540F765E8BFC1D5241A8BA2FACC833E6FD">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.9.5/DebugMod.zip]]>
         </Link>
         <Dependencies />
         <Repository>
