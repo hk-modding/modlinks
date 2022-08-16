@@ -3367,9 +3367,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Lore Master</Name>
         <Description>Adds abilities to lore tablets and certain npc</Description>
-        <Version>1.2.1.0</Version>
-            <Link SHA256="a8a2755ed830332171c21a4fe0e03ed6a36ad5f29121c88d044be08cc22899e2">
-                <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v1.2.1/LoreMaster.zip]]></Link>
+        <Version>1.2.2.0</Version>
+            <Link SHA256="c2eea64c34ed84ac94440c79fb6fed44a02e8502b55bb4137f500fef04a6fc10">
+                <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v1.2.2/LoreMaster.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
