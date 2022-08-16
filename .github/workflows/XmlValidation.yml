@@ -24,13 +24,15 @@ jobs:
 
   verify:
     needs: [build]
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
       - name: Setup ModLinksShaVerifier
-        run: Invoke-WebRequest -Uri "https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v1.0/ModLinksShaVerifier.exe" -OutFile "ModLinksShaVerifier.exe"
+        run: |
+          wget https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v2/linux.zip
+          unzip linux.zip
       - name: Verify APILinks SHAs
-        run: .\ModLinksShaVerifier.exe ApiLinks.xml
+        run: ./ModlinksShaVerifier ApiLinks.xml
       - name: Verify ModLinks.xml SHAs
-        run: .\ModLinksShaVerifier.exe ModLinks.xml
+        run: ./ModlinksShaVerifier ModLinks.xml
