@@ -743,7 +743,7 @@
         </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
-            <Integration>Condensed Spoiler Logger</Integration>
+            <Integration>CondensedSpoilerLogger</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
