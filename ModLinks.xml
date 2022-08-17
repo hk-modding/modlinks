@@ -2671,9 +2671,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>FragileStrengthForNailArts</Name>
         <Description>Allows Fragile / Unbreakable Strength to increase Nail Art damage. Originally by TTacco</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="C16DE222FEE45773626D74FEA832F3F169FE48AF374FD239C5EE1662B44A5C34">
-            <![CDATA[https://github.com/Araraura/FragileStrengthForNailArts/releases/download/1.0.1.0/FragileStrengthForNailArts.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="A498DBF85DA8E2B392AF3054E1CDC36FEB1ACC3AEBAEF55791B6DF6A039199C8">
+            <![CDATA[https://github.com/Araraura/FragileStrengthForNailArts/releases/download/1.0.2.0/FragileStrengthForNailArts.zip]]>
         </Link>
         <Dependencies />
         <Repository>
