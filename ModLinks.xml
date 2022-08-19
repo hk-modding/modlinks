@@ -3429,8 +3429,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.0/MapChanger.zip]]>
         </Link>
         <Dependencies>
-            <Integration>MagicUI</Integration>
-            <Integration>Vasi</Integration>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/MapChanger]]>
