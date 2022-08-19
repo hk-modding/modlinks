@@ -1070,28 +1070,15 @@
     </Manifest>
     <Manifest>
         <Name>Randomizer Map S</Name>
-        <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>2.6.2.0</Version>
-        <Link SHA256="D182FB1730448C1C130746E2914DF22D7B3A0D302E92BFDF73BB3E6B2D99BF98">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/v2.6.2/MapModS.zip]]>
+        <Description>This mod is now outdated. Please uninstall this and install RandoMapMod instead.</Description>
+        <Version>2.6.2.1</Version>
+        <Link SHA256="A5F9D0521B5242CE14588EF5236972C9B1624D1B1444CA28FCF48189F193493F">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/outdated/MapModS.zip]]>
         </Link>
-        <Dependencies>
-            <Dependency>Randomizer 4</Dependency>
-            <Dependency>RandomizerCore</Dependency>
-            <Dependency>ItemChanger</Dependency>
-            <Dependency>MenuChanger</Dependency>
-            <Dependency>ConnectionMetadataInjector</Dependency>
-            <Dependency>MagicUI</Dependency>
-            <Dependency>Vasi</Dependency>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/]]>
         </Repository>
-        <Integrations>
-            <Integration>AdditionalMaps</Integration>
-            <Integration>Randomizable Levers</Integration>
-            <Integration>RandoPlus</Integration>
-        </Integrations>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -2462,15 +2449,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>1.0.4.0</Version>
-        <Link SHA256="bd2d9676f3f9fb206b65a966062c2e2b7b4a8df88274bf627042ccbaa3f4446b">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v1.0.4/VanillaMapMod.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="F2D38C8CCE1DEAE6C2B94CC5A47C565CCED55A0BD82CC0D1822295D775654DB2">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.0.0/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>Vasi</Dependency>
+            <Dependency>MapChanger</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>ConnectionMetadataInjector</Dependency>	
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/]]>
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod]]>
         </Repository>
         <Integrations>
             <Integration>AdditionalMaps</Integration>
@@ -3430,6 +3419,54 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
         <Tags>
             <Tag>Utility</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>MapChanger</Name>
+        <Description>A library for map mods.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="8AE1324F12F4D7CE79D2C18EE1C7919927FF4B736D6C0F548BDCBC2CB19560A4">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.0/MapChanger.zip]]>
+        </Link>
+        <Dependencies>
+            <Integration>MagicUI</Integration>
+            <Integration>Vasi</Integration>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger]]>
+        </Repository>
+        <Integrations>
+            <Integration>AdditionalMaps</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Lbrary</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>RandoMapMod</Name>
+        <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
+        <Version>3.0.0.0</Version>
+        <Link SHA256="C3F31BB3C455E1FBC2D41D96C2DCB7AC473EA1FAD6171F4E52C9BADFDACD9012">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.0/RandoMapMod.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MapChanger</Dependency>	
+            <Dependency>Randomizer 4</Dependency>	
+            <Dependency>RandomizerCore</Dependency>	
+            <Dependency>ItemChanger</Dependency>	
+            <Dependency>MenuChanger</Dependency>	
+            <Dependency>ConnectionMetadataInjector</Dependency>	
+            <Dependency>MagicUI</Dependency>	
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod]]>
+        </Repository>
+        <Integrations>
+            <Integration>AdditionalMaps</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Lbrary</Tag>
         </Tags>
     </Manifest>
 </ModLinks>
