@@ -3439,7 +3439,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Integration>AdditionalMaps</Integration>
         </Integrations>
         <Tags>
-            <Tag>Lbrary</Tag>
+            <Tag>Library</Tag>
         </Tags>
     </Manifest>
     <Manifest>
@@ -3466,7 +3466,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Integration>AdditionalMaps</Integration>
         </Integrations>
         <Tags>
-            <Tag>Lbrary</Tag>
+            <Tag>Utility</Tag>
         </Tags>
     </Manifest>
 </ModLinks>
