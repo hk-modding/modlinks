@@ -1747,9 +1747,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MagicUI</Name>
         <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-        <Version>1.5.8240.8287</Version>
-        <Link SHA256="2E68A53F264D256AFDE79A10E062E0EB6CBA03BA7AC12FE2295129E5004528CC">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.5.8240.8287/MagicUI.zip]]>
+        <Version>1.5.8265.3907</Version>
+        <Link SHA256="8C7883D03865F0022C2D59E93F4FC4FC081ED8B7FD13E0570FF8581F267B9E54">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.5.8265.3907/MagicUI.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1762,13 +1762,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ConnectionMetadataInjector</Name>
         <Description>A core mod to allow randomizer-supplemental mods like RandoStats and MapModS to get custom metadata from connections without requiring hard dependencies.</Description>
-        <Version>1.1.8107.6258</Version>
-        <Link SHA256="317408B3A964A4A429B726229FA2584A428156D6CE1E019DF3EC5001D5742A65">
-            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/releases/download/v1.1.8107.6258/ConnectionMetadataInjector.zip]]>
+        <Version>2.0.8265.3801</Version>
+        <Link SHA256="CBE583FA65369716054037ABA308F1061F0BCE40952BE919AC21E066646A83F3">
+            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/releases/download/v2.0.8265.3801/ConnectionMetadataInjector.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>Randomizer 4</Dependency>
-            <Dependency>RandomizerCore</Dependency>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
         <Repository>
@@ -1781,9 +1779,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoStats</Name>
         <Description>A randomizer-supplemental mod that provides detailed check and obtain stats on the completion screen.</Description>
-        <Version>1.2.8172.816</Version>
-        <Link SHA256="18DD268383ED8738EC66F39D89662CCD00A583E362744DEB8A8FF35879B40769">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/releases/download/v1.2.8172.816/RandoStats.zip]]>
+        <Version>1.2.8265.3868</Version>
+        <Link SHA256="A80E76EC2C1E313196961F70106710DCDFF39641D04E79F3E4C0A7F0A9E7076A">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/releases/download/v1.2.8265.3868/RandoStats.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1801,9 +1799,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MajorItemByAreaTracker</Name>
         <Description>A randomizer connection that adds a semi-spoiler randomizer game mode with an in-game tracker.</Description>
-        <Version>1.1.3.0</Version>
-        <Link SHA256="7925F78F43E71D0C9E003C1945CE3E275DEEA24DD87BAF715DD5E479251C81D0">
-            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/releases/download/v1.1.3.0/MajorItemByAreaTracker.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="0EB8A4492B46EBB02C7ED7F9B787AF1025B88F36C34F127E3D8C24E0059B3008">
+            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/releases/download/v1.2.0.0/MajorItemByAreaTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
