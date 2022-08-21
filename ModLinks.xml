@@ -80,7 +80,7 @@
     <Manifest>
         <Name>RadianceExtras</Name>
         <Description>Adds Extra Things to the Abs Rad Fight</Description>
-        <Version>1.0.0.0</Version>
+        <Version>1.0.3.0</Version>
             <Link SHA256="75EBC1F03D946236B586F31241AEA6FC4877F4AEDF4F37C4F46981869FB93FF6">
                 <![CDATA[https://github.com/Zickles/RadianceExtras/releases/download/1.0.3/RadianceExtras.zip]]></Link>
         <Dependencies>
