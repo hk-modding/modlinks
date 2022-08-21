@@ -1865,7 +1865,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/PrashantMohta/EmoteWheel/]]>
         </Repository>
     </Manifest>
-    
+
     <Manifest>
         <Name>MultiplayerEvents</Name>
         <Description>A mod that adds some Multiplayer interactions.</Description>
@@ -2454,7 +2454,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>MapChanger</Dependency>
             <Dependency>MagicUI</Dependency>
-            <Dependency>ConnectionMetadataInjector</Dependency>	
+            <Dependency>ConnectionMetadataInjector</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod]]>
@@ -3297,9 +3297,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>The Glimmering Realm</Name>
-        <Description>Adds a game mode that changes the layout, items and lore of Hallownest into a whole new world to explore - the Glimmering Realm! Now including the Dream of the Fallen Expansion</Description>
-        <Version>1.1.3.0</Version>
-        <Link SHA256="C383C495EA88268D6A67790C333EAE2687F10330BBC7794D18A6B491BD92E5F3"><![CDATA[https://github.com/ToboterXP/HollowKnight.TheGlimmeringRealm/releases/download/v1.1.3/TheGlimmeringRealm.zip]]></Link>
+        <Description>Adds a game mode that changes the layout, items and lore of Hallownest into a whole new world to explore - the Glimmering Realm! Join the Discord at https://discord.gg/wP2FFY6uAB</Description>
+        <Version>1.1.4.0</Version>
+        <Link SHA256="BD92CA3E2878973EB2AEBDF93CA1DA7A2FE696E2A9A2F1E09A121467E96EDB94"><![CDATA[https://github.com/ToboterXP/HollowKnight.TheGlimmeringRealm/releases/download/v1.1.4/TheGlimmeringRealm.zip]]></Link>
 
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -3448,13 +3448,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.0/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>MapChanger</Dependency>	
-            <Dependency>Randomizer 4</Dependency>	
-            <Dependency>RandomizerCore</Dependency>	
-            <Dependency>ItemChanger</Dependency>	
-            <Dependency>MenuChanger</Dependency>	
-            <Dependency>ConnectionMetadataInjector</Dependency>	
-            <Dependency>MagicUI</Dependency>	
+            <Dependency>MapChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>ConnectionMetadataInjector</Dependency>
+            <Dependency>MagicUI</Dependency>
             <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
