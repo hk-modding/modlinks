@@ -1515,16 +1515,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="831451CC6FA51E11F5E08D93D15A01BEA27D51488A7DBBD44DBA98ED4FB8F95A">
             <![CDATA[https://github.com/TheMulhima/MoreSaves/releases/download/v0.7.6/MoreSaves.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMulhima/MoreSaves/]]>
         </Repository>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
-        <Dependencies>
-            <Dependency>Satchel</Dependency>
-        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>Gorb Plus</Name>
