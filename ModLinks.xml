@@ -1522,6 +1522,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>Gorb Plus</Name>
