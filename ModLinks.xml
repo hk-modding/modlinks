@@ -214,43 +214,49 @@
     </Manifest>
     <Manifest>
         <Name>AbsoluteZote</Name>
-        <Description>A new GPZ mod boss.</Description>
+        <Description>A new GPZ mod boss. Install AbsoluteZote and PureZote together to enable AnyZote.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="1aad22dd9c6d90a37bb754dd2ead381e8f473f973189d4faa840648b94118394">
-            <![CDATA[https://github.com/yunjord/HollowKnight.AbsoluteZote/releases/download/1.0/AbsoluteZote.zip]]>
+            <![CDATA[https://github.com/nearrin/HollowKnight.AbsoluteZote/releases/download/1.0/AbsoluteZote.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/yunjord/HollowKnight.AbsoluteZote/]]>
+            <![CDATA[https://github.com/nearrin/HollowKnight.AbsoluteZote/]]>
         </Repository>
+        <Integrations>
+            <Integration>PureZote</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>HitboxOnly</Name>
         <Description>Show only hitboxes and hide all sprites. This provides a new experience for several bosses since attack anticipation is no longer visible.</Description>
         <Version>1.3.0.0</Version>
         <Link SHA256="a10a68b088628c6c4420067555e20b9cbc12e1238af26696cd1c0383b6c2dc17">
-            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/releases/download/1.3/HitboxOnly-v1.3.zip]]>
+            <![CDATA[https://github.com/nearrin/HollowKnight.Abstraction/releases/download/1.3/HitboxOnly-v1.3.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/yunjord/HollowKnight.Abstraction/]]>
+            <![CDATA[https://github.com/nearrin/HollowKnight.Abstraction/]]>
         </Repository>
     </Manifest>
     <Manifest>
         <Name>PureZote</Name>
-        <Description>Enabled Grey Prince Zote to summon Eternal Ordeal and upgraded its skills.</Description>
+        <Description>Enabled Grey Prince Zote to summon Eternal Ordeal and upgraded its skills. Install AbsoluteZote and PureZote together to enable AnyZote.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="52fa80b5fb01ae7d756f0b9af3958c4f79cb95b826d14a3d5fef2692b77f65a5">
-            <![CDATA[https://github.com/yunjord/PureZote/releases/download/1.0/PureZote.zip]]>
+            <![CDATA[https://github.com/nearrin/PureZote/releases/download/1.0/PureZote.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/yunjord/PureZote/]]>
+            <![CDATA[https://github.com/nearrin/PureZote/]]>
         </Repository>
+        <Integrations>
+            <Integration>AbsoluteZote</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>SteelSoulHUD</Name>
