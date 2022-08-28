@@ -3447,9 +3447,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>SpoilerViewerMod</Name>
         <Description>Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.</Description>
-        <Version>2.6.2.2</Version>
-        <Link SHA256="811E1C2E2B56D04FE2D64BD2C5E01485D6A68C0543E3A3C397BE7D1087FDF90B">
-            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.6.2.2/SpoilerViewerMod.zip]]>
+        <Version>2.7.0.1</Version>
+        <Link SHA256="CCE18F28AB11B8477F32BD78724FABE9DE104A5989E974E0980BFD2CA6C89406">
+            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.7.0.1/SpoilerViewerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
