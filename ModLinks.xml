@@ -1844,6 +1844,41 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>TheRealJournalRando</Name>
+        <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
+        <Version>1.0.8275.30170</Version>
+        <Link SHA256="D803D9D8828785FB6204E66CF2D4B15BA7BB93EA6F28FA1AA88AB9F4C6DBD81A">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.0.8275.30170/TheRealJournalRando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>ConnectionSettingsCode</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
+    </Manifest>
+    <Manifest>
+        <Name>ConnectionSettingsCode</Name>
+        <Description>A library mod that allows randomizer connections to easily encorporate their own settings code.</Description>
+        <Version>1.0.8256.6937</Version>
+        <Link SHA256="0D718E30FC50C650E1A3F20430B66BD474D08247AE48A077E896C7B9FB1214C4">
+            <![CDATA[https://github.com/BadMagic100/ConnectionSettingsCode/releases/download/v1.0.8256.6937/ConnectionSettingsCode.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MenuChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/ConnectionSettingsCode/]]>
+        </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags
+    </Manifest>
+    <Manifest>
         <Name>GhostHunter</Name>
         <Description>A mod that shows the positions of other player's enemies during multiplay.</Description>
         <Version>1.0.0.0</Version>
