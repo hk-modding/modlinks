@@ -860,9 +860,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.0.8.0</Version>
-        <Link SHA256="A2D98FBE68E72211C4AB325465C9280A124BA7A20B589A6B827B11FEE0F534CA">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.8%2B618/RandomizerMod.zip]]>
+        <Version>4.0.9.0</Version>
+        <Link SHA256="B4C588B54C86E33629D775C0522D2BFD90113F32328B06C16CD1E068348B59FB">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.0.9%2B218/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -878,9 +878,9 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.0.8.0</Version>
-        <Link SHA256="50CF51E90CFB83779668008BB33A4BABBD5EAABCE280F673DD6080EF25CC5221">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.8%2B775/ItemChanger.zip]]>
+        <Version>2.0.9.0</Version>
+        <Link SHA256="609080F8AAE02AB3949BDA8BEE6879EEC279BE3B70E5A139C9AC843274327F3B">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.0.9%2B670/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -890,9 +890,9 @@
     <Manifest>
         <Name>MenuChanger</Name>
         <Description>Mod which handles editing the main menu for other mods.</Description>
-        <Version>1.1.4.0</Version>
-        <Link SHA256="C29D3C11DDD701545A3EBF3D015567ED30A408146A7800119776F80A0D25E58E">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.4%2B594/MenuChanger.zip]]>
+        <Version>1.1.5.0</Version>
+        <Link SHA256="5D0949060D57032B3D8C442FAA957D7D4351C66F4DE40DABC9E3FD01B6CDD815">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.5%2B889/MenuChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -902,9 +902,9 @@
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>1.0.5.0</Version>
-        <Link SHA256="21A722820510A038C6C2FD611920BBC01273E2762F830E50C24AF86C4BF8924D">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.5/RandomizerCore.zip]]>
+        <Version>1.0.6.0</Version>
+        <Link SHA256="86B0C0B4B18BBD867DFD62F2D7AE9587C0DA303C3B564BDF67BB34A17E1DFEF8">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.0.6/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -914,9 +914,9 @@
     <Manifest>
         <Name>ItemChangerDataLoader</Name>
         <Description>Mod for creating backups of randomizer saves and launching plandos.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="12430C9A18AE97002BC62518000D0D53A32C77474AE37B167B1E521A8AD752AC">
-            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.0.1/ItemChangerDataLoader.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="9C2FB0059CBE4708B0804302C9EA1F53E7F615E6BB289900C51BC84BED58D4B2">
+            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.0/ItemChangerDataLoader.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -986,9 +986,9 @@
     <Manifest>
         <Name>BenchRando</Name>
         <Description>A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items. Currently in beta.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="5B2BB929CBADCAFAD0B9050082B3362DE3CC1190C26784F0AFECA23A8367F1E5">
-            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.1/BenchRando.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="F106D8BD562EA4B2E01DA25123C12D19D4922A2BC0BEFC7CE95154AE4E8ABEA2">
+            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.2/BenchRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
