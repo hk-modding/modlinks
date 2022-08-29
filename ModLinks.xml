@@ -1410,9 +1410,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.4.1</Version>
-        <Link SHA256="E719F7286DA90C550099DCE487D90CCC9136C95102F888AB6CBAE76772568399">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.4.1/SFCore.zip]]>
+        <Version>1.5.4.2</Version>
+        <Link SHA256="827B855C45777FB616EE60F60E38ADA80E5C052D52C0732390D20953451515A3">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.4.2/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
