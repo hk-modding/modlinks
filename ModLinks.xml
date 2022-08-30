@@ -1361,9 +1361,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RadiantMenu</Name>
         <Description>Adds a radiant menu theme to the game.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="A68216F941A07CBBCBC07915833A9D859A397F3058511235FB93150528ED696D">
-            <![CDATA[https://github.com/SFGrenade/RadiantMenu/releases/download/v1.5/RadiantMenu.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="2ED557F56C42DADF70163DB9E12A420FB870EAF373B0025EF5FF963065FA4EE9">
+            <![CDATA[https://github.com/SFGrenade/RadiantMenu/releases/download/v1.5.1/RadiantMenu.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
