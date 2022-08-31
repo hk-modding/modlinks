@@ -32,8 +32,11 @@
             <File>MonoMod.Utils.dll</File>
             
             <File>mscorlib.dll</File>
+            <File>mscorlib.xml</File>
             
             <File>Newtonsoft.Json.dll</File>
+            
+            <File>README.md</File>
         </Files>
     </Manifest>
 </ApiLinks>
