@@ -2745,7 +2745,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>A library mod</Description>
         <Version>1.10.6.0</Version>
         <Link SHA256="7d9c43c876cc74e7d523af024a9fd6f05150cb0f68ff02154b6f0e192d6e5a8b">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.10.6.0/Output.zip]>
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.10.6.0/Output.zip]]>
         </Link>
 
         <Dependencies />
