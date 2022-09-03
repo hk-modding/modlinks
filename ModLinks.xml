@@ -27,6 +27,23 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>Charm Crab</Name>
+        <Description>New Charm Mechanics, New Charms, New Spells, and Rebalances</Description>
+        <Version>1.1.0.0</Version>
+            <Link SHA256="9200e22b106fe7d70464188022f57f53147b0d06ed0538cf156f206b0fe4a6c9">
+                <![CDATA[https://github.com/DistractionCrab/Charm-Crab/releases/download/Release/CharmCrab.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/DistractionCrab/Charm-Crab]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Nightmare Spark</Name>
         <Description>Adds a Grimm Troupe themed charm with various charm synergies.</Description>
         <Version>1.1.0.0</Version>
