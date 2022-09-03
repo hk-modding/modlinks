@@ -1847,9 +1847,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.0.8278.10641</Version>
-        <Link SHA256="FFFBF6121DBE1923E983E2018EA38D8F2FD15AAC596B23B6E5B56FD8D75989CC">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.0.8278.10641/TheRealJournalRando.zip]]>
+        <Version>1.0.8281.10628</Version>
+        <Link SHA256="337608620F8125C131F53D02ECD56BBA6D67D6B261DA7F73F8A0561B2617539A">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.0.8281.10628/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
