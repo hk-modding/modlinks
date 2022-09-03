@@ -1865,9 +1865,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.0.8278.10641</Version>
-        <Link SHA256="FFFBF6121DBE1923E983E2018EA38D8F2FD15AAC596B23B6E5B56FD8D75989CC">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.0.8278.10641/TheRealJournalRando.zip]]>
+        <Version>1.0.8281.10628</Version>
+        <Link SHA256="337608620F8125C131F53D02ECD56BBA6D67D6B261DA7F73F8A0561B2617539A">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.0.8281.10628/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -3485,9 +3485,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="8AE1324F12F4D7CE79D2C18EE1C7919927FF4B736D6C0F548BDCBC2CB19560A4">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.0/MapChanger.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="5AC46332A8F14BFC1E5639D768347D7DBFC3DC6303EAB1FCCF792E5670205AF8">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.1/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -3506,9 +3506,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.0.2.0</Version>
-        <Link SHA256="55A1810261D5F53136BBD5503E07AB80DEA397DB1E158602E007647561A537D3">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.2/RandoMapMod.zip]]>
+        <Version>3.0.4.0</Version>
+        <Link SHA256="8622315B353BBA7C2FAF364571C7A714FABBEE375124833447474D108BB48FCB">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.4/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
