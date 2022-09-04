@@ -3474,13 +3474,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>MenuChanger</Dependency>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer]]>
+        </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoPlus</Integration>
         </Integrations>
-        <Repository>
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer]]>
-        </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -3497,12 +3497,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>MenuChanger</Dependency>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
-        <Integrations>
-            <Integration>Randomizer 4</Integration>
-        </Integrations>
         <Repository>
             <![CDATA[https://github.com/dplochcoder/hkspoilerviewer]]>
         </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
