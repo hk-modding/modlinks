@@ -3480,9 +3480,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="474D04E4733DED73E014CFEB1FA95BE9FDCAB1EB8A046D4C85781F87CBA17CA1">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.0/DarknessRandomizer.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="7A3D860EB59C2087D5E4E921A4019A6943E3A441264E3457C4F8DE304EF45E57">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.0.1/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
