@@ -27,6 +27,21 @@
     </Manifest>
     -->
     <Manifest>
+        <Name>Mash Slash</Name>
+        <Description>Swing the nail as fast as you can mash the button</Description>
+        <Version>1.0.0</Version>
+        <Link SHA256="730C2C29D73AEC7726FA545EF45EF3F9CBBF1FBC9F5A29B28F4C232725980EFF">
+            <![CDATA[https://github.com/Makeit-Hardcore/HK-MashSlash/releases/download/v1.0.0/MashSlash.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Makeit-Hardcore/HK-MashSlash]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Charm Crab</Name>
         <Description>New Charm Mechanics, New Charms, New Spells, and Rebalances</Description>
         <Version>1.1.0.0</Version>
