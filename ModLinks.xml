@@ -1804,9 +1804,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ConnectionMetadataInjector</Name>
         <Description>A core mod to allow randomizer-supplemental mods like RandoStats and MapModS to get custom metadata from connections without requiring hard dependencies.</Description>
-        <Version>2.0.8265.3801</Version>
-        <Link SHA256="CBE583FA65369716054037ABA308F1061F0BCE40952BE919AC21E066646A83F3">
-            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/releases/download/v2.0.8265.3801/ConnectionMetadataInjector.zip]]>
+        <Version>2.1.8284.2438</Version>
+        <Link SHA256="BF4B953E02D7118B9F5877C48E58A5C45CB077407B372D028FD7BB5DEF9B0189">
+            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/releases/download/v2.1.8284.2438/ConnectionMetadataInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -1879,9 +1879,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.0.8281.10628</Version>
-        <Link SHA256="337608620F8125C131F53D02ECD56BBA6D67D6B261DA7F73F8A0561B2617539A">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.0.8281.10628/TheRealJournalRando.zip]]>
+        <Version>1.0.8284.2502</Version>
+        <Link SHA256="DD9C096FAA556CCCF779E78763EE7ACB1A4A949E137D22A49D90AE3218BF58E7">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.0.8284.2502/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
