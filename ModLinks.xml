@@ -865,9 +865,9 @@
     <Manifest>
         <Name>FStats</Name>
         <Description>Displays some stats about a run after the credits screen.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="b2f5607b09373a615aec7cb1fbbd4469c7418aee5414cf13b865cac946f6bacc">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v1.1.0.0/FStats.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="1acb349b9e09e4b77abbc0a764f667ab27ab93ffd56bdf21c469caa1af40b9a3">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v1.2.0.0/FStats.zip]]>
         </Link>
         <Dependencies />
         <Repository>
