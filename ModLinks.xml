@@ -1596,7 +1596,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Boss</Tag>
         </Tags>
     </Manifest>
-    <Manifest>
+    <!--<Manifest>
         <Name>HKMP HealthDisplay</Name>
         <Description>An addon for HKMP. Displays the amount of health and/or soul other players in the room have</Description>
         <Version>0.0.3.0</Version>
@@ -1611,7 +1611,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/]]>
         </Repository>
-    </Manifest>
+    </Manifest>-->
     <Manifest>
         <Name>Gravity Mod</Name>
         <Description>Adds gravity to all objects</Description>
