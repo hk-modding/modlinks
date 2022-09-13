@@ -628,14 +628,17 @@
     <Manifest>
         <Name>Kronk</Name>
         <Description>Simple object counter used for speedruns. Mainly used for Kronk% (all levers).</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="4a8a895c5ec9df0286cb457c397777c9489fb26bdb04ccc4639d4ba60476034c">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.2/Kronk.zip]]>
+        <Version>1.4.0.0</Version>
+        <Link SHA256="35ffcdf52125d0b625b5810d759e1b9bf6e9bbf6850dbe2c7dfd3f096bc2cf9c">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.4.0.0/Kronk.zip]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/]]>
         </Repository>
+        <Integrations>
+            <Integration>FStats</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>Menderbug's Revenge</Name>
