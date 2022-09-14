@@ -207,6 +207,23 @@
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>ExtraMenuBackgrounds</Name>
+        <Description>Adds 5 new main menu themes to the Extras menu.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="957C4773B35036049DE0AA58ECE2820A399987B59A59C82F72EA652A3B8B3289">
+            <![CDATA[https://github.com/beesnation/ExtraMenuBackgrounds/releases/download/v1.0.0.0/ExtraMenuBackgrounds.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/beesnation/ExtraMenuBackgrounds]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>HueShifter</Name>
         <Description>Uses shaders to change the map colours. Can also make everything rainbows.</Description>
         <Version>0.2.1.0</Version>
