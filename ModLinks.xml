@@ -1599,22 +1599,23 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Boss</Tag>
         </Tags>
     </Manifest>
-    <!--<Manifest>
+    <Manifest>
         <Name>HKMP HealthDisplay</Name>
-        <Description>An addon for HKMP. Displays the amount of health and/or soul other players in the room have</Description>
-        <Version>0.0.3.0</Version>
+        <Description>An addon for HKMP that uses HkmpPouch. Works on the public server.Displays the amount of health other players have</Description>
+        <Version>0.0.5.0</Version>
         <Link SHA256="C9CD569C1499B519BEA56AC8D54F8CF96EE10E013D5DA2CEC287CAFADF5A5D07">
-            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.3.0/HKMP_HealthDisplay.zip]]>
+            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.5.0/HKMP_HealthDisplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>MagicUI</Dependency>
             <Dependency>HKMP</Dependency>
+            <Dependency>HkmpPouch</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/]]>
         </Repository>
-    </Manifest>-->
+    </Manifest>
     <Manifest>
         <Name>Gravity Mod</Name>
         <Description>Adds gravity to all objects</Description>
