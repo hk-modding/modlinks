@@ -2793,6 +2793,39 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/AngelSassin/ParryKnight1.5/]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Abskoth</Name>
+        <Description>A gameplay mod that adds invincible Markoths to the Absolute Radiance fight.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="2b04132c3b1557978032adaa0fe4b94788ac3053a98b683da108deb51346e903">
+            <![CDATA[https://github.com/AngelSassin/Abskoth/releases/download/v1.0/Abskoth.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/AngelSassin/Abskoth/]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>QuirrelBoat</Name>
+        <Description>A mod which makes Quirrel interactable after the events at Blue Lake.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="a32991e470530e1843ca468f8a4f148c81292af54e0097eb33a7e04c45b7c4e3">
+            <![CDATA[https://github.com/AngelSassin/QuirrelBoat/releases/download/v1.0/QuirrelBoat.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/AngelSassin/QuirrelBoat]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>BingoBoard</Name>
@@ -2957,18 +2990,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Nexade/NegativeNail/]]>
-        </Repository>
-    </Manifest>
-    <Manifest>
-        <Name>Abskoth</Name>
-        <Description>A gameplay mod that adds invincible Markoths to the Absolute Radiance fight.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="2b04132c3b1557978032adaa0fe4b94788ac3053a98b683da108deb51346e903">
-            <![CDATA[https://github.com/AngelSassin/Abskoth/releases/download/v1.0/Abskoth.zip]]>
-        </Link>
-        <Dependencies />
-        <Repository>
-            <![CDATA[https://github.com/AngelSassin/Abskoth/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -3606,17 +3627,5 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
-    </Manifest>
-    <Manifest>
-        <Name>QuirrelBoat</Name>
-        <Description>A mod which changes what happens at Blue Lake.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="a32991e470530e1843ca468f8a4f148c81292af54e0097eb33a7e04c45b7c4e3">
-            <![CDATA[https://github.com/AngelSassin/QuirrelBoat/releases/download/v1.0/QuirrelBoat.zip]]>
-        </Link>
-        <Dependencies />
-        <Repository>
-            <![CDATA[https://github.com/AngelSassin/QuirrelBoat]]>
-        </Repository>
     </Manifest>
 </ModLinks>
