@@ -3537,12 +3537,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="55D491272C48A3162FD468FAD0D2549A5C641345FA207A7C216DF2B979B12EB7">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.2.0.0/DarknessRandomizer.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="7A3D860EB59C2087D5E4E921A4019A6943E3A441264E3457C4F8DE304EF45E57">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.2.1/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>Randomizer 4</Dependency>
@@ -3562,8 +3561,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>SpoilerViewerMod</Name>
         <Description>Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.</Description>
         <Version>2.8.0.2</Version>
-        <Link SHA256="0BEC442ED0C9C34AFB27609A45F69F086D768ADC71A80297AB67792067C13150">
-            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.8.0.2/SpoilerViewerMod.zip]]>
+        <Link SHA256="9F0C36C52576B5928A4477E658EC3B9C9D65D41D7656621CA42F33771D29F3CD">
+            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.8.1/SpoilerViewerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
