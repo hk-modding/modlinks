@@ -774,9 +774,9 @@
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.4.3.0</Version>
-        <Link SHA256="c3764b60d22ffd814f355b77f7850962b9bce69f7a58112cf9176b04af0d86bd">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.4.3.0/RandoPlus.zip]]>
+        <Version>1.4.4.0</Version>
+        <Link SHA256="a347af9c112762dcf28a206f346c044b8e670920defb880374192001aef026c4">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.4.4.0/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -824,9 +824,9 @@
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.4.0.1</Version>
-        <Link SHA256="4931442f1b5e2964537b7f76f0bd2045bd99023e2bf9754c9c6136a78b86164f">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.4.0.1/TrandoPlus.zip]]>
+        <Version>1.4.1.0</Version>
+        <Link SHA256="e60478bac16f41c423ddcb03685f4f1c5f2c7f85b54d1db11a9fc2d57e64db6d">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.4.1.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
