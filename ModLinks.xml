@@ -649,7 +649,9 @@
         <Link SHA256="35ffcdf52125d0b625b5810d759e1b9bf6e9bbf6850dbe2c7dfd3f096bc2cf9c">
             <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.4.0.0/Kronk.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/]]>
         </Repository>
@@ -657,6 +659,26 @@
             <Integration>FStats</Integration>
         </Integrations>
     </Manifest>
+    <Manifest>
+        <Name>KeybindChaos</Name>
+        <Description>Randomize the keybinds after a certain (configurable) amount of time has passed.</Description>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="c557436d61aea851e01a696364726d5422b0a10b9a3e601c3526aadb33d3cfd0">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.KeybindChaos/releases/download/v0.9.0.0/KeybindChaos.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.KeybindChaos/]]>
+        </Repository>
+        <Integrations>
+            <Integration>FStats</Integration>
+        </Integrations>
+    </Manifest>
+
     <Manifest>
         <Name>Menderbug's Revenge</Name>
         <Description>Kill the knight whenever you break a background object.</Description>
