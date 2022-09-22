@@ -1899,9 +1899,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MajorItemByAreaTracker</Name>
         <Description>A randomizer connection that adds a semi-spoiler randomizer game mode with an in-game tracker.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="0EB8A4492B46EBB02C7ED7F9B787AF1025B88F36C34F127E3D8C24E0059B3008">
-            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/releases/download/v1.2.0.0/MajorItemByAreaTracker.zip]]>
+        <Version>1.2.8300.9069</Version>
+        <Link SHA256="2C5205503341BA939EAB34803B6D3A4F695A813B28003C8905AF451CA6B41CD7">
+            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/releases/download/v1.2.8300.9069/MajorItemByAreaTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1937,9 +1937,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.0.8292.1322</Version>
-        <Link SHA256="C9C60175089879F7E8A24615EA0BC71C4AF3161D3F8F438C1968A50D52191A8A">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.0.8292.1322/TheRealJournalRando.zip]]>
+        <Version>1.0.8300.8790</Version>
+        <Link SHA256="4AAA483914BF416B0164834DF4596C34D3AA2AD26FA8F9B60944C3419BFEE86F">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.0.8300.8790/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
