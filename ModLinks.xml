@@ -3650,9 +3650,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.0.4.0</Version>
-        <Link SHA256="8622315B353BBA7C2FAF364571C7A714FABBEE375124833447474D108BB48FCB">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.4/RandoMapMod.zip]]>
+        <Version>3.0.5.0</Version>
+        <Link SHA256="D72A20CD7499E1EB47D39A7977BF7C3410C2005B4EA440DA0EC05406231702BF">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.5/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
