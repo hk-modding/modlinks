@@ -3562,9 +3562,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.3.0.1</Version>
-        <Link SHA256="794D3B35316F60709E9AEAC36EEB7253A385F27D7CB25F06C4764432546BFB57">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.3.0.1/DarknessRandomizer.zip]]>
+        <Version>1.3.1.0</Version>
+        <Link SHA256="8B1CBB3D83BD70B5E17C01614AAE9BDB4914D7212E7F9E9293E079E7A8757B22">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.3.1.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -3585,9 +3585,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>0.2.1.0</Version>
-        <Link SHA256="CEAEB082FC645B8FDE64802C68238E170341303D4600C2E0F044CDDB027B0319">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v0.2.1.0/MoreDoors.zip]]>
+        <Version>0.2.2.0</Version>
+        <Link SHA256="68EA5693444C7FC81984440DBCC90DB9FF9C7ED1F9624FF7CA1C2241F3E63E40">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v0.2.2.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -3607,9 +3607,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>SpoilerViewerMod</Name>
         <Description>Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.</Description>
-        <Version>2.9.0.0</Version>
-        <Link SHA256="8D9B1B4CE73FDE8A187A6948B4F4B66C5CC27006A5F2E53D7AC7FB6619187DEE">
-            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.9/SpoilerViewerMod.zip]]>
+        <Version>2.9.1.0</Version>
+        <Link SHA256="DEF72B2A1F76E05A9BA4494818CEB6F840CF0A8A408F5BEC06453EA0B01211BA">
+            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.9.1/SpoilerViewerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
