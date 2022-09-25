@@ -280,9 +280,9 @@
     <Manifest>
         <Name>AbsoluteZote</Name>
         <Description>A new GPZ mod boss. Install AbsoluteZote and PureZote together to enable AnyZote.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="1aad22dd9c6d90a37bb754dd2ead381e8f473f973189d4faa840648b94118394">
-            <![CDATA[https://github.com/nearrin/HollowKnight.AbsoluteZote/releases/download/1.0/AbsoluteZote.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="327bd4575877834b7e94b141ca9c09354dbd61e976a6dbbb2a16c842c70e984c">
+            <![CDATA[https://github.com/nearrin/HollowKnight.AbsoluteZote/releases/download/2.0/AbsoluteZote-v2.0.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
