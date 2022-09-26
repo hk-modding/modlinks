@@ -629,7 +629,7 @@
     <Manifest>
         <Name>Additional Timelines</Name>
         <Description>Adds extra timelines to the stats screen after the end credits.</Description>
-        <Version>1.0.1</Version>
+        <Version>1.0.1.0</Version>
         <Link SHA256="AC82BD86136CBF67E898CAED795FAEA98BACD6CCEC59AD3A07F875DAA5E2CA10">
             <![CDATA[https://github.com/Emo-hk/AdditionalTimelines/releases/download/v1.0.1/AdditionalTimelines.zip]]>
         </Link>
