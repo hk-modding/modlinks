@@ -3603,9 +3603,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="F05C8697B1DD5D55E24B46E185F83567EAD5EB86E3B48E894BAB92C36D9A2785">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v1.0.2.0/MoreDoors.zip]]>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="9FDF46CEAA8761C6A561C3BE998182D9A5B4989618A3D91197D2AE3C2B0E2B71">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v1.0.3.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionSettingsCode</Dependency>
