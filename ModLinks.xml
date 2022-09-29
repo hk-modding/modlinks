@@ -142,6 +142,29 @@
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>Lost Artifacts</Name>
+        <Description>A mod that adds powerful artifacts scattered all across Hallownest that can be equipped to the nail! Compatible with Randomizer 4.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="307544CE3024B15C718E793881248BE02B6D9B1E4FBE0B80B6F8A81F35924526">
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.0.0.0/LostArtifacts.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.LostArtifacts]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+            <Integration>DebugMod</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Dead Quirrel</Name>
         <Description>He's dead. Stop being in denial. Now featuring support for whether or not he has a mask.</Description>
         <Version>1.0.1.0</Version>
