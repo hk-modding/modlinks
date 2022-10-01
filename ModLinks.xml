@@ -3602,9 +3602,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.3.4.0</Version>
-        <Link SHA256="042241911381960C58C06F550214E58D34E40E2AA7AC31073AE5F531E38E7AE1">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.3.4.0/DarknessRandomizer.zip]]>
+        <Version>1.3.5.0</Version>
+        <Link SHA256="DC68C951D417587ABA23190495054096D1052D3EA65772E2704CD188ED6964FC">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.3.5.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -3626,9 +3626,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>1.0.3.0</Version>
-        <Link SHA256="9FDF46CEAA8761C6A561C3BE998182D9A5B4989618A3D91197D2AE3C2B0E2B71">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v1.0.3.0/MoreDoors.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="D0AAFE87517C93316124E373E1B8DE08757E438774073763E2782B9E5002F1E8">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v1.1.0.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionSettingsCode</Dependency>
@@ -3650,9 +3650,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="7B8F8B06918A28483CFFB6BFC6FD540A1DD6672C35369601829C95F0F6711049">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.0.0.0/PurenailCore.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="D9EC8E285FD3598AE531F594E0185316F69EBD0C951E35AA8D7DB44401D87A60">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.0.1.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
