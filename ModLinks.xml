@@ -3146,9 +3146,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>CustomAudio</Name>
         <Description>A Hollow Knight mod can replace some kind of audio</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="f3ad417161f0d82a65c533d28ed7579f3e21d7fad4dd2fe5f1c7a6857f856736">
-            <![CDATA[https://github.com/ygsbzr/HKCustomAudio/releases/download/v1.1/CustomAudio.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="BF1C2AB5EEBE415B68B5C890B51BACCD739931C4D535FC406EF60F3A812167B4">
+            <![CDATA[https://github.com/ygsbzr/HKCustomAudio/releases/download/v1.2.0/CustomAudio-v1.2.0.zip]]>
         </Link>
         <Dependencies />
         <Repository>
