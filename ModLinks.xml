@@ -1931,7 +1931,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>MagicUI</Dependency>
             <Dependency>Satchel</Dependency>
-            <Dependency>FStats</Dependency
+            <Dependency>FStats</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/]]>
