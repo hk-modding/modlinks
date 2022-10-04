@@ -3626,9 +3626,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="93DB069421A0B94A96F8B3ED4F77E3D2D99DBA90697E6A53A977EB15895FE09C">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v1.1.1.0/MoreDoors.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="B109652ECE2830F36F7356C5C42B7EF6235A10E9BBE0F9AEB46CDC8FF36710D6">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v1.1.2.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionSettingsCode</Dependency>
@@ -3664,9 +3664,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>SpoilerViewerMod</Name>
         <Description>Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.</Description>
-        <Version>2.9.2.0</Version>
-        <Link SHA256="19D22D62948ED3A1B17FB54A2D8E455529106EF977F7753F869AFD074EA92C35">
-            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.9.2/SpoilerViewerMod.zip]]>
+        <Version>2.9.3.0</Version>
+        <Link SHA256="8BAAC0736A8EFC313BEC82DFB803F99CFB0644E182A000C33D0584D3886F1AE9">
+            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.9.3/SpoilerViewerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
