@@ -2624,6 +2624,23 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>No Particles</Name>
+        <Description>Disables most of the particle effects.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="DA9C827FF27D0BD4B71BF9EE3D9A14CDA58506BE331BE158CE0005940867953B">
+            <![CDATA[https://github.com/Clazex/HollowKnight.NoParticles/releases/download/v1.0.0/NoParticles.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.NoParticles/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
         <Version>2.0.0.0</Version>
