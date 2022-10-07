@@ -3337,9 +3337,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP.ModDiff</Name>
         <Description>HKMP Addon for checking mod lists between Clients and Servers.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="4c5f3cdecc7ceb7cce708b0d26762e97e24562c3dea8eca6ae7a2508fc9021f0">
-            <![CDATA[https://github.com/BlindGarret/HKMP.ModDiff/releases/download/v1.0.1.0/HKMP.ModDiff.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="e9e2cd84395903e55d9cc7eb4cf05be6a058bc26e2cddd2c971af3c2aec0e89f">
+            <![CDATA[https://github.com/BlindGarret/HKMP.ModDiff/releases/download/v1.0.2.0/HKMP.ModDiff.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
