@@ -2061,9 +2061,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HkmpPouch</Name>
         <Description>A dependency mod for client side hkmp addons.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="e6ed29dd8563bd9467dd7e688613553bb4b93947e2dc6590e3d47fac582e9ec6">
-            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/releases/download/v0.3.0/HkmpPouch.dll]]>
+        <Version>0.3.1.0</Version>
+        <Link SHA256="562D762C35A57272A80D58F15C42E1A7A23A637113B73BA259A030BC29E08651">
+            <![CDATA[https://github.com/TheMulhima/HkmpPouch/releases/download/v0.3.1/HkmpPouch.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
