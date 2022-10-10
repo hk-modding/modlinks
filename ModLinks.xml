@@ -3762,4 +3762,19 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+        <Name>Carefree Grimm</Name>
+        <Description>Allows you to have Carefree Melody and Grimmchild at the same time</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="16B07E3F9396BD3D7C00E245A630C3E7554D0C00153984C2227BBB3B26B192FD">
+            <![CDATA[https://github.com/ilcheese2/CarefreeGrimm/releases/download/1.0.0.0/CarefreeGrimm.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/ilcheese2/CarefreeGrimm]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
 </ModLinks>
