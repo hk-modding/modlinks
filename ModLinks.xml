@@ -3777,4 +3777,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Gameplay</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+        <Name>Sit Button</Name>
+        <Description>Makes it possible to sit anywhere with a button press</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="4EC9A72ECAB03A87144932943B189469B95A1A1274273720981883DAD4EC77F8"><![CDATA[https://github.com/Mimijackz-HKModding/SitButton/releases/download/v0.1.0.0/SitButton.zip]]></Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/Mimijackz-HKModding/SitButton]]></Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
 </ModLinks>
