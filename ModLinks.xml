@@ -1828,9 +1828,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP</Name>
         <Description>Hollow Knight Multiplayer allows people to host games and let others join them in their adventures.</Description>
-        <Version>2.2.1.0</Version>
-        <Link SHA256="a0b34b09e331d7e05a5fc2c3a9d4fae252b1a88bef2babe1a93801b899e1b138">
-            <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v2.2.1/HKMP.zip]]>
+        <Version>2.2.2.0</Version>
+        <Link SHA256="295f538fc3b139823e880fd796a05dad171a01f1e80d17f31e36ec009b3c2fce">
+            <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v2.2.2/HKMP.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -3501,9 +3501,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP Tag</Name>
         <Description>An HKMP addon that adds the tag game-mode.</Description>
-        <Version>2.2.0.0</Version>
-        <Link SHA256="82c662ebf19a68ebe9a589de76e0f87de2d9e07ad0750631454cbadcc0aa2233">
-            <![CDATA[https://github.com/Extremelyd1/HKMP-Tag/releases/download/v2.2.0/HKMPTag.dll]]>
+        <Version>2.2.1.0</Version>
+        <Link SHA256="33c07c709b97c0f3e9e051cbfdc08f5a6257d1d0e5efd2e3a5dab110a441ec3c">
+            <![CDATA[https://github.com/Extremelyd1/HKMP-Tag/releases/download/v2.2.1/HKMPTag.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
