@@ -3788,4 +3788,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+        <Name>CustomKnightPlus</Name>
+        <Description>A mod that provides conditional skin support for Custom Knight</Description>
+        <Version>0.0.1.0</Version>
+        <Link SHA256="D6B830191F87C6CE3E09F517E25AA1D392D3ECA6757D1B2D3DCCBF40412A2850">
+            <![CDATA[https://github.com/HKLab/CustomKnightPlus/releases/download/v0.0.1/CustomKnightPlus.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Custom Knight</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/CustomKnightPlus/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
 </ModLinks>
