@@ -685,9 +685,9 @@
     <Manifest>
         <Name>Kronk</Name>
         <Description>Simple object counter used for speedruns. Mainly used for Kronk% (all levers).</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="35ffcdf52125d0b625b5810d759e1b9bf6e9bbf6850dbe2c7dfd3f096bc2cf9c">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.4.0.0/Kronk.zip]]>
+        <Version>1.4.0.1</Version>
+        <Link SHA256="3578a950ef66e24dc0c805703f6010ee76562238c49b983850e624c9ee1f1c1c">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.4.0.1/Kronk.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -807,9 +807,9 @@
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.11.2.0</Version>
-        <Link SHA256="0edf4b525ddb5c4c9af62252fbe7b635f413ceeb9f5773e9ab036a4789d7c2df">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.11.2.0/SkillUpgrades.zip]]>
+        <Version>0.11.2.1</Version>
+        <Link SHA256="5857e94f40a19ab4aabacea136599e64fa180716074ac25b01ccdad03ee5d4b0">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.11.2.1/SkillUpgrades.zip]]>
         </Link>
         <Dependencies />
         <Repository>
