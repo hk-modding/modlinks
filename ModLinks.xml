@@ -3810,7 +3810,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    <Name>Shuriken</Name>
 	    <Description>A tiny rando extension a new skill to the game: a shuriken that you can teleport to.</Description>
 	    <Version>1.0.0.1</Version>
-	    <Link SHA256="3C9E9420ED7506388BC64FDC064DE01BCC31896A19B0F0F13B4FA784AC055594"><![CDATA[https://github.com/randomscorp/Shuriken/releases/download/1.0.0.1/Shuriken.zip]]></Link>
+	    <Link SHA256="0604b59c2113d499fc06ecdf50650de98c32e4b0a711ac69c37d42067283bef3"><![CDATA[https://github.com/randomscorp/Shuriken/releases/download/1.0.0.1/Shuriken.zip]]></Link>
 	    <Dependencies>
 		    <Dependency>Satchel</Dependency>
 	    </Dependencies>
