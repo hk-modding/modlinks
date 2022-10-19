@@ -3806,4 +3806,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+	    <Name>Shuriken</Name>
+	    <Description>A tiny rando extension a new skill to the game: a shuriken that you can teleport to.</Description>
+	    <Version>1.0.0.1</Version>
+	    <Link SHA256="3C9E9420ED7506388BC64FDC064DE01BCC31896A19B0F0F13B4FA784AC055594"><![CDATA[https://github.com/randomscorp/Shuriken/releases/download/1.0.0.1/Shuriken.zip]]></Link>
+	    <Dependencies>
+		    <Dependency>Satchel</Dependency>
+	    </Dependencies>
+	    <Repository><![CDATA[https://github.com/randomscorp/Shuriken]]></Repository>
+	    <Integrations>
+		    <Integration>Randomizer 4</Integration>
+	    </Integrations>
+	    <Tags>
+		    <Tag>Gameplay</Tag>
+	    </Tags>
+
+    </Manifest>
+    
 </ModLinks>
