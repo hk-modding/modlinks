@@ -1809,14 +1809,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>HKMirror</Name>
-        <Description>A core mod that makes it easier to access PlayerData, use reflection and use on/il hooks.</Description>
-        <Version>2.0.0.1</Version>
-        <Link SHA256="B5DD3D439CE743F46E2DA44E5B79570FA2C5912C0451C47675E1506C3DA7ED6F">
-            <![CDATA[https://github.com/TheMulhima/HKMirror/releases/download/v2.0.0.1/HKMirror.zip]]>
+        <Description>A core mod that makes it easier to access PlayerData, use reflection, and on/il hooks.</Description>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="277DF673F6B2F8BB1EE360E852D4016C922ED4F66AC3E8F9A5645C3CD5D1CAEC">
+            <![CDATA[https://github.com/TheMulhima/HKMirror/releases/download/v2.1.0.0/HKMirror.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/TheMulhima/HKMirror/]]>
+            <![CDATA[https://github.com/TheMulhima/HKMirror/#readme]]>
         </Repository>
         <Tags>
             <Tag>Library</Tag>
