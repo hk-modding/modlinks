@@ -3875,5 +3875,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    </Tags>
 
     </Manifest>
-    
+    <Manifest>
+        <Name>NoSpiders</Name>
+        <Description>A mod to remove the spiders in the foreground of deepnest</Description>
+        <Version>1.0.0</Version>
+        <Link SHA256="409ad72562c7fd5699c1cb099858f427d33f6bf7ded4b752299b0dcbbea2dc8a"><![CDATA[https://github.com/MansenC/NoSpidersMod/releases/download/v1.0.0/NoSpidersMod.dll]]></Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/MansenC/NoSpidersMod]]></Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
 </ModLinks>
