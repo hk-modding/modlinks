@@ -3641,10 +3641,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Lore Master</Name>
-        <Description>Adds abilities to lore tablets and certain npc. Useable with Randomizer 4.</Description>
-        <Version>2.1.3.0</Version>
-            <Link SHA256="b2570a9d423e25fc812f125d6525be04f8bf6f4362ebb278089c868c755903f8">
-                <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.1.3/LoreMaster.zip]]></Link>
+        <Description>Adds abilities to lore tablets and certain npc. Offers extra settings for Randomizer 4.</Description>
+        <Version>2.1.4.0</Version>
+            <Link SHA256="7caff713e675d4545876b176792e4db18a5297e5f9dde8c5c34f4692c0898ce8">
+                <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.1.4/LoreMaster.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
