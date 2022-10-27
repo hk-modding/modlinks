@@ -359,10 +359,10 @@
         </Repository>
     </Manifest>
     <Manifest>
-        <Name>Fyrenest</Name>
+        <Name>tt</Name>
         <Description>Fyrenest v3 Adds over 30 charms, and remaps the Ancient Basin, Hive, Abyss, Resting Grounds, and Crystal Peak! It also rewrites dialogue for most of the NPCs like The Seer, The Last Stag, Elderbug, Cornifer, Iselda, and more! Fyrenest now changes almost every aspect of the game.</Description>
         <Version>3.0.0.0</Version>
-        <Link SHA256="74302dbf315a5cf592408d78cdb43f1c3f8490ae5923d866f058803f1f4f8c1e">
+        <Link SHA256="8dfc1fac24a8372bb8f54395a5ee1150a1aa53768e873feddfe107d7bb386ce0">
             <![CDATA[https://github.com/BubkisLord/Fyrenest/releases/download/v3/Fyrenest.zip]]>
         </Link>
         <Dependencies>
