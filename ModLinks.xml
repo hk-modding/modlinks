@@ -2503,9 +2503,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Osmi</Name>
         <Description>A library mod providing utilities for other mods</Description>
-        <Version>0.1.9.0</Version>
-        <Link SHA256="FFF0E3382878A2B74F14707DB5BA28C171B98A2B5D9D1C2977571213462F4535">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.9/Osmi.zip]]>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="23C24A8303BBA5828B3A037C1ED5E8E9FB10008CCB43130BBC65B803D705D8BD">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.2.0/Osmi.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2518,13 +2518,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.21.0.0</Version>
-        <Link SHA256="C43FEF21CAF6DF1057889DDE814772767933DB89F690FD9978AB5F64BBEE72F8">
-            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.21.0/GodSeekerPlus.zip]]>
+        <Version>0.22.0.0</Version>
+        <Link SHA256="158F3D4EEFF1E776D522F8D9DC705974CD7D1B868D93CBCB50F6CAFF20A63F25">
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.22.0/GodSeekerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/]]>
