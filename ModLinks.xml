@@ -3228,7 +3228,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
         <Integrations>
             <Integration>Custom Knight</Integration>
-        </interactions>
+        </Interactions>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
