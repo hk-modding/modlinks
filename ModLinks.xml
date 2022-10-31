@@ -2234,9 +2234,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Memesong</Name>
         <Description>Play some meme audio clips as you play (can add or remove clips to make stream friendly)</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="87b5b70760556884519f0fde957259091d7fec20f791aafac1f8ad07f4a3e330">
-            <![CDATA[https://github.com/yoink-city/memesong/releases/download/v1.5.0b/Memesong.dll]]>
+        <Version>1.6.0.0</Version>
+        <Link SHA256="646153865b4294e7c8f20315f631757873a8a96a06d1c681dde70dd3d6d89b3f">
+            <![CDATA[https://github.com/yoink-city/memesong/releases/download/v1.6.0/Memesong.zip]]>
         </Link>
         <Dependencies />
         <Repository>
