@@ -1021,9 +1021,9 @@
     <Manifest>
         <Name>MenuChanger</Name>
         <Description>Mod which handles editing the main menu for other mods.</Description>
-        <Version>1.1.5.0</Version>
-        <Link SHA256="5D0949060D57032B3D8C442FAA957D7D4351C66F4DE40DABC9E3FD01B6CDD815">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.5%2B889/MenuChanger.zip]]>
+        <Version>1.1.6.0</Version>
+        <Link SHA256="6C1EEF86F15F40C56D60DD172CBE49D70D89C8F7498129D13C815AE2747B4618">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.6%2B972/MenuChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
