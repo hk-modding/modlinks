@@ -2374,6 +2374,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
+	    <Dependency>HKTool</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/jngo102/AspidQueen]]>
