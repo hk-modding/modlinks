@@ -2034,9 +2034,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.1.8344.113</Version>
-        <Link SHA256="054CDFFDAC35CD19CDCA22EA916B324A6EA7327EDD324FE5FB4237CE31876143">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.1.8344.113/TheRealJournalRando.zip]]>
+        <Version>1.1.8344.8891</Version>
+        <Link SHA256="31A1363495A7E71DDCFDD999239581DA8D70BE6825BCAE3A0085E910804E127A">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.1.8344.8891/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -2072,9 +2072,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>
 	    A Hollow Knight mod that reimplements and extends Randomizer's settings sharing and preset management with rich support for connection mods.
         </Description>
-        <Version>1.0.8342.6360</Version>
-        <Link SHA256="24FB365FAC8D47455873B29F86AFBDF4E8E9CE5C26F358A7CF4A79D024088FBF">
-            <![CDATA[https://github.com/BadMagic100/RandoSettingsManager/releases/download/v1.0.8342.6360/RandoSettingsManager.zip]]>
+        <Version>1.0.8344.8876</Version>
+        <Link SHA256="B55904388DF30EE766297D97C052579241D0DA56371A2A663CE6467384584070">
+            <![CDATA[https://github.com/BadMagic100/RandoSettingsManager/releases/download/v1.0.8344.8876/RandoSettingsManager.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MenuChanger</Dependency>
