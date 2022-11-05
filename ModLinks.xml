@@ -2009,12 +2009,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/]]>
         </Repository>
-        <Tags>
-            <Tag>Gameplay</Tag>
-        </Tags>
         <Integrations>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>RandoChecksCounter</Name>
