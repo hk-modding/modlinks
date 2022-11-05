@@ -359,7 +359,7 @@
             <![CDATA[https://github.com/dpinela/SteelSoulHUD/]]>
         </Repository>
     </Manifest>
-    <Manifest>
+    <!--<Manifest>
         <Name>Fyrenest</Name>
         <Description>Fyrenest v3 Adds over 30 charms, and remaps the Ancient Basin, Hive, Abyss, Resting Grounds, and Crystal Peak! It also rewrites dialogue for most of the NPCs like The Seer, The Last Stag, Elderbug, Cornifer, Iselda, and more! Fyrenest now changes almost every aspect of the game.</Description>
         <Version>3.0.0.0</Version>
@@ -374,7 +374,7 @@
         <Repository>
             <![CDATA[https://github.com/BubkisLord/Fyrenest/]]>
         </Repository>
-    </Manifest>
+    </Manifest>-->
     <Manifest>
         <Name>Transcendence</Name>
         <Description>Adds 14 new charms with various abilities. Can be used with the randomizer.</Description>
