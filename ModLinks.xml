@@ -808,9 +808,9 @@
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.11.2.1</Version>
-        <Link SHA256="5857e94f40a19ab4aabacea136599e64fa180716074ac25b01ccdad03ee5d4b0">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.11.2.1/SkillUpgrades.zip]]>
+        <Version>0.11.3.0</Version>
+        <Link SHA256="3147c68370836d3edf2b210d0aef3191ad9fc33a8c3b8e72babc030a850f5a34">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.11.3.0/SkillUpgrades.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -818,6 +818,7 @@
         </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
@@ -837,9 +838,9 @@
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.4.6.0</Version>
-        <Link SHA256="750417522a9fc3790e86e1ae827e349db0980b8db46236640391600067f8da29">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.4.6.0/RandoPlus.zip]]>
+        <Version>1.4.7.0</Version>
+        <Link SHA256="b1d78525547bee3cc90c6928bc4d95e83eb40ffe5db78739669ff786ae364647">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.4.7.0/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -850,6 +851,7 @@
         </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
@@ -869,9 +871,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.2.0</Version>
-        <Link SHA256="3c44f3966fc510d4e2b79472f4d276ff65603e86a27e19deba76ac09cb3666b6">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.2.0/RandomizableLevers.zip]]>
+        <Version>1.2.3.0</Version>
+        <Link SHA256="aa94b41e822508f378e71cc847299d254316ec3b767c7f0cbf3e2a56a7ff53f4">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.3.0/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -882,24 +884,26 @@
         <Integrations>
             <Integration>Randomizer 4</Integration>
             <Integration>CondensedSpoilerLogger</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.4.2.0</Version>
-        <Link SHA256="7a9ab905e854ddbc3a699dfb61e1edd47642495744bf0e6400bbaed4d72b9079">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.4.2.0/TrandoPlus.zip]]>
+        <Version>1.4.3.0</Version>
+        <Link SHA256="5ac42b3defab1aa6b936d7e12495e2158d936099e75a4376ab50dce4acf66165">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.4.3.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>ConnectionMetadataInjector</Dependency>
+	    <Dependency>RandoPlus</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/]]>
         </Repository>
         <Integrations>
-            <Integration>RandoPlus</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
@@ -919,9 +923,9 @@
     <Manifest>
         <Name>RandomizerSettingsRandomizer</Name>
         <Description>Add-on for Randomizer 4 that allows you to randomize settings. See the README for info on how to select settings to randomize.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="461ec710b9a5237dd5ca7c58fcf11cabd24ac71a84345dc3de3e22f703939a26">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizerSettingsRandomizer/releases/download/v1.0.0.0/RandomizerSettingsRandomizer.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="35144adbffefe0061ef2f14fa6b29a2e9adf997399528c169443fe1a9551c204">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizerSettingsRandomizer/releases/download/v1.0.1.0/RandomizerSettingsRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -929,13 +933,16 @@
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizerSettingsRandomizer/]]>
         </Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>ReopenCityDoor</Name>
         <Description>Opens the locked door between Fungal Wastes and City (above Elder Hu's grave / near the elevator to Crossroads).</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="8ff3f76f401713acc272c400fd7ac5d91413c05778160a1ec83ba48dd5129c88">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v1.0.0.0/ReopenCityDoor.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="ddc3994339e29b4d956f96e6c5772d2597a1c12bd09f723953a58be8747a89a0">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v1.0.1.0/ReopenCityDoor.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -943,6 +950,7 @@
         </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
