@@ -3680,9 +3680,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Lore Master</Name>
         <Description>Adds abilities to lore tablets and certain npc. Offers extra settings for Randomizer 4.</Description>
-        <Version>2.1.6.0</Version>
-            <Link SHA256="ff30aefe13f468660896dd34e3165feeb57857f8cbb72ba944bca828f1079fd7">
-                <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.1.6/LoreMaster.zip]]></Link>
+        <Version>2.1.7.0</Version>
+            <Link SHA256="94167e3c4e9552ea8d9e7120de91cd617e0ea83e4aa449eec8663875030f68fe">
+                <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.1.7/LoreMaster.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
@@ -3928,9 +3928,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Curse Randomizer</Name>
         <Description>Randomizer 4 connection that adds additional cursed options and mimics.</Description>
-        <Version>0.2.0.0</Version>
-            <Link SHA256="4d88048336f3cdcffdafeaf6b50e5d6004b0169c6fdb22d3168d4d9537d577f2">
-                <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v0.2.0/CurseRandomizer.zip]]></Link>
+        <Version>0.3.0.0</Version>
+            <Link SHA256="86b5b33652bad01c7be5712f4bda7f39f0a5a04b3a30ae59dc81ca9243467efb">
+                <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v0.3.0/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
