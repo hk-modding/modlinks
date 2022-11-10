@@ -2160,14 +2160,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
-        <Version>0.8.4.0</Version>
-        <Link SHA256="46B33C927D1AF863189CCEBB74B6512BA074AA92AEE550AF0E6DE65D884FBF22">
-            <![CDATA[https://github.com/TheMulhima/Satchel/releases/download/v0.8.4/Satchel.zip]]>
+        <Version>0.8.5.0</Version>
+        <Link SHA256="ECA04E66BD5331E8DB7D3B0697D14BBC89F3759C0270F849ECAEC469CC7660C4">
+            <![CDATA[https://github.com/TheMulhima/Satchel/releases/download/v0.8.5/Satchel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/PrashantMohta/Satchel/]]>
+            <![CDATA[https://github.com/TheMulhima/Satchel/]]>
         </Repository>
+	<Tags>
+            <Tag>Library</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>Custom Knight</Name>
