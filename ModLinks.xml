@@ -378,9 +378,9 @@
     <Manifest>
         <Name>Transcendence</Name>
         <Description>Adds 14 new charms with various abilities. Can be used with the randomizer.</Description>
-        <Version>1.3.3.0</Version>
-        <Link SHA256="20F81A3BD62CE8BB438D598C4F3889CF7F978405A0A21B2931CA051795B82515">
-            <![CDATA[https://github.com/dpinela/Transcendence/releases/download/v1.3.3/Transcendence.zip]]>
+        <Version>1.3.4.0</Version>
+        <Link SHA256="FAD67F8C873FB7199136DF1E8D36CE9DBAE443F4B41E3461BCA4E20365F789CC">
+            <![CDATA[https://github.com/dpinela/Transcendence/releases/download/v1.3.4/Transcendence.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -408,9 +408,9 @@
     <Manifest>
         <Name>RandoZoomZoom</Name>
         <Description>A randomizer add-on that makes early movement and geo collection a bit faster.</Description>
-        <Version>1.0.3.0</Version>
-        <Link SHA256="5A2741220C9B444D9630D8E3ECBA89FF1EC0F6518037D52E824AC7430C6E46E7">
-            <![CDATA[https://github.com/dpinela/RandoZoomZoom/releases/download/v1.0.3/RandoZoomZoom.zip]]>
+        <Version>1.0.4.0</Version>
+        <Link SHA256="1CBD0F696CFB73884D9D877B1703558CC0AA1E18448F099C34A03BE7A215640C">
+            <![CDATA[https://github.com/dpinela/RandoZoomZoom/releases/download/v1.0.4/RandoZoomZoom.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
