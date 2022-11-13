@@ -2733,9 +2733,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="F2D38C8CCE1DEAE6C2B94CC5A47C565CCED55A0BD82CC0D1822295D775654DB2">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.0.0/VanillaMapMod.zip]]>
+        <Version>2.0.1.0</Version>
+        <Link SHA256="5950E3D940437C51D2F0526136EBE1A2C3880BC5D30FD7167A28AD07EC40035E">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.0.1/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
@@ -3799,9 +3799,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.0.3.0</Version>
-        <Link SHA256="CA06B54B2BB49BE4BED96695B193C27CDCE8E60DA24780B7447471126AAE599A">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.3/MapChanger.zip]]>
+        <Version>1.0.4.0</Version>
+        <Link SHA256="E697B7B8A999DAD4E8B3AB12B957A492492D5E04EC772F7ED7414C5E46F4B85F">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.4/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -3820,9 +3820,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.0.6.0</Version>
-        <Link SHA256="4D4180B36CA24A51B51C18685F7C84A1F2A563BE6EABB038D7926C4B8BF470EE">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.6/RandoMapMod.zip]]>
+        <Version>3.0.7.0</Version>
+        <Link SHA256="0405D4CE0C89B4699157B00609E52D02D24A7429677D1C7C4D44DF461E52B4DE">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.7/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
