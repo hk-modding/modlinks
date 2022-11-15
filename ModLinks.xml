@@ -960,7 +960,9 @@
         <Link SHA256="5626f095657ab9007a7118f94e532c87886f6385d61f9d73f6b07105f34941f4">
             <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v1.3.2.0/FStats.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/]]>
         </Repository>
