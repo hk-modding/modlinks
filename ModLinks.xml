@@ -1846,7 +1846,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/TheMulhima/HKMirror/#readme]]>
+            <![CDATA[https://github.com/TheMulhima/HKMirror/]]>
         </Repository>
         <Tags>
             <Tag>Library</Tag>
@@ -2166,9 +2166,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
-        <Version>0.8.8.0</Version>
-        <Link SHA256="5367D3B05B151AAEB2A01D2CBDB4F16083C78B1EA99BBB0528C92913277B633E">
-            <![CDATA[https://github.com/TheMulhima/Satchel/releases/download/v0.8.8/Satchel.zip]]>
+        <Version>0.8.9.0</Version>
+        <Link SHA256="926C09FB5E182819E52A2628E6099E7B9FB40D0E2EAEC63F8FB8BCCA38AE6DC2">
+            <![CDATA[https://github.com/TheMulhima/Satchel/releases/download/v0.8.9/Satchel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
