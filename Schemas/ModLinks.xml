@@ -70,12 +70,6 @@
   </xs:sequence>
 </xs:complexType>
 
-<xs:complextType name="AuthorListType">
-  <xs:sequence minOccurs="1" maxOccurs="unbounded">
-    <xs:element name="Author" type="mm:NameStringType" />
-  </xs:sequence>
-</xs:complextType>
-
 <xs:simpleType name="NameStringType">
   <xs:restriction base="xs:string">
     <xs:pattern value="[a-zA-Z].+"/>
@@ -122,5 +116,11 @@
     <xs:enumeration value="Utility" />
   </xs:restriction>
 </xs:simpleType>
+
+<xs:complexType name="AuthorListType">
+  <xs:sequence minOccurs="1" maxOccurs="unbounded">
+    <xs:element name="Author" type="xs:string" />
+  </xs:sequence>
+</xs:complexType>
 
 </xs:schema>
