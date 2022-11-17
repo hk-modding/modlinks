@@ -1639,6 +1639,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/TheMulhima/RandomGravityChange/]]>
         </Repository>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RandomTeleport</Name>
@@ -1661,6 +1664,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+	<Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>DebugMod</Name>
@@ -1676,6 +1682,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+	<Authors>
+            <Author>Serena, The Embrased One, 56, KayDeeTee, Mulhima, Cerpintext, DemoJameson, Mulhima, Flib, pseudorandom, Magnetic Pizza.</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>SpeedRunQoL</Name>
@@ -1693,6 +1702,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+	<Authors>
+            <Author>Mulhima, pseudorandom, Constructive Cynicism</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MoreSaves</Name>
@@ -1711,6 +1723,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+	<Authors>
+            <Author>KayDeeTee, 56, Mulhima, Phenomenol</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Gorb Plus</Name>
@@ -1728,6 +1743,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+	<Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>HKMP HealthDisplay</Name>
@@ -1746,6 +1764,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/]]>
         </Repository>
+	<Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Gravity Mod</Name>
@@ -1758,6 +1779,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/TheMulhima/GravityMod/]]>
         </Repository>
+	<Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>GlassSoul</Name>
@@ -1775,6 +1799,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+	<Authors>
+            <Author>753, Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Toggle Rando Split Options</Name>
@@ -1790,6 +1817,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/TheMulhima/Toggle-Rando-Split-Options/]]>
         </Repository>
     </Manifest>
+	<Authors>
+            <Author>Mulhima and ygsbzr</Author>
+        </Authors>
     <Manifest>
         <Name>Hide Mod List</Name>
         <Description>Allows you to hide your modlist</Description>
@@ -1804,6 +1834,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+	<Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Additional Challenge</Name>
@@ -1824,6 +1857,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+	<Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Poorly Translated</Name>
@@ -1854,6 +1890,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Library</Tag>
         </Tags>
+	<Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>WeaverCore</Name>
@@ -2180,6 +2219,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Tags>
             <Tag>Library</Tag>
         </Tags>
+	<Authors>
+            <Author>Dandy, Mulhima, Ruttie</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Custom Knight</Name>
