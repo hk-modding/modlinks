@@ -24,6 +24,9 @@
         <Tags>
             <Tag>Either of: 'Boss', 'Cosmetic', 'Expansion', 'Gameplay', 'Library', 'Utility'</Tag>
         </Tags>
+        <Authors>
+            <Author>An author's name. Has no specific format.</Author>
+        </Authors>
     </Manifest>
     -->
     <Manifest>
