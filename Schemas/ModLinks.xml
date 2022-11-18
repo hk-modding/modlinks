@@ -72,7 +72,7 @@
 
 <xs:simpleType name="NameStringType">
   <xs:restriction base="xs:string">
-    <xs:pattern value="[^\\/:*?&lt;&gt;&quot;|]+"/>
+    <xs:pattern value="[a-zA-Z][^\\/:*?&lt;&gt;&quot;|]+"/>
   </xs:restriction>
 </xs:simpleType>
 
