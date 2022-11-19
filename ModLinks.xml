@@ -1292,6 +1292,11 @@
             <Tag>Gameplay</Tag>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>HelenSB</Author>
+            <Author>kapkekes</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>BenchWarpFix</Name>
@@ -1307,6 +1312,9 @@
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>BlindRadiance</Name>
@@ -1324,6 +1332,9 @@
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>CustomBgm</Name>
@@ -1339,6 +1350,9 @@
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>CustomSaveArt</Name>
@@ -1354,6 +1368,9 @@
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>EnemyChanger</Name>
@@ -1371,6 +1388,10 @@
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>nesrak1</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>FireIsSmolBrain</Name>
@@ -1387,6 +1408,10 @@
             <Tag>Gameplay</Tag>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Fireb0rn</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>FuryFix</Name>
@@ -1404,6 +1429,9 @@
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>GeoLog</Name>
@@ -1422,6 +1450,9 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>HKHKHKHKHK</Name>
@@ -1439,6 +1470,9 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>LanguageSupport</Name>
@@ -1457,6 +1491,10 @@ Takes hours to load into the game.</Description>
             <Tag>Cosmetic</Tag>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MenuThemesInGame</Name>
@@ -1472,6 +1510,9 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MoreHealing</Name>
@@ -1489,6 +1530,9 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>NailsmithBackPay</Name>
@@ -1504,6 +1548,9 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>NeverMuffle</Name>
@@ -1519,6 +1566,10 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Pail Curt</Name>
@@ -1539,6 +1590,10 @@ Enjoy!</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Zaliant</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RadiantMenu</Name>
@@ -1556,6 +1611,10 @@ Enjoy!</Description>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RedoBirthplace</Name>
@@ -1573,6 +1632,9 @@ Enjoy!</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>ResetCharmNotches</Name>
@@ -1588,6 +1650,9 @@ Enjoy!</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>SFCore</Name>
@@ -1603,6 +1668,10 @@ Enjoy!</Description>
         <Tags>
             <Tag>Library</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>SpriteDumper</Name>
@@ -1618,6 +1687,9 @@ Enjoy!</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Test of Teamwork</Name>
@@ -1642,6 +1714,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Expansion</Tag>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>In-game credits</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RandomGravityChange</Name>
