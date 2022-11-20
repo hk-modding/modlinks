@@ -2120,9 +2120,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MagicUI</Name>
         <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-        <Version>1.5.8265.3907</Version>
-        <Link SHA256="8C7883D03865F0022C2D59E93F4FC4FC081ED8B7FD13E0570FF8581F267B9E54">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.5.8265.3907/MagicUI.zip]]>
+        <Version>1.6.8359.8221</Version>
+        <Link SHA256="40105C83E1C52E9AB9B6E1F3BE6AFE3E948FF94F2E34A6F260C606A01B4C884A">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.6.8359.8221/MagicUI.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2131,6 +2131,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Library</Tag>
         </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>ConnectionMetadataInjector</Name>
@@ -2148,6 +2151,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Library</Tag>
         </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RandoStats</Name>
@@ -2169,6 +2175,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MajorItemByAreaTracker</Name>
@@ -2195,6 +2204,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RandoChecksCounter</Name>
@@ -2210,6 +2222,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/RandoChecksCounter/]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>TheRealJournalRando</Name>
@@ -2229,6 +2244,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>ConnectionSettingsCode</Name>
@@ -2246,6 +2264,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Library</Tag>
         </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RandoSettingsManager</Name>
@@ -2263,9 +2284,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/RandoSettingsManager]]>
         </Repository>
-	<Tags>
-	    <Tag>Utility</Tag>
+	    <Tags>
+	        <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>GhostHunter</Name>
@@ -4127,6 +4151,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Gameplay</Tag>
         </Tags>
     </Manifest>
+    <!--
     <Manifest>
         <Name>NoWalkOfShame</Name>
         <Description>Respawns you in the room you died in (skipping darkrooms/dreamrooms/colosseum)</Description>
@@ -4139,4 +4164,5 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame]]>
         </Repository>
     </Manifest>
+    -->
 </ModLinks>
