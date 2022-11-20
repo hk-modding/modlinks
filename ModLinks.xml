@@ -4151,6 +4151,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Gameplay</Tag>
         </Tags>
     </Manifest>
+    <!--
     <Manifest>
         <Name>NoWalkOfShame</Name>
         <Description>Respawns you in the room you died in (skipping darkrooms/dreamrooms/colosseum)</Description>
@@ -4163,4 +4164,5 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame]]>
         </Repository>
     </Manifest>
+    -->
 </ModLinks>
