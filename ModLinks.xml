@@ -1954,14 +1954,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MagicUI</Name>
         <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-        <Version>1.5.8265.3907</Version>
-        <Link SHA256="8C7883D03865F0022C2D59E93F4FC4FC081ED8B7FD13E0570FF8581F267B9E54">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.5.8265.3907/MagicUI.zip]]>
+        <Version>1.6.8359.8221</Version>
+        <Link SHA256="40105C83E1C52E9AB9B6E1F3BE6AFE3E948FF94F2E34A6F260C606A01B4C884A">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.6.8359.8221/MagicUI.zip]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
         <Tags>
             <Tag>Library</Tag>
         </Tags>
@@ -1979,6 +1982,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
         <Tags>
             <Tag>Library</Tag>
         </Tags>
@@ -2003,6 +2009,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MajorItemByAreaTracker</Name>
@@ -2023,6 +2032,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
         <Integrations>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
@@ -2044,6 +2056,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/RandoChecksCounter/]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>TheRealJournalRando</Name>
@@ -2056,13 +2071,16 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>ItemChanger</Dependency>
             <Dependency>ConnectionSettingsCode</Dependency>
         </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/]]>
-        </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/]]>
+        </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>ConnectionSettingsCode</Name>
@@ -2077,6 +2095,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/ConnectionSettingsCode/]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
         <Tags>
             <Tag>Library</Tag>
         </Tags>
@@ -2097,6 +2118,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/RandoSettingsManager]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
 	<Tags>
 	    <Tag>Utility</Tag>
         </Tags>
