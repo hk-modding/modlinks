@@ -2292,6 +2292,27 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>ModTerminal</Name>
+        <Description>A Hollow Knight mod that adds an in-game terminal for entering commands and cheats as a DebugMod addon</Description>
+        <Version>1.0.8362.1799</Version>
+        <Link SHA256="B0FEC70EA57C66A5CDD4D82E10DCA716B492755D165EB68BAE80ACF12556C968">
+            <![CDATA[https://github.com/BadMagic100/ModTerminal/releases/download/v1.0.8362.1799/ModTerminal.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>DebugMod</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/ModTerminal/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>GhostHunter</Name>
         <Description>A mod that shows the positions of other player's enemies during multiplay.</Description>
         <Version>1.0.0.0</Version>
