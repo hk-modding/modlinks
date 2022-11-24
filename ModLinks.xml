@@ -1463,6 +1463,7 @@ Takes hours to load into the game.</Description>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/GraphicOptions/]]>
