@@ -1462,7 +1462,7 @@ Takes hours to load into the game.</Description>
             <![CDATA[https://github.com/SFGrenade/GraphicOptions/releases/download/v1.5/GraphicOptions.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/GraphicOptions/]]>
