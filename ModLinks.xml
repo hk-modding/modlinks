@@ -165,9 +165,9 @@
     <Manifest>
         <Name>Lost Artifacts</Name>
         <Description>A mod that adds powerful artifacts scattered all across Hallownest that can be equipped to the nail! Compatible with Randomizer 4.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="50270F72773631814294CCB5527FAC49CCA2E47674C5DE0D7D7DCC9BCF889A81">
-            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.0.2.0/LostArtifacts.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="DC22EFD7BFB1754A3AD31F766EB472250EA1B46F4E116548A043E884F69C3CDE">
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.1.0.0/LostArtifacts.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
