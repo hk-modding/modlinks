@@ -850,8 +850,8 @@
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log (and several others) in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>1.6.0.0</Version>
-        <Link SHA256="dbcbb1dcf9ce329ebface4eb7192dbb8773b3e0bfa6f2cbef0c7a8313f460fb9">
+        <Version>1.7.0.0</Version>
+        <Link SHA256="b1e2e4f1815a44ee0a7336498dc9af1caa993204df45da6ebead409059d5c83d">
             <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.6.0.0/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
@@ -864,9 +864,9 @@
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.4.8.0</Version>
-        <Link SHA256="0d84e5adda7c0bbb03d8bd7c9aa00f285b23eaaec86dc4ed9adb4528156993a8">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.4.8.0/RandoPlus.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="0ec569e2782ec44c8513ca5d3f802545cf4553147ac84a52a8a7d1bd598e16cd">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.5.0.0/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -897,9 +897,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.3.3</Version>
-        <Link SHA256="fff9e126059b2d6003a92397c1cbb8726bcb0b4a96f16aea21de98396b5db630">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.3.3/RandomizableLevers.zip]]>
+        <Version>1.2.3.4</Version>
+        <Link SHA256="ecf16a6afe8fc334a51c50d77766401e72dbcfd2394c595e7e49db51b920c450">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.3.4/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -966,9 +966,9 @@
     <Manifest>
         <Name>ReopenCityDoor</Name>
         <Description>Opens the locked door between Fungal Wastes and City (above Elder Hu's grave / near the elevator to Crossroads).</Description>
-        <Version>1.0.1.1</Version>
-        <Link SHA256="4c88d41486a06e091cb8fc832f08bd91f6405b03e1e19dfdd56a5b40891358d6">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v1.0.1.1/ReopenCityDoor.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="1a77a3010c7a72c97d931d26b239ea6323392210e76ae76fb6192c94910f3aae">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v1.0.2.0/ReopenCityDoor.zip]]>
         </Link>
         <Dependencies />
         <Repository>
