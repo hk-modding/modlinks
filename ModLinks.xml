@@ -850,9 +850,9 @@
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log (and several others) in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>1.7.0.0</Version>
-        <Link SHA256="b1e2e4f1815a44ee0a7336498dc9af1caa993204df45da6ebead409059d5c83d">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.7.0.0/CondensedSpoilerLogger.zip]]>
+        <Version>1.7.1.0</Version>
+        <Link SHA256="7b81bd8b805e862a57637e66bc9fa7b552feacf0e26b9e1c763647550f53c11e">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.7.1.0/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -916,9 +916,9 @@
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.4.3.1</Version>
-        <Link SHA256="43b6ff41e5f293d434b40067fc8811f27beab943e0fdbc8cc26370a9a64bd173">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.4.3.1/TrandoPlus.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="30b870d6ea2987d793ca4d5990a1058a4476f210977944ab0ea1a81bed3ad416">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.0.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
