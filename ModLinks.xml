@@ -48,6 +48,23 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Fyrenest</Name>
+	<Description>Fyrenest v3 Adds over 30 charms, and remaps the Ancient Basin, Hive, Abyss, Resting Grounds, and Crystal Peak! It also rewrites dialogue for most of the NPCs like The Seer, The Last Stag, Elderbug, Cornifer, Iselda, and more! Fyrenest now changes almost every aspect of the game.</Description>
+        <Version>3.0.0.0</Version>
+	<Link SHA256="8dfc1fac24a8372bb8f54395a5ee1150a1aa53768e873feddfe107d7bb386ce0">
+		<![CDATA[https://github.com/BubkisLord/Fyrenest/releases/download/v3/Fyrenest.zip]]>
+        </Link>
+        <Dependencies>
+            	<Dependency>SFCore</Dependency>
+            	<Dependency>Satchel</Dependency>
+		<Dependency>ItemChanger</Dependency>
+            	<Dependency>MenuChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BubkisLord/Fyrenest/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>Mash Dash</Name>
         <Description>Dash continually, faster, and without need for refresh</Description>
         <Version>1.0.0.0</Version>
@@ -378,26 +395,6 @@
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/dpinela/SteelSoulHUD/]]>
-        </Repository>
-    </Manifest>
-    <Manifest>
-        <Name>Fyrenest</Name>
-        <Description>Adds 30 new charms, renames areas, and creates new lore to explore! Read the README.txt for info on how to get charms normally. If you don't want to get them this way, go into the Fyrenest mod menu! Near the bottom, it should say "Give all Charms"</Description>
-        <!-- v3 description, uncomment and delete above for fixed v3 <Description>Fyrenest v3 Adds over 30 charms, and remaps the Ancient Basin, Hive, Abyss, Resting Grounds, and Crystal Peak! It also rewrites dialogue for most of the NPCs like The Seer, The Last Stag, Elderbug, Cornifer, Iselda, and more! Fyrenest now changes almost every aspect of the game.</Description>-->
-        <Version>2.12.45.65</Version>
-	<!-- v3 description, uncomment and delete above for fixed v3 Version>3.0.0.0</Version> -->
-        <Link SHA256="74302dbf315a5cf592408d78cdb43f1c3f8490ae5923d866f058803f1f4f8c1e">
-	<!-- v3 description, uncomment and delete above for fixed v3 <Link SHA256="8dfc1fac24a8372bb8f54395a5ee1150a1aa53768e873feddfe107d7bb386ce0"> -->
-            <![CDATA[https://github.com/BubkisLord/Fyrenest/releases/download/v2.12.45.65/Fyrenest.zip]]>
-	    <!-- v3 description, uncomment and delete above for fixed v3 <![CDATA[https://github.com/BubkisLord/Fyrenest/releases/download/v3/Fyrenest.zip]]> -->
-        </Link>
-        <Dependencies>
-            <Dependency>SFCore</Dependency>
-            <Dependency>Satchel</Dependency>
-            <Dependency>ItemChanger</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/BubkisLord/Fyrenest/]]>
         </Repository>
     </Manifest>
     <Manifest>
