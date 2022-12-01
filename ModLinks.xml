@@ -4203,5 +4203,168 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame]]>
         </Repository>
     </Manifest>
+    <Manifest>
+        <Name>Always Furious</Name>
+        <Description>Fury of the Fallen is always active while equipped</Description>
+        <Version>1.0.0.33859</Version>
+        <Link SHA256="7B84F22111E3E033F472D424F08419CC0056843CEA2C6117F09A5522DC59E6C0">
+            <![CDATA[https://github.com/Exempt-Medic/AlwaysFurious/releases/download/v1.0.0.33859/AlwaysFurious.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/AlwaysFurious]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Charm Overhaul</Name>
+        <Description>Port of Charm Overhaul to 1.5, rebalances and reworks numerous Charms</Description>
+        <Version>1.0.0.38006</Version>
+        <Link SHA256="FDD0807704EF91896E02D8218D2CD3080C4F276790CA6D11F09EF05AA7946C46">
+            <![CDATA[https://github.com/Exempt-Medic/CharmOverhaul/releases/download/v1.0.0.38006/CharmOverhaul.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/CharmOverhaul]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+            <Author>Aeternalis</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Disable Enemy Geo</Name>
+        <Description>Enemies no longer drop Geo</Description>
+        <Version>1.0.0.34893</Version>
+        <Link SHA256="9A7649F30FF48A1395582C0F11B8AC22F92CCC55551E9715862698156579F3C2">
+            <![CDATA[https://github.com/Exempt-Medic/DisableEnemyGeo/releases/download/v1.0.0.34893/DisableEnemyGeo.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/DisableEnemyGeo]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Dream Warpers</Name>
+        <Description>Gorb, Elder Hu, and No Eyes teleport 100% of the time after being damaged.</Description>
+        <Version>1.0.0.35005</Version>
+        <Link SHA256="7E7113102A9139C20322181A6572D2BE3041FD37FA536921E82DA2797AA036ED">
+            <![CDATA[https://github.com/Exempt-Medic/DreamWarpers/releases/download/v1.0.0.35005/DreamWarpers.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/DreamWarpers]]></Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>GPZ Precepts</Name>
+        <Description>GPZ displays a random precept each time he takes damage. He is invulnerable while it is displayed</Description>
+        <Version>1.0.0.35402</Version>
+        <Link SHA256="106AC9AD7DFEE61982EED22456B2F88A1258A281FDE9A40C990A6196162C0E82">
+            <![CDATA[https://github.com/Exempt-Medic/GPZ_Precepts/releases/download/v1.0.0.35402/GPZ_Precepts.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/GPZ_Precepts]]></Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Grimmchild Anywhere</Name>
+        <Description>Grimmchild can spawn during TMG and NKG fights (except Dirtmouth TMG)</Description>
+        <Version>1.0.0.35457</Version>
+        <Link SHA256="7404630D66EB8E975BCE77B355260FF04B45E5B74BD9F1531CD938C73D0FD768">
+            <![CDATA[https://github.com/Exempt-Medic/GrimmchildAnywhere/releases/download/v1.0.0.35457/GrimmchildAnywhere.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/GrimmchildAnywhere]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Infinite AbsRad Phases</Name>
+        <Description>Makes the selected AbsRad phase infinite</Description>
+        <Version>1.0.0.37474</Version>
+        <Link SHA256="6CEE7573DE4807C8359DD7423AC3C0CCE463007C9E598CB64DD5EB67A6D3BEDF">
+            <![CDATA[https://github.com/Exempt-Medic/InfiniteAbsRadPhases/releases/download/v1.0.0.37474/InfiniteAbsRadPhases.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/InfiniteAbsRadPhases]]></Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Menderbug Options</Name>
+        <Description>Choose Menderbug's spawn chance, whether he respawns after dying, and whether the sign must be broken</Description>
+        <Version>1.0.0.37613</Version>
+        <Link SHA256="8FF02F6212165819AC12C2D5B580B708DD835B2056E948B82A6A9D17854D1642">
+            <![CDATA[https://github.com/Exempt-Medic/MenderbugOptions/releases/download/v1.0.0.37613/MenderbugOptions.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/MenderbugOptions]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Nailmaster's Pride</Name>
+        <Description>Nailmaster's Glory prevents regular Nail attacks but grants all Nail Arts and automatically charges them</Description>
+        <Version>1.0.0.37739</Version>
+        <Link SHA256="5E68F88C30841CD869A65B4A8F4EA2272F355392B998E8B6BAB2B871E726F8D7">
+            <![CDATA[https://github.com/Exempt-Medic/NailmastersPride/releases/download/v1.0.0.37739/NailmastersPride.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/Exempt-Medic/NailmastersPride]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
     
 </ModLinks>
