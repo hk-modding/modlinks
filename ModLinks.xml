@@ -1725,6 +1725,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/]]>
         </Repository>
         <Integrations>
+            <Integration>DebugMod</Integration>
             <Integration>HKMP</Integration>
         </Integrations>
         <Tags>
