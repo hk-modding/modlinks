@@ -3943,6 +3943,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+	<Authors>
+            <Author>Korz</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Infection Bomb</Name>
@@ -4177,9 +4180,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Curse Randomizer</Name>
         <Description>Randomizer 4 connection that adds additional cursed options and mimics.</Description>
-        <Version>0.6.0.0</Version>
-            <Link SHA256="a7afdb4c21c25d67e51888b7e1c7ccfa7c721b5d89574ce7eda48f129cb87ac8">
-                <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v0.6.0/CurseRandomizer.zip]]></Link>
+        <Version>1.0.0.0</Version>
+            <Link SHA256="399a968ccb422c622bfef6399f2d86992fa377184e49a41f72e869010341343b">
+                <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v1.0.0/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
@@ -4190,6 +4193,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+	<Authors>
+            <Author>Korz</Author>
+        </Authors>
     </Manifest>
     
     <Manifest>
