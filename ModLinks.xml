@@ -3904,6 +3904,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+        <Authors>
+            <Author>Italy</Author>
+            <Author>Link459</Author>
+        </Authors> 
     </Manifest>
     <Manifest>
         <Name>Lore Master</Name>
