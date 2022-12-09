@@ -965,7 +965,7 @@
         <Description>Addon for Randomizer and ItemSync allowing players to start at multiple different locations.</Description>
         <Version>0.1.0.0</Version>
         <Link SHA256="5af4171bd0929581b6747367ab4205695cc48c80916a8beb4bee98f67af3311f">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v0.1.0.0/ReopenCityDoor.zip]]>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v0.1.0.0/Scatternest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
