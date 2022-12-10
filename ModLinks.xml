@@ -1201,9 +1201,9 @@
     <Manifest>
         <Name>MultiWorld</Name>
         <Description>A RandomizerMod 4 add-on for distributing players' items between all their worlds.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="B9C6858CF3B55B0263C5B150A1952FB5ABA7CFE878E20268F8BCF2047E8FC54D">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/multiworld-v1.1.0/MultiWorldMod.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="134684AC5CCE6C13CA48A47BA28CAC0C3D96E5084C43747F2A8CE4C13BDED0CE">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/multiworld-v1.1.1/MultiWorldMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
