@@ -1,10 +1,7 @@
 <?xml version="1.0"?>
-<ApiLinks
-    xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
+<ApiLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ApiLinks.xml"
->
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ApiLinks.xml">
     <Manifest>
         <Version>72</Version>
 
@@ -19,23 +16,23 @@
                 <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-72/ModdingApiWin.zip]]>
             </Windows>
         </Links>
-        
+
         <Files>
             <File>Assembly-CSharp.dll</File>
             <File>Assembly-CSharp.xml</File>
-            
+
             <File>MMHOOK_Assembly-CSharp.dll</File>
             <File>MMHOOK_PlayMaker.dll</File>
-            
+
             <File>Mono.Cecil.dll</File>
             <File>MonoMod.RuntimeDetour.dll</File>
             <File>MonoMod.Utils.dll</File>
-            
+
             <File>mscorlib.dll</File>
             <File>mscorlib.xml</File>
-            
+
             <File>Newtonsoft.Json.dll</File>
-            
+
             <File>README.md</File>
         </Files>
     </Manifest>
