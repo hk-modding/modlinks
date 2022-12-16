@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: korelstar/xmllint-problem-matcher@v1
       - name: Setup XMLLint
         run: sudo apt update && sudo apt install --no-install-recommends -y libxml2-utils
@@ -24,13 +24,15 @@ jobs:
 
   verify:
     needs: [build]
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Setup ModLinksShaVerifier
-        run: Invoke-WebRequest -Uri "https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v1.0/ModLinksShaVerifier.exe" -OutFile "ModLinksShaVerifier.exe"
+        run: |
+          wget https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v2/linux.zip
+          unzip linux.zip
       - name: Verify APILinks SHAs
-        run: .\ModLinksShaVerifier.exe ApiLinks.xml
+        run: ./ModlinksShaVerifier ApiLinks.xml
       - name: Verify ModLinks.xml SHAs
-        run: .\ModLinksShaVerifier.exe ModLinks.xml
+        run: ./ModlinksShaVerifier ModLinks.xml

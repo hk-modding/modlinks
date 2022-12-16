@@ -1,39 +1,39 @@
 <?xml version="1.0"?>
-<ApiLinks
-    xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
+<ApiLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ApiLinks.xml"
->
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ApiLinks.xml">
     <Manifest>
-        <Version>71</Version>
+        <Version>72</Version>
 
         <Links>
-            <Linux SHA256="3f5d9689ff3e37177eb1c315bae3bcc7441c2d4f1f7579dc8480afdfb50fc4b3">
-                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-71/ModdingApiLinux.zip]]>
+            <Linux SHA256="d0108c90c77ce8f8341eb9e35687d39a35ad90a8267ccc4b35c6e1ca0d874a92">
+                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-72/ModdingApiLinux.zip]]>
             </Linux>
-            <Mac SHA256="763fb3e64169cfca64509a4dff23d22119d9e66bcf0c706bb88520f1b3fd3100">
-                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-71/ModdingApiMac.zip]]>
+            <Mac SHA256="e9f49336bf3d070100b0e8023652ebb1d8689bb1e7be2cee9e2c3817ba1978e2">
+                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-72/ModdingApiMac.zip]]>
             </Mac>
-            <Windows SHA256="d392429443be24a7c13ee8eda43f0ed6042885810b5d2f259c7d9c1fdde4ed83">
-                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-71/ModdingApiWin.zip]]>
+            <Windows SHA256="a0c29b915be89d8cfc4e1e3b4697768aa4927c5c904c34574600308827f76491">
+                <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-72/ModdingApiWin.zip]]>
             </Windows>
         </Links>
-        
+
         <Files>
             <File>Assembly-CSharp.dll</File>
             <File>Assembly-CSharp.xml</File>
-            
+
             <File>MMHOOK_Assembly-CSharp.dll</File>
             <File>MMHOOK_PlayMaker.dll</File>
-            
+
             <File>Mono.Cecil.dll</File>
             <File>MonoMod.RuntimeDetour.dll</File>
             <File>MonoMod.Utils.dll</File>
-            
+
             <File>mscorlib.dll</File>
-            
+            <File>mscorlib.xml</File>
+
             <File>Newtonsoft.Json.dll</File>
+
+            <File>README.md</File>
         </Files>
     </Manifest>
 </ApiLinks>

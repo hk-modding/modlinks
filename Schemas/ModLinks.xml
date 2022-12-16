@@ -27,7 +27,7 @@
 
 <xs:complexType name="ManifestType">
   <xs:sequence>
-    <xs:element name="Name" type="xs:string" />
+    <xs:element name="Name" type="mm:NameStringType" />
     <xs:element name="Description" type="xs:string" />
     <xs:element name="Version" type="mm:VersionStringType" />
     <xs:choice>
@@ -41,6 +41,9 @@
     </xs:sequence>
     <xs:sequence minOccurs="0" maxOccurs="1">
       <xs:element name="Tags" type="mm:TagListType" />
+    </xs:sequence>
+    <xs:sequence minOccurs="0" maxOccurs="1">
+      <xs:element name="Authors" type="mm:AuthorListType" />
     </xs:sequence>
   </xs:sequence>
 </xs:complexType>
@@ -63,9 +66,15 @@
 
 <xs:complexType name="DepListType">
   <xs:sequence minOccurs="0" maxOccurs="unbounded">
-    <xs:element name="Dependency" type="xs:string" />
+    <xs:element name="Dependency" type="mm:NameStringType" />
   </xs:sequence>
 </xs:complexType>
+
+<xs:simpleType name="NameStringType">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="[a-zA-Z][^\\/:*?&lt;&gt;&quot;|]+"/>
+  </xs:restriction>
+</xs:simpleType>
 
 <xs:simpleType name="ShaStringType">
   <xs:restriction base="xs:string">
@@ -107,5 +116,11 @@
     <xs:enumeration value="Utility" />
   </xs:restriction>
 </xs:simpleType>
+
+<xs:complexType name="AuthorListType">
+  <xs:sequence minOccurs="1" maxOccurs="unbounded">
+    <xs:element name="Author" type="xs:string" />
+  </xs:sequence>
+</xs:complexType>
 
 </xs:schema>
