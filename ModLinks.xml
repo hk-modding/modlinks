@@ -1606,6 +1606,26 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>PvP Arena</Name>
+        <Description>This mod adds a PvP arena with an invisible entrance right of the bench in Dirtmouth.</Description>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="52A249727D8E357201A7AF68CB01CD55B64BF0C1633D8C773827FF92681B31A7">
+            <![CDATA[https://github.com/SFGrenade/PvpArena/releases/download/v1.5.1/PvpArena.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/PvpArena/]]>
+        </Repository>
+        <Tags>
+            <Tag>Expansion</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>RadiantMenu</Name>
         <Description>Adds a radiant menu theme to the game.</Description>
         <Version>1.5.1.0</Version>
