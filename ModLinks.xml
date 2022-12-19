@@ -4183,9 +4183,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Curse Randomizer</Name>
         <Description>Randomizer 4 connection that adds additional cursed options and mimics.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="42534ae57ba3aaea70615ea6bbd46c95b2db0c69008e68e4e50abc22c24df1f9">
-            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v2.0.0/CurseRandomizer.zip]]></Link>
+        <Version>2.0.1.0</Version>
+        <Link SHA256="0ad67083a8e0d1e97a5c99731c33dc98ca6336ae1f59a30b51981add3599f95e">
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v2.0.1/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
