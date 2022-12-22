@@ -1247,21 +1247,6 @@
         </Repository>
     </Manifest>
     <Manifest>
-        <Name>Randomizer Map S</Name>
-        <Description>This mod is now outdated. Please uninstall this and install RandoMapMod instead.</Description>
-        <Version>2.6.2.1</Version>
-        <Link SHA256="A5F9D0521B5242CE14588EF5236972C9B1624D1B1444CA28FCF48189F193493F">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/outdated/MapModS.zip]]>
-        </Link>
-        <Dependencies />
-        <Repository>
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/]]>
-        </Repository>
-        <Tags>
-            <Tag>Utility</Tag>
-        </Tags>
-    </Manifest>
-    <Manifest>
         <Name>AdditionalMaps</Name>
         <Description>Adds white palace and godhome maps. The white palace one is next to the bench in the big room. The godhome one is next to the bench above the pantheons.</Description>
         <Version>1.5.2.1</Version>
