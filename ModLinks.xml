@@ -4361,5 +4361,28 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Exempt-Medic</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Crafted Town</Name>
+        <Description>The Crafted Town adds a new location, several spell alternatives and some charm upgrades (on alpha as of now).</Description>
+        <Version>0.0.0.1</Version>
+        <Link SHA256="79CFBA053731B76F81A3E356B4298C8488160393F78729891EBBC16F8D0F4DCF">
+            <![CDATA[https://github.com/pronoespro/PronoesProMod/releases/download/hollow-knight-mod/PronoesProMod.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/pronoespro/PronoesProMod/]]>
+        </Repository>
+        <Tags>
+            <Tag>Expansion</Tag>
+            <Tag>Gameplay</Tag>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>PronoesPro</Author>
+        </Authors>
+    </Manifest>
 
 </ModLinks>
