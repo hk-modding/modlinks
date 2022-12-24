@@ -4371,7 +4371,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
-        <Dependencies/>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/pronoespro/PronoesProMod/]]>
         </Repository>
