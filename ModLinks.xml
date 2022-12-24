@@ -4368,7 +4368,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="79CFBA053731B76F81A3E356B4298C8488160393F78729891EBBC16F8D0F4DCF">
             <![CDATA[https://github.com/pronoespro/PronoesProMod/releases/download/hollow-knight-mod/PronoesProMod.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        <Dependencies/>
         <Repository>
             <![CDATA[https://github.com/pronoespro/PronoesProMod/]]>
         </Repository>
