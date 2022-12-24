@@ -4292,10 +4292,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Grimmchild Anywhere</Name>
-        <Description>Grimmchild can spawn during TMG and NKG fights (except Dirtmouth TMG)</Description>
-        <Version>1.0.0.35457</Version>
-        <Link SHA256="7404630D66EB8E975BCE77B355260FF04B45E5B74BD9F1531CD938C73D0FD768">
-            <![CDATA[https://github.com/Exempt-Medic/GrimmchildAnywhere/releases/download/v1.0.0.35457/GrimmchildAnywhere.zip]]>
+        <Description>Grimmchild can spawn during TMG and NKG fights</Description>
+        <Version>1.1.0.28852</Version>
+        <Link SHA256="4078CD60C1B21EB50AA6C68C3D39B3A2F3492593C0155B4404D941F98B08AEE2">
+            <![CDATA[https://github.com/Exempt-Medic/GrimmchildAnywhere/releases/download/v1.1.0.28852/GrimmchildAnywhere.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
