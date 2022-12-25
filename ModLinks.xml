@@ -1249,9 +1249,9 @@
     <Manifest>
         <Name>AdditionalMaps</Name>
         <Description>Adds white palace and godhome maps. The white palace one is next to the bench in the big room. The godhome one is next to the bench above the pantheons.</Description>
-        <Version>1.5.2.1</Version>
-        <Link SHA256="51CB4A853A309E1484D9EB44DF8A39765D9BFFAA1EB9E519C9FBC35F0EF00A22">
-            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.2.1/AdditionalMaps.zip]]>
+        <Version>1.5.3.0</Version>
+        <Link SHA256="71D9C4D3CB047340DFE4C8E2693C5BC0475AA4429DA50225D7A16D4B8CA4AB42">
+            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.3/AdditionalMaps.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -1260,6 +1260,7 @@
             <![CDATA[https://github.com/SFGrenade/AdditionalMaps/]]>
         </Repository>
         <Integrations>
+            <Integration>CompassAlwaysOn</Integration>
             <Integration>HKMP</Integration>
         </Integrations>
         <Tags>
