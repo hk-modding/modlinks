@@ -4415,7 +4415,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Integration>Custom Knight</Integration>
         </Integrations>
         <Tags>
-            <Tag>Library</Tag>
+            <Tag>Gameplay</Tag>
         </Tags>
         <Authors>
             <Author>RedFrog</Author>
