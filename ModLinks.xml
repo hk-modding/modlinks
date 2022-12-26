@@ -3272,6 +3272,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>Backdash</Name>
+        <Description>Allows player to use back dash in the game</Description>
+        <Version>0.0.0.2</Version>
+        <Link SHA256="54874eb6d71cf5b4e5b931f87123e1172b7f6a3d2fa07895def18f969c9154dd">
+            <![CDATA[https://github.com/HKLab/HK.BackDash/releases/download/v0/Output.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/HK.BackDash/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>ChangeHud</Name>
         <Description>A mod let you can use different kinds of huds in same mode.</Description>
         <Version>1.0.0.0</Version>
