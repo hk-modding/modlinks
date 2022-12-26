@@ -3244,9 +3244,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>1.10.5.0</Version>
-        <Link SHA256="431a197d2c88a764862ae833479b1baff29cff25d65686b37e59e34e47f89f46">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.10.5.0/Output.zip]]>
+        <Version>1.11.7.0</Version>
+        <Link SHA256="ca45ea9d30009df64c7934eba6af9b1742017f89224b2f1e1e70351e841797b3">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.11.7.0/Output.zip]]>
         </Link>
 
         <Dependencies />
@@ -3269,6 +3269,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/HKLab/DCParry/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Backdash</Name>
+        <Description>Allows player to use back dash in the game</Description>
+        <Version>0.0.0.2</Version>
+        <Link SHA256="54874eb6d71cf5b4e5b931f87123e1172b7f6a3d2fa07895def18f969c9154dd">
+            <![CDATA[https://github.com/HKLab/HK.BackDash/releases/download/v0/Output.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/HK.BackDash/]]>
         </Repository>
     </Manifest>
     <Manifest>
