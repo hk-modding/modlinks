@@ -4385,5 +4385,27 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>PronoesPro</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>DreamShield Coop</Name>
+        <Description>Mod that allows coop with a 2nd or 3rd player as a dreamshield or grimmchild clone. Support for other mods to easily add more.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="0B26AEBA3E121C4EED3D70648E42FA8CC96551E6DB487CFE839935A3595627AA">
+            <![CDATA[https://github.com/RedFrog6002/BetterDreamShieldCoop/releases/download/1.0.0.0/BetterDreamShieldCoop.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>FrogCore</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/RedFrog6002/BetterDreamShieldCoop]]></Repository>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>RedFrog</Author>
+        </Authors>
+    </Manifest>
 
 </ModLinks>
