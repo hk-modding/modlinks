@@ -2668,9 +2668,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HollowPoint</Name>
         <Description>Gives the player a gun, reworks charms and abilities to play around the concept of gun usage</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="3BA0DE9C735F59047723C5872496604F1BCFB20431D800179A12BC7C5A6A544C">
-            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/releases/download/1.4.0.0/HollowPoint.zip]]>
+        <Version>1.4.0.1</Version>
+        <Link SHA256="8a4f8f8e08a00df4346def0434a1c6ec0ff5bb2f2ef43183e4445fc378234aff">
+            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/releases/download/1.4.0.1/HollowPoint.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
