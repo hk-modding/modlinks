@@ -3197,6 +3197,23 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>PaperKnight</Name>
+        <Description>Sprites are animated with a paper-spinning effect when objects turn.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="81F36C655F5B5B8536E5A3E7B7557E92071AB345C3F8959256C07483C760CA7D">
+            <![CDATA[https://github.com/AngelSassin/PaperKnight/releases/download/PaperKnight1.0/PaperKnight.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/AngelSassin/PaperKnight]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Abskoth</Name>
         <Description>A gameplay mod that adds invincible Markoths to the Absolute Radiance fight.</Description>
         <Version>1.0.0.0</Version>
