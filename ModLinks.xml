@@ -663,6 +663,24 @@
         </Integrations>
     </Manifest>
     <Manifest>
+        <Name>GrassyKnight</Name>
+        <Description>Tracks and shows you how much grass you've cut.</Description>
+        <Version>2.0.0.30723</Version>
+        <Link SHA256="6d796c226e48972ce8e7950cb058a54928b9cade702939bd85414b4f04f4dacc">
+            <![CDATA[https://github.com/flibber-hk/GrassyKnight/releases/download/v2.0.0.30723/GrassyKnight.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/GrassyKnight]]>
+        </Repository>
+        <Integrations />
+        <Authors>
+            <Author>itsjohncs</Author>
+            <Author>dvoyer</Author>
+            <Author>Flibber</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>CompassAlwaysOn</Name>
         <Description>Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.</Description>
         <Version>1.2.0.0</Version>
@@ -714,7 +732,6 @@
             <Integration>FStats</Integration>
         </Integrations>
     </Manifest>
-
     <Manifest>
         <Name>Menderbug's Revenge</Name>
         <Description>Kill the knight whenever you break a background object.</Description>
