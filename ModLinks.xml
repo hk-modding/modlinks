@@ -850,9 +850,9 @@
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.5.1.1</Version>
-        <Link SHA256="11b2a4048b6fb698cdb9a76a533fd6e880ee31c321619c8d5725a86f5d69c447">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.5.1.1/RandoPlus.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="f8577906e6dfc88ec5a59531da28decab8564ef62a9f1fed3a8d29d3fe2653c2">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.5.2.0/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -902,9 +902,9 @@
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="30b870d6ea2987d793ca4d5990a1058a4476f210977944ab0ea1a81bed3ad416">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.0.0/TrandoPlus.zip]]>
+        <Version>1.5.0.1</Version>
+        <Link SHA256="5aaa9c4bb3ea96d3f13350a5664121985a4f88c7347be70fbd91fd2e973d9c4c">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.0.1/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -967,6 +967,21 @@
             <Integration>RandoSettingsManager</Integration>
             <Integration>DebugMod</Integration>
         </Integrations>
+    </Manifest>
+    <Manifest>
+        <Name>ContainerConfig</Name>
+        <Description>Addon for ItemChanger to control how certain checks are presented.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="d1e2e29082284711f022e9c0d5e26a125f715427e0280ca73946c57b2501a310">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.ContainerConfig/releases/download/v1.0.0.0/ContainerConfig.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.ContainerConfig/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ReopenCityDoor</Name>
