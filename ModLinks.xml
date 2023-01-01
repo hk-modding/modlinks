@@ -1,31 +1,42 @@
 <?xml version="1.0"?>
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
-    xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
-    <!--
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
-        <Name>Test Name</Name>
-        <Description>Test description</Description>
-        <Version>0.0.0.0</Version>
-        Only one of these two
-        <Links>
-            <Linux SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://linux.link]]></Linux>
-            <Mac SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://mac.link]]></Mac>
-            <Windows SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://windows.link]]></Windows>
-        </Links>
-            <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://multiplatform.link]]></Link>
-        <Dependencies>
-            <Dependency>Another mod's name that this mod depends on</Dependency>
-        </Dependencies>
-        <Repository><![CDATA[https://github.com/user/repo]]></Repository>
-        <Integrations>
-            <Integration>Another mod's name, like the dependency list, but not a hard dependency, but extra stuff when it is installed alongside</Integration>
-        </Integrations>
+        <Name>Core.FsmUtil</Name>
+        <Description>A library mod for fsm editing.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="C9CBE0AD0ACA52ECAAADA722751B1BBEEA7BD50E2AAAF8AFB518611C4D30A8BA">
+            <![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1/Core_FsmUtil.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil]]></Repository>
         <Tags>
-            <Tag>Either of: 'Boss', 'Cosmetic', 'Expansion', 'Gameplay', 'Library', 'Utility'</Tag>
+            <Tag>Library</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Flibber</Author>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
-    -->
+    <Manifest>
+        <Name>Fyrenest</Name>
+        <Description>Fyrenest v3 Adds over 30 charms, and remaps the Ancient Basin, Hive, Abyss, Resting Grounds, and Crystal Peak! It also rewrites dialogue for most of the NPCs like The Seer, The Last Stag, Elderbug, Cornifer, Iselda, and more! Fyrenest now changes almost every aspect of the game.</Description>
+        <Version>3.0.0.0</Version>
+        <Link SHA256="d1552cd836bf01b92de66fbe83c744a131787d22f25c10f53e40405af22179b3">
+            <![CDATA[https://github.com/BubkisLord/Fyrenest/releases/download/v3/Fyrenest.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BubkisLord/Fyrenest/]]>
+        </Repository>
+    </Manifest>
     <Manifest>
         <Name>Mash Dash</Name>
         <Description>Dash continually, faster, and without need for refresh</Description>
@@ -59,9 +70,9 @@
     <Manifest>
         <Name>Charm Crab</Name>
         <Description>New Charm Mechanics, New Charms, New Spells, and Rebalances</Description>
-        <Version>1.1.0.0</Version>
-            <Link SHA256="9200e22b106fe7d70464188022f57f53147b0d06ed0538cf156f206b0fe4a6c9">
-                <![CDATA[https://github.com/DistractionCrab/Charm-Crab/releases/download/Release/CharmCrab.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="5a50d83b84f91d0c79321a81bf7f1fd7c6b74560898a22101f3d453a71932f33">
+            <![CDATA[https://github.com/DistractionCrab/Charm-Crab/releases/download/v1.0.2/CharmCrab.zip]]></Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>SFCore</Dependency>
@@ -77,8 +88,8 @@
         <Name>Nightmare Spark</Name>
         <Description>Adds a Grimm Troupe themed charm with various charm synergies.</Description>
         <Version>1.1.0.0</Version>
-            <Link SHA256="c588b5b90b9b49b456ebd2a935ffc4e6a63c81f63dda92c1d0bffde8a0c1b696">
-                <![CDATA[https://github.com/RiverRobot/Nightmare-Spark/releases/download/v1.1.0/Nightmare.Spark.zip]]></Link>
+        <Link SHA256="c588b5b90b9b49b456ebd2a935ffc4e6a63c81f63dda92c1d0bffde8a0c1b696">
+            <![CDATA[https://github.com/RiverRobot/Nightmare-Spark/releases/download/v1.1.0/Nightmare.Spark.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
@@ -95,8 +106,8 @@
         <Name>Heal On Wall</Name>
         <Description>Makes it so you can Heal On Walls</Description>
         <Version>1.0.1.0</Version>
-            <Link SHA256="B10F83E58F54B184A634FB41F6E11A99E962F2C8D6F19EA99685D8D48BD1873B">
-                <![CDATA[https://github.com/Zickles/Heal_On_Wall/releases/download/how0.1/Heal_On_Wall.zip]]></Link>
+        <Link SHA256="B10F83E58F54B184A634FB41F6E11A99E962F2C8D6F19EA99685D8D48BD1873B">
+            <![CDATA[https://github.com/Zickles/Heal_On_Wall/releases/download/how0.1/Heal_On_Wall.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
@@ -129,8 +140,8 @@
         <Name>RadianceExtras</Name>
         <Description>Adds Extra Things to the Abs Rad Fight</Description>
         <Version>1.0.3.0</Version>
-            <Link SHA256="75EBC1F03D946236B586F31241AEA6FC4877F4AEDF4F37C4F46981869FB93FF6">
-                <![CDATA[https://github.com/Zickles/RadianceExtras/releases/download/1.0.3/RadianceExtras.zip]]></Link>
+        <Link SHA256="75EBC1F03D946236B586F31241AEA6FC4877F4AEDF4F37C4F46981869FB93FF6">
+            <![CDATA[https://github.com/Zickles/RadianceExtras/releases/download/1.0.3/RadianceExtras.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -139,6 +150,29 @@
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Lost Artifacts</Name>
+        <Description>A mod that adds powerful artifacts scattered all across Hallownest that can be equipped to the nail! Compatible with Randomizer 4.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="DC22EFD7BFB1754A3AD31F766EB472250EA1B46F4E116548A043E884F69C3CDE">
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.1.0.0/LostArtifacts.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.LostArtifacts]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+            <Integration>DebugMod</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
         </Tags>
     </Manifest>
     <Manifest>
@@ -243,12 +277,13 @@
     <Manifest>
         <Name>CriticalSlash</Name>
         <Description>Makes nail arts deal extra damage and return control faster if released at the earliest moment.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="FF220F390F5AF66F146EB0192ED8323B72526D17C769D57AF95C2684EBFAD569">
-            <![CDATA[https://github.com/beesnation/CriticalSlash/releases/download/v1.0.0.0/CriticalSlash.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="21F3929FC313A26D9ED4745F4FEAA1F729CBA933477840C4F0882FABD02B9E1A">
+            <![CDATA[https://github.com/beesnation/CriticalSlash/releases/download/v1.1.0.0/CriticalSlash.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/beesnation/CriticalSlash]]>
@@ -280,9 +315,9 @@
     <Manifest>
         <Name>AbsoluteZote</Name>
         <Description>A new GPZ mod boss. Install AbsoluteZote and PureZote together to enable AnyZote.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="1aad22dd9c6d90a37bb754dd2ead381e8f473f973189d4faa840648b94118394">
-            <![CDATA[https://github.com/nearrin/HollowKnight.AbsoluteZote/releases/download/1.0/AbsoluteZote.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="327bd4575877834b7e94b141ca9c09354dbd61e976a6dbbb2a16c842c70e984c">
+            <![CDATA[https://github.com/nearrin/HollowKnight.AbsoluteZote/releases/download/2.0/AbsoluteZote-v2.0.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -336,27 +371,11 @@
         </Repository>
     </Manifest>
     <Manifest>
-        <Name>Fyrenest</Name>
-        <Description>Adds 30 new charms, renames areas, and creates new lore to explore! Read the README.txt for info on how to get charms normally. If you don't want to get them this way, go into the Fyrenest mod menu! Near the bottom, it should say "Give all Charms"</Description>
-        <Version>2.12.45.65</Version>
-        <Link SHA256="74302dbf315a5cf592408d78cdb43f1c3f8490ae5923d866f058803f1f4f8c1e">
-            <![CDATA[https://github.com/BubkisLord/Fyrenest/releases/download/v2.12.45.65/Fyrenest.zip]]>
-        </Link>
-        <Dependencies>
-            <Dependency>SFCore</Dependency>
-            <Dependency>Satchel</Dependency>
-            <Dependency>ItemChanger</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/BubkisLord/Fyrenest/]]>
-        </Repository>
-    </Manifest>
-    <Manifest>
         <Name>Transcendence</Name>
         <Description>Adds 14 new charms with various abilities. Can be used with the randomizer.</Description>
-        <Version>1.3.1.0</Version>
-        <Link SHA256="3DF57428DF5DC70E19F14F0B4F87E203E73C40B7B6630CBD3C897259FE52E9A6">
-            <![CDATA[https://github.com/dpinela/Transcendence/releases/download/v1.3.1/Transcendence.zip]]>
+        <Version>1.3.5.0</Version>
+        <Link SHA256="0AA4404FF6041FA0773E0A7EA8E71D896582FE00F44A7B06EB4415AB4F105563">
+            <![CDATA[https://github.com/dpinela/Transcendence/releases/download/v1.3.5/Transcendence.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -370,9 +389,9 @@
     <Manifest>
         <Name>RainbowEggs</Name>
         <Description>A randomizer add-on that makes Rancid Eggs more colorful.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="5732CF5A903913D6E2D107F1425EA0B777A9405653F8427470FEF2A54F02BB45">
-            <![CDATA[https://github.com/dpinela/RainbowEggs/releases/download/v1.1/RainbowEggs.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="F46986AE7067EAED6A1CB456962EFFDA4E2539848276B893F99D68C0D17A83CE">
+            <![CDATA[https://github.com/dpinela/RainbowEggs/releases/download/v1.1.1/RainbowEggs.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -384,9 +403,9 @@
     <Manifest>
         <Name>RandoZoomZoom</Name>
         <Description>A randomizer add-on that makes early movement and geo collection a bit faster.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="D5BE61A259D8207A90819BF764290D8F776EBE9243653D932FC6A6032520185E">
-            <![CDATA[https://github.com/dpinela/RandoZoomZoom/releases/download/v1.0.1/RandoZoomZoom.zip]]>
+        <Version>1.0.4.0</Version>
+        <Link SHA256="1CBD0F696CFB73884D9D877B1703558CC0AA1E18448F099C34A03BE7A215640C">
+            <![CDATA[https://github.com/dpinela/RandoZoomZoom/releases/download/v1.0.4/RandoZoomZoom.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -627,6 +646,23 @@
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>Additional Timelines</Name>
+        <Description>Adds extra timelines to the stats screen after the end credits.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="AC82BD86136CBF67E898CAED795FAEA98BACD6CCEC59AD3A07F875DAA5E2CA10">
+            <![CDATA[https://github.com/Emo-hk/AdditionalTimelines/releases/download/v1.0.1/AdditionalTimelines.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>FStats</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Emo-hk/AdditionalTimelines]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
+    </Manifest>
+    <Manifest>
         <Name>CompassAlwaysOn</Name>
         <Description>Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.</Description>
         <Version>1.2.0.0</Version>
@@ -645,11 +681,13 @@
     <Manifest>
         <Name>Kronk</Name>
         <Description>Simple object counter used for speedruns. Mainly used for Kronk% (all levers).</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="35ffcdf52125d0b625b5810d759e1b9bf6e9bbf6850dbe2c7dfd3f096bc2cf9c">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.4.0.0/Kronk.zip]]>
+        <Version>1.4.0.1</Version>
+        <Link SHA256="3578a950ef66e24dc0c805703f6010ee76562238c49b983850e624c9ee1f1c1c">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/releases/download/v1.4.0.1/Kronk.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.Kronk/]]>
         </Repository>
@@ -657,6 +695,26 @@
             <Integration>FStats</Integration>
         </Integrations>
     </Manifest>
+    <Manifest>
+        <Name>KeybindChaos</Name>
+        <Description>Randomize the keybinds after a certain (configurable) amount of time has passed.</Description>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="c557436d61aea851e01a696364726d5422b0a10b9a3e601c3526aadb33d3cfd0">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.KeybindChaos/releases/download/v0.9.0.0/KeybindChaos.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.KeybindChaos/]]>
+        </Repository>
+        <Integrations>
+            <Integration>FStats</Integration>
+        </Integrations>
+    </Manifest>
+
     <Manifest>
         <Name>Menderbug's Revenge</Name>
         <Description>Kill the knight whenever you break a background object.</Description>
@@ -745,9 +803,9 @@
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.11.1.0</Version>
-        <Link SHA256="fca962b6f47fa9dc2b3f1e612c00edfc62f449b09bbe7a51ef330d8704de4500">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.11.1.0/SkillUpgrades.zip]]>
+        <Version>0.11.3.4</Version>
+        <Link SHA256="0aa886f4e488158a09e64aede296518c610d1524b15e20c8d8b7d1e6239652a6">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.11.3.4/SkillUpgrades.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -755,14 +813,16 @@
         </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
+            <Integration>Vasi</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log (and several others) in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="f69690ad6c050687f1cd0a361dccb9eb15fda5891c5599d323680c3b049ffd2b">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.5.0.0/CondensedSpoilerLogger.zip]]>
+        <Version>1.7.1.0</Version>
+        <Link SHA256="7b81bd8b805e862a57637e66bc9fa7b552feacf0e26b9e1c763647550f53c11e">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.7.1.0/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -774,9 +834,9 @@
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.4.3.0</Version>
-        <Link SHA256="c3764b60d22ffd814f355b77f7850962b9bce69f7a58112cf9176b04af0d86bd">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.4.3.0/RandoPlus.zip]]>
+        <Version>1.5.1.1</Version>
+        <Link SHA256="11b2a4048b6fb698cdb9a76a533fd6e880ee31c321619c8d5725a86f5d69c447">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.5.1.1/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -787,6 +847,7 @@
         </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
@@ -806,9 +867,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.1.3</Version>
-        <Link SHA256="95f89a392eae9b4e09fdd7c547fa90c4687ba0d88be909f9386ff162686f233b">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.1.3/RandomizableLevers.zip]]>
+        <Version>1.2.3.5</Version>
+        <Link SHA256="4ba6561e2e31dab528d7b0ca00b6b6e929e7d6ad45b255cfdd4f6c12498b1274">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.3.5/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -819,32 +880,34 @@
         <Integrations>
             <Integration>Randomizer 4</Integration>
             <Integration>CondensedSpoilerLogger</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.4.0.1</Version>
-        <Link SHA256="4931442f1b5e2964537b7f76f0bd2045bd99023e2bf9754c9c6136a78b86164f">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.4.0.1/TrandoPlus.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="30b870d6ea2987d793ca4d5990a1058a4476f210977944ab0ea1a81bed3ad416">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.0.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>ConnectionMetadataInjector</Dependency>
+            <Dependency>RandoPlus</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/]]>
         </Repository>
         <Integrations>
-            <Integration>RandoPlus</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
         <Name>RecentItemsDisplay</Name>
         <Description>Add-on for ItemChanger (and Rando) which displays recently obtained pickups in the top-right of the screen.</Description>
-        <Version>1.2.1.3</Version>
-        <Link SHA256="939bfcd4734ed932932339642730ce1387475d7f415f188cad482870a3765f3c">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.2.1.3/RecentItemsDisplay.zip]]>
+        <Version>1.2.1.4</Version>
+        <Link SHA256="dbda87f484cd903bd123d08959cfd9661d45de4e4fd0edb272f91cd25403ead6">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.2.1.4/RecentItemsDisplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -856,9 +919,9 @@
     <Manifest>
         <Name>RandomizerSettingsRandomizer</Name>
         <Description>Add-on for Randomizer 4 that allows you to randomize settings. See the README for info on how to select settings to randomize.</Description>
-        <Version>0.3.0.1</Version>
-        <Link SHA256="18b8c5e4ddbc91eac9757cccfddae7f5f3ad1968036f4ea883a735b32f0bcf5b">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizerSettingsRandomizer/releases/download/v0.3.0.0/RandomizerSettingsRandomizer.zip]]>
+        <Version>1.0.1.2</Version>
+        <Link SHA256="ed5742051e742c2a0de850a8fe86a5d834a4572e18d5a1229afe0050b896a4c2">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizerSettingsRandomizer/releases/download/v1.0.1.2/RandomizerSettingsRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -866,13 +929,35 @@
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizerSettingsRandomizer/]]>
         </Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+    </Manifest>
+    <Manifest>
+        <Name>Scatternest</Name>
+        <Description>Addon for Randomizer and ItemSync allowing players to start at multiple different locations.</Description>
+        <Version>0.5.0.0</Version>
+        <Link SHA256="7515a8bb394f31458f30048d7e802664006fe4d7742f8bdd6c25b8004271a566">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v0.5.0.0/Scatternest.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/]]>
+        </Repository>
+        <Integrations>
+            <Integration>ItemSync</Integration>
+            <Integration>RandoSettingsManager</Integration>
+            <Integration>DebugMod</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>ReopenCityDoor</Name>
         <Description>Opens the locked door between Fungal Wastes and City (above Elder Hu's grave / near the elevator to Crossroads).</Description>
-        <Version>0.2.1.0</Version>
-        <Link SHA256="69f969ff4da11aad13f45a20ddee56f4a46f63ea199b2d63d5ce5662e1293750">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v0.2.1.0/ReopenCityDoor.zip]]>
+        <Version>1.0.2.1</Version>
+        <Link SHA256="edb069c2ecfc981dc68941dffec6b571ce9c3e1fd0a9d80ca53f31f5fa69f66a">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v1.0.2.1/ReopenCityDoor.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -880,16 +965,19 @@
         </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
         <Name>FStats</Name>
         <Description>Displays some stats about a run after the credits screen.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="1acb349b9e09e4b77abbc0a764f667ab27ab93ffd56bdf21c469caa1af40b9a3">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v1.2.0.0/FStats.zip]]>
+        <Version>1.3.3.0</Version>
+        <Link SHA256="9f3d93d005c446ce00bfc96c1cedbffed08caaa0dbd5e80cc78cc01bddbdfdaf">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v1.3.3.0/FStats.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/]]>
         </Repository>
@@ -958,9 +1046,9 @@
     <Manifest>
         <Name>MenuChanger</Name>
         <Description>Mod which handles editing the main menu for other mods.</Description>
-        <Version>1.1.5.0</Version>
-        <Link SHA256="5D0949060D57032B3D8C442FAA957D7D4351C66F4DE40DABC9E3FD01B6CDD815">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.5%2B889/MenuChanger.zip]]>
+        <Version>1.1.6.0</Version>
+        <Link SHA256="6C1EEF86F15F40C56D60DD172CBE49D70D89C8F7498129D13C815AE2747B4618">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.MenuChanger/releases/download/v1.0.6%2B972/MenuChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1071,9 +1159,24 @@
     <Manifest>
         <Name>ItemSync</Name>
         <Description>A RandomizerMod 4 add-on for sharing item pickups between players.</Description>
-        <Version>2.4.2.0</Version>
-        <Link SHA256="B46FD92D521E502F563691C28895ABD70598B5BEA11A2DD154D3C2143C9D4899">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.4.2/ItemSync.zip]]>
+        <Version>2.5.3.0</Version>
+        <Link SHA256="71A771D48F9FA18779BB40E8A603C6B80C1A8DFD76FA10A0A81DC196C98B885F">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.5.3/ItemSync.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>MultiWorldLib</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>MultiWorld</Name>
+        <Description>A RandomizerMod 4 add-on for distributing players' items between all their worlds.</Description>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="134684AC5CCE6C13CA48A47BA28CAC0C3D96E5084C43747F2A8CE4C13BDED0CE">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/multiworld-v1.1.1/MultiWorldMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1086,9 +1189,9 @@
     <Manifest>
         <Name>MultiWorldLib</Name>
         <Description>A library for ItemSync and MultiWorld network transmission.</Description>
-        <Version>1.0.0.5</Version>
-        <Link SHA256="32F87F5BE847128C3890DB4AD787867BB26FAF8757B4B88CA5C9F361500DD87D">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.2.8/MultiWorldLib.zip]]>
+        <Version>1.0.0.7</Version>
+        <Link SHA256="2093799618A77B40EC5858653AB55FDE130C244F3B1F7BA9B9B2205FC924688D">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/common-files-is253-mw101/MultiWorldLib.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1144,26 +1247,11 @@
         </Repository>
     </Manifest>
     <Manifest>
-        <Name>Randomizer Map S</Name>
-        <Description>This mod is now outdated. Please uninstall this and install RandoMapMod instead.</Description>
-        <Version>2.6.2.1</Version>
-        <Link SHA256="A5F9D0521B5242CE14588EF5236972C9B1624D1B1444CA28FCF48189F193493F">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/releases/download/outdated/MapModS.zip]]>
-        </Link>
-        <Dependencies />
-        <Repository>
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.MapModS/]]>
-        </Repository>
-        <Tags>
-            <Tag>Utility</Tag>
-        </Tags>
-    </Manifest>
-    <Manifest>
         <Name>AdditionalMaps</Name>
         <Description>Adds white palace and godhome maps. The white palace one is next to the bench in the big room. The godhome one is next to the bench above the pantheons.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="620D1428C4FB4B4D90ECF4F6778A7633BC0A77003B75229241043194C86A3386">
-            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.1/AdditionalMaps.zip]]>
+        <Version>1.5.3.0</Version>
+        <Link SHA256="71D9C4D3CB047340DFE4C8E2693C5BC0475AA4429DA50225D7A16D4B8CA4AB42">
+            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.3/AdditionalMaps.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -1172,12 +1260,18 @@
             <![CDATA[https://github.com/SFGrenade/AdditionalMaps/]]>
         </Repository>
         <Integrations>
+            <Integration>CompassAlwaysOn</Integration>
             <Integration>HKMP</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>HelenSB</Author>
+            <Author>kapkekes</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>BenchWarpFix</Name>
@@ -1193,6 +1287,9 @@
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>BlindRadiance</Name>
@@ -1210,6 +1307,9 @@
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>CustomBgm</Name>
@@ -1225,6 +1325,9 @@
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>CustomSaveArt</Name>
@@ -1240,6 +1343,9 @@
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>EnemyChanger</Name>
@@ -1257,6 +1363,10 @@
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>nesrak1</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>FireIsSmolBrain</Name>
@@ -1273,6 +1383,10 @@
             <Tag>Gameplay</Tag>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Fireb0rn</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>FuryFix</Name>
@@ -1290,6 +1404,9 @@
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>GeoLog</Name>
@@ -1308,6 +1425,30 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Graphic Options</Name>
+        <Description>Adds a "few" graphics options. Some of those "might" be unstable to change.</Description>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="D6F8FB62D1EFE835818B924D1821B72D0382D287DC34BB29AD22606E91B911D7">
+            <![CDATA[https://github.com/SFGrenade/GraphicOptions/releases/download/v1.5.1/GraphicOptions.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/GraphicOptions/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>HKHKHKHKHK</Name>
@@ -1325,6 +1466,9 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>LanguageSupport</Name>
@@ -1343,6 +1487,10 @@ Takes hours to load into the game.</Description>
             <Tag>Cosmetic</Tag>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MenuThemesInGame</Name>
@@ -1358,6 +1506,9 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MoreHealing</Name>
@@ -1375,6 +1526,9 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>NailsmithBackPay</Name>
@@ -1390,6 +1544,9 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>NeverMuffle</Name>
@@ -1405,14 +1562,18 @@ Takes hours to load into the game.</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Pail Curt</Name>
         <Description>This is the Pale Court mod.
 Enjoy!</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="544657FE1F245DBBD18CC27EF79923AF15604C5BCD4B8A82F536D035337AAD16">
-            <![CDATA[https://github.com/SFGrenade/Pail-Curt/releases/download/v1.5.1/Pail-Curt.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="36F95A1C91874A2A617EA2D719262085E4F038DEF4F132C5C87AB9567DCC7720">
+            <![CDATA[https://github.com/SFGrenade/Pail-Curt/releases/download/v1.5.2/Pail-Curt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>FrogCore</Dependency>
@@ -1425,6 +1586,30 @@ Enjoy!</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Zaliant</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>PvP Arena</Name>
+        <Description>This mod adds a PvP arena with an invisible entrance right of the bench in Dirtmouth.</Description>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="52A249727D8E357201A7AF68CB01CD55B64BF0C1633D8C773827FF92681B31A7">
+            <![CDATA[https://github.com/SFGrenade/PvpArena/releases/download/v1.5.1/PvpArena.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/PvpArena/]]>
+        </Repository>
+        <Tags>
+            <Tag>Expansion</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RadiantMenu</Name>
@@ -1442,6 +1627,10 @@ Enjoy!</Description>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RedoBirthplace</Name>
@@ -1459,6 +1648,9 @@ Enjoy!</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>ResetCharmNotches</Name>
@@ -1474,13 +1666,16 @@ Enjoy!</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.4.4</Version>
-        <Link SHA256="B104F9BF08D8DC5F5D94DFB79115B6C7195DA2DFBBFE04E401BB5F18D1AAD0EC">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.4.4/SFCore.zip]]>
+        <Version>1.5.6.0</Version>
+        <Link SHA256="FDF8E85F2DD625BD277F94A66435BD6DC4306940B934442490ED636C35AE17E5">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.6/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1489,15 +1684,37 @@ Enjoy!</Description>
         <Tags>
             <Tag>Library</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>SpriteDumper</Name>
+        <Description>A mod that dumps sprites. Can take more than 10 minutes per dump. Uses the P key to initiate dumping.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="D2425256B9851A2A21226897D8039CC1D511EF94B9FF0288BE499694B413AECC">
+            <![CDATA[https://github.com/SFGrenade/SpriteDumper/releases/download/v1.5/SpriteDumper.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/SpriteDumper/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Test of Teamwork</Name>
         <Description>Adds a Path of Pain style section to the White Palace.
 Start by talking to people in and around dirtmouth.
 This is a singleplayer mod. The "teamwork" refers to in-game events.</Description>
-        <Version>1.5.76.57640</Version>
-        <Link SHA256="87ECF6401AAE0F4FB701FDA79727D187F03692E29E7D317F65729CA5EB3DD198">
-            <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/releases/download/v1.5.76.57640/TestOfTeamwork.zip]]>
+        <Version>1.5.77.13337</Version>
+        <Link SHA256="092EFD45BB227D475CC68D2EBA157E77905FEA1BA435AB876EA601949EB58755">
+            <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/releases/download/v1.5.77.13337/TestOfTeamwork.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -1506,6 +1723,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/]]>
         </Repository>
         <Integrations>
+            <Integration>DebugMod</Integration>
             <Integration>HKMP</Integration>
         </Integrations>
         <Tags>
@@ -1513,32 +1731,53 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Expansion</Tag>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>NoSoundlow</Author>
+            <Author>profdrmops</Author>
+            <Author>Zaliant</Author>
+            <Author>Chaktis</Author>
+            <Author>HelenSB</Author>
+            <Author>Clazex</Author>
+            <Author>SalehAce1</Author>
+            <Author>56</Author>
+            <Author>Araraura</Author>
+            <Author>Laucian</Author>
+            <Author>Chrome</Author>
+            <Author>Fireb0rn</Author>
+            <Author>Astral Ruby</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RandomGravityChange</Name>
         <Description>A mod that randomly changes gravity periodically or on key press.</Description>
-        <Version>0.0.1.3</Version>
-        <Link SHA256="9359F9A1625CB206FD57D1AC88E245679797814DE9276E752C9B042384FE2C00">
-            <![CDATA[https://github.com/TheMulhima/RandomGravityChange/releases/download/v0.0.1.3/RandomGravityChange.zip]]>
+        <Version>0.0.1.6</Version>
+        <Link SHA256="0DCDAAFD1C3F94ECD02BF148D80C9A3E9929A6EE962EC7CA34FE9335F609A24F">
+            <![CDATA[https://github.com/TheMulhima/RandomGravityChange/releases/download/v0.0.1.6/RandomGravityChange.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>MagicUI</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMulhima/RandomGravityChange/]]>
         </Repository>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RandomTeleport</Name>
         <Description>A mod that randomly teleports you to another scene periodically, on key press or on damage.</Description>
-        <Version>0.5.0.0</Version>
-        <Link SHA256="F1BD5D86B43264890DA6E3AB8DA3331F4D4E312BD71107992B25A5CC6D4D6412">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.RandomTeleport/releases/download/v0.5/RandomTeleport.zip]]>
+        <Version>0.6.3.0</Version>
+        <Link SHA256="45192728652F0D2E866022C58D153620C062188E3094D240BA18BCCED4629543">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.RandomTeleport/releases/download/v0.6.3/RandomTeleport.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>MagicUI</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMulhima/HollowKnight.RandomTeleport/]]>
@@ -1549,13 +1788,16 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>DebugMod</Name>
         <Description>Allows for debug tools and features like no clip, invincibility, removing and giving items and abilities.</Description>
-        <Version>1.4.9.6</Version>
-        <Link SHA256="7580E13493F3F66639E9B6C78F7131FAC3921B39F714D1D23F3A5EFF698BDCF6">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.9.6/DebugMod.zip]]>
+        <Version>1.4.9.10</Version>
+        <Link SHA256="646904EE3F03BC170ABFD2D362F66A2D3C420ABF48398FE43612A25929BBE0BF">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.9.10/DebugMod.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1564,13 +1806,25 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Serena</Author>
+            <Author>The Embraced One</Author>
+            <Author>56</Author>
+            <Author>KayDeeTee</Author>
+            <Author>Cerpintext</Author>
+            <Author>DemoJameson</Author>
+            <Author>Mulhima</Author>
+            <Author>Flib</Author>
+            <Author>pseudorandom</Author>
+            <Author>Magnetic Pizza</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>SpeedRunQoL</Name>
         <Description>A debug Add On that adds new keybinds that are QoL for speedrunning practice. Currently adds Position Save States, Glitched Binds, Force Extra Uumuu attack and radiance quick reload</Description>
-        <Version>0.5.5.0</Version>
-        <Link SHA256="1A6B441448BDCD02932CAEE020688A8F9A7B313694B79168AA0B466C0EAEDA74">
-            <![CDATA[https://github.com/TheMulhima/SpeedRunQoL/releases/download/v0.55/SpeedRunQoL.zip]]>
+        <Version>0.5.6.0</Version>
+        <Link SHA256="2CEDA35FF1577AFFDC52B1112DA1FA25BB968E51841C7BEA8EEDB9C017418A13">
+            <![CDATA[https://github.com/TheMulhima/SpeedRunQoL/releases/download/v0.56/SpeedRunQoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>DebugMod</Dependency>
@@ -1581,16 +1835,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+            <Author>pseudorandom</Author>
+            <Author>Constructive Cynicism</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MoreSaves</Name>
         <Description>Allows for infinite saves. Uses modmenu to provide other features such as backup/restore, rename, lock and edit values in saves. Note: Editing the current save you are in now takes effect in game</Description>
-        <Version>0.7.6.0</Version>
-        <Link SHA256="831451CC6FA51E11F5E08D93D15A01BEA27D51488A7DBBD44DBA98ED4FB8F95A">
-            <![CDATA[https://github.com/TheMulhima/MoreSaves/releases/download/v0.7.6/MoreSaves.zip]]>
+        <Version>0.7.9.0</Version>
+        <Link SHA256="04455AC150D9A4566D5561857346106CB0375288D9EB803DB2518C840FFF8A17">
+            <![CDATA[https://github.com/TheMulhima/MoreSaves/releases/download/v0.7.9/MoreSaves.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMulhima/MoreSaves/]]>
@@ -1598,6 +1858,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>KayDeeTee</Author>
+            <Author>56</Author>
+            <Author>Mulhima</Author>
+            <Author>Phenomenol</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Gorb Plus</Name>
@@ -1615,23 +1881,30 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>HKMP HealthDisplay</Name>
         <Description>An addon for HKMP that uses HkmpPouch. Works on the public server.Displays the amount of health other players have</Description>
-        <Version>0.0.5.0</Version>
-        <Link SHA256="e40fb9061aac41c238801381e034886216c1c9233af2c254b830a848ea4d35c8">
-            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.5.0/HKMP_HealthDisplay.zip]]>
+        <Version>0.0.5.2</Version>
+        <Link SHA256="60B987C7B998A52C2C8F8C9A505A0F5D85B7FD50A7068D67690DF983AA821252">
+            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.5.2/HKMP_HealthDisplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>MagicUI</Dependency>
             <Dependency>HKMP</Dependency>
             <Dependency>HkmpPouch</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/]]>
         </Repository>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Gravity Mod</Name>
@@ -1644,21 +1917,31 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/TheMulhima/GravityMod/]]>
         </Repository>
+        <Authors>
+            <Author>HKLab</Author>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>GlassSoul</Name>
         <Description>Makes you die in one hit. Also adds option in modmenu to increases damage dealt by 1 for each extra health</Description>
-        <Version>1.1.0.2</Version>
-        <Link SHA256="115A3109E0D05DF1FBFACC5D5E4559A5047B017BDF1C86508E255F71F2ECDA2D">
-            <![CDATA[https://github.com/TheMulhima/GlassSoulMod/releases/download/v1.1.0.2/GlassSoul.zip]]>
+        <Version>1.1.0.3</Version>
+        <Link SHA256="D3AC269B857603A8D8D77C26F9B9F26C3EBA02F6AAE6908F153318D9E09769BD">
+            <![CDATA[https://github.com/TheMulhima/GlassSoulMod/releases/download/v1.1.0.3/GlassSoul.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMulhima/GlassSoulMod/]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>753</Author>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Toggle Rando Split Options</Name>
@@ -1673,6 +1956,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/TheMulhima/Toggle-Rando-Split-Options/]]>
         </Repository>
+        <Authors>
+            <Author>Mulhima</Author>
+            <Author>ygsbzr</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Hide Mod List</Name>
@@ -1688,18 +1975,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Additional Challenge</Name>
         <Description>A mod that allows you to use 46 different effects to make your game more challenging. There are 4 types of effects (Persistent, Cooldown, Boss Attack, Enemy Follow) that can be enabled from modmenu. There is also a choas mode that randomly selects effects to happen periodically.</Description>
-        <Version>0.0.2.0</Version>
-        <Link SHA256="F7F59F315168668CC4D2BA9572A530FCE801B5A2589B5C232468447EFFC3143A">
-            <![CDATA[https://github.com/TheMulhima/AdditionalChallenge/releases/download/v0.2.0/AdditionalChallenge.zip]]>
+        <Version>0.0.2.2</Version>
+        <Link SHA256="1234DB68F2D423825DE90479496BE72985AB133455C18E939A16DD30C521C8E4">
+            <![CDATA[https://github.com/TheMulhima/AdditionalChallenge/releases/download/v0.2.2/AdditionalChallenge.zip]]>
         </Link>
         <Dependencies>
             <Dependency>DebugMod</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>Vasi</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMulhima/AdditionalChallenge]]>
@@ -1707,6 +1998,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Poorly Translated</Name>
@@ -1724,11 +2018,29 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>HKMirror</Name>
+        <Description>A core mod that makes it easier to access PlayerData, use reflection, and on/il hooks.</Description>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="277DF673F6B2F8BB1EE360E852D4016C922ED4F66AC3E8F9A5645C3CD5D1CAEC">
+            <![CDATA[https://github.com/TheMulhima/HKMirror/releases/download/v2.1.0.0/HKMirror.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/HKMirror/]]>
+        </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
-        <Version>1.1.0.1</Version>
-        <Link SHA256="8A9C3CD2C627FA9D2BE73FE4E244492BA922FBF78B8F46515D32EE04127FA475">
-            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.1.0.1/WeaverCore.zip]]>
+        <Version>1.1.0.2</Version>
+        <Link SHA256="e32aaf789f6e3bd9a8b396d0800a63de17a5840787ab3f4b9f2162c445317a80">
+            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.1.0.2/WeaverCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1766,14 +2078,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP</Name>
         <Description>Hollow Knight Multiplayer allows people to host games and let others join them in their adventures.</Description>
-        <Version>2.1.0.0</Version>
-        <Link SHA256="B972670EA5620B45881D7D117937C5A6169078B5D95071DF6A6E6C3D4292F8D1">
-            <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v2.1.0/HKMP.dll]]>
+        <Version>2.2.3.0</Version>
+        <Link SHA256="faf96116f6985ae4d8ee39281895d6f920608c19063fe7bb191cd1d847b6bff9">
+            <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v2.2.3/HKMP.zip]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Extremelyd1/HKMP/]]>
         </Repository>
+        <Authors>
+            <Author>Extremelyd1</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>HKMP Prop Hunt</Name>
@@ -1805,9 +2120,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Enemy HP Bar</Name>
         <Description>Adds skinnable HP bars to every enemies and bosses in the game.</Description>
-        <Version>3.0.5.0</Version>
-        <Link SHA256="cbb6cb64165c0a1be11a908e40cb1b456d1dcd9ba708b514119035e8aec8c510">
-            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/v3.0.5/EnemyHPBar.zip]]>
+        <Version>3.1.4.0</Version>
+        <Link SHA256="8217B42297945F75AFD7D55948575BC7F5D537C3D1324A85A029F166C1D0CB9D">
+            <![CDATA[https://github.com/ygsbzr/Enemy-HP-Bars/releases/download/v3.1.4/EnemyHPBar-v3.1.4.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -1825,9 +2140,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MagicUI</Name>
         <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-        <Version>1.5.8265.3907</Version>
-        <Link SHA256="8C7883D03865F0022C2D59E93F4FC4FC081ED8B7FD13E0570FF8581F267B9E54">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.5.8265.3907/MagicUI.zip]]>
+        <Version>1.6.8359.8221</Version>
+        <Link SHA256="40105C83E1C52E9AB9B6E1F3BE6AFE3E948FF94F2E34A6F260C606A01B4C884A">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.6.8359.8221/MagicUI.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1836,6 +2151,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Library</Tag>
         </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>ConnectionMetadataInjector</Name>
@@ -1853,13 +2171,16 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Library</Tag>
         </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RandoStats</Name>
         <Description>A randomizer-supplemental mod that provides detailed check and obtain stats on the completion screen.</Description>
-        <Version>1.2.8265.3868</Version>
-        <Link SHA256="A80E76EC2C1E313196961F70106710DCDFF39641D04E79F3E4C0A7F0A9E7076A">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/releases/download/v1.2.8265.3868/RandoStats.zip]]>
+        <Version>2.0.8331.43041</Version>
+        <Link SHA256="4C3424A72B53C3A1E0B52E5F7C54A40C39E28913255D1040BF5B5CB2BEA78A52">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/releases/download/v2.0.8331.43041/RandoStats.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1869,17 +2190,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>MagicUI</Dependency>
             <Dependency>Satchel</Dependency>
+            <Dependency>FStats</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/BadMagic100/HollowKnight.Rando4Stats/]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MajorItemByAreaTracker</Name>
         <Description>A randomizer connection that adds a semi-spoiler randomizer game mode with an in-game tracker.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="0EB8A4492B46EBB02C7ED7F9B787AF1025B88F36C34F127E3D8C24E0059B3008">
-            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/releases/download/v1.2.0.0/MajorItemByAreaTracker.zip]]>
+        <Version>1.3.8345.32777</Version>
+        <Link SHA256="445C8ACFD848AAA2A4B921987B7201B572AF1051A240E29F760D04484893B388">
+            <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/releases/download/v1.3.8345.32777/MajorItemByAreaTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1893,9 +2218,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/MajorItemByAreaTracker/]]>
         </Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RandoChecksCounter</Name>
@@ -1911,41 +2242,74 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/BadMagic100/RandoChecksCounter/]]>
         </Repository>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.0.8292.1322</Version>
-        <Link SHA256="C9C60175089879F7E8A24615EA0BC71C4AF3161D3F8F438C1968A50D52191A8A">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.0.8292.1322/TheRealJournalRando.zip]]>
+        <Version>1.1.8372.39127</Version>
+        <Link SHA256="CC877174CB97196C9D103AB08FC8C12B1CF50F4ACB5FE4F7F6F1736783F56AC9">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v1.1.8372.39127/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
-            <Dependency>ConnectionSettingsCode</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/]]>
         </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
-        <Name>ConnectionSettingsCode</Name>
-        <Description>A library mod that allows randomizer connections to easily encorporate their own settings code.</Description>
-        <Version>1.0.8256.6937</Version>
-        <Link SHA256="0D718E30FC50C650E1A3F20430B66BD474D08247AE48A077E896C7B9FB1214C4">
-            <![CDATA[https://github.com/BadMagic100/ConnectionSettingsCode/releases/download/v1.0.8256.6937/ConnectionSettingsCode.zip]]>
+        <Name>RandoSettingsManager</Name>
+        <Description>
+            A Hollow Knight mod that reimplements and extends Randomizer's settings sharing and preset management with rich support for connection mods.
+        </Description>
+        <Version>1.1.8381.616</Version>
+        <Link SHA256="B29CEBD804D4C2287EBBFE110AE342014B6105FBF28C6DCCF54DAC0EC028D4C7">
+            <![CDATA[https://github.com/BadMagic100/RandoSettingsManager/releases/download/v1.1.8381.616/RandoSettingsManager.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/BadMagic100/ConnectionSettingsCode/]]>
+            <![CDATA[https://github.com/BadMagic100/RandoSettingsManager]]>
         </Repository>
         <Tags>
-            <Tag>Library</Tag>
+            <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ModTerminal</Name>
+        <Description>A Hollow Knight mod that adds an in-game terminal for entering commands and cheats as a DebugMod addon</Description>
+        <Version>1.0.8362.1799</Version>
+        <Link SHA256="B0FEC70EA57C66A5CDD4D82E10DCA716B492755D165EB68BAE80ACF12556C968">
+            <![CDATA[https://github.com/BadMagic100/ModTerminal/releases/download/v1.0.8362.1799/ModTerminal.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>DebugMod</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/ModTerminal/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>GhostHunter</Name>
@@ -1998,9 +2362,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HkmpPouch</Name>
         <Description>A dependency mod for client side hkmp addons.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="e6ed29dd8563bd9467dd7e688613553bb4b93947e2dc6590e3d47fac582e9ec6">
-            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/releases/download/v0.3.0/HkmpPouch.dll]]>
+        <Version>0.3.1.0</Version>
+        <Link SHA256="562D762C35A57272A80D58F15C42E1A7A23A637113B73BA259A030BC29E08651">
+            <![CDATA[https://github.com/TheMulhima/HkmpPouch/releases/download/v0.3.1/HkmpPouch.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -2012,14 +2376,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
-        <Version>0.8.3.0</Version>
-        <Link SHA256="8dfe6e346a8a4d6658cfa46de7155b82983d6c84065580abb08df63d1194f516">
-            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.3b/Satchel.zip]]>
+        <Version>0.8.10.0</Version>
+        <Link SHA256="669429FB0AD57D08585F0E1BEF36B2B2A4FB8603B67E342C05BB63C4280A9C54">
+            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.10/Satchel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/PrashantMohta/Satchel/]]>
         </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>Dandy</Author>
+            <Author>Mulhima</Author>
+            <Author>Ruttie</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Custom Knight</Name>
@@ -2118,9 +2490,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Memesong</Name>
         <Description>Play some meme audio clips as you play (can add or remove clips to make stream friendly)</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="87b5b70760556884519f0fde957259091d7fec20f791aafac1f8ad07f4a3e330">
-            <![CDATA[https://github.com/yoink-city/memesong/releases/download/v1.5.0b/Memesong.dll]]>
+        <Version>1.6.0.0</Version>
+        <Link SHA256="646153865b4294e7c8f20315f631757873a8a96a06d1c681dde70dd3d6d89b3f">
+            <![CDATA[https://github.com/yoink-city/memesong/releases/download/v1.6.0/Memesong.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2178,6 +2550,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/RedFrog6002/FrogCore/]]>
         </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
     </Manifest>
     <!--
     <Manifest>
@@ -2186,12 +2561,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Version>0.1.4.0</Version>
         <Link SHA256="3ddf5cf525b546ff367bccfdd8b020e5411574d6649da0bfa774c0d7e0cd8afc">
             <![CDATA[https://github.com/mandar1jn/GrassyKnight/releases/download/1.4.0/GrassyKnight.zip]]>
-        </Link>
-        <Dependencies />
-        <Repository>
-            <![CDATA[https://github.com/mandar1jn/GrassyKnight/]]>
-        </Repository>
-    </Manifest>
+</Link>
+<Dependencies />
+<Repository>
+<![CDATA[https://github.com/mandar1jn/GrassyKnight/]]>
+</Repository>
+</Manifest>
     -->
     <Manifest>
         <Name>Unity Explorer</Name>
@@ -2255,6 +2630,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
+            <Dependency>HKTool</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/jngo102/AspidQueen]]>
@@ -2292,9 +2668,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HollowPoint</Name>
         <Description>Gives the player a gun, reworks charms and abilities to play around the concept of gun usage</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="3BA0DE9C735F59047723C5872496604F1BCFB20431D800179A12BC7C5A6A544C">
-            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/releases/download/1.4.0.0/HollowPoint.zip]]>
+        <Version>1.4.0.1</Version>
+        <Link SHA256="8a4f8f8e08a00df4346def0434a1c6ec0ff5bb2f2ef43183e4445fc378234aff">
+            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/releases/download/1.4.0.1/HollowPoint.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -2356,6 +2732,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/yoink-city/Silksong_bnr/]]>
         </Repository>
+        <Authors>
+            <Author>Dandy</Author>
+            <Author>Ruttie</Author>
+            <Author>Mulhima</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Discord Rich Presence</Name>
@@ -2384,9 +2765,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Osmi</Name>
         <Description>A library mod providing utilities for other mods</Description>
-        <Version>0.1.8.0</Version>
-        <Link SHA256="46B44B39785906CDAB33AB03C26C2E1F78C2618A6931BACF9D47DF1CF4514C5E">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.1.8/Osmi.zip]]>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="23C24A8303BBA5828B3A037C1ED5E8E9FB10008CCB43130BBC65B803D705D8BD">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.2.0/Osmi.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2399,13 +2780,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.21.0.0</Version>
-        <Link SHA256="C43FEF21CAF6DF1057889DDE814772767933DB89F690FD9978AB5F64BBEE72F8">
-            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.21.0/GodSeekerPlus.zip]]>
+        <Version>0.22.0.0</Version>
+        <Link SHA256="158F3D4EEFF1E776D522F8D9DC705974CD7D1B868D93CBCB50F6CAFF20A63F25">
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.22.0/GodSeekerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/]]>
@@ -2558,11 +2940,28 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>No Particles</Name>
+        <Description>Disables most of the particle effects.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="DA9C827FF27D0BD4B71BF9EE3D9A14CDA58506BE331BE158CE0005940867953B">
+            <![CDATA[https://github.com/Clazex/HollowKnight.NoParticles/releases/download/v1.0.0/NoParticles.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.NoParticles/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="F2D38C8CCE1DEAE6C2B94CC5A47C565CCED55A0BD82CC0D1822295D775654DB2">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.0.0/VanillaMapMod.zip]]>
+        <Version>2.0.1.0</Version>
+        <Link SHA256="5950E3D940437C51D2F0526136EBE1A2C3880BC5D30FD7167A28AD07EC40035E">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.0.1/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
@@ -2845,9 +3244,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>1.10.5.0</Version>
-        <Link SHA256="431a197d2c88a764862ae833479b1baff29cff25d65686b37e59e34e47f89f46">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.10.5.0/Output.zip]]>
+        <Version>1.11.7.0</Version>
+        <Link SHA256="ca45ea9d30009df64c7934eba6af9b1742017f89224b2f1e1e70351e841797b3">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v1.11.7.0/Output.zip]]>
         </Link>
 
         <Dependencies />
@@ -2870,6 +3269,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/HKLab/DCParry/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Backdash</Name>
+        <Description>Allows player to use back dash in the game</Description>
+        <Version>0.0.0.2</Version>
+        <Link SHA256="54874eb6d71cf5b4e5b931f87123e1172b7f6a3d2fa07895def18f969c9154dd">
+            <![CDATA[https://github.com/HKLab/HK.BackDash/releases/download/v0/Output.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/HK.BackDash/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -3081,16 +3494,19 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>CustomAudio</Name>
         <Description>A Hollow Knight mod can replace some kind of audio</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="f3ad417161f0d82a65c533d28ed7579f3e21d7fad4dd2fe5f1c7a6857f856736">
-            <![CDATA[https://github.com/ygsbzr/HKCustomAudio/releases/download/v1.1/CustomAudio.zip]]>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="BC5084608C55807AE62FA87CAEFC33368404A4335CF7374E3B0076BD021ADCFB">
+            <![CDATA[https://github.com/ygsbzr/HKCustomAudio/releases/download/v1.3.0/CustomAudio-v1.3.0.zip]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/ygsbzr/HKCustomAudio/]]>
         </Repository>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
         <Tags>
-            <Tag>Utility</Tag>
+            <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
     <Manifest>
@@ -3254,9 +3670,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP.ModDiff</Name>
         <Description>HKMP Addon for checking mod lists between Clients and Servers.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="4c5f3cdecc7ceb7cce708b0d26762e97e24562c3dea8eca6ae7a2508fc9021f0">
-            <![CDATA[https://github.com/BlindGarret/HKMP.ModDiff/releases/download/v1.0.1.0/HKMP.ModDiff.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="e9e2cd84395903e55d9cc7eb4cf05be6a058bc26e2cddd2c971af3c2aec0e89f">
+            <![CDATA[https://github.com/BlindGarret/HKMP.ModDiff/releases/download/v1.0.2.0/HKMP.ModDiff.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -3311,6 +3727,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Link459/PressGToDab/]]>
         </Repository>
+        <Authors>
+            <Author>Italy</Author>
+            <Author>Link459</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Input Buffers</Name>
@@ -3401,9 +3821,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Rando Vanilla Tracker</Name>
         <Description>Randomizer 4 add-on for tracking non-randomized items.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="4F378EFB2227110AAE8373EED968076B0830F28C72AB2FA065ECAABEF64B7DD3">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/releases/download/v1.2.0/RandoVanillaTracker.zip]]>
+        <Version>1.2.3.0</Version>
+        <Link SHA256="025229D2AA6C92148540CDEB7B8A606178574E9B1183244C9E3D7DF1C4638BF2">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/releases/download/v1.2.3/RandoVanillaTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -3418,9 +3838,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP Tag</Name>
         <Description>An HKMP addon that adds the tag game-mode.</Description>
-        <Version>2.1.2.0</Version>
-        <Link SHA256="39D3FA1B08DB714B066F7A5723582D23BB20BF72B5C9867D6EF4CA9BC5BEDA2D">
-            <![CDATA[https://github.com/Extremelyd1/HKMP-Tag/releases/download/v2.1.2/HKMPTag.dll]]>
+        <Version>2.2.1.0</Version>
+        <Link SHA256="33c07c709b97c0f3e9e051cbfdc08f5a6257d1d0e5efd2e3a5dab110a441ec3c">
+            <![CDATA[https://github.com/Extremelyd1/HKMP-Tag/releases/download/v2.2.1/HKMPTag.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -3432,8 +3852,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>The Glimmering Realm</Name>
         <Description>Adds a game mode that changes the layout, items and lore of Hallownest into a whole new world to explore - the Glimmering Realm! Join the Discord at https://discord.gg/wP2FFY6uAB</Description>
-        <Version>1.1.5.1</Version>
-        <Link SHA256="3EA8529D84DFDB8D838C2CA080ABDCDE5AF0998A23A386EF8041930F1AEB046D"><![CDATA[https://github.com/ToboterXP/HollowKnight.TheGlimmeringRealm/releases/download/v1.1.5.1/TheGlimmeringRealm.zip]]></Link>
+        <Version>1.1.5.2</Version>
+        <Link SHA256="9599FA2D461E422FAF7C157B9ECA1B9F3AF408107B7145D5F9CDB0758DEF2F2F"><![CDATA[https://github.com/ToboterXP/HollowKnight.TheGlimmeringRealm/releases/download/v1.1.5.2/TheGlimmeringRealm.zip]]></Link>
 
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -3451,8 +3871,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Convenient Path of Pain</Name>
         <Description>This mod makes it so whenever you strike a Path of Pain Soul Totem or a Wingsmould with your nail it will fully refill your Soul Vessel. Currently this does not work with Nail Arts. Thank you to SFGrenade for making this compatible with non vanilla Totems and Wingsmoulds</Description>
         <Version>1.0.0.0</Version>
-            <Link SHA256="0b45dc07936f276f42310aaa7fbc9fcae6603086b35e3b0aae6198f95eb7ba48">
-                <![CDATA[https://github.com/EnderOnryo/Convenient_PoP/releases/download/1.0/Convenient.PoP.dll]]></Link>
+        <Link SHA256="0b45dc07936f276f42310aaa7fbc9fcae6603086b35e3b0aae6198f95eb7ba48">
+            <![CDATA[https://github.com/EnderOnryo/Convenient_PoP/releases/download/1.0/Convenient.PoP.dll]]></Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/EnderOnryo/Convenient_PoP]]>
@@ -3464,13 +3884,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Godhome Win Loss Tracker</Name>
         <Description>Tracks win/loss and hit stats in Hall of Gods and Pantheons.</Description>
-        <Version>0.5.0.0</Version>
-        <Link SHA256="95329410F9861732086DE40EE5930430C6AC70589A07CB2E6C3FD53FF7D87821">
-            <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/releases/download/v0.5.0.0/GodhomeWinLossTracker.zip]]>
+        <Version>0.6.0.0</Version>
+        <Link SHA256="A573AC4FBD4F985171F5B881DF5B9E3CFBFA8E663B22EEA2F8E4846871CF91F5">
+            <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/releases/download/v0.6.0.0/GodhomeWinLossTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
             <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
@@ -3493,26 +3914,31 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Brothers of Battle</Name>
         <Description>fight the brothers who where trained by the great nailsage sly</Description>
         <Version>1.0.0.0</Version>
-            <Link SHA256="5041fd5afb347c7ae7aec5cf5c7852b8a2b9e072a0f7cd38ff4dc1ce6f86f134"><![CDATA[https://github.com/Link459/BrothersOfBattle/releases/download/1.0.0.0/BrothersOfBattle.zip]]></Link>
+        <Link SHA256="5041fd5afb347c7ae7aec5cf5c7852b8a2b9e072a0f7cd38ff4dc1ce6f86f134"><![CDATA[https://github.com/Link459/BrothersOfBattle/releases/download/1.0.0.0/BrothersOfBattle.zip]]></Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
-          <Repository>
+        <Repository>
             <![CDATA[https://github.com/Link459/BrothersOfBattle]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+        <Authors>
+            <Author>Italy</Author>
+            <Author>Link459</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Lore Master</Name>
-        <Description>Adds abilities to lore tablets and certain npc. Useable with Randomizer 4.</Description>
-        <Version>1.3.8.0</Version>
-            <Link SHA256="d077aa3790c225c81587b87625d3ebf21a518366f99e9167eb61dcbe6cf37898">
-                <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v1.3.8/LoreMaster.zip]]></Link>
+        <Description>Adds abilities to lore tablets and certain npc. Offers extra settings for Randomizer 4.</Description>
+        <Version>2.3.0.0</Version>
+        <Link SHA256="98fc0308296dd651dd1a7c6e6576e6e8d81c621e870c775a412b82f712c7bed2">
+            <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.3.0/LoreMaster.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
+            <Dependency>MenuChanger</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Korzer420/LoreMaster]]>
@@ -3520,6 +3946,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>Korz</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Infection Bomb</Name>
@@ -3537,14 +3966,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="55D491272C48A3162FD468FAD0D2549A5C641345FA207A7C216DF2B979B12EB7">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.2.0.0/DarknessRandomizer.zip]]>
+        <Version>1.4.2.0</Version>
+        <Link SHA256="0540107E5B738867C464A0459CF9CF8307E6B0863474CE595F07B50F0B548B57">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.2.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
         <Repository>
@@ -3559,11 +3988,50 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>MoreDoors</Name>
+        <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
+        <Version>2.0.4.0</Version>
+        <Link SHA256="EC88BE736CAF7A7E3A2D0DD9B1ABCA84F698BA3BC3D35239EF5E6299466587DC">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v2.0.4.0/MoreDoors.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>PurenailCore</Name>
+        <Description>Common utilities and interop for Purenail mods</Description>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="3C7E8D5B76638DC9B7F5CB8BC24B842F1F4DCF25AF6064F6E7D1F5633B0BFDA0">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.1.2.0/PurenailCore.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>SpoilerViewerMod</Name>
         <Description>Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.</Description>
-        <Version>2.8.0.2</Version>
-        <Link SHA256="0BEC442ED0C9C34AFB27609A45F69F086D768ADC71A80297AB67792067C13150">
-            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.8.0.2/SpoilerViewerMod.zip]]>
+        <Version>2.9.4.2</Version>
+        <Link SHA256="965568EF1DDAECC30BB5E00C51F53D0C4166C4CCDF09CD1B005EF30E5F35BF77">
+            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.9.4.2/SpoilerViewerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -3583,9 +4051,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="5AC46332A8F14BFC1E5639D768347D7DBFC3DC6303EAB1FCCF792E5670205AF8">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.1/MapChanger.zip]]>
+        <Version>1.0.5.0</Version>
+        <Link SHA256="D41E04EBACE25A1EAE31F1E5CE7E6992CDEF75C98475CCDE9CC08AE772575523">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.5/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -3604,9 +4072,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.0.4.0</Version>
-        <Link SHA256="8622315B353BBA7C2FAF364571C7A714FABBEE375124833447474D108BB48FCB">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.4/RandoMapMod.zip]]>
+        <Version>3.0.7.0</Version>
+        <Link SHA256="0405D4CE0C89B4699157B00609E52D02D24A7429677D1C7C4D44DF461E52B4DE">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.7/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
@@ -3628,4 +4096,350 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Utility</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+        <Name>Twister Indicator</Name>
+        <Description>Adds a gray tint (can be customised) to your soul bar when you can use spells with the Spell Twister charm</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="4EF3DEC308F8532D33AB01BF8BE9D35C9BBE9C6E427166DEA7E4AD3F47BD0632"><![CDATA[https://github.com/Mimijackz-HKModding/TwisterIndicator/releases/download/v0.1.0.0/TwisterIndicator.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Mimijackz-HKModding/TwisterIndicator]]></Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Carefree Grimm</Name>
+        <Description>Allows you to have Carefree Melody and Grimmchild at the same time</Description>
+        <Version>1.0.0.2</Version>
+        <Link SHA256="3ADEEB75BEE0B48032B36BFC7D7AD3B9B20909135F6E27863C3413623613240C">
+            <![CDATA[https://github.com/ilcheese2/CarefreeGrimm/releases/download/1.0.0.2/CarefreeGrimm.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/ilcheese2/CarefreeGrimm]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Sit Button</Name>
+        <Description>Makes it possible to sit anywhere with a button press</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="4EC9A72ECAB03A87144932943B189469B95A1A1274273720981883DAD4EC77F8"><![CDATA[https://github.com/Mimijackz-HKModding/SitButton/releases/download/v0.1.0.0/SitButton.zip]]></Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/Mimijackz-HKModding/SitButton]]></Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>CustomKnightPlus</Name>
+        <Description>A mod that provides conditional skin support for Custom Knight</Description>
+        <Version>0.0.1.0</Version>
+        <Link SHA256="D6B830191F87C6CE3E09F517E25AA1D392D3ECA6757D1B2D3DCCBF40412A2850">
+            <![CDATA[https://github.com/HKLab/CustomKnightPlus/releases/download/v0.0.1/CustomKnightPlus.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Custom Knight</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/CustomKnightPlus/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Shuriken</Name>
+        <Description>A tiny rando extension a new skill to the game: a shuriken that you can teleport to.</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="0604b59c2113d499fc06ecdf50650de98c32e4b0a711ac69c37d42067283bef3"><![CDATA[https://github.com/randomscorp/Shuriken/releases/download/1.0.0.1/Shuriken.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/randomscorp/Shuriken]]></Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+
+    </Manifest>
+    <Manifest>
+        <Name>NoSpiders</Name>
+        <Description>A mod to remove the spiders in the foreground of deepnest</Description>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="4be401b13c038ee6a3736eb4cecdba6bc88dd07003eee9e808403aa5d1d437bb"><![CDATA[https://github.com/MansenC/NoSpidersMod/releases/download/v1.2.0/NoSpidersMod.dll]]></Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/MansenC/NoSpidersMod]]></Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Curse Randomizer</Name>
+        <Description>Randomizer 4 connection that adds additional cursed options and mimics.</Description>
+        <Version>2.0.2.0</Version>
+        <Link SHA256="c3095ea877f58e034e24846b9b6290a6fee31b05e893b8a72a97a11ab7354f07">
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v2.0.2/CurseRandomizer.zip]]></Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>Benchwarp</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+        </Authors>
+    </Manifest>
+
+    <Manifest>
+        <Name>NoWalkOfShame</Name>
+        <Description>Respawns you in the room you died in (skipping darkrooms/dreamrooms/colosseum)</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="7F70F3BADD1405B143B01FCF54E6F02C2B16724830C09A926AB7B8CEE150628A">
+            <![CDATA[https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame/releases/download/1.0.0.2/NoWalkOfShame.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Always Furious</Name>
+        <Description>Fury of the Fallen is always active while equipped</Description>
+        <Version>1.0.0.33859</Version>
+        <Link SHA256="7B84F22111E3E033F472D424F08419CC0056843CEA2C6117F09A5522DC59E6C0">
+            <![CDATA[https://github.com/Exempt-Medic/AlwaysFurious/releases/download/v1.0.0.33859/AlwaysFurious.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/AlwaysFurious]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Charm Overhaul</Name>
+        <Description>Port of Charm Overhaul to 1.5, rebalances and reworks numerous Charms</Description>
+        <Version>1.0.0.38006</Version>
+        <Link SHA256="FDD0807704EF91896E02D8218D2CD3080C4F276790CA6D11F09EF05AA7946C46">
+            <![CDATA[https://github.com/Exempt-Medic/CharmOverhaul/releases/download/v1.0.0.38006/CharmOverhaul.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/CharmOverhaul]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+            <Author>Aeternalis</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Charm Changer</Name>
+        <Description>Lets you customize the strength of some Charm effects</Description>
+        <Version>1.0.2.31248</Version>
+        <Link SHA256="30618B2FCA688847E26835B207F4CA07F9A92126510D9A718F7D067051726211">
+            <![CDATA[https://github.com/Exempt-Medic/CharmChanger/releases/download/v1.0.2.31248/CharmChanger.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>            
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/CharmChanger]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Disable Enemy Geo</Name>
+        <Description>Enemies no longer drop Geo</Description>
+        <Version>1.0.0.34893</Version>
+        <Link SHA256="9A7649F30FF48A1395582C0F11B8AC22F92CCC55551E9715862698156579F3C2">
+            <![CDATA[https://github.com/Exempt-Medic/DisableEnemyGeo/releases/download/v1.0.0.34893/DisableEnemyGeo.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/DisableEnemyGeo]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Dream Warpers</Name>
+        <Description>Gorb, Elder Hu, and No Eyes teleport 100% of the time after being damaged.</Description>
+        <Version>1.0.0.35005</Version>
+        <Link SHA256="7E7113102A9139C20322181A6572D2BE3041FD37FA536921E82DA2797AA036ED">
+            <![CDATA[https://github.com/Exempt-Medic/DreamWarpers/releases/download/v1.0.0.35005/DreamWarpers.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/DreamWarpers]]></Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>GPZ Precepts</Name>
+        <Description>GPZ displays a random precept each time he takes damage. He is invulnerable while it is displayed</Description>
+        <Version>1.0.0.35402</Version>
+        <Link SHA256="106AC9AD7DFEE61982EED22456B2F88A1258A281FDE9A40C990A6196162C0E82">
+            <![CDATA[https://github.com/Exempt-Medic/GPZ_Precepts/releases/download/v1.0.0.35402/GPZ_Precepts.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/GPZ_Precepts]]></Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Grimmchild Anywhere</Name>
+        <Description>Grimmchild can spawn during TMG and NKG fights</Description>
+        <Version>1.1.0.28852</Version>
+        <Link SHA256="4078CD60C1B21EB50AA6C68C3D39B3A2F3492593C0155B4404D941F98B08AEE2">
+            <![CDATA[https://github.com/Exempt-Medic/GrimmchildAnywhere/releases/download/v1.1.0.28852/GrimmchildAnywhere.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/GrimmchildAnywhere]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Infinite AbsRad Phases</Name>
+        <Description>Makes the selected AbsRad phase infinite</Description>
+        <Version>1.0.0.37474</Version>
+        <Link SHA256="6CEE7573DE4807C8359DD7423AC3C0CCE463007C9E598CB64DD5EB67A6D3BEDF">
+            <![CDATA[https://github.com/Exempt-Medic/InfiniteAbsRadPhases/releases/download/v1.0.0.37474/InfiniteAbsRadPhases.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/InfiniteAbsRadPhases]]></Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Menderbug Options</Name>
+        <Description>Choose Menderbug's spawn chance, whether he respawns after dying, and whether the sign must be broken</Description>
+        <Version>1.0.0.37613</Version>
+        <Link SHA256="8FF02F6212165819AC12C2D5B580B708DD835B2056E948B82A6A9D17854D1642">
+            <![CDATA[https://github.com/Exempt-Medic/MenderbugOptions/releases/download/v1.0.0.37613/MenderbugOptions.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/Exempt-Medic/MenderbugOptions]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Nailmaster's Pride</Name>
+        <Description>Nailmaster's Glory prevents regular Nail attacks but grants all Nail Arts and automatically charges them</Description>
+        <Version>1.0.0.37739</Version>
+        <Link SHA256="5E68F88C30841CD869A65B4A8F4EA2272F355392B998E8B6BAB2B871E726F8D7">
+            <![CDATA[https://github.com/Exempt-Medic/NailmastersPride/releases/download/v1.0.0.37739/NailmastersPride.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/Exempt-Medic/NailmastersPride]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Exempt-Medic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Crafted Town</Name>
+        <Description>The Crafted Town adds a new location, several spell alternatives and some charm upgrades (on alpha as of now).</Description>
+        <Version>0.0.0.1</Version>
+        <Link SHA256="79CFBA053731B76F81A3E356B4298C8488160393F78729891EBBC16F8D0F4DCF">
+            <![CDATA[https://github.com/pronoespro/PronoesProMod/releases/download/hollow-knight-mod/PronoesProMod.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/pronoespro/PronoesProMod/]]>
+        </Repository>
+        <Tags>
+            <Tag>Expansion</Tag>
+            <Tag>Gameplay</Tag>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>PronoesPro</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>DreamShield Coop</Name>
+        <Description>Mod that allows coop with a 2nd or 3rd player as a dreamshield or grimmchild clone. Support for other mods to easily add more.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="0B26AEBA3E121C4EED3D70648E42FA8CC96551E6DB487CFE839935A3595627AA">
+            <![CDATA[https://github.com/RedFrog6002/BetterDreamShieldCoop/releases/download/1.0.0.0/BetterDreamShieldCoop.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>FrogCore</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://github.com/RedFrog6002/BetterDreamShieldCoop]]></Repository>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>RedFrog</Author>
+        </Authors>
+    </Manifest>
+
 </ModLinks>

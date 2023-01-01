@@ -42,6 +42,9 @@
     <xs:sequence minOccurs="0" maxOccurs="1">
       <xs:element name="Tags" type="mm:TagListType" />
     </xs:sequence>
+    <xs:sequence minOccurs="0" maxOccurs="1">
+      <xs:element name="Authors" type="mm:AuthorListType" />
+    </xs:sequence>
   </xs:sequence>
 </xs:complexType>
 
@@ -69,7 +72,7 @@
 
 <xs:simpleType name="NameStringType">
   <xs:restriction base="xs:string">
-    <xs:pattern value="[a-zA-Z].+"/>
+    <xs:pattern value="[a-zA-Z][^\\/:*?&lt;&gt;&quot;|]+"/>
   </xs:restriction>
 </xs:simpleType>
 
@@ -113,5 +116,11 @@
     <xs:enumeration value="Utility" />
   </xs:restriction>
 </xs:simpleType>
+
+<xs:complexType name="AuthorListType">
+  <xs:sequence minOccurs="1" maxOccurs="unbounded">
+    <xs:element name="Author" type="xs:string" />
+  </xs:sequence>
+</xs:complexType>
 
 </xs:schema>
