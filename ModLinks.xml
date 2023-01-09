@@ -836,9 +836,9 @@
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log (and several others) in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>1.7.1.0</Version>
-        <Link SHA256="7b81bd8b805e862a57637e66bc9fa7b552feacf0e26b9e1c763647550f53c11e">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.7.1.0/CondensedSpoilerLogger.zip]]>
+        <Version>1.7.2.0</Version>
+        <Link SHA256="0cbff8b9062707b4b19a2d8f1a19be45fc231e265b84f27652fe83654095eedf">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.7.2.0/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -869,9 +869,9 @@
     <Manifest>
         <Name>FountainPreview</Name>
         <Description>Add-on for ItemChanger that makes the basin fountain show the item it's going to give.</Description>
-        <Version>0.2.0.0</Version>
-        <Link SHA256="fac9a587025981f0629c341e2e848014f7891b19280fdd670c11f42c083c5c78">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.FountainPreview/releases/download/v0.2.0.0/FountainPreview.zip]]>
+        <Version>0.2.1.0</Version>
+        <Link SHA256="c35615b7f11e41c44d4da2241814d6841dfdb0672fb885713e7cf1191b9c32db">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.FountainPreview/releases/download/v0.2.1.0/FountainPreview.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -902,9 +902,9 @@
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.5.0.1</Version>
-        <Link SHA256="5aaa9c4bb3ea96d3f13350a5664121985a4f88c7347be70fbd91fd2e973d9c4c">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.0.1/TrandoPlus.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="e2c0b409627060e7533aa92f59fa2a26c49c0c3235f726122393ac1cddfe90c2">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.1.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -986,9 +986,9 @@
     <Manifest>
         <Name>ReopenCityDoor</Name>
         <Description>Opens the locked door between Fungal Wastes and City (above Elder Hu's grave / near the elevator to Crossroads).</Description>
-        <Version>1.0.2.1</Version>
-        <Link SHA256="edb069c2ecfc981dc68941dffec6b571ce9c3e1fd0a9d80ca53f31f5fa69f66a">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v1.0.2.1/ReopenCityDoor.zip]]>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="0814ff82147d3e236c89dcab402850499f999b03864f2c35f94a2e75cf121177">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.ReopenCityDoor/releases/download/v1.0.3.0/ReopenCityDoor.zip]]>
         </Link>
         <Dependencies />
         <Repository>
