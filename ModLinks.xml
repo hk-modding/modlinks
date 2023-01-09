@@ -1089,9 +1089,9 @@
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="9EE22CA99CCD4D142B1A0596EF6A9DB562818E43430943352C435FC64131A2A5">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.1.0/RandomizerCore.zip]]>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="52D89A21B1CFFC55D41485F694FB034F506C9B2FC354DD95284932952888310E">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.1.0.1/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
