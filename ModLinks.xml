@@ -1183,12 +1183,12 @@
             <Dependency>RandomizerCore</Dependency>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
-        <Integrations>
-            <Integration>RandoSettingsManager</Integration>
-        </Integrations>
         <Repository>
             <![CDATA[https://github.com/homothetyhk/BenchRando/]]>
         </Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>ItemSync</Name>
