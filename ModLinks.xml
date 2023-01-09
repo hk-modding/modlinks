@@ -4103,9 +4103,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.0.6.0</Version>
-        <Link SHA256="2552E1096252390089232FC5E0BB76C601189C3075DE645C3493A0AC39347683">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.6/MapChanger.zip]]>
+        <Version>1.0.7.0</Version>
+        <Link SHA256="6F7ECC7A774E9A75D3E351C251B3579D720EC9FCC24818FC05FCE80D47791A1C">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.7/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -4124,9 +4124,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.0.8.0</Version>
-        <Link SHA256="922753F7D6618B8B284F5ACFC9DA4FCBA55D1A47ED9F9764AD90EAE7C7746EDF">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.0.8/RandoMapMod.zip]]>
+        <Version>3.1.0.0</Version>
+        <Link SHA256="02EF42443893A9CC484CFD335CBF273AEDE66320AC51FAB3CA00A4A1620E44A7">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.1.0/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
