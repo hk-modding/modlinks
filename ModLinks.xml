@@ -4018,9 +4018,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.4.2.0</Version>
-        <Link SHA256="0540107E5B738867C464A0459CF9CF8307E6B0863474CE595F07B50F0B548B57">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.2.0/DarknessRandomizer.zip]]>
+        <Version>1.4.3.0</Version>
+        <Link SHA256="E58FFCA9F13C20960B3A9A5E399F31C953BE1798208439AF05A862CD9DDCFE69">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.3.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -4042,9 +4042,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>2.0.4.0</Version>
-        <Link SHA256="EC88BE736CAF7A7E3A2D0DD9B1ABCA84F698BA3BC3D35239EF5E6299466587DC">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v2.0.4.0/MoreDoors.zip]]>
+        <Version>2.0.5.0</Version>
+        <Link SHA256="6D067E227AE0C8E5E0D0CF60D44AE69CC3ECC5EAD453263DF0DDBCDD2445D05C">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v2.0.5.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -4067,9 +4067,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="3C7E8D5B76638DC9B7F5CB8BC24B842F1F4DCF25AF6064F6E7D1F5633B0BFDA0">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.1.2.0/PurenailCore.zip]]>
+        <Version>1.1.5.0</Version>
+        <Link SHA256="34759532090C4F298CDF8E382A48A39037D1732CE81B2AA8452052FE17BC7D15">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.1.5.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -4081,9 +4081,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>SpoilerViewerMod</Name>
         <Description>Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.</Description>
-        <Version>2.9.4.2</Version>
-        <Link SHA256="965568EF1DDAECC30BB5E00C51F53D0C4166C4CCDF09CD1B005EF30E5F35BF77">
-            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.9.4.2/SpoilerViewerMod.zip]]>
+        <Version>2.10.0.0</Version>
+        <Link SHA256="FFC79C730DD4892BB344F91EC8D364152FD366503DBBF50066C37447CB4E1632">
+            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.10/SpoilerViewerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
