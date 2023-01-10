@@ -1193,9 +1193,9 @@
     <Manifest>
         <Name>ItemSync</Name>
         <Description>A RandomizerMod 4 add-on for sharing item pickups between players.</Description>
-        <Version>2.5.3.0</Version>
-        <Link SHA256="71A771D48F9FA18779BB40E8A603C6B80C1A8DFD76FA10A0A81DC196C98B885F">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.5.3/ItemSync.zip]]>
+        <Version>2.6.0.0</Version>
+        <Link SHA256="24A82F6E0356448EFDCFA8A81F4D072767046EC9706DEBE05C07B8A42068C73C">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.6.0/ItemSync.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1208,9 +1208,9 @@
     <Manifest>
         <Name>MultiWorld</Name>
         <Description>A RandomizerMod 4 add-on for distributing players' items between all their worlds.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="134684AC5CCE6C13CA48A47BA28CAC0C3D96E5084C43747F2A8CE4C13BDED0CE">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/multiworld-v1.1.1/MultiWorldMod.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="EA6FFB6A4D2BBF2159E4314341B3D50D1B5471435EEF523EF6DB39B71787B13F">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/multiworld-v1.2.0/MultiWorldMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1223,9 +1223,9 @@
     <Manifest>
         <Name>MultiWorldLib</Name>
         <Description>A library for ItemSync and MultiWorld network transmission.</Description>
-        <Version>1.0.0.7</Version>
-        <Link SHA256="2093799618A77B40EC5858653AB55FDE130C244F3B1F7BA9B9B2205FC924688D">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/common-files-is253-mw101/MultiWorldLib.zip]]>
+        <Version>1.0.0.8</Version>
+        <Link SHA256="55B8E6D926D1E39758B4A39D60BA0ED2B3DE61057BF4371078C4DD0DE3E894FB">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/common-files-is260-mw120/MultiWorldLib.zip]]>
         </Link>
         <Dependencies />
         <Repository>
