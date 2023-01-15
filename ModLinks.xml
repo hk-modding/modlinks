@@ -2312,9 +2312,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>
             A Hollow Knight mod that reimplements and extends Randomizer's settings sharing and preset management with rich support for connection mods.
         </Description>
-        <Version>1.1.8381.616</Version>
-        <Link SHA256="B29CEBD804D4C2287EBBFE110AE342014B6105FBF28C6DCCF54DAC0EC028D4C7">
-            <![CDATA[https://github.com/BadMagic100/RandoSettingsManager/releases/download/v1.1.8381.616/RandoSettingsManager.zip]]>
+        <Version>1.2.8415.5069</Version>
+        <Link SHA256="5BB8A748926201042E3736F7AF09778C91B71F43686DFC52C2530C40F2666D36">
+            <![CDATA[https://github.com/BadMagic100/RandoSettingsManager/releases/download/v1.2.8415.5069/RandoSettingsManager.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MenuChanger</Dependency>
