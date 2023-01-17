@@ -4498,5 +4498,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>RedFrog</Author>
         </Authors>
     </Manifest>
-
+    <Manifest>
+        <Name>Boss Attacks</Name>
+        <Description>Train boss fights in Hall of Gods against specific boss attacks and more.</Description>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="7AEE48D037AF58F5AF3EE646582DAC07F8BA00DDF8C6DE2A4E3E6F460989BC6B">
+            <![CDATA[https://github.com/royitaqi/HollowKnight.BossAttacks/releases/download/v0.1.1.0/BossAttacks.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/royitaqi/HollowKnight.BossAttacks/]]>
+        </Repository>
+    </Manifest>
 </ModLinks>
