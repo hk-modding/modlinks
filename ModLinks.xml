@@ -3036,9 +3036,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Pantheons Hit Counter</Name>
         <Description>Counts hits in pantheons automatically.</Description>
-        <Version>1.3.5.0</Version>
-        <Link SHA256="AC3ACEDF57BBD282E7BB2B762F4019C0B71E80843FDD45AA13006D2FF2B50E0F">
-            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.3.5/PantheonsHitCounter.zip]]>
+        <Version>1.3.6.0</Version>
+        <Link SHA256="AE01027B8A504F83DC3EFF2D736FCF38CB14B54F3C96CD720F3091CA17420826">
+            <![CDATA[https://github.com/Dastan21/HollowKnight.PantheonsHitCounter/releases/download/v1.3.6/PantheonsHitCounter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -3054,9 +3054,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Hit Counter</Name>
         <Description>Allow creating custom counters for counting hits.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="3C341027545572EFE9F5CCF447DD46F2C296117A44B4E4D9F09FBB4A9CE1BCC6">
-            <![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter/releases/download/v1.0.0/HitCounter.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="E39521819BEB50F64A77F2ACF4A3346EB7D3486B5E90C28CBDECB80E1606D136">
+            <![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter/releases/download/v1.0.1/HitCounter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
