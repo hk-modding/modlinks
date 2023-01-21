@@ -3941,15 +3941,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Godhome Win Loss Tracker</Name>
         <Description>Tracks win/loss and hit stats in Hall of Gods and Pantheons.</Description>
-        <Version>0.7.5.0</Version>
-        <Link SHA256="E934EF741FE607A3EE2AB34A5B45B38CB872E7DEF438749417C126AE94FE5A5E">
-            <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/releases/download/v0.7.5.0/GodhomeWinLossTracker.zip]]>
+        <Version>0.7.7.0</Version>
+        <Link SHA256="28C3F2A7C1011999F351C760AB8AF125F8F8560AF233E27D7AC91098C5C2B609">
+            <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/releases/download/v0.7.7.0/GodhomeWinLossTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
-            <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/]]>
@@ -4502,7 +4501,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Boss Attacks</Name>
         <Description>Train boss fights in Hall of Gods against specific boss attacks and more.</Description>
-        <Version>0.1.5.0</Version>
+        <Version>0.1.7.0</Version>
         <Link SHA256="EC23B3EDDE6A6C19EAEFCB88D726357C59EA67DA258940BD73CAA89658D90BC6">
             <![CDATA[https://github.com/royitaqi/HollowKnight.BossAttacks/releases/download/v0.1.7.0/BossAttacks.zip]]>
         </Link>
