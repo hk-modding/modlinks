@@ -1131,9 +1131,9 @@
     <Manifest>
         <Name>CustomPoolInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined item pools for randomizing different item combinations.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="C9C7E8D94D9DA4B3DF045BD7773679B0BF50659BADDA26F8DF69496648DEAC2B">
-            <![CDATA[https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.1.0/CustomPoolInjector.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="E6323794A463390330A019DDDC24A6E3BA6693C0E296B6F51C0F4E1C611B624F">
+            <![CDATA[https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.1.1/CustomPoolInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
