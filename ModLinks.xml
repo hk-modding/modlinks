@@ -850,9 +850,9 @@
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.5.2.0</Version>
-        <Link SHA256="f8577906e6dfc88ec5a59531da28decab8564ef62a9f1fed3a8d29d3fe2653c2">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.5.2.0/RandoPlus.zip]]>
+        <Version>1.6.0.0</Version>
+        <Link SHA256="5612f689ce57f620efedc82ac24233d477b380018d1bf02953c5fd2ea7847b73">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.6.0.0/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -883,9 +883,9 @@
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.3.5</Version>
-        <Link SHA256="4ba6561e2e31dab528d7b0ca00b6b6e929e7d6ad45b255cfdd4f6c12498b1274">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.3.5/RandomizableLevers.zip]]>
+        <Version>1.2.3.6</Version>
+        <Link SHA256="5b570e3bcefd99aabf2bc3157491ea26929df9e7d0d6f3eaafcd866c8260710a">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.3.6/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -902,9 +902,9 @@
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="e2c0b409627060e7533aa92f59fa2a26c49c0c3235f726122393ac1cddfe90c2">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.1.0/TrandoPlus.zip]]>
+        <Version>1.5.1.1</Version>
+        <Link SHA256="85004082a4bc4ff9061ec5567614442938b15a672634a1b105faf035f29235e7">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.1.1/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -952,9 +952,9 @@
     <Manifest>
         <Name>Scatternest</Name>
         <Description>Addon for Randomizer and ItemSync allowing players to start at multiple different locations.</Description>
-        <Version>0.5.0.0</Version>
-        <Link SHA256="7515a8bb394f31458f30048d7e802664006fe4d7742f8bdd6c25b8004271a566">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v0.5.0.0/Scatternest.zip]]>
+        <Version>0.6.0.0</Version>
+        <Link SHA256="fdf803343a04d5e381845713103ab780e26206359179d7e1731948ae9362d683">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v0.6.0.0/Scatternest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1002,9 +1002,9 @@
     <Manifest>
         <Name>FStats</Name>
         <Description>Displays some stats about a run after the credits screen.</Description>
-        <Version>1.3.3.0</Version>
-        <Link SHA256="9f3d93d005c446ce00bfc96c1cedbffed08caaa0dbd5e80cc78cc01bddbdfdaf">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v1.3.3.0/FStats.zip]]>
+        <Version>1.3.4.0</Version>
+        <Link SHA256="0b806f6aa9047fa3314e71e3554c060d98504c462c260757c9cb0680225c41f4">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v1.3.4.0/FStats.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
