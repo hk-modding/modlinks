@@ -4290,9 +4290,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Charm Overhaul</Name>
         <Description>Port of Charm Overhaul to 1.5, rebalances and reworks numerous Charms</Description>
-        <Version>1.1.0.29948</Version>
-        <Link SHA256="9F320C2F7790BA08E5670691F9011B51E483B91C83B9ADC2D17D09ECB46B5B90">
-            <![CDATA[https://github.com/Exempt-Medic/CharmOverhaul/releases/download/v1.1.0.29948/CharmOverhaul.zip]]>
+        <Version>1.1.1.32253</Version>
+        <Link SHA256="7541E5371930CB7227489D73494D9CF2B9CA4A3E5E491044B507D147DF127404">
+            <![CDATA[https://github.com/Exempt-Medic/CharmOverhaul/releases/download/v1.1.1.32253/CharmOverhaul.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
