@@ -87,10 +87,11 @@
     <Manifest>
         <Name>Nightmare Spark</Name>
         <Description>Adds a Grimm Troupe themed charm with various charm synergies.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="c588b5b90b9b49b456ebd2a935ffc4e6a63c81f63dda92c1d0bffde8a0c1b696">
-            <![CDATA[https://github.com/RiverRobot/Nightmare-Spark/releases/download/v1.1.0/Nightmare.Spark.zip]]></Link>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="3F77CD3308BDE30158127AE1DCCBF98B99085531B72AD701D82882C39494AB3A">
+            <![CDATA[https://github.com/RiverRobot/Nightmare-Spark/releases/download/V1.2.0/Nightmare.Spark.zip]]></Link>
         <Dependencies>
+            <Dependency>HKMirror</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
             <Dependency>ItemChanger</Dependency>
