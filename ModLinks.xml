@@ -91,7 +91,7 @@
         <Link SHA256="3F77CD3308BDE30158127AE1DCCBF98B99085531B72AD701D82882C39494AB3A">
             <![CDATA[https://github.com/RiverRobot/Nightmare-Spark/releases/download/V1.2.0/Nightmare.Spark.zip]]></Link>
         <Dependencies>
-            <<Dependency>HKMirror</Dependency>
+            <Dependency>HKMirror</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
             <Dependency>ItemChanger</Dependency>
