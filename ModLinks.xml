@@ -4484,7 +4484,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Upgraded DreamShield</Name>
         <Description>Turns the Dream Shield into a bow of sorts that can block lasers.</Description>
         <Version>0.0.0.1</Version>
-        <Link SHA256="44664062445792020F360CDEDBA35F847070B8501669FC01BA68123E1973AC70">
+        <Link SHA256="24c40252cc649c35fa46c4d12ef3abc685e39149510aa5c5e31003f175fa5367">
             <![CDATA[https://github.com/pronoespro/UpgradedDreamShield/releases/download/MainVersion/UpgradedDreamShield.zip]]>
         </Link>
         <Dependencies>
