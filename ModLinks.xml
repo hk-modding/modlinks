@@ -4481,6 +4481,27 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Upgraded DreamShield</Name>
+        <Description>Turns the Dream Shield into a bow of sorts that can block lasers.</Description>
+        <Version>0.0.0.1</Version>
+        <Link SHA256="24c40252cc649c35fa46c4d12ef3abc685e39149510aa5c5e31003f175fa5367">
+            <![CDATA[https://github.com/pronoespro/UpgradedDreamShield/releases/download/MainVersion/UpgradedDreamShield.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/pronoespro/UpgradedDreamShield/]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>PronoesPro</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>DreamShield Coop</Name>
         <Description>Mod that allows coop with a 2nd or 3rd player as a dreamshield or grimmchild clone. Support for other mods to easily add more.</Description>
         <Version>1.0.0.0</Version>
