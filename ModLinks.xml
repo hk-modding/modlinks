@@ -3956,6 +3956,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/royitaqi/HollowKnight.GodhomeWinLossTracker/]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Roy</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Empty Menu</Name>
@@ -4537,5 +4543,32 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/royitaqi/HollowKnight.BossAttacks/]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Roy</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Pet</Name>
+        <Description>Gives pets that follow the hero.</Description>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="FB6DADBA7D737EE21B7BE80BB1453A0BB34B9A4FF4EB4AF5584022C034165639">
+            <![CDATA[https://github.com/royitaqi/HollowKnight.Pet/releases/download/v0.1.1.0/Pet.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/royitaqi/HollowKnight.Pet/]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Roy</Author>
+        </Authors>
     </Manifest>
 </ModLinks>
