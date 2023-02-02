@@ -4553,9 +4553,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Pet</Name>
         <Description>Gives pets that follow the hero.</Description>
-        <Version>0.1.1.0</Version>
-        <Link SHA256="FB6DADBA7D737EE21B7BE80BB1453A0BB34B9A4FF4EB4AF5584022C034165639">
-            <![CDATA[https://github.com/royitaqi/HollowKnight.Pet/releases/download/v0.1.1.0/Pet.zip]]>
+        <Version>0.1.2.0</Version>
+        <Link SHA256="496A6D06D26BDB35E44161C83EB597B3D0FE3CD2B960B05A3A1C82959EACD882">
+            <![CDATA[https://github.com/royitaqi/HollowKnight.Pet/releases/download/v0.1.2.0/Pet.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
