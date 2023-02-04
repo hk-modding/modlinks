@@ -374,8 +374,8 @@
     <Manifest>
         <Name>Transcendence</Name>
         <Description>Adds 15 new charms with various abilities. Can be used with the randomizer.</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="e41f5a8523819fcb3152b9aa60793e18159d58d77a2f6f8222177c635fb772c7">https://github.com/dpinela/Transcendence/releases/download/v1.4/Transcendence.zip</Link>
+        <Version>1.4.1.0</Version>
+        <Link SHA256="7239de6b5fcb4960d2a2a5bc707ed8aed8b74b5b2f6d0488e09995d9616f3ddf">https://github.com/dpinela/Transcendence/releases/download/v1.4.1/Transcendence.zip</Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>MagicUI</Dependency>
