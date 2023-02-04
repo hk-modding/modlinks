@@ -2580,10 +2580,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>FrogCore</Name>
-        <Description>Library mod containing stuff for adding journal entries and npcs</Description>
+        <Description>Library mod containing helpers for adding journal entries and npcs and many tk2d extension methods for editing and creating sprite collections and animations</Description>
         <Version>0.0.2.1</Version>
-        <Link SHA256="64F26D72CF41B533AED3848DA5B5007BC324B6BB844EF4E6A301281EEC98AEDC">
-            <![CDATA[https://github.com/SFGrenade/FrogCore/releases/download/v0.0.1.1/FrogCore.zip]]>
+        <Link SHA256="5a88abe5d009412a33d73ffa94caddcbc038c7c80104c5617807dc072415a577">
+            <![CDATA[https://github.com/RedFrog6002/FrogCore/releases/download/2.0.0.0/FrogCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
