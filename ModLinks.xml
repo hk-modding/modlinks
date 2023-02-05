@@ -1017,6 +1017,20 @@
         </Integrations>
     </Manifest>
     <Manifest>
+        <Name>InfoPanelUtil</Name>
+        <Description>Utils for creating info panels through DebugMod.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="c50f56b276914fb1592581c543e37cd2d0971e781571833150529512e77bbbe8">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.InfoPanelUtil/releases/download/v0.1.0.0/InfoPanelUtil.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>DebugMod</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.InfoPanelUtil/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>PlayerDataManager</Name>
         <Description>Override player data values (for example, always set `hasQuill` to false). Having DebugMod is helpful, but not required.</Description>
         <Version>0.5.0.0</Version>
