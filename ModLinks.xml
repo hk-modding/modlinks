@@ -1615,8 +1615,10 @@ Takes hours to load into the game.</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Pail Curt</Name>
-        <Description>This is the Pale Court mod.
+        <Name>Zaliants Surprise</Name>
+        <Description>This is a meme that adds Rick Astley as a menu background.
+Former Description:
+This is the Pale Court mod.
 Enjoy!</Description>
         <Version>1.5.2.0</Version>
         <Link SHA256="36F95A1C91874A2A617EA2D719262085E4F038DEF4F132C5C87AB9567DCC7720">
