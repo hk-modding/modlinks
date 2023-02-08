@@ -899,6 +899,22 @@
         </Integrations>
     </Manifest>
     <Manifest>
+        <Name>Rope Rando</Name>
+        <Description>Adds the rope / chandelier in the Watcher Knights boss room to Randomizer 4. That's it for now.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="6EA7680D3C69D18A700EC23E58504180F8C96404B8FB3A80F0D453B69033414C">
+            <![CDATA[https://github.com/Bentechy66/HollowKnight.RopeRando/releases/download/release/RopeRando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Bentechy66/HollowKnight.RopeRando/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
         <Version>1.5.1.1</Version>
