@@ -3048,6 +3048,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Phenomenol</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>GeoHunger</Name>
@@ -3063,6 +3066,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>Phenomenol</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Pantheons Hit Counter</Name>
@@ -3741,6 +3747,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Phenomenol</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>CustomPantheon</Name>
@@ -3838,6 +3847,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>Phenomenol</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>PathOfPureVessel</Name>
@@ -3924,6 +3936,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Flibber</Author>
+            <Author>Phenomenol</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>HKMP Tag</Name>
@@ -4147,9 +4163,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.0.8.0</Version>
-        <Link SHA256="201A32D6260CACF0BFFFB15BD0726EFBF3DDB28DEE5B64E13EE43CBC1833D782">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.8/MapChanger.zip]]>
+        <Version>1.0.9.0</Version>
+        <Link SHA256="75E69FFDF0FA35DA954E089B5004BFCAB9631F669468E28340DC8B199F52BA4B">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.0.9/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -4164,33 +4180,41 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Library</Tag>
         </Tags>
+        <Authors>
+            <Author>Phenomenol</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.1.4.0</Version>
-        <Link SHA256="3A1B8BD415EB5EB68BF97DF55F9D72E13D5626D3097ED2DF2BC4EB6C90AF6513">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.1.4/RandoMapMod.zip]]>
+        <Version>3.2.0.0</Version>
+        <Link SHA256="DBE1B604296D0B434AAAED1CF0B056F21AB7299CF9B9228DCA817207F33467CB">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.2.0/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
+            <Dependency>ConnectionMetadataInjector</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MagicUI</Dependency>
             <Dependency>MapChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>RandomizerCore</Dependency>
-            <Dependency>ItemChanger</Dependency>
-            <Dependency>MenuChanger</Dependency>
-            <Dependency>ConnectionMetadataInjector</Dependency>
-            <Dependency>MagicUI</Dependency>
+            <Dependency>RCPathfinder</Dependency>
             <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/RandoMapMod]]>
         </Repository>
         <Integrations>
+            <Integration>Benchwarp</Integration>
             <Integration>AdditionalMaps</Integration>
         </Integrations>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Phenomenol</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Twister Indicator</Name>
@@ -4599,6 +4623,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
         <Authors>
             <Author>Roy</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>RCPathfinder</Name>
+        <Description>A pathfinder library for RandomizerCore.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="C5C02AD82CD9622D402F0C6B506F1E8CB86127BE89BC8AE3C34D30E419E6A416">
+            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.0.0/RCPathfinder.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>RandomizerCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder]]>
+        </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>Phenomenol</Author>
         </Authors>
     </Manifest>
 </ModLinks>
