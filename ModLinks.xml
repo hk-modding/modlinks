@@ -2837,7 +2837,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Osmi</Name>
         <Description>A library mod providing utilities for other mods</Description>
         <Version>0.2.1.0</Version>
-        <Link SHA256="79E21B4810ACE067CD949CF6D51A24FE48909929F5F52C756013728AEB212148">
+        <Link SHA256="8AE2AF021D4C188769E9A17766D541516468169CB60A5569BD4445E914572736">
             <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.2.1/Osmi.zip]]>
         </Link>
         <Dependencies />
