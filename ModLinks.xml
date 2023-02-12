@@ -3554,9 +3554,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Dead Cells Bosses</Name>
         <Description>Add Dead Cells' Bosses to Hollow Knight</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="4902242e40af54349057d4355054d62853d78127017f78ff7e5e9068dfab8058">
-            <![CDATA[https://github.com/HKLab/DCBosses/releases/download/v1/Output.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="270cb73a393136bdc26bf12529c9b4922c2442ef84e17db9058fde3c539af1d5">
+            <![CDATA[https://github.com/HKLab/DCBosses/releases/download/v1.1/Output.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
