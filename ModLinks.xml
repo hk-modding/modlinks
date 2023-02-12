@@ -2847,6 +2847,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Library</Tag>
         </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>GodSeekerPlus</Name>
@@ -2867,6 +2870,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Gameplay</Tag>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+            <Author>Mulhima</Author>
+            <Author>HKLab</Author>
+            <Author>Nearrin</Author>
+            <Author>Roy</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>CompanionCloth</Name>
@@ -2884,6 +2894,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>HealthShare</Name>
@@ -2902,6 +2915,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Everwatchers</Name>
@@ -2920,6 +2936,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>TribeOfBattle</Name>
@@ -2941,6 +2960,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+        <Authors>
+            <Author>jngo102</Author>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Crystalblobbles</Name>
@@ -2959,6 +2982,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+        <Authors>
+            <Author>jngo102</Author>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>ContinueCountdown</Name>
@@ -2976,6 +3003,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>CharmPreset</Name>
@@ -2994,6 +3024,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>DoubleJumpFix</Name>
@@ -3009,6 +3042,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>No Particles</Name>
@@ -3026,6 +3062,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Vanilla Map Mod</Name>
