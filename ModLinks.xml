@@ -3534,10 +3534,28 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Dead Cells The Queen</Name>
-        <Description>Replaced Grimm in Godhome with The Queen in Dead Cells</Description>
+        <Description>Replaced Grimm in Godhome with The Queen in Dead Cells.</Description>
         <Version>0.0.0.0</Version>
         <Link SHA256="a7dbc69ccf10d83d239d3e8db5bb78acaf765dd046d8f6d44ff6f470410257f6">
             <![CDATA[https://github.com/HKLab/DCQueen/releases/download/0.0.0.0/Queen.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+
+        <Repository>
+            <![CDATA[https://github.com/HKLab/DCQueen/]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Dead Cells Bosses</Name>
+        <Description>Add Dead Cells' Bosses to Hollow Knight</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="4902242e40af54349057d4355054d62853d78127017f78ff7e5e9068dfab8058">
+            <![CDATA[https://github.com/HKLab/DCBosses/releases/download/v1/Output.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
