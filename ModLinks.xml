@@ -4703,4 +4703,23 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Phenomenol</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>SlantedKnight</Name>
+        <Description>The knight is slanted depending on its HP.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="dcdac54dca3b3e5c0a91b590b8ca4d398bd8f7d6979e3f27993fb61a79ad0f06">
+            <![CDATA[https://github.com/droid042/HollowKnight.SlantedKnight/releases/download/1.0.0.0/SlantedKnight.dll]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/droid042/HollowKnight.SlantedKnight]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Droid042</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
