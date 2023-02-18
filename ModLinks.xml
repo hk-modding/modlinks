@@ -822,14 +822,15 @@
         <Link SHA256="0aa886f4e488158a09e64aede296518c610d1524b15e20c8d8b7d1e6239652a6">
             <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.11.3.4/SkillUpgrades.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/]]>
         </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
-            <Integration>Vasi</Integration>
         </Integrations>
     </Manifest>
     <Manifest>
