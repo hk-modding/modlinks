@@ -4723,4 +4723,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Droid042</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>AspyCompanion</Name>
+        <Description>Replaces Grimmchild with Aspy.</Description>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="5adb341837e15b77a158b313156308b9304c8d23df4eac5ca0a4ad40b9d4554a">
+            <![CDATA[https://github.com/jngo102/AspyCompanion/releases/download/1.0.0.3/AspyCompanion.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/jngo102/AspyCompanion]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>jngo102</Author>
+            <Author>Da Doll</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
