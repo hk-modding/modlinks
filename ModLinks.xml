@@ -3387,6 +3387,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/]]>
         </Repository>
+        <Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
         <Tags>
             <Tag>Library</Tag>
         </Tags>
