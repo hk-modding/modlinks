@@ -4597,9 +4597,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Crafted Town</Name>
         <Description>The Crafted Town adds a new location, several spell alternatives and some charm upgrades (on alpha as of now).</Description>
-        <Version>0.0.0.1</Version>
-        <Link SHA256="79CFBA053731B76F81A3E356B4298C8488160393F78729891EBBC16F8D0F4DCF">
-            <![CDATA[https://github.com/pronoespro/PronoesProMod/releases/download/hollow-knight-mod/PronoesProMod.zip]]>
+        <Version>0.0.1.0</Version>
+        <Link SHA256="55cbf3ab66afa6f03553fa806f23a3bd1d33ba5836fa54fcebe73811fd902ff7">
+            <![CDATA[https://github.com/pronoespro/PronoesProMod/releases/download/DeeShield/PronoesProMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
