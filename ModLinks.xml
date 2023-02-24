@@ -3382,13 +3382,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="407d2fef66e28e9a729c34ec0b4f57a5f5247eb1ded4b4c59c30e27fd970e9bb">
             <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/Legacy-v0/Output.zip]]>
         </Link>
-
-        <Repository>
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/]]>
-        </Repository>
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/]]>
+        </Repository>
+        
         <Tags>
             <Tag>Library</Tag>
         </Tags>
