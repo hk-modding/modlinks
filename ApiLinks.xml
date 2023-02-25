@@ -3,7 +3,7 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ApiLinks.xml">
     <Manifest>
-        <Version>72</Version>
+        <Version>74</Version>
 
         <Links>
             <Linux SHA256="e19442921b6dc40ce793750b1fac7ceac00545bec3e010145e4ca8293652ca55">
