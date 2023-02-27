@@ -104,6 +104,22 @@
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>Breakable Wall Randomizer</Name>
+        <Description>Adds breakable walls and one-way walls to Randomizer 4. Configure in connections menu after installation.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="DDA917F51B5A1503899101A5276A633C76376ED161CB807518D6C3BF0055A8AA">
+            <![CDATA[https://github.com/Bentechy66/HollowKnight.BreakableWallRandomizer/releases/download/rc4/BreakableWallRandomiser.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Bentechy66/HollowKnight.RopeRando/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>Heal On Wall</Name>
         <Description>Makes it so you can Heal On Walls</Description>
         <Version>1.0.0.2</Version>
