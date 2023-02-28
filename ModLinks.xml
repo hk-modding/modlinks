@@ -107,7 +107,7 @@
         <Name>Breakable Wall Randomizer</Name>
         <Description>Adds breakable walls and one-way walls to Randomizer 4. Configure in connections menu after installation.</Description>
         <Version>1.0.0.2</Version>
-        <Link SHA256="D80F60E056FA5D7C8EB5E9719F89CA76F6F410778EB7B64E764541254A69FEE7">
+        <Link SHA256="FBF538DA7D5056A931D49C9AE9F6FC59966B23510469B7BF3B71A38E38F3F1E2">
             <![CDATA[https://github.com/Bentechy66/HollowKnight.BreakableWallRandomizer/releases/download/rc6/BreakableWallRandomiser.zip]]>
         </Link>
         <Dependencies>
