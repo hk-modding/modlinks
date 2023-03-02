@@ -4155,6 +4155,45 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Bomber Knight</Name>
+        <Description>Adds a bomb ability, along a few new charms and custom "bosses".</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="12da2178922784a0d8d9966df0e568db4468b56576486c8fb0cbe51b70521584">
+            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v0.1.0/BomberKnight.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>KorzUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/BomberKnight]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>KorzUtils</Name>
+        <Description>Library mod that provide useful functions for other mods.</Description>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="64431b89731377488b5ae1386ad87fb24cb59061099161a18b5e2e3adc46dd92">
+            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.2.0/KorzUtils.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/KorzUtils]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Infection Bomb</Name>
         <Description>Spawns radiance whenever you kill an infected(or any) bug</Description>
         <Version>0.1.0.0</Version>
