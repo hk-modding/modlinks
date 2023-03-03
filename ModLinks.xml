@@ -4158,9 +4158,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Bomber Knight</Name>
         <Description>Adds a bomb ability, along a few new charms and custom "bosses".</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="12da2178922784a0d8d9966df0e568db4468b56576486c8fb0cbe51b70521584">
-            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v0.1.0/BomberKnight.zip]]></Link>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="18fd217496b33bbf0967178a50252548327d86c1fe2bb8575e3aedffdb6b0d8f">
+            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v0.1.1/BomberKnight.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
@@ -4179,9 +4179,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>KorzUtils</Name>
         <Description>Library mod that provide useful functions for other mods.</Description>
-        <Version>0.2.0.0</Version>
-        <Link SHA256="64431b89731377488b5ae1386ad87fb24cb59061099161a18b5e2e3adc46dd92">
-            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.2.0/KorzUtils.zip]]></Link>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="3a2890cf1dba8a165fb34cbd902c282805119346c9225b27aa6cef27734f4547">
+            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.3.0/KorzUtils.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
