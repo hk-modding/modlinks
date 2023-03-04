@@ -2660,9 +2660,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Unity Explorer</Name>
         <Description>Useful tool for mod developers to view and edit how the game is structured.</Description>
-        <Version>4.8.2.0</Version>
-        <Link SHA256="7cc932572f3a8946233ae8f95233a65df277e59c9aa73194d5a9eddcc382c195">
-            <![CDATA[https://github.com/jngo102/UExplorer/releases/download/74ef0f5a4041a5d54373/UExplorer.zip]]>
+        <Version>4.9.0.0</Version>
+        <Link SHA256="739F4B72068E0AFFAB4CE6A5D5155072805B2EFDEEBB0B7C5DB9323B6F8EE472">
+            <![CDATA[https://github.com/jngo102/UExplorer/releases/download/v1.1/Publish.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -3495,12 +3495,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
-        <Version>0.8.3.0</Version>
-        <Link SHA256="728830a348031970bc2e5914d43b763205562b26adf34c30273d715213ad2ad1">
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v0.8.3.0/Output.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="4B7910209F501D2F4639709A714A7CEBE5E956B8F3BB15650229AA136B895045">
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.0.0.0/Publish.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>HKTool Legacy</Dependency>
+            <Dependency>HKTool</Dependency>
             <Dependency>Unity Explorer</Dependency>
         </Dependencies>
 
