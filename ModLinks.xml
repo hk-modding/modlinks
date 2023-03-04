@@ -4823,7 +4823,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Soul Nail on Heavy Blow</Name>
         <Description>With Heavy Blow on every 5 hits you create a sibling that sharp shadows a nearby enemy.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="5adb341837e15b77a158b313156308b9304c8d23df4eac5ca0a4ad40b9d4554a">
+        <Link SHA256="347cbbd3cabf36f621b36efcd4fc7048305d3074ce1ee8fd281de70775950992">
             <![CDATA[https://github.com/pronoespro/Ancient-Awakenings/releases/download/SoulNail/AncientAwakenings.zip]]>
         </Link>
         <Dependencies>
