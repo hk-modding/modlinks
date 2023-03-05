@@ -2332,10 +2332,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>ModTerminal</Name>
-        <Description>A Hollow Knight mod that adds an in-game terminal for entering commands and cheats as a DebugMod addon</Description>
-        <Version>1.0.8362.1799</Version>
-        <Link SHA256="B0FEC70EA57C66A5CDD4D82E10DCA716B492755D165EB68BAE80ACF12556C968">
-            <![CDATA[https://github.com/BadMagic100/ModTerminal/releases/download/v1.0.8362.1799/ModTerminal.zip]]>
+        <Description>Adds an in-game terminal for entering commands and cheats as a DebugMod addon.</Description>
+        <Version>2.0.8464.8319</Version>
+        <Link SHA256="48B995969024F19103CCCB89722033280C5D82E4E24F01F543963DB52FA0BFA5">
+            <![CDATA[https://github.com/BadMagic100/ModTerminal/releases/download/v2.0.8464.8319/ModTerminal.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -2343,6 +2343,27 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/BadMagic100/ModTerminal/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ICDebug</Name>
+        <Description>A ModTerminal addon which adds commands related to ItemChanger.</Description>
+        <Version>1.0.8464.8594</Version>
+        <Link SHA256="75DA0DC195669A1C17099D6864F9735E2E6C7A07F3AD69779F38358A8504662A">
+            <![CDATA[https://github.com/BadMagic100/ICDebug/releases/download/v1.0.8464.8594/ICDebug.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ModTerminal</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/ICDebug/]]>
         </Repository>
         <Tags>
             <Tag>Utility</Tag>
