@@ -4158,13 +4158,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Lore Master</Name>
         <Description>Adds abilities to lore tablets and certain npc. Offers extra settings for Randomizer 4.</Description>
-        <Version>2.3.0.0</Version>
-        <Link SHA256="98fc0308296dd651dd1a7c6e6576e6e8d81c621e870c775a412b82f712c7bed2">
-            <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.3.0/LoreMaster.zip]]></Link>
+        <Version>2.3.1.0</Version>
+        <Link SHA256="37909871691362d5d9bdb19fdb3030bde70054e207284dcbb261f15e995c8fa3">
+            <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.3.1/LoreMaster.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
             <Dependency>MenuChanger</Dependency>
+            <Dependency>KorzUtils>/Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Korzer420/LoreMaster]]>
@@ -4179,9 +4180,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Bomber Knight</Name>
         <Description>Adds a bomb ability, along a few new charms and custom "bosses".</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="2dd500624c97d804c26bc0a04ad8f2806f536f9c64fc0d752457f8807803a0ae">
-            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.0.0/BomberKnight.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="07ce51e2c0198a951ed57b30fb09845462fc05feeddeb5fd80061f45b75d687f">
+            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.1.0/BomberKnight.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
@@ -4457,9 +4458,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Curse Randomizer</Name>
         <Description>Randomizer 4 connection that adds additional cursed options and mimics.</Description>
-        <Version>3.1.2.0</Version>
-        <Link SHA256="8d0bcb706c5326beb03838d71f207afa28761b8d47be72055f17dad743da47db">
-            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v3.1.2/CurseRandomizer.zip]]></Link>
+        <Version>3.2.0.0</Version>
+        <Link SHA256="fbd8e0481203c8f6da99ecee99822e174346bbcba73fb2aae67354c3ac2afcd3">
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v3.2.0/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
