@@ -4862,4 +4862,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Pro</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>HKRoomLogger</Name>
+        <Description>Logs scene transitions to a file. Companion mod to Windows-only software HKAT.</Description>
+        <Version>1.0.8467.33528</Version>
+        <Link SHA256="8E830E629354962B737B6D2F68E13BB109CF7D1BA32B0C03048EA44D136D0005">
+            <![CDATA[https://github.com/RanDumSocks/HKRoomLogger/releases/download/v1.0.8467.33528/HKRoomLogger.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/RanDumSocks/HKRoomLogger]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>RanDumSocks</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
