@@ -4862,4 +4862,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Pro</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>HKRoomLogger</Name>
+        <Description>Companion mod to HKAT. Install this to use location tracking feature in that softwre.</Description>
+        <Version>1.0.8466.41315</Version>
+        <Links>
+            <Windows SHA256="6311C994520E55259ACE4D185A090D84BAF54DF962A64CDAF44B3118C5BD0CBD"><![CDATA[https://github.com/RanDumSocks/HKRoomLogger/releases/download/v1.0.8466.41315/HKRoomLogger.zip]]></Windows>
+        </Links>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/RanDumSocks/HKRoomLogger]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>RanDumSocks</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
