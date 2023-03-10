@@ -276,10 +276,10 @@
     </Manifest>
     <Manifest>
         <Name>HueShifter</Name>
-        <Description>Uses shaders to change the map colours. Can also make everything rainbows.</Description>
-        <Version>0.2.1.0</Version>
-        <Link SHA256="7C8B4129C2864EDAEA52F545DFA21AD2FF9932EBAB227FD1C4D0BD257A576360">
-            <![CDATA[https://github.com/beesnation/HueShifter/releases/download/v0.2.1.0/HueShifter.zip]]>
+        <Description>Uses shaders to change Hallownest's colours. Can also make everything rainbows.</Description>
+        <Version>0.2.2.1</Version>
+        <Link SHA256="942E0F3D1D7221A587C8F5AB48F2D0289E7EA8E8948C149D7F0216BBF3BFFB6F">
+            <![CDATA[https://github.com/beesnation/HueShifter/releases/download/v0.2.2.1/HueShifter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
