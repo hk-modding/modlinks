@@ -228,10 +228,10 @@
         </Tags>
     </Manifest>
     <Manifest>
-        <Name>Damage Values</Name>
+        <Name>DamageValues</Name>
         <Description>Shows damage numbers when striking an enemy.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="620ffc698da598e819f3c96755929aede40f26f222e4f06761623da192c5e3e9"><![CDATA[https://github.com/jngo102/DamageValues/releases/download/1.0.0.0/DamageValues.zip]]></Link>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="d9abf248b4c06df125cd9a6923c33bcbbe61ad4243a553ff6f1ab80059170927"><![CDATA[https://github.com/jngo102/DamageValues/releases/download/1.0.0.1/DamageValues.zip]]></Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/jngo102/DamageValues]]>
