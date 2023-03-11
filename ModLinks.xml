@@ -6,7 +6,7 @@
         <Name>STFUGrimmChild</Name>
         <Description>makes grimm child stfu</Description>
         <Version>1.1.0.0</Version>
-        <Link SHA256="013018506A03F2B60A54B07DCE087B1C8CD47E0A48B1CF76CC657494705680D0">
+        <Link SHA256="A45A761ECF056C33387168806DB64FF63CA8FD8AE0B694FD4E5926295A7CB5AB">
             <![CDATA[https://github.com/Zickles/STFUGrimmChild/releases/download/1.1.0.0/STFUGrimmChild.zip]]>
         </Link>
         <Dependencies />
