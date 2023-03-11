@@ -9,6 +9,7 @@
         <Link SHA256="013018506A03F2B60A54B07DCE087B1C8CD47E0A48B1CF76CC657494705680D0">
             <![CDATA[https://github.com/Zickles/STFUGrimmChild/releases/download/1.0.0.0/STFUGrimmChild.zip]]>
         </Link>
+        <Dependencies />
         <Repository><![CDATA[https://github.com/Zickles/STFUGrimmChild]]></Repository>
         <Authors>
             <Author>Zickles</Author>
