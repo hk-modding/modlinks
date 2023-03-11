@@ -2424,9 +2424,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GhostHunter</Name>
         <Description>A mod that shows the positions of other player's enemies during multiplay.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="e662064d40a87289ec2ce131c506f2a0d60d666b3e3f97959210d547e847199e">
-            <![CDATA[https://github.com/PrashantMohta/GhostHunter/releases/download/v1.0.0/GhostHunter.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="b3d182f6c0fd42b5f67463278486507490fee1f1e885865efdfa0d9392e1e2ce">
+            <![CDATA[https://github.com/PrashantMohta/GhostHunter/releases/download/v2.0.0/GhostHunter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -2440,9 +2440,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>EmoteWheel</Name>
         <Description>A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="67c9993cb72ef342dd65c43d11ab1c6f95ce9d153c81711a4968196e746b3d7c">
-            <![CDATA[https://github.com/PrashantMohta/EmoteWheel/releases/download/1.0.0/EmoteWheel.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="6fe12adf08f124eb20ffb9fecdd563cd8afd68f90f24969ee7cd068c190cde69">
+            <![CDATA[https://github.com/PrashantMohta/EmoteWheel/releases/download/1.1.0/EmoteWheel.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HkmpPouch</Dependency>
@@ -2456,9 +2456,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MultiplayerEvents</Name>
         <Description>A mod that adds some Multiplayer interactions.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="3fa8fdec4f06ac10fcc758b7cea1e17caa6e9877b5a160dcd54c1fc0a54065bc">
-            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v0.1.0/MultiplayerEvents.dll]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="ca68ab9feb52c1024f55fd611882e37eca14f5dbaf130d7f1be8206349ca53c2">
+            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v1.0.0/MultiplayerEvents.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HkmpPouch</Dependency>
@@ -2471,10 +2471,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>HkmpPouch</Name>
-        <Description>A dependency mod for client side hkmp addons.</Description>
-        <Version>0.3.1.0</Version>
-        <Link SHA256="562D762C35A57272A80D58F15C42E1A7A23A637113B73BA259A030BC29E08651">
-            <![CDATA[https://github.com/TheMulhima/HkmpPouch/releases/download/v0.3.1/HkmpPouch.dll]]>
+        <Description>A dependency mod for optional hkmp addons with networking.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="60498547c292b461a2d51910ac34792a28ebd32007cbe77e63d663d45aed5788">
+            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/releases/download/v1.0.0/HkmpPouch.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -2486,9 +2486,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Satchel</Name>
         <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
-        <Version>0.8.11.0</Version>
-        <Link SHA256="5FA230A09FE702E891B4CD2FD83117AB025445A2C6F629DEA5F3AEC5A9E91537">
-            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.11/Satchel.zip]]>
+        <Version>0.8.12.0</Version>
+        <Link SHA256="1a3e7395515d349485ac01972fe53d2cbc32ebdc910d44492b1abaa2c2efe247">
+            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.12/Satchel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2505,10 +2505,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Custom Knight</Name>
-        <Description>Allows changing skins for the player, enemies, bosses and rooms</Description>
-        <Version>2.1.2.0</Version>
-        <Link SHA256="C68B0501A3F522BD571322D73163810ECDDA19FDD0C36B37FAFFFB5AD36CB7B3">
-            <![CDATA[https://github.com/Zickles/HollowKnight.CustomKnight/releases/download/v2.1.2/CustomKnight.zip]]>
+        <Description>Supports Skins for Player, Enemies and Area overhauls</Description>
+        <Version>2.2.0.0</Version>
+        <Link SHA256="4a195f66dde0d4a5553169b3af062cf566c2a45d973216eb020c14fd36b7db1a">
+            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.2.0/CustomKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -2560,6 +2560,41 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/PrashantMohta/Smolknight/]]>
         </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>SmashKnight</Name>
+        <Description>Changes Knight handling based on health remaining.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="17623198cabc04b7baebd3b4f271b00d33c19bea0ddad19db0b5bd798325174f">
+            <![CDATA[https://github.com/PrashantMohta/SmashKnight/releases/download/v1.0.0/SmashKnight.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/SmashKnight/]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>ESoulLink</Name>
+        <Description>A Pouch Mod that makes enemies share health over HKMP server.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="631f855429b7e727bc3ab8920335958060552f00f45c665ef75a207d9addef44">
+            <![CDATA[https://github.com/PrashantMohta/ESoulLink/releases/download/v1.0.0/ESoulLink.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/ESoulLink/]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>ModScript</Name>
