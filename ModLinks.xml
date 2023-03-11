@@ -2562,6 +2562,41 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>SmashKnight</Name>
+        <Description>Changes Knight handling based on health remaining.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="17623198cabc04b7baebd3b4f271b00d33c19bea0ddad19db0b5bd798325174f">
+            <![CDATA[https://github.com/PrashantMohta/SmashKnight/releases/download/v1.0.0/SmashKnight.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/SmashKnight/]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>ESoulLink</Name>
+        <Description>A Pouch Mod that makes enemies share health over HKMP server.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="631f855429b7e727bc3ab8920335958060552f00f45c665ef75a207d9addef44">
+            <![CDATA[https://github.com/PrashantMohta/ESoulLink/releases/download/v1.0.0/ESoulLink.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/PrashantMohta/ESoulLink/]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>ModScript</Name>
         <Description>Allows writing scripts in JavaScript to mod the game.</Description>
         <Version>0.1.0.0</Version>
