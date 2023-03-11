@@ -2506,7 +2506,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Custom Knight</Name>
         <Description>Supports Skins for Player, Enemies and Area overhauls</Description>
-        <Version>v2.2.0.0</Version>
+        <Version>2.2.0.0</Version>
         <Link SHA256="4a195f66dde0d4a5553169b3af062cf566c2a45d973216eb020c14fd36b7db1a">
             <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.2.0/CustomKnight.zip]]>
         </Link>
