@@ -2424,9 +2424,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GhostHunter</Name>
         <Description>A mod that shows the positions of other player's enemies during multiplay.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="e662064d40a87289ec2ce131c506f2a0d60d666b3e3f97959210d547e847199e">
-            <![CDATA[https://github.com/PrashantMohta/GhostHunter/releases/download/v1.0.0/GhostHunter.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="b3d182f6c0fd42b5f67463278486507490fee1f1e885865efdfa0d9392e1e2ce">
+            <![CDATA[https://github.com/PrashantMohta/GhostHunter/releases/download/v2.0.0/GhostHunter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -2440,9 +2440,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>EmoteWheel</Name>
         <Description>A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="67c9993cb72ef342dd65c43d11ab1c6f95ce9d153c81711a4968196e746b3d7c">
-            <![CDATA[https://github.com/PrashantMohta/EmoteWheel/releases/download/1.0.0/EmoteWheel.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="6fe12adf08f124eb20ffb9fecdd563cd8afd68f90f24969ee7cd068c190cde69">
+            <![CDATA[https://github.com/PrashantMohta/EmoteWheel/releases/download/1.1.0/EmoteWheel.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HkmpPouch</Dependency>
@@ -2456,9 +2456,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MultiplayerEvents</Name>
         <Description>A mod that adds some Multiplayer interactions.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="3fa8fdec4f06ac10fcc758b7cea1e17caa6e9877b5a160dcd54c1fc0a54065bc">
-            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v0.1.0/MultiplayerEvents.dll]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="ca68ab9feb52c1024f55fd611882e37eca14f5dbaf130d7f1be8206349ca53c2">
+            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v1.0.0/MultiplayerEvents.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HkmpPouch</Dependency>
@@ -2471,10 +2471,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>HkmpPouch</Name>
-        <Description>A dependency mod for client side hkmp addons.</Description>
-        <Version>0.3.1.0</Version>
-        <Link SHA256="562D762C35A57272A80D58F15C42E1A7A23A637113B73BA259A030BC29E08651">
-            <![CDATA[https://github.com/TheMulhima/HkmpPouch/releases/download/v0.3.1/HkmpPouch.dll]]>
+        <Description>A dependency mod for optional hkmp addons with networking.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="60498547c292b461a2d51910ac34792a28ebd32007cbe77e63d663d45aed5788">
+            <![CDATA[https://github.com/PrashantMohta/HkmpPouch/releases/download/v1.0.0/HkmpPouch.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
