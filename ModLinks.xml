@@ -4269,7 +4269,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Adds a bunch of lore related itemchanger locations and items.</Description>
         <Version>0.2.0.0</Version>
         <Link SHA256="19a6795312820cfcbbce8e22e38c671455dbd7b0a80edbf6bec697cc3677de63">
-            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.2.0/BomberKnight.zip]]></Link>
+            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.2.0/LoreCore.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>KorzUtils</Dependency>
