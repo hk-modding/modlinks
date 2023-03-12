@@ -4205,7 +4205,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Lore Master</Name>
-        <Description>Adds abilities to lore tablets and certain npc. Offers extra settings for Randomizer 4.</Description>
+        <Description>Adds abilities to lore tablets and certain npc.</Description>
         <Version>2.3.1.0</Version>
         <Link SHA256="37909871691362d5d9bdb19fdb3030bde70054e207284dcbb261f15e995c8fa3">
             <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.3.1/LoreMaster.zip]]></Link>
@@ -4249,9 +4249,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>KorzUtils</Name>
         <Description>Library mod that provide useful functions for other mods.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="3a2890cf1dba8a165fb34cbd902c282805119346c9225b27aa6cef27734f4547">
-            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.3.0/KorzUtils.zip]]></Link>
+        <Version>0.4.0.0</Version>
+        <Link SHA256="a80658b0b8d3bf786fc14a7a392efe4436c41a1c6dee98013a648bc7b451d860">
+            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.4.0/KorzUtils.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -4259,6 +4259,46 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
         <Tags>
             <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>LoreCore</Name>
+        <Description>Adds a bunch of lore related itemchanger locations and items.</Description>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="19a6795312820cfcbbce8e22e38c671455dbd7b0a80edbf6bec697cc3677de63">
+            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.2.0/BomberKnight.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>KorzUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/LoreCore]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Lore Randomizer</Name>
+        <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="89ce6ff13247b0f5ba8f084b66f3edc48fd35a65e1d6cfbc6c66f3c5610fb871">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.1.0/LoreRandomizer.zip]]></Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>LoreCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
         </Tags>
         <Authors>
             <Author>Korz</Author>
