@@ -4228,9 +4228,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Bomber Knight</Name>
         <Description>Adds a bomb ability, along a few new charms and custom "bosses".</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="07ce51e2c0198a951ed57b30fb09845462fc05feeddeb5fd80061f45b75d687f">
-            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.1.0/BomberKnight.zip]]></Link>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="9069d7db2c2dc8666e41bdf3f9a365d1e074409d237c528217c78af10bc625b9">
+            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.2.0/BomberKnight.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
