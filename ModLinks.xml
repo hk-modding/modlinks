@@ -4211,9 +4211,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Lore Master</Name>
         <Description>Adds abilities to lore tablets and certain npc.</Description>
-        <Version>2.3.1.0</Version>
-        <Link SHA256="37909871691362d5d9bdb19fdb3030bde70054e207284dcbb261f15e995c8fa3">
-            <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.3.1/LoreMaster.zip]]></Link>
+        <Version>2.3.2.0</Version>
+        <Link SHA256="57995c9d67bcafb94e61c8d5870ab48e3187226a67987ed7f1e5ceae4adc05d8">
+            <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.3.2/LoreMaster.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
@@ -4233,9 +4233,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Bomber Knight</Name>
         <Description>Adds a bomb ability, along a few new charms and custom "bosses".</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="9069d7db2c2dc8666e41bdf3f9a365d1e074409d237c528217c78af10bc625b9">
-            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.2.0/BomberKnight.zip]]></Link>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="42d453bc67ac2fbbeadb840ab2e29abe22f3b081cddd73b78603b8ad0f58f84a">
+            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.2.1/BomberKnight.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
