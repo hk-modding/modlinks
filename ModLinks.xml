@@ -2687,12 +2687,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
-        <Integrations>
-            <Integration>HkmpPouch</Integration>
-        </Integrations>
         <Repository>
             <![CDATA[https://github.com/PrashantMohta/Konpanion/]]>
         </Repository>
+        <Integrations>
+            <Integration>HkmpPouch</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>Glass Cannon Mod</Name>
