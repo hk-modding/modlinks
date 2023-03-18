@@ -3,6 +3,19 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>STFUGrimmChild</Name>
+        <Description>makes grimm child stfu</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="A45A761ECF056C33387168806DB64FF63CA8FD8AE0B694FD4E5926295A7CB5AB">
+            <![CDATA[https://github.com/Zickles/STFUGrimmChild/releases/download/1.1.0.0/STFUGrimmChild.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/Zickles/STFUGrimmChild]]></Repository>
+        <Authors>
+            <Author>Zickles</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Core.FsmUtil</Name>
         <Description>A library mod for fsm editing.</Description>
         <Version>1.0.0.0</Version>
@@ -106,9 +119,9 @@
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>Adds dive floors, breakable walls, and one-way walls to Randomizer 4. Configure in connections menu after installation.</Description>
-        <Version>2.0.2.0</Version>
-        <Link SHA256="80D11A1F44E3E9292E82CF55876C6562D0A4DD20AC8CB635482BB6169366BF35">
-            <![CDATA[https://github.com/Bentechy66/HollowKnight.BreakableWallRandomizer/releases/download/2.0.2.0/BreakableWallRandomiser.zip]]>
+        <Version>2.0.2.3</Version>
+        <Link SHA256="314A26CBB2F8884B9F4A7B0BE55B09F4CE57DD71C707FCC64DC01AC10F090D02">
+            <![CDATA[https://github.com/Bentechy66/HollowKnight.BreakableWallRandomizer/releases/download/2.0.2.3/BreakableWallRandomiser.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -2176,9 +2189,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP Prop Hunt</Name>
         <Description>An HKMP add-on that adds Prop Hunt to multiplayer games.</Description>
-        <Version>0.0.0.8</Version>
-        <Link SHA256="0d9c13a1c306e4ffa619eba48526b27780465eaa344b07606e9f0d9714aa875f">
-            <![CDATA[https://github.com/jngo102/HKMP.PropHunt/releases/download/0.0.0.8/PropHunt.zip]]>
+        <Version>0.0.1.3</Version>
+        <Link SHA256="6084272eaad9b45c0a3ff380b2ed300596189a47d8f9628abb227e6d6e4fe3a1">
+            <![CDATA[https://github.com/jngo102/HKMP.PropHunt/releases/download/0.0.1.3/PropHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -2187,6 +2200,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/jngo102/HKMP.PropHunt/]]>
         </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>jngo102</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>HKVR</Name>
@@ -2910,9 +2929,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Osmi</Name>
         <Description>A library mod providing utilities for other mods</Description>
-        <Version>0.2.1.0</Version>
-        <Link SHA256="8AE2AF021D4C188769E9A17766D541516468169CB60A5569BD4445E914572736">
-            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.2.1/Osmi.zip]]>
+        <Version>0.2.2.0</Version>
+        <Link SHA256="8A35898D766DCAAE9C005EBCDF6C60B80191933C0547E816652A8D631F9C2C5A">
+            <![CDATA[https://github.com/Clazex/HollowKnight.Osmi/releases/download/v0.2.2/Osmi.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2928,14 +2947,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.23.0.0</Version>
-        <Link SHA256="4C530F0C1807F18F6105F1B9049C17E67F8F6508243D18DC54E9DD16B26C9B6E">
-            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.23.0/GodSeekerPlus.zip]]>
+        <Version>0.23.1.0</Version>
+        <Link SHA256="06949B03755A74AC63762F717FA1632BFB4C0D0CD644CF18EEAA152BBBB3981E">
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.23.1/GodSeekerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
             <Dependency>Satchel</Dependency>
-            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/]]>
@@ -4192,10 +4210,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Lore Master</Name>
-        <Description>Adds abilities to lore tablets and certain npc. Offers extra settings for Randomizer 4.</Description>
-        <Version>2.3.1.0</Version>
-        <Link SHA256="37909871691362d5d9bdb19fdb3030bde70054e207284dcbb261f15e995c8fa3">
-            <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.3.1/LoreMaster.zip]]></Link>
+        <Description>Adds abilities to lore tablets and certain npc.</Description>
+        <Version>2.3.2.0</Version>
+        <Link SHA256="57995c9d67bcafb94e61c8d5870ab48e3187226a67987ed7f1e5ceae4adc05d8">
+            <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.3.2/LoreMaster.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
@@ -4215,9 +4233,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Bomber Knight</Name>
         <Description>Adds a bomb ability, along a few new charms and custom "bosses".</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="07ce51e2c0198a951ed57b30fb09845462fc05feeddeb5fd80061f45b75d687f">
-            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.1.0/BomberKnight.zip]]></Link>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="42d453bc67ac2fbbeadb840ab2e29abe22f3b081cddd73b78603b8ad0f58f84a">
+            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.2.1/BomberKnight.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
@@ -4236,9 +4254,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>KorzUtils</Name>
         <Description>Library mod that provide useful functions for other mods.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="3a2890cf1dba8a165fb34cbd902c282805119346c9225b27aa6cef27734f4547">
-            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.3.0/KorzUtils.zip]]></Link>
+        <Version>0.4.0.0</Version>
+        <Link SHA256="a80658b0b8d3bf786fc14a7a392efe4436c41a1c6dee98013a648bc7b451d860">
+            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.4.0/KorzUtils.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -4246,6 +4264,46 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
         <Tags>
             <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>LoreCore</Name>
+        <Description>Adds a bunch of lore related itemchanger locations and items.</Description>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="1ac844c18497e68c2527ebab1ec75c1a90be82b5a7a03bad27b5054ed8bbd543">
+            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.3.0/LoreCore.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>KorzUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/LoreCore]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Lore Randomizer</Name>
+        <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="d3a12daa90eefad60a608f6919ada21eaa439fca11c51bbde228d6d9adb961c7">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.1.1/LoreRandomizer.zip]]></Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>LoreCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
         </Tags>
         <Authors>
             <Author>Korz</Author>
@@ -4492,13 +4550,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Curse Randomizer</Name>
-        <Description>Randomizer 4 connection that adds additional cursed options and mimics.</Description>
-        <Version>3.2.0.0</Version>
-        <Link SHA256="fbd8e0481203c8f6da99ecee99822e174346bbcba73fb2aae67354c3ac2afcd3">
-            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v3.2.0/CurseRandomizer.zip]]></Link>
+        <Description>Randomizer 4 connection that adds additional cursed options.</Description>
+        <Version>3.2.2.0</Version>
+        <Link SHA256="2f07d9ccaee77ac9926b39a6a6b7c9d9e09a0395a9aa74167e2ec48df50aa86f">
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v3.2.2/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
+            <Dependency>KorzUtils</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Korzer420/CurseRandomizer]]>
