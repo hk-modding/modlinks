@@ -2679,10 +2679,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Konpanion</Name>
-        <Description>A tiny knight companion</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="5cd94844234e1deb2427b20c59c474861cc65ae0b17c40d9084d6ec60a4924c8">
-            <![CDATA[https://github.com/PrashantMohta/Konpanion/releases/download/0.1/Konpanion.dll]]>
+        <Description>A tiny knight companion </Description>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="ec67871382a3cc291e16231c5266e1c76e39f9efdaed51f3aad21f1f127c904d">
+            <![CDATA[https://github.com/PrashantMohta/Konpanion/releases/download/v0.2/Konpanion.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -2690,6 +2690,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/PrashantMohta/Konpanion/]]>
         </Repository>
+        <Integrations>
+            <Integration>HkmpPouch</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>Glass Cannon Mod</Name>
