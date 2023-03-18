@@ -3482,7 +3482,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/]]>
         </Repository>
-        
         <Tags>
             <Tag>Library</Tag>
         </Tags>
@@ -3494,7 +3493,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="3C549AE105B952560E8C13802FB568D589B21A44E02C63472A0350B28AB90CEA">
             <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v2.0.1/HKTool2.zip]]>
         </Link>
- 
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/]]>
@@ -4633,7 +4631,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
-            <Dependency>Satchel</Dependency>            
+            <Dependency>Satchel</Dependency>
             <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository><![CDATA[https://github.com/Exempt-Medic/CharmChanger]]></Repository>
