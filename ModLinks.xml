@@ -3570,9 +3570,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="4B7910209F501D2F4639709A714A7CEBE5E956B8F3BB15650229AA136B895045">
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.0.0.0/Publish.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="20330F19B5C8CD0BFF5CE639667954FC7957B3ECBC04B5297CBFE0DDED6A1439">
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.1.0.0/Publish.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
