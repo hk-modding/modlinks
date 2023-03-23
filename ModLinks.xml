@@ -403,16 +403,14 @@
     <Manifest>
         <Name>Transcendence</Name>
         <Description>Adds 15 new charms with various abilities. Can be used with the randomizer.</Description>
-        <Version>1.4.1.0</Version>
-        <Link SHA256="7239de6b5fcb4960d2a2a5bc707ed8aed8b74b5b2f6d0488e09995d9616f3ddf">https://github.com/dpinela/Transcendence/releases/download/v1.4.1/Transcendence.zip</Link>
+        <Version>1.4.2.0</Version>
+        <Link SHA256="f8674ffd227fac52db30f1fe356cbb36a22e3bde85cc35075776f17af9beea94">https://github.com/dpinela/Transcendence/releases/download/v1.4.2/Transcendence.zip</Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>MagicUI</Dependency>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/dpinela/Transcendence/]]>
-        </Repository>
+        <Repository>https://github.com/dpinela/Transcendence/</Repository>
     </Manifest>
     <Manifest>
         <Name>RainbowEggs</Name>
