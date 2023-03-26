@@ -3719,7 +3719,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/HKLab/DCBosses/releases/download/v1.1.0.2/Publish.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>HKTool Legacy</Dependency>
+            <Dependency>HKTool</Dependency>
         </Dependencies>
 
         <Repository>
