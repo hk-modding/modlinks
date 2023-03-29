@@ -3191,6 +3191,32 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>WebPCodec</Name>
+        <Description>WebP codec support for Texture2D</Description>
+        <Version>0.1.0.0</Version>
+        <Links>
+            <Linux SHA256="96C9B44C961526B7A607063B235A3E8AB90BA3374BD099BA9766021C5821C8CF">
+                <![CDATA[https://github.com/Clazex/WebPCodec/releases/download/v0.1.0/WebPCodec-Linux.zip]]>
+            </Linux>
+            <Mac SHA256="A6D18BCC3073CB7125004D33CC49644935A608AA35CE831B8E3C01B3C7414B18">
+                <![CDATA[https://github.com/Clazex/WebPCodec/releases/download/v0.1.0/WebPCodec-Mac.zip]]>
+            </Mac>
+            <Windows SHA256="51944BC295CABEF6086FCD6CAD1BA299D3CDE93418C58CAFEE68E409CC70D175">
+                <![CDATA[https://github.com/Clazex/WebPCodec/releases/download/v0.1.0/WebPCodec-Windows.zip]]>
+            </Windows>
+        </Links>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Clazex/WebPCodec/]]>
+        </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
         <Version>2.0.2.0</Version>
