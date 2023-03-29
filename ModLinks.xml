@@ -3171,6 +3171,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>AlreadyEnoughPlayMaker</Name>
+        <Description>A optimization mod for PlayMaker FSMs.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="6EBE8220B22308A9040C112F092D265E6EDC5D011320D166147CED9F8B1788A5">
+            <![CDATA[https://github.com/Clazex/HollowKnight.AlreadyEnoughPlayMaker/releases/download/v0.1.0/AlreadyEnoughPlayMaker.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Clazex/HollowKnight.AlreadyEnoughPlayMaker/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
         <Version>2.0.2.0</Version>
