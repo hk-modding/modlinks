@@ -1994,13 +1994,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP HealthDisplay</Name>
         <Description>An addon for HKMP that uses HkmpPouch. Works on the public server.Displays the amount of health other players have</Description>
-        <Version>0.0.5.2</Version>
-        <Link SHA256="60B987C7B998A52C2C8F8C9A505A0F5D85B7FD50A7068D67690DF983AA821252">
-            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.5.2/HKMP_HealthDisplay.zip]]>
+        <Version>0.0.6.0</Version>
+        <Link SHA256="13C68870309E2AA3E44A3AF98E861BFBEA5359E82E852C0459D7F12B7AE332D9">
+            <![CDATA[https://github.com/TheMulhima/HKMP.HealthDisplay/releases/download/v0.0.6.0/HKMP_HealthDisplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
-            <Dependency>MagicUI</Dependency>
             <Dependency>HKMP</Dependency>
             <Dependency>HkmpPouch</Dependency>
             <Dependency>HKMirror</Dependency>
