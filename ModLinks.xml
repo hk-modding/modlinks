@@ -5039,7 +5039,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/user/repo]]>
+            <![CDATA[https://github.com/ToboterXP/HollowKnight.DreamerShardRando]]>
         </Repository>
         <Integrations>
             <Integration>RandoSettingsManager</Integration>
