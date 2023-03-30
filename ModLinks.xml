@@ -3894,7 +3894,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Archipelago Map Mod</Name>
-        <Description>A conversion of the 
+        <Description>A conversion of the
             Map Mod S that works with Archipelago Randomizer</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="51572F3CB5A132285BCFF7EFE129E442967760CDC410C3E7E8774FFB94DC269C">
@@ -5028,6 +5028,27 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
         <Authors>
             <Author>RanDumSocks</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Dreamer Shard Rando</Name>
+        <Description>A Randomizer 4 add-on. Splits the Dreamers of Hallownest into a number of Dreamer Shards customizable by the player</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="40F4C7348AF86C35CCC656FB5BA1F5CB02854056A53A08B1415C6DF2923EE99A"><![CDATA[https://github.com/ToboterXP/HollowKnight.DreamerShardRando/releases/download/1.0.0.0/DreamerShards.zip]]></Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/user/repo]]>
+        </Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+            <Integration>ConnectionMetadataInjector</Integration>
+        </Integrations>
+        <Tags>
+        </Tags>
+        <Authors>
+            <Author>Toboter</Author>
         </Authors>
     </Manifest>
 </ModLinks>
