@@ -457,9 +457,9 @@
     <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
-        <Version>4.8.0.0</Version>
-        <Link SHA256="4250DA9F11135878E3292D0C7E7B2528900D9EF2AD02C96CDFB151B9F5C2967D">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.8/QoL.zip]]>
+        <Version>4.7.0.0</Version>
+        <Link SHA256="38339EE83049FCE48B3105A96A799EB7C85E5C0D2CBCE4A5885FEF32B6E4738A">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.7/QoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -5033,8 +5033,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Dreamer Shard Rando</Name>
         <Description>A Randomizer 4 add-on. Splits the Dreamers of Hallownest into a number of Dreamer Shards customizable by the player</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="40F4C7348AF86C35CCC656FB5BA1F5CB02854056A53A08B1415C6DF2923EE99A"><![CDATA[https://github.com/ToboterXP/HollowKnight.DreamerShardRando/releases/download/1.0.0.0/DreamerShards.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="6E751FC245055F056BFFF3D358D7975807A1B55EBC13213BE4BCE9E6D5D98AAB"><![CDATA[https://github.com/ToboterXP/HollowKnight.DreamerShardRando/releases/download/1.0.1/DreamerShards.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
