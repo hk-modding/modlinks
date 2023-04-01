@@ -1167,6 +1167,18 @@
         <Repository>
             <![CDATA[https://github.com/homothetyhk/RandomizerCore/]]>
         </Repository>
+    </Manifest>    
+    <Manifest>
+        <Name>Enemy Randomizer</Name>
+        <Description>Mod for randomizing enemies, hazards, and effects.</Description>
+        <Version>2023.0.8490.27244</Version>
+        <Link SHA256="19DE9D7C557EDB5A02F2BA324AC94D87B7C7FAA239058D09C4AE9DF71A875321">
+            <![CDATA[https://github.com/Kerr1291/EnemyRandomizer/releases/download/2023.0.8490.27244/EnemyRandomizer_Alpha5.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Kerr1291/EnemyRandomizer/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>ItemChangerDataLoader</Name>
