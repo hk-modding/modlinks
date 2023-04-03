@@ -770,6 +770,20 @@
         </Integrations>
     </Manifest>
     <Manifest>
+        <Name>Enemy Randomizer</Name>
+        <Description>Mod for randomizing enemies, hazards, and effects.</Description>
+        <Version>2023.0.8493.28344</Version>
+        <Link SHA256="ABE507673EAF617D8276F85EA60848598A8A9429E9FC87D936FA86740EAC344B">
+            <![CDATA[https://github.com/Kerr1291/EnemyRandomizer/releases/download/2023.0.8493.28344/EnemyRandomizer_Alpha5s.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Kerr1291/EnemyRandomizer/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>Menderbug's Revenge</Name>
         <Description>Kill the knight whenever you break a background object.</Description>
         <Version>1.2.0.0</Version>
