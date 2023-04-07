@@ -2197,9 +2197,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ConnectionMetadataInjector</Name>
         <Description>A core mod to allow randomizer-supplemental mods like RandoStats and MapModS to get custom metadata from connections without requiring hard dependencies.</Description>
-        <Version>2.1.8284.2438</Version>
-        <Link SHA256="BF4B953E02D7118B9F5877C48E58A5C45CB077407B372D028FD7BB5DEF9B0189">
-            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/releases/download/v2.1.8284.2438/ConnectionMetadataInjector.zip]]>
+        <Version>2.2.8484.33350</Version>
+        <Link SHA256="02926D470544BA8D0CF25E1806B10B798ACDD5E85BB0E2D75A6022B536E5E1D0">
+            <![CDATA[https://github.com/BadMagic100/ConnectionMetadataInjector/releases/download/v2.2.8484.33350/ConnectionMetadataInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -2270,9 +2270,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoChecksCounter</Name>
         <Description>A Hollow Knight mod that provides a live counter of locations checked.</Description>
-        <Version>1.0.8166.12031</Version>
-        <Link SHA256="35E1D809501E60EB7DB8A923FCCDD2FC53165BC5E06E6B3C56AF24A526114EEE">
-            <![CDATA[https://github.com/BadMagic100/RandoChecksCounter/releases/download/v1.0.8166.12031/RandoChecksCounter.zip]]>
+        <Version>1.1.8484.32273</Version>
+        <Link SHA256="DA4DD9ABFB99BA1BDFD6AA21759EFF6ADAB89E60B2F434CE2C03EDECAFB29ED2">
+            <![CDATA[https://github.com/BadMagic100/RandoChecksCounter/releases/download/v1.1.8484.32273/RandoChecksCounter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -2312,9 +2312,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>
             A Hollow Knight mod that reimplements and extends Randomizer's settings sharing and preset management with rich support for connection mods.
         </Description>
-        <Version>1.2.8415.5069</Version>
-        <Link SHA256="5BB8A748926201042E3736F7AF09778C91B71F43686DFC52C2530C40F2666D36">
-            <![CDATA[https://github.com/BadMagic100/RandoSettingsManager/releases/download/v1.2.8415.5069/RandoSettingsManager.zip]]>
+        <Version>1.2.8489.20</Version>
+        <Link SHA256="48B69607E6069E0AEF29E43A004F49DCC6B1D72037CF8C6C27AEAC47C1FA8863">
+            <![CDATA[https://github.com/BadMagic100/RandoSettingsManager/releases/download/v1.2.8489.20/RandoSettingsManager.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MenuChanger</Dependency>
