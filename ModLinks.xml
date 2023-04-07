@@ -119,9 +119,9 @@
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>Adds dive floors, breakable walls, and one-way walls to Randomizer 4. Configure in connections menu after installation.</Description>
-        <Version>2.1.0.0</Version>
-        <Link SHA256="621620E75122F24D1C4D6A4F280EB24CD2DFA437ED833805DA9D1AFE60C854AE">
-            <![CDATA[https://github.com/Bentechy66/HollowKnight.BreakableWallRandomizer/releases/download/2.1.0.0/BreakableWallRandomiser.zip]]>
+        <Version>2.1.0.1</Version>
+        <Link SHA256="9EEF8EE3EFB6C479C42319B9A689277CBF863A4BBFE31DEAB7D54A3ED58C5649">
+            <![CDATA[https://github.com/Bentechy66/HollowKnight.BreakableWallRandomizer/releases/download/2.1.0.1/BreakableWallRandomiser.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
