@@ -2161,7 +2161,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="270E59F65A5E0BC094D31FF69B3AB9ADCAB0780A18A65DBD254E658810EA490E">
             <![CDATA[https://github.com/TheMulhima/Button-Prompt-Switcher/releases/download/v0.0.1.0/Button.Prompt.Switcher.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMulhima/Button-Prompt-Switcher/]]>
         </Repository>
