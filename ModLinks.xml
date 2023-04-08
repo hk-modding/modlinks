@@ -2153,6 +2153,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Authors>
             <Author>Mulhima</Author>
         </Authors>
+    </Manifest>    
+    <Manifest>
+        <Name>Button Prompt Switcher</Name>
+        <Description>Select the type of button prompts the game will display + solutions for other gamepad issues. Original steam discussion: https://steamcommunity.com/sharedfiles/filedetails/?id=2525497719</Description>
+        <Version>0.0.1.0</Version>
+        <Link SHA256="270E59F65A5E0BC094D31FF69B3AB9ADCAB0780A18A65DBD254E658810EA490E">
+            <![CDATA[https://github.com/TheMulhima/Button-Prompt-Switcher/releases/download/v0.0.1.0/Button.Prompt.Switcher.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/Button-Prompt-Switcher/]]>
+        </Repository>
+        <Authors>
+            <Author>Mulhima</Author>
+            <Author>Tintingaroo</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>WeaverCore</Name>
