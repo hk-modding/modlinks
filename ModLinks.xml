@@ -3771,6 +3771,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>CustomJournal</Name>
+        <Description>A CK addon mod to custom journal image </Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="91D8D739513FD3E1F50E34CD82F7DFDC4AE196474570B41ED91F0651FBCA02A6">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomJournal/releases/download/v1.0.0/CustomJournal.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Custom Knight</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomJournal/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Dead Cells The Queen</Name>
         <Description>The mod has been abandoned and is no longer maintained, please use 'Dead Cells Bosses'</Description>
         <Version>0.0.0.1</Version>
