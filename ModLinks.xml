@@ -5046,7 +5046,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Dreamer Shard Rando</Name>
-        <Description>A Randomizer 4 add-on. Splits the Dreamers of Hallownest into a number of Dreamer Shards customizable by the player</Description>
+        <Description>CURRENTLY BUGGED, DO NOT USE!</Description>
         <Version>1.0.1.0</Version>
         <Link SHA256="6E751FC245055F056BFFF3D358D7975807A1B55EBC13213BE4BCE9E6D5D98AAB"><![CDATA[https://github.com/ToboterXP/HollowKnight.DreamerShardRando/releases/download/1.0.1/DreamerShards.zip]]></Link>
         <Dependencies>
