@@ -1207,7 +1207,7 @@
         <Description>A library for randomizer logic and algorithms.</Description>
         <Version>1.1.2.0</Version>
         <Link SHA256="87CC6BF498BC0405D95E6FECAB70E060F238D4D84843C4BD91FBD8523E26C7BB">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.1.2.0/RandomizerCore.zip]]>
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.1.2/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1290,7 +1290,7 @@
         <Name>CustomConstraintInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined constraints on placements and for editing priority weights for items and locations.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="14AEBBFB0EB9F73D51DAC3E9394A8D217B4C22730F5E2CFE6726540065F99803">
+        <Link SHA256="2E966A5E0BA7F98D3B2032DBEFD3211D6F98E2E6385D7F859E4860E71E01916D">
             <![CDATA[https://github.com/homothetyhk/CustomConstraintInjector/releases/download/v1.0.0/CustomConstraintInjector.zip]]>
         </Link>
         <Dependencies>
