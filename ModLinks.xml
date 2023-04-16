@@ -1151,9 +1151,9 @@
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.2.2.0</Version>
-        <Link SHA256="53FEDF1170A94CEEAC0F517BFD1764325CB493069752A213B9AA6180C28D90F0">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.2.0/Benchwarp.zip]]>
+        <Version>3.2.3.0</Version>
+        <Link SHA256="5777B0249C7B1D7068096485B29731835BD4FF2891C3247437F89B36591D0026">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.3.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1163,9 +1163,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.1.1.0</Version>
-        <Link SHA256="BE7456B913F0C4353205C9F8D416444A46B2EBB47C5F4867CE35EAA97235A107">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.1%2B754/RandomizerMod.zip]]>
+        <Version>4.1.2.0</Version>
+        <Link SHA256="94F94D664E94969E9A9BC8330D9FB75F8CBD1734A692CB357C77D52F4F0A1439">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.2%2B020/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -1181,9 +1181,9 @@
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.1.1.0</Version>
-        <Link SHA256="E2CBAD0C4D219A806C4D1B88D1F684FBEB692BF788CA87B44C093038C6F6C3F6">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.1%2B961/ItemChanger.zip]]>
+        <Version>2.1.2.0</Version>
+        <Link SHA256="7A62067A31A36B0DFE5BA215CEB9312C36BCA18F5D96123EC066EBEED193FA2B">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.2%2B090/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1205,9 +1205,9 @@
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="BA3D7AF4A11E2007A9184024F44A8BC6AF9E80188870033F2C61F5CB5BF42125">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.1.1.0/RandomizerCore.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="87CC6BF498BC0405D95E6FECAB70E060F238D4D84843C4BD91FBD8523E26C7BB">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.1.2.0/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1247,9 +1247,9 @@
     <Manifest>
         <Name>CustomPoolInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined item pools for randomizing different item combinations.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="E6323794A463390330A019DDDC24A6E3BA6693C0E296B6F51C0F4E1C611B624F">
-            <![CDATA[https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.1.1/CustomPoolInjector.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="8C202C3226A071B40B11230DCFCB89D9AA8A7EFEC83AF4DAD9F8BD57D0939EF7">
+            <![CDATA[https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.1.2/CustomPoolInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1284,6 +1284,20 @@
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/homothetyhk/CustomGroupInjector/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>CustomConstraintInjector</Name>
+        <Description>A Randomizer 4 add-on for providing user-defined constraints on placements and for editing priority weights for items and locations.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="14AEBBFB0EB9F73D51DAC3E9394A8D217B4C22730F5E2CFE6726540065F99803">
+            <![CDATA[https://github.com/homothetyhk/CustomConstraintInjector/releases/download/v1.0.0/CustomConstraintInjector.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/CustomConstraintInjector/]]>
         </Repository>
     </Manifest>
     <Manifest>
