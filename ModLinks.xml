@@ -1163,9 +1163,9 @@
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.1.2.0</Version>
-        <Link SHA256="94F94D664E94969E9A9BC8330D9FB75F8CBD1734A692CB357C77D52F4F0A1439">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.2%2B020/RandomizerMod.zip]]>
+        <Version>4.1.2.1</Version>
+        <Link SHA256="D84F5A36FD7665D5DA614E87E3D482642AB3887EAD745EF38AF8E08BB2FC97F4">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.2%2B182/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
