@@ -3,6 +3,22 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>Remove Haunted Foes</Name>
+        <Description>Replaces Haunted Foes with new Godhome versions of boss tracks (made by me)</Description>
+        <Version>1.0.0</Version>
+        <Link SHA256="D383A23E8DC9D60E8882F82E19538AE6B213A9A9C167D0715D9037154E346323">
+            <![CDATA[https://github.com/Zickles/STFUGrimmChild/releases/download/1.1.0.0/STFUGrimmChild.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/CharlesGameDev/RemoveHauntedFoes/releases/download/release/RemoveHauntedFoes1.0.0.zip]]></Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>Charles Game Dev</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>STFUGrimmChild</Name>
         <Description>makes grimm child stfu</Description>
         <Version>1.1.0.0</Version>
