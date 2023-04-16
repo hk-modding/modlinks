@@ -7,10 +7,10 @@
         <Description>Replaces Haunted Foes with new Godhome versions of boss tracks (made by me)</Description>
         <Version>1.0.0</Version>
         <Link SHA256="D383A23E8DC9D60E8882F82E19538AE6B213A9A9C167D0715D9037154E346323">
-            <![CDATA[https://github.com/Zickles/STFUGrimmChild/releases/download/1.1.0.0/STFUGrimmChild.zip]]>
+            <![CDATA[https://github.com/CharlesGameDev/RemoveHauntedFoes/releases/download/release/RemoveHauntedFoes1.0.0.zip]]>
         </Link>
         <Dependencies />
-        <Repository><![CDATA[https://github.com/CharlesGameDev/RemoveHauntedFoes/releases/download/release/RemoveHauntedFoes1.0.0.zip]]></Repository>
+        <Repository><![CDATA[https://github.com/CharlesGameDev/RemoveHauntedFoes]]></Repository>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
