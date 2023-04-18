@@ -2444,9 +2444,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>2.0.8435.5033</Version>
-        <Link SHA256="039778CCC451C6FDF0B9CC1CE67B2746DF58995AD56035EC220FA9737B8CB745">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.0.8435.5033/TheRealJournalRando.zip]]>
+        <Version>2.1.8506.38031</Version>
+        <Link SHA256="188AAD0B366D6C15295F2CED782956D4909854D0E0AA08919857CF3DCE04F496">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.1.8506.38031/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -2458,6 +2458,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Integration>Randomizer 4</Integration>
             <Integration>ItemSync</Integration>
             <Integration>RandoSettingsManager</Integration>
+            <Integration>MoreLocations</Integration>
         </Integrations>
         <Authors>
             <Author>BadMagic</Author>
@@ -2524,6 +2525,27 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>MoreLocations</Name>
+        <Description>Randomizer 4 addon that adds assorted locations to the randomizer. Activate in the Connections menu of Randomizer 4.</Description>
+        <Version>1.0.8508.1268</Version>
+        <Link SHA256="07BC35E855A29D69A02F3946430D94340CF543499B1FFAB1E2372A64DCC5B4C1">
+            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.0.8508.1268/MoreLocations.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/MoreLocations/]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
         <Authors>
             <Author>BadMagic</Author>
         </Authors>
