@@ -21,9 +21,9 @@
     <Manifest>
         <Name>Remove Haunted Foes</Name>
         <Description>Replaces Haunted Foes with new Godhome versions of boss tracks (made by me)</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="8F85D0A96E9725BA9C04C817F2082D66D25214529D8FBFE8A2C323C455AB836D">
-            <![CDATA[https://github.com/CharlesGameDev/RemoveHauntedFoes/releases/download/1.0.0.1/RemoveHauntedFoes1.0.0.1.zip]]>
+        <Version>1.0.0.2</Version>
+        <Link SHA256="3227E94AC8F487F895A62135DD4B4B5A86071BA3D0B4174DBFEF394A8CF3398D">
+            <![CDATA[https://github.com/CharlesGameDev/RemoveHauntedFoes/releases/download/1.0.0.2/RemoveHauntedFoes1.0.0.2.zip]]>
         </Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/CharlesGameDev/RemoveHauntedFoes]]></Repository>
