@@ -4292,12 +4292,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Any Radiance</Name>
+        <Name>Any Radiance 3.0</Name>
         <Description>Any Radiance 3.0</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="b43cf802c7b103b5a99cf4cba0b456f9e60323e1e98304228451a5f9bd546f43">
-            <![CDATA[https://github.com/jngo102/AnyRadiance/releases/download/1.0.0.0/AnyRadiance.zip]]>
-        </Link>
+        <Links>
+            <Linux SHA256="a627f83b5915ec44a2d5aa61efae29151771938201d2ef0e783ad6917a1fab4f">
+                <![CDATA[https://github.com/jngo102/AnyRadiance/releases/download/1.0.0.0/AnyRadiance_Linux.zip]]>
+            </Linux>
+            <Mac SHA256="c99d8cdd295a22c38daf9a301868d498b2ee808129a51de186b34e57c2298d15">
+                <![CDATA[https://github.com/jngo102/AnyRadiance/releases/download/1.0.0.0/AnyRadiance_OSX.zip]]>
+            </Mac>
+            <Windows SHA256="1d47e16d00d6ff25c1411f431ac3826a31c0e3c846e880a65f545bc1fff5c087">
+                <![CDATA[https://github.com/jngo102/AnyRadiance/releases/download/1.0.0.0/AnyRadiance_Windows.zip]]>
+            </Windows>
+        </Links>
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
