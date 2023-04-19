@@ -4292,6 +4292,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Any Radiance</Name>
+        <Description>Any Radiance 3.0</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="b43cf802c7b103b5a99cf4cba0b456f9e60323e1e98304228451a5f9bd546f43">
+            <![CDATA[https://github.com/jngo102/AnyRadiance/releases/download/1.0.0.0/AnyRadiance.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/jngo102/AnyRadiance]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>jngo102</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Rando Vanilla Tracker</Name>
         <Description>Randomizer 4 add-on for tracking non-randomized items.</Description>
         <Version>1.2.4.0</Version>
