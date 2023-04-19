@@ -19,6 +19,22 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Remove Haunted Foes</Name>
+        <Description>This mod has been replaced by Better Godhome Music</Description>
+        <Version>1.0.0.2</Version>
+        <Link SHA256="0B11E473916094E4D29398849661D3EC6F516AA387D2D91605AE61BA1A5156D3">
+            <![CDATA[https://github.com/CharlesGameDev/RemoveHauntedFoes/releases/download/release/RemoveHauntedFoes.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/CharlesGameDev/RemoveHauntedFoes]]></Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>Charles Game Dev</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Better Godhome Music</Name>
         <Description>Replaces Haunted Foes with new Godhome versions of boss tracks (made by me)</Description>
         <Version>1.0.0.3</Version>
