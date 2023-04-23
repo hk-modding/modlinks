@@ -2,6 +2,58 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+  <Manifest>
+    <Name>Hallownest-Vocalized</Name>
+    <Description>Adds English voice acting to all Hollow Knight's in-game dialogue.</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="C0A56C8373BDAFC30B94F6F5F2A48E4A9714C9D3FA2518D78C8C296A79ABE465">
+    <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized/releases/download/1.0.0.0/HKVocal.zip]]>
+    </Link>
+    <Dependencies>
+      <Dependency>Satchel</Dependency>
+      <Dependency>Core.FsmUtil</Dependency>
+      <Dependency>HKMirror</Dependency>
+      <Dependency>Osmi</Dependency>
+      <Dependency>SFCore</Dependency>
+      <Dependency>FrogCore</Dependency>
+      <Dependency>Hallownest-Vocalized-AudioLoader</Dependency>
+    </Dependencies>
+    <Repository>
+      <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized]]>
+    </Repository>
+    <Tags>
+      <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+      <Author>RedFrog</Author>
+      <Author>Mulhima</Author>
+      <Author>Link459</Author>
+      <Author>Clove</Author>
+      <Author>Zickles</Author>
+    </Authors>
+  </Manifest>
+  <Manifest>
+    <Name>Hallownest-Vocalized-AudioLoader</Name>
+    <Description>A dependency for Hallownest Vocalized. Download this with the main mod if you haven't!</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="8D6CCCB585B3D9076448F71A5F96C66A1B5272EC3E44D029F994F729C3A7F8C9">
+    <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized-AudioLoader/releases/download/1.0.0.0/Hallownest-Vocalized-AudioLoader.zip]]>
+    </Link>
+    <Dependencies />
+    <Repository>
+      <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized-AudioLoader]]>
+    </Repository>
+    <Tags>
+      <Tag>Utility</Tag>
+    </Tags>
+    <Authors>
+      <Author>RedFrog</Author>
+      <Author>Mulhima</Author>
+      <Author>Link459</Author>
+      <Author>Clove</Author>
+      <Author>Zickles</Author>
+    </Authors>
+    </Manifest>
     <Manifest>
         <Name>Disable Low Health Vignette</Name>
         <Description>Disables the low health vignette.</Description>
