@@ -89,9 +89,9 @@
     <Manifest>
         <Name>Better Godhome Music</Name>
         <Description>Replaces Haunted Foes with new Godhome versions of boss tracks (made by me)</Description>
-        <Version>1.0.0.4</Version>
-        <Link SHA256="49F4EBBE20EA4589E2E0690EDC870D0F092DA151D716FBE1D5CAFE517D9F579C">
-            <![CDATA[https://github.com/CharlesGameDev/BetterGodhomeMusic/releases/download/1.0.0.4/BetterGodhomeMusic1.0.0.4.zip]]>
+        <Version>1.0.0.5</Version>
+        <Link SHA256="82CB18E6177BAF3424F183B71F1A1E3839BEA2FFC17D8C6A5D2AB643D5FFE9AF">
+            <![CDATA[https://github.com/CharlesGameDev/BetterGodhomeMusic/releases/download/1.0.0.5/BetterGodhomeMusic1.0.0.5.zip]]>
         </Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/CharlesGameDev/BetterGodhomeMusic]]></Repository>
