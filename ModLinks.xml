@@ -2267,7 +2267,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Authors>
             <Author>Mulhima</Author>
         </Authors>
-    </Manifest>    
+    </Manifest>
     <Manifest>
         <Name>Button Prompt Switcher</Name>
         <Description>Select the type of button prompts the game will display + solutions for other gamepad issues. Original steam discussion: https://steamcommunity.com/sharedfiles/filedetails/?id=2525497719</Description>
@@ -5294,6 +5294,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Integration>RandoSettingsManager</Integration>
             <Integration>ConnectionMetadataInjector</Integration>
         </Integrations>
+        <Authors>
+            <Author>Toboter</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Text Randomizer</Name>
+        <Description>Shuffles around all text in Hollow Knight</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="C3E9C11EA8DC98FA49941273B6C9DE639903D8E5B9FF4934C25D2889DFECD59D"><![CDATA[https://github.com/ToboterXP/HollowKnight.TextRandomizer/releases/download/v1.0/TextRandomizer.zip]]></Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ToboterXP/HollowKnight.TextRandomizer]]>
+        </Repository>
+
         <Authors>
             <Author>Toboter</Author>
         </Authors>
