@@ -2600,9 +2600,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreLocations</Name>
         <Description>Randomizer 4 addon that adds assorted locations to the randomizer. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.0.8508.1268</Version>
-        <Link SHA256="07BC35E855A29D69A02F3946430D94340CF543499B1FFAB1E2372A64DCC5B4C1">
-            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.0.8508.1268/MoreLocations.zip]]>
+        <Version>1.0.8520.4027</Version>
+        <Link SHA256="F42AEDA9FF20FFFCB3C47681EBB782FABDDC4D971118623FD88480BD638CE142">
+            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.0.8520.4027/MoreLocations.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
