@@ -89,9 +89,9 @@
     <Manifest>
         <Name>Better Godhome Music</Name>
         <Description>Replaces Haunted Foes with new Godhome versions of boss tracks (made by me)</Description>
-        <Version>1.0.0.5</Version>
-        <Link SHA256="82CB18E6177BAF3424F183B71F1A1E3839BEA2FFC17D8C6A5D2AB643D5FFE9AF">
-            <![CDATA[https://github.com/CharlesGameDev/BetterGodhomeMusic/releases/download/1.0.0.5/BetterGodhomeMusic1.0.0.5.zip]]>
+        <Version>1.0.0.6</Version>
+        <Link SHA256="9D60C778A633AD7CE97A9A0D184F1CD93339BB5448986A7B0864D4A5A957E27F">
+            <![CDATA[https://github.com/CharlesGameDev/BetterGodhomeMusic/releases/download/1.0.0.6/BetterGodhomeMusic1.0.0.6.zip]]>
         </Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/CharlesGameDev/BetterGodhomeMusic]]></Repository>
@@ -557,9 +557,9 @@
     <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
-        <Version>4.7.0.0</Version>
-        <Link SHA256="38339EE83049FCE48B3105A96A799EB7C85E5C0D2CBCE4A5885FEF32B6E4738A">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.7/QoL.zip]]>
+        <Version>4.8.0.0</Version>
+        <Link SHA256="4250DA9F11135878E3292D0C7E7B2528900D9EF2AD02C96CDFB151B9F5C2967D">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.8/QoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -1122,9 +1122,9 @@
     <Manifest>
         <Name>Scatternest</Name>
         <Description>Addon for Randomizer and ItemSync allowing players to start at multiple different locations.</Description>
-        <Version>0.7.0.0</Version>
-        <Link SHA256="afafbd275dc7536a85e29299b92d6296cbf4554f40b5ce88772ceb89c39e9558">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v0.7.0.0/Scatternest.zip]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="9318236313755062e4faa9be074bccef3902a6f074f04b568752dbe4777be636">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.0.0.0/Scatternest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1172,9 +1172,9 @@
     <Manifest>
         <Name>FStats</Name>
         <Description>Displays some stats about a run after the credits screen.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="8ac60de1a271700fc50377a3c4053ec3629a385ddd46182ad00b96091c1ea3f8">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v2.0.0.0/FStats.zip]]>
+        <Version>2.0.0.1</Version>
+        <Link SHA256="1f4b4f765a046024ad5efd03bfd3abaa380401a46b098ac8f083673e98474600">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v2.0.0.1/FStats.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -2600,9 +2600,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreLocations</Name>
         <Description>Randomizer 4 addon that adds assorted locations to the randomizer. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.0.8508.1268</Version>
-        <Link SHA256="07BC35E855A29D69A02F3946430D94340CF543499B1FFAB1E2372A64DCC5B4C1">
-            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.0.8508.1268/MoreLocations.zip]]>
+        <Version>1.0.8520.4027</Version>
+        <Link SHA256="F42AEDA9FF20FFFCB3C47681EBB782FABDDC4D971118623FD88480BD638CE142">
+            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.0.8520.4027/MoreLocations.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -4411,9 +4411,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP Tag</Name>
         <Description>An HKMP addon that adds the tag game-mode.</Description>
-        <Version>2.2.1.0</Version>
-        <Link SHA256="33c07c709b97c0f3e9e051cbfdc08f5a6257d1d0e5efd2e3a5dab110a441ec3c">
-            <![CDATA[https://github.com/Extremelyd1/HKMP.Tag/releases/download/v2.2.1/HKMPTag.dll]]>
+        <Version>2.3.1.0</Version>
+        <Link SHA256="6b37e33012c3392ca0dd6855a3a9b5e3ec460a868d5d769087063f62d623c7b9">
+            <![CDATA[https://github.com/Extremelyd1/HKMP.Tag/releases/download/v2.3.1/HKMPTag.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
