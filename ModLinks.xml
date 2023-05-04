@@ -5309,12 +5309,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/ToboterXP/HollowKnight.TextRandomizer]]>
         </Repository>
-        <Tags>
-            <Tag>Cosmetic</Tag>
-        </Tags>
         <Integrations>
             <Integration>Randomizer 4</Integration>
         </Integrations>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
         <Authors>
             <Author>Toboter</Author>
         </Authors>
