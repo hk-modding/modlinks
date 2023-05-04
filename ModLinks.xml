@@ -57,8 +57,8 @@
     <Manifest>
         <Name>Disable Low Health Vignette</Name>
         <Description>Disables the low health vignette.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="83A06EF1D26D1F5BBD86052CC7CBE35B9FCA89699FB071D97896EC5FD60AABEF"><![CDATA[https://github.com/luizeldorado/DisableLowHealthVignetteMod/releases/download/v1.0.0.0/DisableLowHealthVignette.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="6E31339ED844293F04799BF5AC11B5161ABAC1682BADDFF638B4D800129B101D"><![CDATA[https://github.com/luizeldorado/DisableLowHealthVignetteMod/releases/download/v1.1.0.0/DisableLowHealthVignette.zip]]></Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/luizeldorado/DisableLowHealthVignetteMod]]>
@@ -1391,9 +1391,9 @@
     <Manifest>
         <Name>ItemSync</Name>
         <Description>A RandomizerMod 4 add-on for sharing item pickups between players.</Description>
-        <Version>2.6.1.0</Version>
-        <Link SHA256="146622FE07FBDAAA85F30B63E94FAC00776451E0AAC76EABD2BCDAECB87E1C97">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.6.1/ItemSync.zip]]>
+        <Version>2.6.2.0</Version>
+        <Link SHA256="389598161AD500827F4008C87932FD7657AD83501162D4BDED2544A9C75697D8">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.6.2/ItemSync.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -4597,9 +4597,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.1.4.0</Version>
-        <Link SHA256="0ce4259f602f4ada74f11d7ed0a529705bf1382892ff24e9e2dae0353b6de0ef">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.1.4/LoreRandomizer.zip]]></Link>
+        <Version>0.1.5.0</Version>
+        <Link SHA256="8edc3072c6cb612168de79cb6fd09db9894995f61a21ecb7d03efd932a5c62c7">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.1.5/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
@@ -5301,24 +5301,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Text Randomizer</Name>
         <Description>Shuffles around all text in Hollow Knight</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="C3E9C11EA8DC98FA49941273B6C9DE639903D8E5B9FF4934C25D2889DFECD59D"><![CDATA[https://github.com/ToboterXP/HollowKnight.TextRandomizer/releases/download/v1.0/TextRandomizer.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="0B33EC88B3D737875AA09C75FB6EC0212495DE6EF7FF3315AE696419C07EC57D"><![CDATA[https://github.com/ToboterXP/HollowKnight.TextRandomizer/releases/download/v1.1/TextRandomizer.zip]]></Link>
         <Dependencies>
-            <Dependency>Randomizer 4</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/ToboterXP/HollowKnight.TextRandomizer]]>
         </Repository>
-<<<<<<< Updated upstream
-
-=======
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
         <Integrations>
             <Integration>Randomizer 4</Integration>
         </Integrations>
->>>>>>> Stashed changes
         <Authors>
             <Author>Toboter</Author>
         </Authors>
