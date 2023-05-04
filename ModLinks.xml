@@ -5312,6 +5312,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Integrations>
             <Integration>Randomizer 4</Integration>
         </Integrations>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
         <Authors>
             <Author>Toboter</Author>
         </Authors>
