@@ -5319,4 +5319,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Toboter</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Disable Achievements</Name>
+        <Description>Prevents the game from awarding achievements, both in-game and on all platforms (Steam, GoG etc.)</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="3F78D6DB34AF723D7F4CE5F00A40F68B1F042838E4D60422DE9A7BD24633308C"><![CDATA[https://github.com/ToboterXP/HollowKnight.DisableAchievements/releases/download/v1.0/DisableAchievements.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/ToboterXP/HollowKnight.DisableAchievements]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Toboter</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
