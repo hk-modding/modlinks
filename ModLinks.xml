@@ -3,6 +3,23 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
   <Manifest>
+    <Name>Snom</Name>
+    <Description>Cosmetic mod that replaces Tiktiks in the game with Snoms</Description>
+    <Version>v1</Version>
+    <Link SHA256="ea8c7013fd399f44e60d00a44111f82cafa5b1047a3edd10c9d1fb1eb5a2f3f2">
+      <![CDATA[https://github.com/sawayoshisy/HollowKnight.Snom/releases/download/v1/Snom.zip]]>
+    </Link>
+    <Dependencies />
+    <Repository><![CDATA[https://github.com/sawayoshisy/HollowKnight.Snom]]></Repository>
+    <Tags>
+      <Tag>Cosmetic</Tag>
+    </Tags>
+    <Authors>
+      <Author>SawaYoshi</Author>
+      <Author>Peekadutch</Author>
+    </Authors>
+  </Manifest>
+  <Manifest>
     <Name>Hallownest-Vocalized</Name>
     <Description>Adds English voice acting to all Hollow Knight's in-game dialogue.</Description>
     <Version>1.0.0.0</Version>
