@@ -3423,6 +3423,32 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>FLACCodec</Name>
+        <Description>FLAC codec support for AudioClip</Description>
+        <Version>0.1.0.0</Version>
+        <Links>
+            <Linux SHA256="F24BB54E78D8F5B0436DA2FCDFFDFE8874A514E3FFD502A135DD0CB1A99A7904">
+                <![CDATA[https://github.com/Clazex/FLACCodec/releases/download/v0.1.0/FLACCodec-Linux.zip]]>
+            </Linux>
+            <Mac SHA256="2B69FA30864F28821CCB9ED2A569AE7F30F13E017DA2D11A86C375793C991944">
+                <![CDATA[https://github.com/Clazex/FLACCodec/releases/download/v0.1.0/FLACCodec-Mac.zip]]>
+            </Mac>
+            <Windows SHA256="4A3B18FBB100E406722C9EFFD0BA3EB150CCB01BC84BB9EA121911C617B72A5F">
+                <![CDATA[https://github.com/Clazex/FLACCodec/releases/download/v0.1.0/FLACCodec-Windows.zip]]>
+            </Windows>
+        </Links>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Clazex/FLACCodec/]]>
+        </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
         <Version>2.0.2.0</Version>
