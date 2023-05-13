@@ -3165,9 +3165,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.23.1.0</Version>
-        <Link SHA256="06949B03755A74AC63762F717FA1632BFB4C0D0CD644CF18EEAA152BBBB3981E">
-            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.23.1/GodSeekerPlus.zip]]>
+        <Version>0.24.0.0</Version>
+        <Link SHA256="360C53F01FD0A1FA766C9D3A824F277FB81BD96BDF7C0FD47ACDC6A8296B2B6D">
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.24.0/GodSeekerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
@@ -3359,9 +3359,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>No Particles</Name>
         <Description>Disables most of the particle effects.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="DA9C827FF27D0BD4B71BF9EE3D9A14CDA58506BE331BE158CE0005940867953B">
-            <![CDATA[https://github.com/Clazex/HollowKnight.NoParticles/releases/download/v1.0.0/NoParticles.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="A9AC268689AB086DE8996A944B9B10CD06E092672E3EC3567BB80C1FAF9FF472">
+            <![CDATA[https://github.com/Clazex/HollowKnight.NoParticles/releases/download/v1.0.1/NoParticles.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
@@ -3414,6 +3414,32 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Clazex/WebPCodec/]]>
+        </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>Clazex</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>FLACCodec</Name>
+        <Description>FLAC codec support for AudioClip</Description>
+        <Version>0.1.0.0</Version>
+        <Links>
+            <Linux SHA256="F24BB54E78D8F5B0436DA2FCDFFDFE8874A514E3FFD502A135DD0CB1A99A7904">
+                <![CDATA[https://github.com/Clazex/FLACCodec/releases/download/v0.1.0/FLACCodec-Linux.zip]]>
+            </Linux>
+            <Mac SHA256="2B69FA30864F28821CCB9ED2A569AE7F30F13E017DA2D11A86C375793C991944">
+                <![CDATA[https://github.com/Clazex/FLACCodec/releases/download/v0.1.0/FLACCodec-Mac.zip]]>
+            </Mac>
+            <Windows SHA256="4A3B18FBB100E406722C9EFFD0BA3EB150CCB01BC84BB9EA121911C617B72A5F">
+                <![CDATA[https://github.com/Clazex/FLACCodec/releases/download/v0.1.0/FLACCodec-Windows.zip]]>
+            </Windows>
+        </Links>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Clazex/FLACCodec/]]>
         </Repository>
         <Tags>
             <Tag>Library</Tag>
