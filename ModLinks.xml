@@ -3,6 +3,23 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
   <Manifest>
+    <Name>Snom</Name>
+    <Description>Cosmetic mod that replaces Tiktiks in the game with Snoms</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="05944188f02948fa1c46a4d60a907292e75e586c9f0810cd97c044af5c2ec022">
+      <![CDATA[https://github.com/sawayoshisy/HollowKnight.Snom/releases/download/v1/Snom.zip]]>
+    </Link>
+    <Dependencies />
+    <Repository><![CDATA[https://github.com/sawayoshisy/HollowKnight.Snom]]></Repository>
+    <Tags>
+      <Tag>Cosmetic</Tag>
+    </Tags>
+    <Authors>
+      <Author>SawaYoshi</Author>
+      <Author>Peekadutch</Author>
+    </Authors>
+  </Manifest>
+  <Manifest>
     <Name>Grub Names</Name>
     <Description>ItemChanger/Randomizer 4 add-on that replaces Grub names with Skurry's Grub names</Description>
     <Version>1.0.0.0</Version>
