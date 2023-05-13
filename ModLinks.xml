@@ -20,6 +20,26 @@
     </Authors>
   </Manifest>
   <Manifest>
+    <Name>Grub Names</Name>
+    <Description>ItemChanger/Randomizer 4 add-on that replaces Grub names with Skurry's Grub names</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="D2CD9F08010975A4A1385AC2619964B8A00E4838A98F2554DAEAD426B46C4D9E">
+    <![CDATA[https://github.com/CharlesGameDev/GrubNames/releases/download/release/GrubNames1.0.0.0.zip]]>
+    </Link>
+    <Dependencies>
+      <Dependency>ItemChanger</Dependency>
+    </Dependencies>
+    <Repository>
+      <![CDATA[https://github.com/CharlesGameDev/GrubNames]]>
+    </Repository>
+    <Tags>
+      <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+      <Author>CharlesGameDev</Author>
+    </Authors>
+  </Manifest>
+  <Manifest>
     <Name>Hallownest-Vocalized</Name>
     <Description>Adds English voice acting to all Hollow Knight's in-game dialogue.</Description>
     <Version>1.0.0.0</Version>
