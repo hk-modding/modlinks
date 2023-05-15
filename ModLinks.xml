@@ -4688,7 +4688,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>KorzUtils</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer]]>
+            <![CDATA[https://github.com/Korzer420/ExtraRando]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
