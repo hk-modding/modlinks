@@ -4680,9 +4680,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.0.1.0</Version>
-        <Link SHA256="cc8cf5411d94d8eccedb06060fe5b9da0617e6bd6bca6004168df308526d0941">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.0.1/ExtraRando.zip]]></Link>
+        <Version>0.0.2.0</Version>
+        <Link SHA256="44c16c585a08598ae1ac8c5a81d58ac3834e54e667273db1b4dba933d2b5e87c">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.0.2/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
