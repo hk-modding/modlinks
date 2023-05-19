@@ -282,6 +282,9 @@
         <Repository>
             <![CDATA[https://github.com/Zickles/Heal_On_Wall]]>
         </Repository>
+	<Authors>
+		<Author>Zickles</Author>
+	</Authors>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -315,6 +318,9 @@
         <Repository>
             <![CDATA[https://github.com/Zickles/RadianceExtras]]>
         </Repository>
+	<Authors>
+		<Author>Zickles</Author>
+	</Authors>
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
