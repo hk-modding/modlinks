@@ -3508,6 +3508,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Cosmetic</Tag>
             <Tag>Utility</Tag>
         </Tags>
+    	<Authors>
+            <Author>Dastan</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Hit Counter</Name>
@@ -3537,6 +3540,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+    	<Authors>
+            <Author>Dastan</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>CustomImage</Name>
