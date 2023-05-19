@@ -282,12 +282,12 @@
         <Repository>
             <![CDATA[https://github.com/Zickles/Heal_On_Wall]]>
         </Repository>
-	<Authors>
-		<Author>Zickles</Author>
-	</Authors>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+	<Authors>
+		<Author>Zickles</Author>
+	</Authors>
     </Manifest>
     <Manifest>
         <Name>Better Void Heart</Name>
@@ -318,12 +318,12 @@
         <Repository>
             <![CDATA[https://github.com/Zickles/RadianceExtras]]>
         </Repository>
-	<Authors>
-		<Author>Zickles</Author>
-	</Authors>
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+	<Authors>
+		<Author>Zickles</Author>
+	</Authors>
     </Manifest>
     <Manifest>
         <Name>Lost Artifacts</Name>
