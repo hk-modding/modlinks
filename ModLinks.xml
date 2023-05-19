@@ -285,6 +285,9 @@
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+	<Authors>
+		<Author>Zickles</Author>
+	</Authors>
     </Manifest>
     <Manifest>
         <Name>Better Void Heart</Name>
@@ -318,6 +321,9 @@
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
+	<Authors>
+		<Author>Zickles</Author>
+	</Authors>
     </Manifest>
     <Manifest>
         <Name>Lost Artifacts</Name>
