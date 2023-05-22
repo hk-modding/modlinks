@@ -5446,9 +5446,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     <Name>Grass Randomizer</Name>
     <Description>Supplemental randomizer mod that randomizes the grass in the world. Currently only sees grass broken with nail (c-dash does not work).</Description>
-    <Version>1.0.0.0</Version>
-	<Link SHA256="c379c665566a222148cd83ac4c4de53670eff7014bda13086f8ea25886452741">
-    <![CDATA[https://github.com/StormZillaa/HollowKnightGrassRando/releases/download/v1.0.0/GrassRandoV1.0.0.zip]]>
+    <Version>1.0.1.0</Version>
+	<Link SHA256="cee20f7849429068ff7ecc850a340ac19180a543ce33f2f936c8d281c924ebdc">
+    <![CDATA[https://github.com/StormZillaa/HollowKnightGrassRando/releases/download/v1.0.1/GrassRandoV1.0.1.zip]]>
     </Link>
     <Dependencies>
         <Dependency>RandomizerCore</Dependency>
