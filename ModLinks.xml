@@ -1587,6 +1587,24 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>CursedMod 🕶</Name>
+        <Description>This mod does miscellaneous stuff. Like making the game window be dark mode on windows.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="C88CB6C2BB3BFEA39999627204A84173FE5B2750535255AB8C7BBA7AB2DDDE6A">
+            <![CDATA[https://github.com/SFGrenade/CursedMod/releases/download/v1/CursedMod.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/CursedMod/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>CustomBgm</Name>
         <Description>Allows customization of background music. See its readme for a how-to.</Description>
         <Version>1.5.2.0</Version>
