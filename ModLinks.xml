@@ -3,6 +3,24 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
   <Manifest>
+    <Name>Floor Time Counter</Name>
+    <Description>Adds a counter for how many frames you've touched the ground.</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="C79E671C31B4439C8239FDCF671E4AFFAC2A3E25ABF8A0099837958EDAD3D8F7">
+      <![CDATA[https://github.com/CharlesGameDev/FloorTimeCounter/releases/download/1.0.0.0/FloorTimeCounter1.0.0.0.zip]]>
+    </Link>
+    <Dependencies>
+      <Dependency>MagicUI</Dependency>
+    </Dependencies>
+    <Repository><![CDATA[https://github.com/CharlesGameDev/FloorTimeCounter]]></Repository>
+    <Tags>
+      <Tag>Cosmetic</Tag>
+    </Tags>
+    <Authors>
+      <Author>CharlesGameDev</Author>
+    </Authors>
+  </Manifest>
+  <Manifest>
     <Name>Snom</Name>
     <Description>Cosmetic mod that replaces Tiktiks in the game with Snoms</Description>
     <Version>1.0.0.0</Version>
