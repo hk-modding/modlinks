@@ -60,9 +60,9 @@
   <Manifest>
     <Name>Hallownest-Vocalized</Name>
     <Description>Adds English voice acting to all Hollow Knight's in-game dialogue.</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="C0A56C8373BDAFC30B94F6F5F2A48E4A9714C9D3FA2518D78C8C296A79ABE465">
-    <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized/releases/download/0.0.1.0/HKVocal.zip]]>
+    <Version>0.0.1.1</Version>
+    <Link SHA256="9ED326C5F00037423B7E9ECC96D6157D37B0C0B2A3910F39A8FD2D5A801151E6">
+    <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized/releases/download/0.0.1.1/HKVocal.zip]]>
     </Link>
     <Dependencies>
       <Dependency>Satchel</Dependency>
@@ -91,8 +91,8 @@
     <Name>Hallownest-Vocalized-AudioLoader</Name>
     <Description>A dependency for Hallownest Vocalized. Download this with the main mod if you haven't!</Description>
     <Version>1.0.0.0</Version>
-    <Link SHA256="8D6CCCB585B3D9076448F71A5F96C66A1B5272EC3E44D029F994F729C3A7F8C9">
-    <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized-AudioLoader/releases/download/0.0.1.0/Hallownest-Vocalized-AudioLoader.zip]]>
+    <Link SHA256="2AF50A005CEF217BE45F36D0391587EA04C4A39E87F158F8E68639460B940E12">
+    <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized-AudioLoader/releases/download/0.0.1.1/Hallownest-Vocalized-AudioLoader.zip]]>
     </Link>
     <Dependencies />
     <Repository>
