@@ -90,7 +90,7 @@
   <Manifest>
     <Name>Hallownest-Vocalized-AudioLoader</Name>
     <Description>A dependency for Hallownest Vocalized. Download this with the main mod if you haven't!</Description>
-    <Version>1.0.0.0</Version>
+    <Version>0.0.1.1</Version>
     <Link SHA256="2AF50A005CEF217BE45F36D0391587EA04C4A39E87F158F8E68639460B940E12">
     <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized-AudioLoader/releases/download/0.0.1.1/Hallownest-Vocalized-AudioLoader.zip]]>
     </Link>
