@@ -60,7 +60,7 @@
   <Manifest>
     <Name>Hallownest-Vocalized</Name>
     <Description>Adds English voice acting to all Hollow Knight's in-game dialogue.</Description>
-    <Version>0.0.1.1</Version>
+    <Version>1.0.1.1</Version>
     <Link SHA256="9ED326C5F00037423B7E9ECC96D6157D37B0C0B2A3910F39A8FD2D5A801151E6">
     <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized/releases/download/0.0.1.1/HKVocal.zip]]>
     </Link>
@@ -90,7 +90,7 @@
   <Manifest>
     <Name>Hallownest-Vocalized-AudioLoader</Name>
     <Description>A dependency for Hallownest Vocalized. Download this with the main mod if you haven't!</Description>
-    <Version>0.0.1.1</Version>
+    <Version>1.0.1.1</Version>
     <Link SHA256="2AF50A005CEF217BE45F36D0391587EA04C4A39E87F158F8E68639460B940E12">
     <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized-AudioLoader/releases/download/0.0.1.1/Hallownest-Vocalized-AudioLoader.zip]]>
     </Link>
