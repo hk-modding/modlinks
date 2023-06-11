@@ -540,7 +540,7 @@
         <Name>Nailgod</Name>
         <Description>Sly modded boss.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="d57c54c464fb958e4b8e10c95f713e2cc3cc18d73b56a4b44c0449790aa9a306">
+        <Link SHA256="0d03c98ff3760ec2accfc85ab4bb2fe7eb57d247b477431d789853d74722a774">
             <![CDATA[https://github.com/nearrin/HollowKnight.Nailgod/releases/download/1.0.0.0/1.0.Release.zip]]>
         </Link>
         <Dependencies>
