@@ -540,8 +540,8 @@
         <Name>Nailgod</Name>
         <Description>Sly modded boss.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="e2a2ca004520f8e412f6c3500d792fa1d63c72c7c1704aba55f495f660717d8d">
-            <![CDATA[https://github.com/nearrin/HollowKnight.Nailgod/releases/download/1.0.0.0/1.0.Release.zip]]>
+        <Link SHA256="cf797fad17c0f309026c2f7243789e1be6a3319e1f89f7234bed07cd193339a4">
+            <![CDATA[https://github.com/nearrin/HollowKnight.Nailgod/releases/download/1.0.0.1/1.0.0.1.Release.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
