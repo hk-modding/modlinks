@@ -2414,9 +2414,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="91636c5c0f573c45bed4664d4d9db14be136039ed36c375426f0057504be35ce">
-            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.1.0.0-beta/WeaverCore.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="caf0c37a46092b32fb5dbf134025305836657ca9054297536abf86c237829a40">
+            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.2.0.0-beta/WeaverCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
