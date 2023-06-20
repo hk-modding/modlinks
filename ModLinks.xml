@@ -3153,12 +3153,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Reskins bosses in the Godhome to have more golden designs and details</Description>
         <Version>0.1.1.0</Version>
         <Link SHA256="c3d2fe63c8dbde25f0d85b8ee780f4d2651e4992e5e59df52da8fc9efda8c031">
-            <![CDATA[https://github.com/mandar1jn/GoldenGodhome/releases/download/1.1.0/GoldenGodhome.zip]]>
+            <![CDATA[https://github.com/Fyremoth-project/GoldenGodhome/releases/download/1.1.0/GoldenGodhome.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/mandar1jn/GoldenGodhome/]]>
+            <![CDATA[https://github.com/Fyremoth-project/GoldenGodhome/]]>
         </Repository>
+        <Authors>
+            <Author>RedFrog</Author>
+            <Author>Godfriend</Author>
+            <Author>Rusty</Author>
+            <Author>Mandar1jn</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Hall of Gods Extras</Name>
