@@ -56,9 +56,9 @@
   <Manifest>
     <Name>Grub Names</Name>
     <Description>ItemChanger/Randomizer 4 add-on that replaces Grub names with Skurry's Grub names</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="D2CD9F08010975A4A1385AC2619964B8A00E4838A98F2554DAEAD426B46C4D9E">
-    <![CDATA[https://github.com/CharlesGameDev/GrubNames/releases/download/release/GrubNames1.0.0.0.zip]]>
+    <Version>2.0.0.2</Version>
+    <Link SHA256="0430d64db2260791915041daf7d1ca04e908987786289b9604ecec0fb77bb827">
+    <![CDATA[https://github.com/CharlesGameDev/GrubNames/releases/download/2.0.0.2/GrubNames2.0.0.2.zip]]>
     </Link>
     <Dependencies>
       <Dependency>ItemChanger</Dependency>
@@ -71,6 +71,7 @@
     </Tags>
     <Authors>
       <Author>CharlesGameDev</Author>
+      <Author>limchi</Author>
     </Authors>
   </Manifest>
   <Manifest>
