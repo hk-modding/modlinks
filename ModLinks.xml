@@ -3024,20 +3024,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Tag>Library</Tag>
         </Tags>
     </Manifest>
-    <!--
-    <Manifest>
-        <Name>Grassy Knight</Name>
-        <Description>Tracks and shows you how much grass you've cut.</Description>
-        <Version>0.1.4.0</Version>
-        <Link SHA256="3ddf5cf525b546ff367bccfdd8b020e5411574d6649da0bfa774c0d7e0cd8afc">
-            <![CDATA[https://github.com/mandar1jn/GrassyKnight/releases/download/1.4.0/GrassyKnight.zip]]>
-</Link>
-<Dependencies />
-<Repository>
-<![CDATA[https://github.com/mandar1jn/GrassyKnight/]]>
-</Repository>
-</Manifest>
-    -->
     <Manifest>
         <Name>Unity Explorer</Name>
         <Description>Useful tool for mod developers to view and edit how the game is structured.</Description>
