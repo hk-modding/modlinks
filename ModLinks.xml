@@ -2309,10 +2309,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Hide Mod List</Name>
-        <Description>Allows you to hide your modlist</Description>
-        <Version>0.2.2.1</Version>
-        <Link SHA256="88268DD32BDC632C2004BA9CF62A308F796DD9D142CAC8C4FB38CFE1896E7F47">
-            <![CDATA[https://github.com/TheMulhima/HollowKnight.HideModList/releases/download/v2.2.1/HideModList.zip]]>
+        <Description>Allows you to hide your mod list or reduce the space the mod list takes on the screen.</Description>
+        <Version>0.2.3.0</Version>
+        <Link SHA256="4F68055EA5E2E88493E56E4AF3D74C3BFF729AF4CE994491F3347E00F341E59B">
+            <![CDATA[https://github.com/TheMulhima/HollowKnight.HideModList/releases/download/v2.3/HideModList.zip]]>
         </Link>
         <Dependencies />
         <Repository>
