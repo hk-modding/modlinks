@@ -77,9 +77,9 @@
   <Manifest>
     <Name>Hallownest-Vocalized</Name>
     <Description>Adds English voice acting to all Hollow Knight's in-game dialogue.</Description>
-    <Version>1.0.1.1</Version>
-    <Link SHA256="9ED326C5F00037423B7E9ECC96D6157D37B0C0B2A3910F39A8FD2D5A801151E6">
-    <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized/releases/download/0.0.1.1/HKVocal.zip]]>
+    <Version>1.0.1.2</Version>
+    <Link SHA256="F9529A1D664C1020DD4AFE6A7E06BF77EEA614F5E5079E726CF5F7704CD01EFC">
+    <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized/releases/download/0.0.1.2/HKVocal.zip]]>
     </Link>
     <Dependencies>
       <Dependency>Satchel</Dependency>
