@@ -5561,4 +5561,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync]]>
         </Repository>
     </Manifest>
+     <Manifest>
+        <Name>Soul Paladin</Name>
+        <Description>A mod that speeds up the Soul Warrior fight and modifies it's attacks.</Description>
+        <Version>0.0.0.3</Version>
+        <Link SHA256="CBC437B25329460A1CA4DA1326437917F8FA0ABF4552F7D9CFF83C23EC9294E6">
+            <![CDATA[https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin/releases/download/v0.0.0.3/SoulPaladin0003.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin]]>
+        </Repository>
+    </Manifest>
 </ModLinks>
