@@ -967,9 +967,9 @@
     <Manifest>
         <Name>Enemy Randomizer</Name>
         <Description>Mod for randomizing the enemies and related things.</Description>
-        <Version>2023.0.8578.26385</Version>
-        <Link SHA256="51DB50C124B10FE085DBC9989AB63FF9FD44EE2EC4B7EFB2EB04DE4046F0A76B">
-            <![CDATA[https://github.com/Kerr1291/EnemyRandomizer/releases/download/2023.0.8578.26385/EnemyRandomizer_Alpha9_2.zip]]>
+        <Version>2023.0.8578.31145</Version>
+        <Link SHA256="49F78535E0D2D8B6FE2289BF64944AED8FC668B40CE52E302BBDF0C5534D9058">
+            <![CDATA[https://github.com/Kerr1291/EnemyRandomizer/releases/download/2023.0.8578.31145/EnemyRandomizer_Alpha9_2_1.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
