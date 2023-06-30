@@ -3,23 +3,25 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 <Manifest>
-    <Name>Test Name</Name>
+    <Name>Pale Court</Name>
     <Description>Test description</Description>
     <Version>0.0.0.0</Version>
     <Links>
-        <Linux SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://linux.link]]></Linux>
-        <Mac SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://mac.link]]></Mac>
-        <Windows SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://windows.link]]></Windows>
+        <Linux SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[somewhere]]></Linux>
+        <Mac SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[over the]]></Mac>
+        <Windows SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[rainbow]]></Windows>
     </Links>
-    <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://multiplatform.link]]></Link>
     <Dependencies>
-        <Dependency>Probably a few</Dependency>
+        <Dependency>FrogCore</Dependency>
+        <Dependency>SFCore</Dependency>
+        <Dependency>Vasi</Dependency>
     </Dependencies>
     <Repository>
-        <![CDATA[https://github.com/user/repo]]>
+        <![CDATA[you'd like to see this right]]>
     </Repository>
     <Integrations>
-        <Integration>I think there were some</Integration>
+        <Integration>GodSeekerPlus</Integration>
+        <Integration>Enemy HP Bar</Integration>
     </Integrations>
     <Tags>
         <Tag>Boss</Tag>
@@ -27,7 +29,7 @@
         <Tag>Gameplay</Tag>
     </Tags>
     <Authors>
-        <Author>todo: add authors.</Author>
+        <Author>it's just a few</Author>
     </Authors>
 </Manifest>
 <Manifest>
