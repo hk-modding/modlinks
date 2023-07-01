@@ -30,6 +30,9 @@ This is the repository that holds information on every public mod that should be
     <Repository>
         <![CDATA[https://github.com/user/repo]]>
     </Repository>
+    <Issues>
+        <![CDATA[https://website/for/bug_reports]]>
+    </Issues>
     <Integrations>
         <Integration>Another mod's name, like the dependency list, but not a hard dependency, but extra stuff when it is installed alongside</Integration>
     </Integrations>
@@ -39,8 +42,5 @@ This is the repository that holds information on every public mod that should be
     <Authors>
         <Author>An author's name. Has no specific format.</Author>
     </Authors>
-    <Issues>
-        <![CDATA[https://website/for/bug_reports]]>
-    </Issues>
 </Manifest>
 ```
