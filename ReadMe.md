@@ -39,5 +39,8 @@ This is the repository that holds information on every public mod that should be
     <Authors>
         <Author>An author's name. Has no specific format.</Author>
     </Authors>
+    <Issues>
+        <![CDATA[https://website/for/bug_reports]]>
+    </Issues>
 </Manifest>
 ```

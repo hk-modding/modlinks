@@ -37,6 +37,7 @@
       <xs:element minOccurs="0" maxOccurs="1" name="Integrations" type="mm:IntegrationListType" />
       <xs:element minOccurs="0" maxOccurs="1" name="Tags" type="mm:TagListType" />
       <xs:element minOccurs="0" maxOccurs="1" name="Authors" type="mm:AuthorListType" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Issues" type="mm:LinkStringType" />
     </xs:sequence>
   </xs:complexType>
 
