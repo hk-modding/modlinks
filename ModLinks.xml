@@ -8,9 +8,13 @@
 Overcome your opponents with powerful new charms!
 Discover new secrets and stories!
 All with an incredible new soundtrack!</Description>
-    <Version>1.0.0.2</Version>
-    <Link SHA256="4C03D050BE60BECAF7F7EE88EEFAD6E58800984A99FE3FED0339BC51FCD6D4E1">
-        <![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.2/PaleCourt.zip]]>
+    <Version>1.0.0.3</Version>
+	<Links>
+        <Mac SHA256="3759a89de32b2cccef279bf9597788c1fd82761297d7cfedb3b630c196f6dc3a"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.3/PaleCourt-Mac.zip]]></Mac>
+        <Windows SHA256="84ACEAA159DB8BE0809BF27C702E5380A0B0DC73E543E457348E2AF0F8095D82"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.3/PaleCourt.zip]]></Windows>
+    </Links>
+    <Link SHA256="84ACEAA159DB8BE0809BF27C702E5380A0B0DC73E543E457348E2AF0F8095D82">
+        <![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.3/PaleCourt.zip]]>
     </Link>
     <Dependencies>
         <Dependency>FrogCore</Dependency>
