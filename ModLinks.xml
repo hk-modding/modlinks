@@ -10,6 +10,7 @@ Discover new secrets and stories!
 All with an incredible new soundtrack!</Description>
     <Version>1.0.0.3</Version>
 	<Links>
+		<Linux></Linux>
         <Mac SHA256="3759a89de32b2cccef279bf9597788c1fd82761297d7cfedb3b630c196f6dc3a"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.3/PaleCourt-Mac.zip]]></Mac>
         <Windows SHA256="84ACEAA159DB8BE0809BF27C702E5380A0B0DC73E543E457348E2AF0F8095D82"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.3/PaleCourt.zip]]></Windows>
     </Links>
