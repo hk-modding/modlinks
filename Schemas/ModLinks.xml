@@ -34,6 +34,7 @@
       </xs:choice>
       <xs:element minOccurs="1" maxOccurs="1" name="Dependencies" type="mm:DepListType" />
       <xs:element minOccurs="1" maxOccurs="1" name="Repository" type="mm:LinkStringType" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Issues" type="mm:LinkStringType" />
       <xs:element minOccurs="0" maxOccurs="1" name="Integrations" type="mm:IntegrationListType" />
       <xs:element minOccurs="0" maxOccurs="1" name="Tags" type="mm:TagListType" />
       <xs:element minOccurs="0" maxOccurs="1" name="Authors" type="mm:AuthorListType" />
