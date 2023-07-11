@@ -4310,7 +4310,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Enables play with the Archipelago multiworld system.</Description>
         <Version>0.1.1.2</Version>
         <Link SHA256="603662BE702D9A35D45EB2F65960133E0E34CF64C84E32A745320C35B21AE492">
-            <![CDATA[https://github.com/Ijwu/Archipelago.HollowKnight/releases/download/0.1.1.2/Archipelago.zip]]>
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/0.1.1.2/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -4319,7 +4319,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>QoL</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Ijwu/Archipelago.HollowKnight/]]>
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -4328,7 +4328,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             Map Mod S that works with Archipelago Randomizer</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="51572F3CB5A132285BCFF7EFE129E442967760CDC410C3E7E8774FFB94DC269C">
-            <![CDATA[https://github.com/KonoTyran/HollowKnight.ArchipelagoMapMod/releases/download/V1.0.0/APMapMod.zip]]>
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/HollowKnight.ArchipelagoMapMod/releases/download/V1.0.0/APMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
@@ -4340,7 +4340,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>MagicUI</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/KonoTyran/HollowKnight.ArchipelagoMapMod/]]>
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/HollowKnight.ArchipelagoMapMod/]]>
         </Repository>
         <Integrations>
             <Integration>AdditionalMaps</Integration>
