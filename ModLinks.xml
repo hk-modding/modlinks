@@ -2509,21 +2509,28 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="caf0c37a46092b32fb5dbf134025305836657ca9054297536abf86c237829a40">
-            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.2.0.0-beta/WeaverCore.zip]]>
+        <Version>1.2.0.1</Version>
+        <Link SHA256="e85137c0caaf8107b96743b863733fee093b7f9fcec8314de61d8347993c09ba">
+            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.2.0.1/WeaverCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/nickc01/WeaverCore/]]>
         </Repository>
+		<Tags>
+			<Tag>Utility</Tag>
+			<Tag>Library</Tag>
+		</Tags>
+		<Authors>
+			<Author>Nickc01</Author>
+		</Authors>
     </Manifest>
     <Manifest>
         <Name>Inferno King Grimm</Name>
         <Description>A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu</Description>
-        <Version>4.1.0.4</Version>
-        <Link SHA256="53ce157fc3dd17dc88303b18ce238ec3b8cd7b7fb25a2d5c32760ea1db68aa8b">
-            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.1.0.4/InfernoKingGrimm.zip]]>
+        <Version>4.2.0.0</Version>
+        <Link SHA256="62cf38e81684b19012e9622a872067dff2e5284dfb5b33e898a8c8587b69b8a8">
+            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.0.0/InfernoKingGrimm.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
@@ -2531,13 +2538,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/]]>
         </Repository>
+		<Tags>
+			<Tag>Boss</Tag>
+			<Tag>Gameplay</Tag>
+		</Tags>
+		<Authors>
+			<Author>Nickc01</Author>
+		</Authors>
     </Manifest>
     <Manifest>
         <Name>Corrupted Kin</Name>
         <Description>A mod that significantly changes up the Lost Kin bossfight</Description>
-        <Version>1.2.0.4</Version>
-        <Link SHA256="27e2fa342d3a58ebc31f7e3cb9dbfabf7bab23afe85f58eeaba54c7c2c69e6b2">
-            <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.2.0.4/CorruptedKin.zip]]>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="7b3495c2aa28d47f7b5af18f1de6d30ac1697ae043d5328c402e6c18e23a702e">
+            <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.3.0.0/CorruptedKin.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
@@ -2545,6 +2559,34 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/nickc01/Corrupted-Kin/]]>
         </Repository>
+		<Tags>
+			<Tag>Boss</Tag>
+			<Tag>Gameplay</Tag>
+		</Tags>
+		<Authors>
+			<Author>Nickc01</Author>
+		</Authors>
+    </Manifest>
+	<Manifest>
+        <Name>Crystal Machinist</Name>
+        <Description>A mod that significantly changes up the Enraged Guardian bossfight</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="363b4126a85cbb5ed8f23c0941ee1eaca605873bb400090118aa85b36237af7a">
+            <![CDATA[https://github.com/nickc01/Crystal-Machinist/releases/download/v1.0.0.0/CrystalMachinist.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>WeaverCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/nickc01/Crystal-Machinist/]]>
+        </Repository>
+		<Tags>
+			<Tag>Boss</Tag>
+			<Tag>Gameplay</Tag>
+		</Tags>
+		<Authors>
+			<Author>Nickc01</Author>
+		</Authors>
     </Manifest>
     <Manifest>
         <Name>HKMP</Name>
