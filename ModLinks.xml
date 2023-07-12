@@ -2509,16 +2509,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
-        <Version>1.2.0.1</Version>
-        <Link SHA256="e85137c0caaf8107b96743b863733fee093b7f9fcec8314de61d8347993c09ba">
-            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.2.0.1/WeaverCore.zip]]>
+        <Version>1.2.0.2</Version>
+        <Link SHA256="553a7967a346032e4ca5ac41677a84288435ac36b2fca3a881b1393b75b82931">
+            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v1.2.0.2/WeaverCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/nickc01/WeaverCore/]]>
         </Repository>
 		<Tags>
-			<Tag>Utility</Tag>
 			<Tag>Library</Tag>
 		</Tags>
 		<Authors>
@@ -2528,9 +2527,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Inferno King Grimm</Name>
         <Description>A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu</Description>
-        <Version>4.2.0.0</Version>
-        <Link SHA256="62cf38e81684b19012e9622a872067dff2e5284dfb5b33e898a8c8587b69b8a8">
-            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.0.0/InfernoKingGrimm.zip]]>
+        <Version>4.2.0.1</Version>
+        <Link SHA256="ded394ad594f5503053de3426eb064b10b96d8ccfaf4f6f266282883ed39c50f">
+            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.0.1/InfernoKingGrimm.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
