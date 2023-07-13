@@ -2569,9 +2569,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Crystal Machinist</Name>
         <Description>A mod that significantly changes up the Enraged Guardian bossfight</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="363b4126a85cbb5ed8f23c0941ee1eaca605873bb400090118aa85b36237af7a">
-            <![CDATA[https://github.com/nickc01/Crystal-Machinist/releases/download/v1.0.0.0/CrystalMachinist.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="d46133953ca07821fe75be708f244295dac6e6ec3161b1280ec8edaf63f6878d">
+            <![CDATA[https://github.com/nickc01/Crystal-Machinist/releases/download/v1.0.0.1/CrystalMachinist.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
