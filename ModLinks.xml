@@ -957,9 +957,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Additional Timelines</Name>
         <Description>Adds extra timelines to the stats screen after the end credits.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="F7FABB631C72224A4C2389BEF2152D1DD8C365480A72538554881856EF40108E">
-            <![CDATA[https://github.com/Emo-hk/AdditionalTimelines/releases/download/v1.0.2/AdditionalTimelines.zip]]>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="DCFAAA80B38B77D0EC01D71EF3AA4C6CCF536B47392283EA9230F568B0129DC1">
+            <![CDATA[https://github.com/Emo-hk/AdditionalTimelines/releases/download/v1.0.3/AdditionalTimelines.zip]]>
         </Link>
         <Dependencies>
             <Dependency>FStats</Dependency>
