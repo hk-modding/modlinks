@@ -5707,4 +5707,27 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin]]>
         </Repository>
     </Manifest>
+    	<Manifest>
+	  <Name>NoBlur</Name>
+	  <Description>
+	    Clean your glasses and see Hollow Knight's background objects without blur. Mod Options for removing Blur planes, Fog objects, and Haze objects.
+	  </Description>
+	  <Version>0.0.0.0</Version>
+	  <Link SHA256="56BDF35F6AE52411910D4F2CA403A287DA0B8863112C1C23624ABC4228E103C0"><![CDATA[https://github.com/Destalta/NoBlur/releases/download/v1.0/NoBlur.zip]]></Link>
+	  <Dependencies>
+	    <Dependency>Satchel</Dependency>
+	  </Dependencies>
+	  <Repository>
+	    <![CDATA[https://github.com/Destalta/NoBlur]]>
+	  </Repository>
+	  <Issues>
+	    <![CDATA[https://github.com/Destalta/NoBlur/issues]]>
+	  </Issues>
+	  <Tags>
+	    <Tag>Cosmetic</Tag>
+	  </Tags>
+	  <Authors>
+	    <Author>Destalta</Author>
+	  </Authors>
+	</Manifest>
 </ModLinks>
