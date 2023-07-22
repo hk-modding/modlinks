@@ -5723,6 +5723,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin]]>
         </Repository>
     </Manifest>
+<!--
     	<Manifest>
 	  <Name>NoBlur</Name>
 	  <Description>
@@ -5746,6 +5747,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    <Author>Destalta</Author>
 	  </Authors>
 	</Manifest>
+-->
 	<Manifest>
 		<Name>Keep Me Geo</Name>
 		<Description>Don't want the anxiety of losing everything when you die? Then Keep Me Geo will take your worries away! You won't lose any more geo than you want to when you die!</Description>
