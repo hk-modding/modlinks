@@ -2190,7 +2190,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>WideCamera</Name>
         <Description>Make ultrawide screens possible without black bars. Should also work for thinner than 16:9. In theory.</Description>
         <Version>1.5.0.0</Version>
-        <Link SHA256="A1A63A9B335379DA6BD0F1D30AD70C5E43EF65F13E25C740E718DA7B0D7B0D58">
+        <Link SHA256="6C5E1BF0D6E58BBFDE9FFA8B90A194526D802E117C762DD2A81A84753B7C8287">
             <![CDATA[https://github.com/SFGrenade/WideCamera/releases/download/v1.5/WideCamera.zip]]>
         </Link>
         <Dependencies />
