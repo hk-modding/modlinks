@@ -5746,4 +5746,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    <Author>Destalta</Author>
 	  </Authors>
 	</Manifest>
+	<Manifest>
+  	<Name>Keep Me Geo</Name>
+    <Description>Don't want the anxiety of losing everything when you die? Then Keep Me Geo will take your worries away! You won't lose any more geo than you want to when you die!</Description>
+    <Version>1.0.0.0</Version>
+	  <Link SHA256="58299d08b89fa9ecc2c3e3d94ec5ea8934c0950ba06127e875c467817db6f8fd"><![CDATA[https://github.com/CDoggggg/KeepMeGeo/releases/download/v1.0.0.0/Keep.Me.Geo.zip]]></Link>
+	  <Dependencies>
+	  	<Dependency>Satchel</Dependency>
+	  </Dependencies>
+	  <Repository>
+	  	<![CDATA[https://github.com/CDoggggg/KeepMeGeo]]>
+	  </Repository>
+	  <Issues>
+	  	<![CDATA[https://github.com/CDoggggg/KeepMeGeo/issues]]>
+	  </Issues>
+	  <Tags>
+	  	<Tag>Gameplay</Tag>
+			<Tag>Utility</Tag>
+	  </Tags>
+	  <Authors>
+	    <Author>CDog</Author>
+	  </Authors>
+	</Manifest>
 </ModLinks>
