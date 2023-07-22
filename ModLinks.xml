@@ -5772,9 +5772,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 
 	<Manifest>
 		<Name>ShyKnight</Name>
-		<Description>Removes the audience from godhome arenas</Description>
-		<Version>1.2.1.0</Version>
-		<Link SHA256="EDB2EEB352A2655265BE9B2E07BB9803386912E229D85C90CAC81B8358320B7A"><![CDATA[https://github.com/Acu1000/ShyKnight/releases/download/v1.2.1/ShyKnight.zip]]></Link>
+		<Description>Removes the audience from Godhome arenas and Colosseum of Fools</Description>
+		<Version>1.3.0.0</Version>
+		<Link SHA256="2FAB6EC14FAFF4C5CE2B4773F2C6FA2516AF82E08173374374151B4E5050EA5C"><![CDATA[https://github.com/Acu1000/ShyKnight/releases/download/v1.3.0.0/ShyKnight.zip]]></Link>
 		<Dependencies />
 		<Repository>
 			<![CDATA[https://github.com/Acu1000/ShyKnight]]>
