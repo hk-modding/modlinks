@@ -5745,30 +5745,31 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin]]>
         </Repository>
     </Manifest>
-
-    	<Manifest>
-	  <Name>NoBlur</Name>
-	  <Description>
-	    Clean your glasses and see Hollow Knight's background objects without blur. Mod Options for removing Blur planes, Fog objects, and Haze objects.
-	  </Description>
-	  <Version>0.0.0.0</Version>
-	  <Link SHA256="3046198428F3E72BE08BF94C2DA86AE26F8A3AA6CE8C13C95FB27BF721A49EA6"><![CDATA[https://github.com/Destalta/NoBlur/releases/download/v1.1/NoBlur.zip]]></Link>
-	  <Dependencies>
+    <Manifest>
+        <Name>NoBlur</Name>
+        <Description>
+            Clean your glasses and see Hollow Knight's background objects without blur. Options for removing Blur planes, Fog objects, and Haze objects.
+        </Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="3046198428F3E72BE08BF94C2DA86AE26F8A3AA6CE8C13C95FB27BF721A49EA6">
+		<![CDATA[https://github.com/Destalta/NoBlur/releases/download/v1.1/NoBlur.zip]]>
+	</Link>
+        <Dependencies>
 	    <Dependency>Satchel</Dependency>
-	  </Dependencies>
-	  <Repository>
+        </Dependencies>
+        <Repository>
 	    <![CDATA[https://github.com/Destalta/NoBlur]]>
-	  </Repository>
-	  <Issues>
+        </Repository>
+        <Issues>
 	    <![CDATA[https://github.com/Destalta/NoBlur/issues]]>
-	  </Issues>
-	  <Tags>
+        </Issues>
+        <Tags>
 	    <Tag>Cosmetic</Tag>
-	  </Tags>
-	  <Authors>
+        </Tags>
+        <Authors>
 	    <Author>Destalta</Author>
-	  </Authors>
-	</Manifest>
+        </Authors>
+    </Manifest>
 	
 	<Manifest>
 		<Name>Keep Me Geo</Name>
