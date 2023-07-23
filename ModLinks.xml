@@ -4003,7 +4003,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>HKTool Legacy</Name>
-        <Description>A library mod.No longer maintained!!!</Description>
+        <Description>A library mod.No longer maintained!!!**If it crashes your game, this is normal and the reason is unknown**</Description>
         <Version>1.11.8.0</Version>
         <Link SHA256="407d2fef66e28e9a729c34ec0b4f57a5f5247eb1ded4b4c59c30e27fd970e9bb">
             <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/Legacy-v0/Output.zip]]>
