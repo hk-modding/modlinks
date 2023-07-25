@@ -2,6 +2,24 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+  <Manifest>
+    <Name>DarkerTransitions</Name>
+    <Description>Turns bright screen transitions black.</Description>
+    <Version>0.1.8606.28270</Version>
+    <Link SHA256="1A91F9A9DE30DDC2D6D320ED1A3B51E14A253B745CDBD1271996996E1263BB03">
+      <![CDATA[https://github.com/RiverRobot/DarkerTransitions/releases/download/1.0/DarkerTransitions.zip]]>
+    </Link>
+    <Dependencies>
+      <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository><![CDATA[https://github.com/RiverRobot/DarkerTransitions]]></Repository>
+    <Tags>
+      <Tag>Cosmetic</Tag>
+    </Tags>
+    <Authors>
+      <Author>RiverRobot</Author>
+    </Authors>
+  </Manifest>
 <Manifest>
     <Name>Pale Court</Name>
     <Description>Challenge Hallownest's mightiest champions in grand combat!
