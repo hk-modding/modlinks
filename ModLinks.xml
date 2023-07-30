@@ -4235,9 +4235,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>CustomJournal</Name>
         <Description>A CK addon mod to custom journal image </Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="91D8D739513FD3E1F50E34CD82F7DFDC4AE196474570B41ED91F0651FBCA02A6">
-            <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomJournal/releases/download/v1.0.0/CustomJournal.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="D025DF75D6D24FF9048B1CD60D690689E2B80C9A024AF7D3A9887D69E5D18DB1">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.CustomJournal/releases/download/v1.0.1/CustomJournal.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
