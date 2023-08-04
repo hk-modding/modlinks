@@ -27,10 +27,10 @@ Overcome your opponents with powerful new charms!
 Discover new secrets and stories!
 All with an incredible new soundtrack!</Description>
     <Version>1.0.0.4</Version>
-	<Links>
-		<Linux SHA256="EB3C4CE478AFDAB3D2085B2E33BD7AE1AC398B4C82FBBBB485029004B93F8CE4"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Win.zip]]></Linux>
-        <Mac SHA256="E00FF8C20E3052C4E09C5A773C59E28B87C0DB62E77C8627AE56BB07B47B319A"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Mac.zip]]></Mac>
-        <Windows SHA256="EB3C4CE478AFDAB3D2085B2E33BD7AE1AC398B4C82FBBBB485029004B93F8CE4"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Win.zip]]></Windows>
+    <Links>
+	<Linux SHA256="3B074BA2FFEF9575D2157CB80325F6C80C419D6B42BC2DE116E32B1CDF21AF78"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Lin.zip]]></Linux>
+        <Mac SHA256="5FAB7AFF27C610C5DA2E25EEE90DCEDF887C26259D672250D7EC2624B4CF0F0A"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Mac.zip]]></Mac>
+        <Windows SHA256="A7AB92D4FBB352D2A18FD31CD9F01370EB91488EEEB485AB915A9DDE01C54ADA"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Win.zip]]></Windows>
     </Links>
     <Dependencies>
         <Dependency>FrogCore</Dependency>
