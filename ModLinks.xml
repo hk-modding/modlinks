@@ -5866,4 +5866,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 			<Author>Acu1000</Author>
 		</Authors>
 	</Manifest>
+
+	<Manifest>
+		<Name>LessVisualNoise</Name>
+		<Description>Reduces amount of visuals in the game for accessibility purposes. Still in development. Recommended to use along with the No Particles mod</Description>
+		<Version>1.0.7.1</Version>
+		<Link SHA256="CCF9F4E8BCAD76CD879F79105FF02D4C4A2624A23DA18355BC9012F397B652A8"><![CDATA[https://github.com/Acu1000/LessVisualNoise/releases/download/v1.0.7.1/LessVisualNoise.dll]]></Link>
+		<Dependencies />
+		<Repository>
+			<![CDATA[https://github.com/Acu1000/LessVisualNoise]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/Acu1000/LessVisualNoise/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Cosmetic</Tag>
+		</Tags>
+		<Authors>
+			<Author>Acu1000</Author>
+		</Authors>
+	</Manifest>
 </ModLinks>
