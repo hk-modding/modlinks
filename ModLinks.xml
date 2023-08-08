@@ -4066,6 +4066,31 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>Nosk God</Name>
+        <Description></Description>
+        <Version>1.0.0.0</Version>
+        <Links>
+            <Linux SHA256="9B821AEF12E3F0414594F93BED6B370248C98172451BA39D140B0AE25D3B2388">
+                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-Linux.zip]]>
+            </Linux>
+            <Mac SHA256="3A92084878FA02074CD71E1AFE02269A410DF397117BEA43899EA805BDCF112E">
+                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-OSX.zip]]>
+            </Mac>
+            <Windows SHA256="F8C6348BE8ECFBFAF6CCBB1EBCB9F48E415951A2C9B32125374CE71869A036A1">
+                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-Windows.zip]]>
+            </Windows>
+        </Links>
+        <Dependencies>
+			<Dependency>HKTool</Dependency>
+		</Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/NoskGod/]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>ShieldParry</Name>
         <Description>Allows player to use shield in the game</Description>
         <Version>0.0.0.2</Version>
