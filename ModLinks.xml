@@ -4068,16 +4068,16 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Nosk God</Name>
         <Description></Description>
-        <Version>1.0.0.0</Version>
+        <Version>1.1.0.0</Version>
         <Links>
-            <Linux SHA256="9B821AEF12E3F0414594F93BED6B370248C98172451BA39D140B0AE25D3B2388">
-                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-Linux.zip]]>
+            <Linux SHA256="0D9143C198C54F17F276F94C240B09D810850816B75A394EB8871001FF22997F">
+                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-Linux.zip]]>
             </Linux>
-            <Mac SHA256="3A92084878FA02074CD71E1AFE02269A410DF397117BEA43899EA805BDCF112E">
-                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-OSX.zip]]>
+            <Mac SHA256="6471E84C453CAA2F9A311FE02A8AE5469AF6C869CE2510846EC8282EFC4E849C">
+                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-OSX.zip]]>
             </Mac>
-            <Windows SHA256="F8C6348BE8ECFBFAF6CCBB1EBCB9F48E415951A2C9B32125374CE71869A036A1">
-                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-Windows.zip]]>
+            <Windows SHA256="807C7FA235243FB7E35A8122184D8824A1E173E0085CD156A2BBFD40BF6B34AE">
+                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-Windows.zip]]>
             </Windows>
         </Links>
         <Dependencies>
