@@ -3024,7 +3024,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Zickles/HollowKnight.CustomKnight/]]>
+            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/]]>
         </Repository>
     </Manifest>
     <Manifest>
