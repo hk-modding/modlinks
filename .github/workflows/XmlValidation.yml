@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: korelstar/xmllint-problem-matcher@v1
       - name: Setup XMLLint
         run: sudo apt update && sudo apt install --no-install-recommends -y libxml2-utils
@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Setup ModLinksShaVerifier
         run: |
           wget https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v2/linux.zip
