@@ -5736,8 +5736,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheGloryOfBeingAFoolRandomizer</Name>
         <Description>Randomizes the glory of being a Fool.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="5f86963edfee812fbaf36371cd0a9eb760e298c21ed8b0290bb5d67813cf1246">https://github.com/dpinela/TheGloryOfBeingAFoolRandomizer/releases/download/v1.0.1/TheGloryOfBeingAFoolRandomizer.zip</Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="c23f0c6a9b870b83caea0e877289e62fce18552bfa7fcf110ca90e05ee3925b1">https://github.com/dpinela/TheGloryOfBeingAFoolRandomizer/releases/download/v1.0.2/TheGloryOfBeingAFoolRandomizer.zip</Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
