@@ -4,14 +4,16 @@ This is the repository that holds information on every public mod that should be
 
 ## How to add/update a mod to ModLinks
 
-Easy approach
+### Easy/Recommended Approach
 1. Go to https://github.com/hk-modding/modlinks/blob/main/ModLinks.xml
 1. Click the pencil at the top right corner
 1. Make the changes, scroll to the top and click "Commit Changes"
 1. Fill out the commit info and click the button that says "Propose Changes."
 1. Allow GitHub to create a fork, branch, and pull request for you.
 
-Tryhard approach - if you are familiar with common Git and GitHub workflows you can probably figure this out. If you are not, you are strongly advised to use the easy approach above.
+### Traditional Approach
+
+If you are familiar with common Git and GitHub workflows, this approach may be more familiar to you. If you are not, you are strongly advised to use the approach outlined above.
 1. Create a fork of this repo. If you already have a fork, sync the main branch from parent instead.
 1. Clone/pull your fork
 1. Create a new branch from main and check it out
