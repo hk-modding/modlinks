@@ -979,11 +979,11 @@ All with an incredible new soundtrack!</Description>
         <Description>Tiktiks for trans rights</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="DF2EB160F5536485470C8C43045DC26F0BFAD31D67DDD826F55AAFC0090D9292">
-            <![CDATA[https://files.catbox.moe/hbilqn.zip]]>
+            <![CDATA[https://github.com/hk-modding/transtrans/releases/download/v1.0.0.0/transtrans.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://cdn.discordapp.com/attachments/327461802311155714/821819089944838154/Transtrans.cs]]>
+            <![CDATA[https://github.com/hk-modding/transtrans]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -1437,9 +1437,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.2.3.0</Version>
-        <Link SHA256="5777B0249C7B1D7068096485B29731835BD4FF2891C3247437F89B36591D0026">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.3.0/Benchwarp.zip]]>
+        <Version>3.2.4.0</Version>
+        <Link SHA256="95411FE671A325FB90C390B3DA0C11632DAD7400A2A088B75341ECD509E60C7F">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.4.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1449,9 +1449,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.1.2.1</Version>
-        <Link SHA256="D84F5A36FD7665D5DA614E87E3D482642AB3887EAD745EF38AF8E08BB2FC97F4">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.2%2B182/RandomizerMod.zip]]>
+        <Version>4.1.3.0</Version>
+        <Link SHA256="E658E9D32C9420756A9AC848C473DC96F764E9F460D7D69AD0D92FE4B178EE96">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.3%2B774/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -1467,9 +1467,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.1.2.0</Version>
-        <Link SHA256="7A62067A31A36B0DFE5BA215CEB9312C36BCA18F5D96123EC066EBEED193FA2B">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.2%2B090/ItemChanger.zip]]>
+        <Version>2.1.3.0</Version>
+        <Link SHA256="2C19A123065AA44C1C7F6F20AF7189347704FCB6C633977AD91C0DBE23444839">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.3%2B155/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1575,9 +1575,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomConstraintInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined constraints on placements and for editing priority weights for items and locations.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="2E966A5E0BA7F98D3B2032DBEFD3211D6F98E2E6385D7F859E4860E71E01916D">
-            <![CDATA[https://github.com/homothetyhk/CustomConstraintInjector/releases/download/v1.0.0/CustomConstraintInjector.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="FC24CC7D2D7A4BB3C3A8E40FA299D56D3A2F8901EE4D6FBAB4874A54A481C704">
+            <![CDATA[https://github.com/homothetyhk/CustomConstraintInjector/releases/download/v1.0.1/CustomConstraintInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
