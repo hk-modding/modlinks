@@ -5935,11 +5935,34 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		</Authors>
 	</Manifest>
 	<Manifest>
+	        <Name>Static Camera</Name>
+	        <Description>Locks the camera in place with a keybind.</Description>
+	        <Version>1.0.1.0</Version>
+	        <Link SHA256="2BCD435886F1EE5F7C79665D5C25739A5059F25CF4B2A143D4D1DAE49FB26ED5">
+	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera/releases/download/v1.0.1/StaticCamera.dll]]>
+	        </Link>
+	        <Dependencies>
+	        	<Dependency>Satchel</Dependency>
+	        </Dependencies>
+	        <Repository>
+	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera]]>
+	        </Repository>
+	        <Issues>
+	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera/issues]]>
+	        </Issues>
+	        <Tags>
+	        	<Tag>Utility</Tag>
+	        </Tags>
+	        <Authors>
+	        	<Author>EarlyHemisphere</Author>
+	        </Authors>
+	</Manifest>
+	<Manifest>
         	<Name>Vessel May Cry</Name>
         	<Description>A mod that overhauls the Knight's moveset to match Vergil's. Reading the mod page is recommended.</Description>
-        	<Version>1.0.0</Version>
-        	<Link SHA256="BC50E10EFE72BAF61BE6E805D63434B929B17B6674CA507CF0574C31F368BE42">
-            		<![CDATA[https://github.com/Samihamer1/Hollow-Knight-VesselMayCry/releases/download/v1.0.0/VMC1.zip]]>
+        	<Version>1.0.0.0</Version>
+        	<Link SHA256="6B07083BB5D9342ACFC878744E8014BD785E3B64E583A7D2C0267F14FD4DE59F">
+            		<![CDATA[https://github.com/Samihamer1/Hollow-Knight-VesselMayCry/releases/download/v1.0.0.0/VMC1000.zip]]>
        	 	</Link>
         	<Dependencies>
             		<Dependency>Vasi</Dependency>
