@@ -979,11 +979,11 @@ All with an incredible new soundtrack!</Description>
         <Description>Tiktiks for trans rights</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="DF2EB160F5536485470C8C43045DC26F0BFAD31D67DDD826F55AAFC0090D9292">
-            <![CDATA[https://files.catbox.moe/hbilqn.zip]]>
+            <![CDATA[https://github.com/hk-modding/transtrans/releases/download/v1.0.0.0/transtrans.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://cdn.discordapp.com/attachments/327461802311155714/821819089944838154/Transtrans.cs]]>
+            <![CDATA[https://github.com/hk-modding/transtrans]]>
         </Repository>
     </Manifest>
     <Manifest>
