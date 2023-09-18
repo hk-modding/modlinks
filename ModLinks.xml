@@ -5934,4 +5934,27 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 			<Author>Wangha</Author>
 		</Authors>
 	</Manifest>
+	<Manifest>
+	        <Name>Static Camera</Name>
+	        <Description>Locks the camera in place with a keybind.</Description>
+	        <Version>1.0.1.0</Version>
+	        <Link SHA256="2BCD435886F1EE5F7C79665D5C25739A5059F25CF4B2A143D4D1DAE49FB26ED5">
+	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera/releases/download/v1.0.1/StaticCamera.dll]]>
+	        </Link>
+	        <Dependencies>
+	        	<Dependency>Satchel</Dependency>
+	        </Dependencies>
+	        <Repository>
+	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera]]>
+	        </Respository>
+	        <Issues>
+	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera/issues]]>
+	        </Issues>
+	        <Tags>
+	        	<Tag>Utility</Tag>
+	        </Tags>
+	        <Authors>
+	        	<Author>EarlyHemisphere</Author>
+	        </Authors>
+	</Manifest>
 </ModLinks>
