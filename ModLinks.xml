@@ -5946,7 +5946,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        </Dependencies>
 	        <Repository>
 	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera]]>
-	        </Respository>
+	        </Repository>
 	        <Issues>
 	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera/issues]]>
 	        </Issues>
