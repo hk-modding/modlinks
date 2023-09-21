@@ -5981,4 +5981,52 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 			<Author>Samihamer1</Author>
 		</Authors>
     	</Manifest>
+	<Manifest>
+        	<Name>AbsRad Configurable Attacks</Name>
+        	<Description>Allows configuration of Absolute Radiance's attack frequencies.</Description>
+        	<Version>1.0.3.0</Version>
+        	<Link SHA256="A6A7C272634908C6443CB6DFC2DDD05BDE1F43D3A586F6DCCC9F4DF2F71751B7">
+            		<![CDATA[https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/releases/download/v1.0.3/AbsRadConfigurableAttacks.zip]]>
+       	 	</Link>
+        	<Dependencies>
+            		<Dependency>SFCore</Dependency>
+			<Dependency>Satchel</Dependency>
+        	</Dependencies>
+        	<Repository>
+           		<![CDATA[https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks]]>
+        	</Repository>
+		<Issues>
+			<![CDATA[https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Utility</Tag>
+	        </Tags>
+		<Authors>
+			<Author>EarlyHemisphere</Author>
+		</Authors>
+    	</Manifest>
+	<Manifest>
+        	<Name>AbsRad Teleport Control</Name>
+        	<Description>Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight.</Description>
+        	<Version>1.0.1.0</Version>
+        	<Link SHA256="91E6EBD84CB4CCEEBD38A109B3253FBB258E94398D973E3A3735E2F21DAA8EFC">
+            		<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/releases/download/v1.0.1/RadianceTeleportControl.zip]]>
+       	 	</Link>
+        	<Dependencies>
+            		<Dependency>SFCore</Dependency>
+			<Dependency>Satchel</Dependency>
+        	</Dependencies>
+        	<Repository>
+           		<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceTeleportControl]]>
+        	</Repository>
+		<Issues>
+			<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Utility</Tag>
+	        </Tags>
+		<Authors>
+			<Author>EarlyHemisphere</Author>
+		</Authors>
+	</Manifest>
 </ModLinks>
