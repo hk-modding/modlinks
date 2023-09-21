@@ -109,6 +109,7 @@ All with an incredible new soundtrack!</Description>
         <Author>Hotspring</Author>
         <Author>Lethal_Vessel</Author>
         <Author>Risto The Chicken</Author>
+	<Author>EarlyHemisphere</Author>
     </Authors>
 </Manifest>
 <Manifest>
@@ -5979,6 +5980,101 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        </Tags>
 		<Authors>
 			<Author>Samihamer1</Author>
+		</Authors>
+    	</Manifest>
+	<Manifest>
+	        <Name>ModCommon</Name>
+	        <Description>Library for 1.4 mods, ported to 1.5.</Description>
+	        <Version>1.0.0.0</Version>
+	        <Link SHA256="A4959501676033BB66136B466597F266794EF3627C92C4455C94B2A6450B69AA">
+	        	<![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch/releases/download/v1.0.0/ModCommon_1.5.dll]]>
+	        </Link>
+	        <Tags>
+	        	<Tag>Library</Tag>
+	        </Tags>
+	</Manifest>
+	<Manifest>
+	        <Name>Any Radiance</Name>
+	        <Description>Impossible version of Absolute Radiance.</Description>
+	        <Version>1.0.0.0</Version>
+	        <Link SHA256="2C2B82077E5F7EDDA12685375E77D8DE665DB46E3681D4809F7110179FE10ED1">
+	        	<![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch/releases/download/v1.0.0/AnyRadiance.dll]]>
+	        </Link>
+	        <Dependencies>
+	        	<Dependency>ModCommon</Dependency>
+	        </Dependencies>
+	        <Tags>
+	        	<Tag>Gameplay</Tag>
+	        </Tags>
+	        <Authors>
+	        	<Author>Jngo102</Author>
+			<Author>EarlyHemisphere</Author>
+	        </Authors>
+	</Manifest>
+	<Manifest>
+	        <Name>Any Radiance 2.0</Name>
+	        <Description>Impossible version of Absolute Radiance.</Description>
+	        <Version>1.0.1.0</Version>
+	        <Link SHA256="1FD42C843D01AA487E942DF48F8E3970CDA6DAFF09AE5B247029C62A9B8AE75F">
+	        	<![CDATA[https://github.com/EarlyHemisphere/HollowKnight.AnyRadiance2-1.5/releases/download/v1.0.1/AnyRadiance.zip]]>
+	        </Link>
+	        <Dependencies>
+	        	<Dependency>ModCommon</Dependency>
+	        </Dependencies>
+	        <Tags>
+	        	<Tag>Gameplay</Tag>
+	        </Tags>
+	        <Authors>
+	        	<Author>Jngo102</Author>
+			<Author>EarlyHemisphere</Author>
+	        </Authors>
+	</Manifest>
+	<Manifest>
+        	<Name>AbsRad Configurable Attacks</Name>
+        	<Description>Allows configuration of Absolute Radiance's attack frequencies.</Description>
+        	<Version>1.0.3.0</Version>
+        	<Link SHA256="A6A7C272634908C6443CB6DFC2DDD05BDE1F43D3A586F6DCCC9F4DF2F71751B7">
+            		<![CDATA[https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/releases/download/v1.0.3/AbsRadConfigurableAttacks.zip]]>
+       	 	</Link>
+        	<Dependencies>
+            		<Dependency>SFCore</Dependency>
+			<Dependency>Satchel</Dependency>
+        	</Dependencies>
+        	<Repository>
+           		<![CDATA[https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks]]>
+        	</Repository>
+		<Issues>
+			<![CDATA[https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Utility</Tag>
+	        </Tags>
+		<Authors>
+			<Author>EarlyHemisphere</Author>
+		</Authors>
+    	</Manifest>
+	<Manifest>
+        	<Name>AbsRad Teleport Control</Name>
+        	<Description>Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight.</Description>
+        	<Version>1.0.1.0</Version>
+        	<Link SHA256="91E6EBD84CB4CCEEBD38A109B3253FBB258E94398D973E3A3735E2F21DAA8EFC">
+            		<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/releases/download/v1.0.1/RadianceTeleportControl.zip]]>
+       	 	</Link>
+        	<Dependencies>
+            		<Dependency>SFCore</Dependency>
+			<Dependency>Satchel</Dependency>
+        	</Dependencies>
+        	<Repository>
+           		<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceTeleportControl]]>
+        	</Repository>
+		<Issues>
+			<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Utility</Tag>
+	        </Tags>
+		<Authors>
+			<Author>EarlyHemisphere</Author>
 		</Authors>
     	</Manifest>
 </ModLinks>
