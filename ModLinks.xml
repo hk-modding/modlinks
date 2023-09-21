@@ -5989,6 +5989,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        <Link SHA256="A4959501676033BB66136B466597F266794EF3627C92C4455C94B2A6450B69AA">
 	        	<![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch/releases/download/v1.0.0/ModCommon_1.5.dll]]>
 	        </Link>
+		<Dependencies></Dependencies>
+		<Repository></Repository>
 	        <Tags>
 	        	<Tag>Library</Tag>
 	        </Tags>
@@ -6003,6 +6005,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        <Dependencies>
 	        	<Dependency>ModCommon</Dependency>
 	        </Dependencies>
+		<Repository></Repository>
 	        <Tags>
 	        	<Tag>Gameplay</Tag>
 	        </Tags>
@@ -6021,6 +6024,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        <Dependencies>
 	        	<Dependency>ModCommon</Dependency>
 	        </Dependencies>
+		<Repository></Repository>
 	        <Tags>
 	        	<Tag>Gameplay</Tag>
 	        </Tags>
