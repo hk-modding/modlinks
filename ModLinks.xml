@@ -5990,10 +5990,18 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        	<![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch/releases/download/v1.0.0/ModCommon_1.5.dll]]>
 	        </Link>
 		<Dependencies></Dependencies>
-		<Repository></Repository>
+		<Repository>
+			<![CDATA[https://github.com/Kerr1291/ModCommon]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/Kerr1291/ModCommon/issues]]>
+		</Issues>
 	        <Tags>
 	        	<Tag>Library</Tag>
 	        </Tags>
+		<Authors>
+			<Author>Kerr1291</Author>
+		</Authors>
 	</Manifest>
 	<Manifest>
 	        <Name>Any Radiance</Name>
@@ -6005,13 +6013,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        <Dependencies>
 	        	<Dependency>ModCommon</Dependency>
 	        </Dependencies>
-		<Repository></Repository>
+		<Repository>
+			<![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch/issues]]>
+		</Issues>
 	        <Tags>
 	        	<Tag>Gameplay</Tag>
 	        </Tags>
 	        <Authors>
 	        	<Author>Jngo102</Author>
-			<Author>EarlyHemisphere</Author>
 	        </Authors>
 	</Manifest>
 	<Manifest>
@@ -6024,13 +6036,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        <Dependencies>
 	        	<Dependency>ModCommon</Dependency>
 	        </Dependencies>
-		<Repository></Repository>
+		<Repository>
+           		<![CDATA[https://github.com/EarlyHemisphere/HollowKnight.AnyRadiance2-1.5]]>
+        	</Repository>
+		<Issues>
+			<![CDATA[https://github.com/EarlyHemisphere/HollowKnight.AnyRadiance2-1.5/issues]]>
+		</Issues>
 	        <Tags>
 	        	<Tag>Gameplay</Tag>
 	        </Tags>
 	        <Authors>
 	        	<Author>Jngo102</Author>
-			<Author>EarlyHemisphere</Author>
 	        </Authors>
 	</Manifest>
 	<Manifest>
