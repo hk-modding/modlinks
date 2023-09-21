@@ -5981,6 +5981,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 			<Author>Samihamer1</Author>
 		</Authors>
     	</Manifest>
+	<Manifest>
         	<Name>AbsRad Configurable Attacks</Name>
         	<Description>Allows configuration of Absolute Radiance's attack frequencies.</Description>
         	<Version>1.0.3.0</Version>
