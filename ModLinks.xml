@@ -5327,9 +5327,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Charm Changer</Name>
         <Description>Lets you customize the strength of some Charm effects</Description>
-        <Version>1.0.2.31248</Version>
-        <Link SHA256="30618B2FCA688847E26835B207F4CA07F9A92126510D9A718F7D067051726211">
-            <![CDATA[https://github.com/Exempt-Medic/CharmChanger/releases/download/v1.0.2.31248/CharmChanger.zip]]>
+        <Version>1.0.3.246</Version>
+        <Link SHA256="C78ED6231EE977770DB053DF341DD7F750B3A5161AA5914459793ACBDB2E5AAF">
+            <![CDATA[https://github.com/Exempt-Medic/CharmChanger/releases/download/v1.0.3.246/CharmChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
