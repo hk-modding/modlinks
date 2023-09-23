@@ -1624,9 +1624,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>MultiWorld</Name>
         <Description>A RandomizerMod 4 add-on for distributing players' items between all their worlds.</Description>
-        <Version>1.2.2.0</Version>
-        <Link SHA256="11AF38EC6DD3DCA92030D75E14A3E36F0657D9A7515318D629F071EE12112148">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/multiworld-v1.2.2/MultiWorldMod.zip]]>
+        <Version>1.2.3.0</Version>
+        <Link SHA256="337368A186B960C27C94D91C11F1BFD8ED91286438DBD335167E30BCCF7481BC">
+            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/multiworld-v1.2.3/MultiWorldMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
