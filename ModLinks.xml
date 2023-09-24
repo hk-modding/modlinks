@@ -364,9 +364,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Charm Crab</Name>
         <Description>New Charm Mechanics, New Charms, New Spells, and Rebalances</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="c5a41616231e19bd15f9f536d691af93860b9fe96ede25706a1b98533ab08143">
-            <![CDATA[https://github.com/DistractionCrab/Charm-Crab/releases/download/v1.0.3/CharmCrab.zip]]></Link>
+        <Version>1.0.6.0</Version>
+        <Link SHA256="E55F481430D2111E0E9F19D2EE0A7675D739173E25E2BAF20D466B87040A77E9">
+            <![CDATA[https://github.com/DistractionCrab/Charm-Crab/releases/download/v1.0.6/CharmCrab.zip]]></Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>SFCore</Dependency>
