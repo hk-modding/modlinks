@@ -6029,4 +6029,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 			<Author>EarlyHemisphere</Author>
 		</Authors>
 	</Manifest>
+	<Manifest>
+		<Name>Steady Hands (automap)</Name>
+		<Description>Steadies the Knight's hands so they can draw while walking (updates map automatically without needing to rest at a bench)</Description>
+		<Version>0.1.8668.10249</Version>
+		<Link SHA256="57FE7BD723F06D5482DA406A574AFECEA99C76FF6E6569EAB8107EF9409FC3D0"><![CDATA[https://github.com/AuthorX/SteadyHands/releases/download/v0.1.8668.10249/SteadyHands.zip]]></Link>
+		<Dependencies>
+		<Dependency>Satchel</Dependency>
+		</Dependencies>
+		<Repository>
+		<![CDATA[https://github.com/AuthorX/SteadyHands/]]>
+		</Repository>
+		<!-- Optional -->
+		<Issues>
+		<![CDATA[https://github.com/AuthorX/SteadyHands/issues]]>
+		</Issues>
+		<Tags>
+		<Tag>Utility</Tag>
+		</Tags>
+		<Authors>
+		<Author>Dana Lexa</Author>
+		</Authors>
+	</Manifest>
 </ModLinks>
