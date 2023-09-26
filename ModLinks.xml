@@ -6032,8 +6032,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
 		<Name>Steady Hands (automap)</Name>
 		<Description>Steadies the Knight's hands so they can draw while walking (updates map automatically without needing to rest at a bench)</Description>
-		<Version>0.1.8668.10249</Version>
-		<Link SHA256="57FE7BD723F06D5482DA406A574AFECEA99C76FF6E6569EAB8107EF9409FC3D0"><![CDATA[https://github.com/AuthorX/SteadyHands/releases/download/v0.1.8668.10249/SteadyHands.zip]]></Link>
+		<Version>1.0.8669.11302</Version>
+		<Link SHA256="B24105BC62CDF5541A846891F5746DFEA0ADAD137951DD488C78BBD66477768D"><![CDATA[https://github.com/AuthorX/SteadyHands/releases/download/v1.0.8669.11302/SteadyHands.zip]]></Link>
 		<Dependencies>
 		<Dependency>Satchel</Dependency>
 		</Dependencies>
