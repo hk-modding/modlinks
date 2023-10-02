@@ -3,6 +3,25 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
   <Manifest>
+    <Name>PersistentDivine</Name>
+    <Description>A mod that keeps Divines tent in Dirtmouth even after you banish the Grimm Troupe so you don't accidentally miss the chance to get unbreakable charms</Description>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="78fae35aea88840b8c2eb6ca13ecdedcd1a552f07b4b6e88ec1e972f51c43321"><![CDATA[https://github.com/YoJames2019/PersistentDivine/releases/download/v1.0.0/PersistentDivine-1.0.zip]]></Link>
+    <Dependencies/>
+    <Repository>
+      <![CDATA[https://github.com/YoJames2019/PersistentDivine/]]>
+    </Repository>
+    <Issues>
+      <![CDATA[https://github.com/YoJames2019/PersistentDivine/issues]]>
+    </Issues>
+    <Tags>
+      <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+      <Author>therealyojames</Author>
+    </Authors>
+  </Manifest>
+  <Manifest>
     <Name>DarkerTransitions</Name>
     <Description>Turns bright screen transitions black.</Description>
     <Version>0.1.8606.28270</Version>
