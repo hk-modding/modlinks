@@ -5,8 +5,8 @@
   <Manifest>
     <Name>PersistentDivine</Name>
     <Description>A mod that keeps Divines tent in Dirtmouth even after you banish the Grimm Troupe so you don't accidentally miss the chance to get unbreakable charms</Description>
-    <Version>1.0.0.1</Version>
-    <Link SHA256="78fae35aea88840b8c2eb6ca13ecdedcd1a552f07b4b6e88ec1e972f51c43321"><![CDATA[https://github.com/YoJames2019/PersistentDivine/releases/download/v1.0.0/PersistentDivine-1.0.zip]]></Link>
+    <Version>1.1.8677.23928</Version>
+    <Link SHA256="8B580D7865CC220BA6A89253190335E2D4B0D48DEA3CA6214828F6852AAB5890"><![CDATA[https://github.com/YoJames2019/PersistentDivine/releases/download/v1.1/PersistentDivine.zip]]></Link>
     <Dependencies/>
     <Repository>
       <![CDATA[https://github.com/YoJames2019/PersistentDivine/]]>
