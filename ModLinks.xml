@@ -2663,9 +2663,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP</Name>
         <Description>Hollow Knight Multiplayer allows people to host games and let others join them in their adventures.</Description>
-        <Version>2.3.0.0</Version>
-        <Link SHA256="2c018037e72142b4cf236951424982141503bb34c2363cbe168986634cc156be">
-            <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v2.3.0/HKMP.zip]]>
+        <Version>2.4.0.0</Version>
+        <Link SHA256="06766a69b781d280f5e28b1628ab9bd7a6c52ee488a44754f70bf663d8af28b7">
+            <![CDATA[https://github.com/Extremelyd1/HKMP/releases/download/v2.4.0/HKMP.zip]]>
         </Link>
         <Dependencies />
         <Repository>
