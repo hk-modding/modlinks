@@ -236,7 +236,7 @@ All with an incredible new soundtrack!</Description>
     <Name>Hallownest-Vocalized-AudioLoader</Name>
     <Description>A dependency for Hallownest Vocalized. Download this with the main mod if you haven't!</Description>
     <Version>1.0.1.2</Version>
-    <Link SHA256="B520802AD1179224975387E4B6476295F533012D0B77817BFEC18C18FDA96D99">
+    <Link SHA256="477617257bbe705007a4cbe3fdd7852df42258d82946dea0f98a51d34f653c28">
     <![CDATA[https://github.com/Hallownest-Vocalized/Hallownest-Vocalized-AudioLoader/releases/download/0.0.1.2/Hallownest-Vocalized-AudioLoader.zip]]>
     </Link>
     <Dependencies />
