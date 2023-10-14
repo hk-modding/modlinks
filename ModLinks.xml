@@ -2547,9 +2547,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ControllerFixes</Name>
         <Description>Fixes some controller issues and adds related features.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="688dcc5a83d5c1228d8780424434c7211293b47a29214e450feb6a3755675835">
-            <![CDATA[https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.1/ControllerFixes.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="D3DD3041C46EF1644512AF7EB9F3E5F50EE996EF99FEB7960172FE284DA9E3BD">
+            <![CDATA[https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.2/ControllerFixes.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
