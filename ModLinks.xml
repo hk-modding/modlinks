@@ -4947,9 +4947,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>KorzUtils</Name>
         <Description>Library mod that provide useful functions for other mods.</Description>
-        <Version>0.6.1.0</Version>
-        <Link SHA256="ff2e3a34b3e0e06fea51d793c9dbbc6ccc21ffe60a5ca84e7cf09425c367b7d0">
-            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.6.1/KorzUtils.zip]]></Link>
+        <Version>0.7.0.0</Version>
+        <Link SHA256="82831581cbea2d492394f898f3a6df6954e4ab9a9568a0839a6f1cb518327c2c">
+            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.7.0/KorzUtils.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -5005,9 +5005,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="f0c66e70c40da9c5a3b5a29ee908e4a5d7555fc87e95b343d52fa190f97ef003">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.1.0/ExtraRando.zip]]></Link>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="a4ccf6bb87005db402fb4d931caf112e234b613ae2981c7ae7fa847c7622ac98">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.2.0/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
