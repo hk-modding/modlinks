@@ -6070,4 +6070,28 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		<Author>Dana Lexa</Author>
 		</Authors>
 	</Manifest>
+	<Manifest>
+        	<Name>Kindred Spirit</Name>
+        	<Description>Replaces the Massive Mosscharger's statue in Godhome with a dream and non dream version of the Greenpath Vessel.</Description>
+        	<Version>1.0.0.0</Version>
+        	<Link SHA256="A42ECC94A8C2395BAF76983AEF780D225F5C8652C0E1BCE7C1C081F13F4AADE1">
+            		<![CDATA[https://github.com/Samihamer1/Hollow-Knight-Kindred-Spirit/releases/download/v1.0.0.0/KindredSpirit1.zip]]>
+       	 	</Link>
+        	<Dependencies>
+            		<Dependency>Vasi</Dependency>
+			<Dependency>FrogCore</Dependency>
+        	</Dependencies>
+        	<Repository>
+           		<![CDATA[https://github.com/Samihamer1/Hollow-Knight-Kindred-Spirit]]>
+        	</Repository>
+		<Issues>
+			<![CDATA[https://github.com/Samihamer1/Hollow-Knight-Kindred-Spirit/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Boss</Tag>
+	        </Tags>
+		<Authors>
+			<Author>Samihamer1</Author>
+		</Authors>
+    	</Manifest>
 </ModLinks>
