@@ -66,32 +66,33 @@
   </xs:complexType>
 
   <xs:simpleType name="NameStringType">
-    <xs:restriction base="xs:string">
+    <xs:restriction base="mm:CollapsedString">
       <xs:pattern value="[a-zA-Z][^\\/:*?&lt;&gt;&quot;|]+"/>
     </xs:restriction>
   </xs:simpleType>
 
   <xs:simpleType name="ShaStringType">
-    <xs:restriction base="xs:string">
-      <xs:pattern value="[0-9a-fA-F]{64}"/>
+    <xs:restriction base="mm:CollapsedHexBinary">
+      <!-- SHA256 is 32 bytes -->
+      <xs:length value="32" fixed="true"/>
     </xs:restriction>
   </xs:simpleType>
 
   <xs:simpleType name="LinkStringType">
-    <xs:restriction base="xs:string">
+    <xs:restriction base="mm:CollapsedString">
       <xs:pattern value="https?://.*"/>
     </xs:restriction>
   </xs:simpleType>
 
   <xs:simpleType name="VersionStringType">
-    <xs:restriction base="xs:string">
+    <xs:restriction base="mm:CollapsedString">
       <xs:pattern value="(\d+\.){3}\d+"/>
     </xs:restriction>
   </xs:simpleType>
 
   <xs:complexType name="IntegrationListType">
     <xs:sequence minOccurs="1" maxOccurs="unbounded">
-      <xs:element name="Integration" type="xs:string" />
+      <xs:element name="Integration" type="mm:CollapsedString" />
     </xs:sequence>
   </xs:complexType>
 
@@ -102,7 +103,7 @@
   </xs:complexType>
 
   <xs:simpleType name="TagType">
-    <xs:restriction base="xs:string">
+    <xs:restriction base="mm:CollapsedString">
       <xs:enumeration value="Boss" />
       <xs:enumeration value="Cosmetic" />
       <xs:enumeration value="Expansion" />
@@ -114,8 +115,20 @@
 
   <xs:complexType name="AuthorListType">
     <xs:sequence minOccurs="1" maxOccurs="unbounded">
-      <xs:element name="Author" type="xs:string" />
+      <xs:element name="Author" type="mm:CollapsedString" />
     </xs:sequence>
   </xs:complexType>
+
+  <xs:simpleType name="CollapsedHexBinary">
+    <xs:restriction base="xs:hexBinary">
+      <xs:whiteSpace value="collapse"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="CollapsedString">
+    <xs:restriction base="xs:string">
+      <xs:whiteSpace value="collapse"/>
+    </xs:restriction>
+  </xs:simpleType>
 
 </xs:schema>
