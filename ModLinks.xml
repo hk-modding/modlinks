@@ -668,15 +668,15 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Nailgod</Name>
         <Description>Sly modded boss.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="cf797fad17c0f309026c2f7243789e1be6a3319e1f89f7234bed07cd193339a4">
-            <![CDATA[https://github.com/nearrin/HollowKnight.Nailgod/releases/download/1.0.0.1/1.0.0.1.Release.zip]]>
+        <Version>1.0.0.2</Version>
+        <Link SHA256="7fa0eff39c455fcec4fcd38e4ac30f3d682055e448eb173a0302b533ab6d736b">
+            <![CDATA[https://github.com/andieroot/HollowKnight.Nailgod/releases/download/1.0.0.2/Nailgod.1.0.0.2.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/nearrin/HollowKnight.Nailgod/]]>
+            <![CDATA[https://github.com/andieroot/HollowKnight.Nailgod/]]>
         </Repository>
     </Manifest>
     <Manifest>
