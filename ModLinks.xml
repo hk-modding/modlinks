@@ -1227,9 +1227,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log (and several others) in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>1.9.0.0</Version>
-        <Link SHA256="611b20ec4b6099ddd07f1ff75d2a41714576fb64a7cdba6569ea2c1e4996b5c7">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.9.0.0/CondensedSpoilerLogger.zip]]>
+        <Version>1.10.0.0</Version>
+        <Link SHA256="3718a726c19ff5c65a86555ded7b00975d833346e58c6ba4eaf72cbf287c003b">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.10.0.0/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1237,6 +1237,21 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/]]>
         </Repository>
+    </Manifest>
+    <Manifest>
+        <Name>DapperMapperSpoils</Name>
+        <Description>Adds a category to the condensed spoiler log which shows the locations of the 13 maps.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="aeb1d5bffdcc92e47f00aa24ef2903c2f34ebd2aaa4f29afaf0ed3e4b895d940">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/releases/download/v1.0.0.0/DapperMapperSpoils.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/]]>
+        </Repository>
+	<Integrations>
+            <Integration>CondensedSpoilerLogger</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>RandoPlus</Name>
