@@ -1241,9 +1241,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>DapperMapperSpoils</Name>
         <Description>Adds a category to the condensed spoiler log which shows the locations of the 13 maps.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="aeb1d5bffdcc92e47f00aa24ef2903c2f34ebd2aaa4f29afaf0ed3e4b895d940">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/releases/download/v1.0.0.0/DapperMapperSpoils.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="2ac7ad5c10e1999130a6ff74de89307a15eda588c4768e2f9ac18d764e2156f9">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/releases/download/v1.0.0.1/DapperMapperSpoils.zip]]>
         </Link>
         <Dependencies />
         <Repository>
