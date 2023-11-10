@@ -6108,5 +6108,30 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		<Authors>
 			<Author>Samihamer1</Author>
 		</Authors>
-    	</Manifest>
+    </Manifest>
+    <Manifest>
+        <Name>Fart Knight</Name>
+        <Description>Adds fart attack</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="F8EAC10BB6184E372DF34855192F8CE4111F3810E10C5A89EB616F3606151F02">
+            <![CDATA[https://github.com/AbsoluteStratos/FartKnight/releases/download/v0.1.0/FartKnight.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>FrogCore</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/AbsoluteStratos/FartKnight]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/AbsoluteStratos/FartKnight/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Stratos</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
