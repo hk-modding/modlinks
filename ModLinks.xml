@@ -6017,10 +6017,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	</Manifest>
 	<Manifest>
         	<Name>AbsRad Configurable Attacks</Name>
-        	<Description>Allows configuration of Absolute Radiance's attack frequencies.</Description>
-        	<Version>1.0.3.0</Version>
-        	<Link SHA256="A6A7C272634908C6443CB6DFC2DDD05BDE1F43D3A586F6DCCC9F4DF2F71751B7">
-            		<![CDATA[https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/releases/download/v1.0.3/AbsRadConfigurableAttacks.zip]]>
+        	<Description>Allows configuration of Absolute Radiance's attack frequencies. Works with multiple Radiances at once.</Description>
+        	<Version>1.1.0.0</Version>
+        	<Link SHA256="E8F65ED49628E73424E5D2C64D0F4BC06241A7C1EC095E5D8F16217F95A8A3D3">
+            		<![CDATA[https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/releases/download/v1.1.0/AbsRadConfigurableAttacks.dll]]>
        	 	</Link>
         	<Dependencies>
             		<Dependency>SFCore</Dependency>
@@ -6041,10 +6041,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	</Manifest>
 	<Manifest>
         	<Name>AbsRad Teleport Control</Name>
-        	<Description>Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight.</Description>
-        	<Version>1.0.1.0</Version>
-        	<Link SHA256="91E6EBD84CB4CCEEBD38A109B3253FBB258E94398D973E3A3735E2F21DAA8EFC">
-            		<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/releases/download/v1.0.1/RadianceTeleportControl.zip]]>
+        	<Description>Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight. Works with multiple Radiances at once.</Description>
+        	<Version>1.1.0.0</Version>
+        	<Link SHA256="7F86F7BEF790ADBF0C45EF9AA16F015E61C5F5270BA8260C828EBA1720460D9E">
+            		<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/releases/download/v1.1.0/RadianceTeleportControl.dll]]>
        	 	</Link>
         	<Dependencies>
             		<Dependency>SFCore</Dependency>
@@ -6059,6 +6059,29 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		<Tags>
 			<Tag>Utility</Tag>
 	        </Tags>
+		<Authors>
+			<Author>EarlyHemisphere</Author>
+		</Authors>
+	</Manifest>
+	<Manifest>
+		<Name>Radiance Multiplier</Name>
+		<Description>Allows fighting up to ten Absolute Radiances at once. Uses shared HP.</Description>
+		<Version>1.0.1.0</Version>
+		<Link SHA256="B03F19455D6613E2B0B9088B2BF43A030AF2D3B059CEE611E5AF43E229DE54C0">
+			<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceMultiplier/releases/download/v1.0.1/RadianceMultipler.dll]]>
+		</Link>
+		<Dependencies>
+			<Dependency>Satchel</Dependency>
+		</Dependencies>
+		<Repository>
+			<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceMultiplier]]>
+		</Repository>
+		<Issues>
+			<![CDATA[<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceMultiplier/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Gameplay</Tag>
+		</Tags>
 		<Authors>
 			<Author>EarlyHemisphere</Author>
 		</Authors>
