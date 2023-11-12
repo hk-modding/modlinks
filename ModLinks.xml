@@ -6018,9 +6018,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         	<Name>AbsRad Configurable Attacks</Name>
         	<Description>Allows configuration of Absolute Radiance's attack frequencies. Works with multiple Radiances at once.</Description>
-        	<Version>1.1.0.0</Version>
+        	<Version>1.1.1.0</Version>
         	<Link SHA256="E8F65ED49628E73424E5D2C64D0F4BC06241A7C1EC095E5D8F16217F95A8A3D3">
-            		<![CDATA[https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/releases/download/v1.1.0/AbsRadConfigurableAttacks.dll]]>
+            		<![CDATA[https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/releases/download/v1.1.1/AbsRadConfigurableAttacks.dll]]>
        	 	</Link>
         	<Dependencies>
             		<Dependency>SFCore</Dependency>
@@ -6042,9 +6042,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         	<Name>AbsRad Teleport Control</Name>
         	<Description>Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight. Works with multiple Radiances at once.</Description>
-        	<Version>1.1.0.0</Version>
+        	<Version>1.1.1.0</Version>
         	<Link SHA256="7F86F7BEF790ADBF0C45EF9AA16F015E61C5F5270BA8260C828EBA1720460D9E">
-            		<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/releases/download/v1.1.0/RadianceTeleportControl.dll]]>
+            		<![CDATA[https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/releases/download/v1.1.1/RadianceTeleportControl.dll]]>
        	 	</Link>
         	<Dependencies>
             		<Dependency>SFCore</Dependency>
