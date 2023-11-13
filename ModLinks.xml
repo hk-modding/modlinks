@@ -5994,9 +5994,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         	<Name>Vessel May Cry</Name>
         	<Description>A mod that overhauls the Knight's moveset to match Vergil's. Reading the mod page is recommended.</Description>
-        	<Version>1.0.0.0</Version>
-        	<Link SHA256="6B07083BB5D9342ACFC878744E8014BD785E3B64E583A7D2C0267F14FD4DE59F">
-            		<![CDATA[https://github.com/Samihamer1/Hollow-Knight-VesselMayCry/releases/download/v1.0.0.0/VMC1000.zip]]>
+        	<Version>1.0.0.1</Version>
+        	<Link SHA256="3B247B0B811F792155AF41C5108860A4926970D6A6C5E42F26E46FCE4FB97E8B">
+            		<![CDATA[https://github.com/Samihamer1/Hollow-Knight-VesselMayCry/releases/download/v1.0.0.1/VMC1001.zip]]>
        	 	</Link>
         	<Dependencies>
             		<Dependency>Vasi</Dependency>
