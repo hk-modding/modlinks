@@ -1289,9 +1289,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.4.2</Version>
-        <Link SHA256="3c63af850590cabfc8bf2d8a49de042abc9a6a52e3bba1799483d53302467190">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.4.2/RandomizableLevers.zip]]>
+        <Version>1.2.4.3</Version>
+        <Link SHA256="be42b162988354d7259edaaf6681507131a31f3df671d9ec18c77548fb96e118">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.4.3/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -1424,9 +1424,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>FStats</Name>
         <Description>Displays some stats about a run after the credits screen.</Description>
-        <Version>2.0.0.1</Version>
-        <Link SHA256="1f4b4f765a046024ad5efd03bfd3abaa380401a46b098ac8f083673e98474600">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v2.0.0.1/FStats.zip]]>
+        <Version>2.0.1.0</Version>
+        <Link SHA256="42194be0d64ca62a40877690c5cddca7cbb8f7faf5661c9da4732b344ef797ec">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v2.0.1.0/FStats.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
