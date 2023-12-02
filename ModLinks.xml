@@ -318,9 +318,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Core.FsmUtil</Name>
         <Description>A library mod for fsm editing.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="C9CBE0AD0ACA52ECAAADA722751B1BBEEA7BD50E2AAAF8AFB518611C4D30A8BA">
-            <![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1/Core_FsmUtil.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="D81F5672A1C90C69E2CB5CA0DB303BA7514582FA284A4FA3D56EB5677C3F90F8">
+            <![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1/Core_FsmUtil.zip]]>
         </Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil]]></Repository>
