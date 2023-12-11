@@ -22,8 +22,6 @@
     </Authors>
   </Manifest>
   <Manifest>
-    <Name>DarkerTransitions</Name>
-    <Description>Turns bright screen transitions black.</Description>
     <Version>0.1.8606.28270</Version>
     <Link SHA256="1A91F9A9DE30DDC2D6D320ED1A3B51E14A253B745CDBD1271996996E1263BB03">
       <![CDATA[https://github.com/RiverRobot/DarkerTransitions/releases/download/1.0/DarkerTransitions.zip]]>
