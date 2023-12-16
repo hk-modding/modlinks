@@ -1045,9 +1045,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CompassAlwaysOn</Name>
         <Description>Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="b6d50f37b941bdd32ff4097ae0204c864a0c0559ec2d7c98954a1afe6dad46dc">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2/CompassAlwaysOn.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="1c61505306092d651c360a60af1175a7ff8cd6f273ad7b3a0f9c1145e9001a2e">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2.1.0/CompassAlwaysOn.zip]]>
         </Link>
         <Dependencies />
         <Repository>
