@@ -1471,9 +1471,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.2.4.0</Version>
-        <Link SHA256="95411FE671A325FB90C390B3DA0C11632DAD7400A2A088B75341ECD509E60C7F">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.4.0/Benchwarp.zip]]>
+        <Version>3.2.5.0</Version>
+        <Link SHA256="422794AC1B0507DB04FB0EBCEFE3F7F544D083BD8ECD216A486A939225E57F06">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.5.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1537,9 +1537,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>ItemChangerDataLoader</Name>
         <Description>Mod for creating backups of randomizer saves and launching plandos.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="6958D22DFACD2764835F597F5872BE69C808F232B395AF21702A4BAADA3E5013">
-            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.1/ItemChangerDataLoader.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="1F7883F0D210C079309DFEF4AA8952340A71F8B74FA8C8CC595CE41A928E5650">
+            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.2/ItemChangerDataLoader.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
