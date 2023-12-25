@@ -5508,9 +5508,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Crafted Town</Name>
         <Description>The Crafted Town adds a new location, several spell alternatives and some charm upgrades (on alpha as of now).</Description>
-        <Version>0.0.1.0</Version>
-        <Link SHA256="55cbf3ab66afa6f03553fa806f23a3bd1d33ba5836fa54fcebe73811fd902ff7">
-            <![CDATA[https://github.com/pronoespro/PronoesProMod/releases/download/DeeShield/PronoesProMod.zip]]>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="9758db20162351bf698ce37dcd9845ae7943d59b9d00a144313318eb184762ce">
+            <![CDATA[https://github.com/pronoespro/PronoesProMod/releases/download/Christmas-time/PronoesProMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
