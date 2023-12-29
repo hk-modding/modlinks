@@ -6181,4 +6181,23 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Author>MCXGK3</Author>
     </Authors>
    </Manifest>
+  <Manifest>
+    <Name>LostFocus</Name>
+    <Description>A mod that automatically pauses and mutes the game when you switch tabs.</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="7e86e7c9cf44f6a1d5bdc7cd942fd8d12efafddee6ad7745d7b6a49677601968"><![CDATA[https://github.com/Ruttie2006/LostFocus/releases/download/v1.0/LostFocus.zip]]></Link>
+    <Dependencies/>
+    <Repository>
+        <![CDATA[https://github.com/Ruttie2006/LostFocus]]>
+    </Repository>
+    <Issues>
+        <![CDATA[https://github.com/Ruttie2006/LostFocus/issues]]>
+    </Issues>
+    <Tags>
+        <Tag>Utility</Tag>
+    </Tags>
+    <Authors>
+        <Author>Ruttie</Author>
+    </Authors>
+  </Manifest>
 </ModLinks>
