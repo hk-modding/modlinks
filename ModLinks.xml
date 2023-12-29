@@ -6193,7 +6193,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Issues>
         <![CDATA[https://github.com/Ruttie2006/LostFocus/issues]]>
     </Issues>
-    <Integrations/>
+    <Integrations></Integrations>
     <Tags>
         <Tag>Utility</Tag>
     </Tags>
