@@ -6159,4 +6159,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Stratos</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+    <Name>ImmortalLight</Name>
+    <Description>A modboss for Absolute Radiance</Description>
+    <Version>0.0.1.1</Version>
+    <Link SHA256="1cce66d86d4ace7b040465bb5a9f5e6f3b05280874a1af032cceb27a1ffc5b05"><![CDATA[https://github.com/MCXGK3/ImmortalLight/releases/download/0.0.1.1/ImmortalLight.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+        <Dependency>SFCore</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/MCXGK3/ImmortalLight]]>
+    </Repository>
+    <Issues>
+        <![CDATA[https://github.com/MCXGK3/ImmortalLight/issues]]>
+    </Issues>
+    <Tags>
+        <Tag>Boss</Tag>
+    </Tags>
+    <Authors>
+        <Author>MCXGK3</Author>
+    </Authors>
+   </Manifest>
 </ModLinks>
