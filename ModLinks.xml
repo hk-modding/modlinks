@@ -2261,7 +2261,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Link SHA256="6C5E1BF0D6E58BBFDE9FFA8B90A194526D802E117C762DD2A81A84753B7C8287">
             <![CDATA[https://github.com/SFGrenade/WideCamera/releases/download/v1.5/WideCamera.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/WideCamera/]]>
         </Repository>
