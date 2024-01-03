@@ -1,5 +1,5 @@
 # ModLinks
-
+READ
 This is the repository that holds information on every public mod that should be accessible via mod installers.
 
 ## How to add/update a mod to ModLinks
