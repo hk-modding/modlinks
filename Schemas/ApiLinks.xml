@@ -1,63 +1,76 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager" targetNamespace="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager" elementFormDefault="qualified">
+  xmlns:mm="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager" targetNamespace="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager" elementFormDefault="qualified">
 
   <xs:element name="ApiLinks">
     <xs:complexType>
       <xs:sequence minOccurs="0" maxOccurs="1">
-        <xs:element name="Manifest" type="ManifestType" />
+        <xs:element name="Manifest" type="mm:ManifestType" />
       </xs:sequence>
     </xs:complexType>
   </xs:element>
 
   <xs:complexType name="ManifestType">
     <xs:sequence>
-      <xs:element name="Version" type="VersionStringType" />
+      <xs:element name="Version" type="mm:VersionStringType" />
       <xs:choice>
-        <xs:element name="Links" type="LinksType" />
-        <xs:element name="Link" type="SingleLinkType" />
+        <xs:element name="Links" type="mm:LinksType" />
+        <xs:element name="Link" type="mm:SingleLinkType" />
       </xs:choice>
-      <xs:element name="Files" type="FileListType" />
+      <xs:element name="Files" type="mm:FileListType" />
     </xs:sequence>
   </xs:complexType>
 
   <xs:complexType name="LinksType">
     <xs:sequence>
-      <xs:element name="Linux" type="SingleLinkType" />
-      <xs:element name="Mac" type="SingleLinkType" />
-      <xs:element name="Windows" type="SingleLinkType" />
+      <xs:element name="Linux" type="mm:SingleLinkType" />
+      <xs:element name="Mac" type="mm:SingleLinkType" />
+      <xs:element name="Windows" type="mm:SingleLinkType" />
     </xs:sequence>
   </xs:complexType>
 
   <xs:complexType name="SingleLinkType">
     <xs:simpleContent>
-      <xs:extension base="LinkStringType">
-        <xs:attribute name="SHA256" type="ShaStringType" use="required" />
+      <xs:extension base="mm:LinkStringType">
+        <xs:attribute name="SHA256" type="mm:ShaStringType" use="required" />
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
 
   <xs:complexType name="FileListType">
     <xs:sequence minOccurs="0" maxOccurs="unbounded">
-      <xs:element name="File" type="xs:string" />
+      <xs:element name="File" type="mm:CollapsedString" />
     </xs:sequence>
   </xs:complexType>
 
   <xs:simpleType name="ShaStringType">
-    <xs:restriction base="xs:string">
-      <xs:pattern value="[0-9a-fA-F]{64}"/>
+    <xs:restriction base="mm:CollapsedHexBinary">
+      <!-- SHA256 is 32 bytes -->
+      <xs:length value="32" fixed="true"/>
     </xs:restriction>
   </xs:simpleType>
 
   <xs:simpleType name="LinkStringType">
-    <xs:restriction base="xs:string">
+    <xs:restriction base="mm:CollapsedString">
       <xs:pattern value="https?://.*"/>
     </xs:restriction>
   </xs:simpleType>
 
   <xs:simpleType name="VersionStringType">
-    <xs:restriction base="xs:string">
+    <xs:restriction base="mm:CollapsedString">
       <xs:pattern value="\d+"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="CollapsedHexBinary">
+    <xs:restriction base="xs:hexBinary">
+      <xs:whiteSpace value="collapse"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="CollapsedString">
+    <xs:restriction base="xs:string">
+      <xs:whiteSpace value="collapse"/>
     </xs:restriction>
   </xs:simpleType>
 
