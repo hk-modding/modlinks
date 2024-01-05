@@ -3252,6 +3252,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>CustomKnightSuperAnimationAddon</Name>
+        <Description>Allows inserting custom spritesheets for animations.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="637DF381F5D4D48717900A4820D7C974D88836A4B8F641B748A6B30026F3EEC8">
+            <![CDATA[https://github.com/RedFrog6002/CustomKnightSuperAnimationAddon/releases/download/v1.0.0.0/CustomKnightSuperAnimationAddon.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>FrogCore</Dependency>
+            <Dependency>Custom Knight</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/RedFrog6002/CustomKnightSuperAnimationAddon/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>Unity Explorer</Name>
         <Description>Useful tool for mod developers to view and edit how the game is structured.</Description>
         <Version>4.9.0.0</Version>
