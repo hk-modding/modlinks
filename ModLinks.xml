@@ -5929,6 +5929,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	</Manifest>
 
 	<Manifest>
+		<Name>Stop Hitting Yourself</Name>
+		<Description>The night becomes clumsy</Description>
+		<Version>1.3.0.0</Version>
+		<Link SHA256="19B1230DD84A8C01D95A4E412268AEA124F2C19A6E33C9A5CAF2ABEEF925B91B"><![CDATA[https://github.com/ChouchIsCool/Stop_Hitting_Yourself_HK_Mod/releases/download/Gameplay/Stop_Hitting_Yourself_HK_Mod-main.zip]]></Link>
+		<Dependencies />
+		<Repository>
+			<![CDATA[https://github.com/ChouchIsCool/Stop_Hitting_Yourself_HK_Mod]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/ChouchIsCool/Stop_Hitting_Yourself_HK_Mod/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Gameplay</Tag>
+		</Tags>
+		<Authors>
+			<Author>ChouchIsCool</Author>
+		</Authors>
+	</Manifest>
+	
+	<Manifest>
 		<Name>ShyKnight</Name>
 		<Description>Removes the audience from Godhome arenas and Colosseum of Fools</Description>
 		<Version>1.3.0.0</Version>
