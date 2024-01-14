@@ -5932,7 +5932,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		<Name>Stop Hitting Yourself</Name>
 		<Description>The night becomes clumsy</Description>
 		<Version>1.3.0.0</Version>
-		<Link SHA256="19B1230DD84A8C01D95A4E412268AEA124F2C19A6E33C9A5CAF2ABEEF925B91B"><![CDATA[https://github.com/ChouchIsCool/Stop_Hitting_Yourself_HK_Mod/releases/download/Gameplay/Stop_Hitting_Yourself_HK_Mod-main.zip]]></Link>
+		<Link SHA256="BA9FA453768B139B59A14FCAD3BE3B5E2AB5530F03821B36B0E6757C4EC42188"><![CDATA[https://github.com/ChouchIsCool/Stop_Hitting_Yourself_HK_Mod/releases/download/Gameplay/Stop_Hitting_Yourself_HK_Mod-main.zip]]></Link>
 		<Dependencies />
 		<Repository>
 			<![CDATA[https://github.com/ChouchIsCool/Stop_Hitting_Yourself_HK_Mod]]>
