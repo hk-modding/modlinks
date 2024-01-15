@@ -3274,7 +3274,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>CustomKnightSuperAnimationAddon</Name>
-        <Description>Allows inserting custom spritesheets for animations.</Description>
+        <Description>Allows inserting custom spritesheets for animations. To export spritesheets, use https://github.com/RedFrog6002/sseadv</Description>
         <Version>1.0.0.1</Version>
         <Link SHA256="F041694E6046A4B266901F128C1F10B8F093273CDEA12E068F0856A73222BE58">
             <![CDATA[https://github.com/RedFrog6002/CustomKnightSuperAnimationAddon/releases/download/v1.0.0.1/CustomKnightSuperAnimationAddon.zip]]>
