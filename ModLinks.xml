@@ -1664,7 +1664,7 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>ItemSync</Name>
         <Description>A RandomizerMod 4 add-on for sharing item pickups between players.</Description>
-        <Version>2.7.1.0</Version>
+        <Version>2.7.2.0</Version>
         <Link SHA256="02D7E50982C2F824C5542F31649B1F6454EE7DF3FABFE6978A926BA6DEB97760">
             <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.7.2/ItemSync.zip]]>
         </Link>
