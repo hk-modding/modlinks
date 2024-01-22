@@ -1395,9 +1395,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Scatternest</Name>
         <Description>Addon for Randomizer and ItemSync allowing players to start at multiple different locations.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="b77842bc4984e16724a48f86c8bcd401b8e6ac43d3b648acfb6937a3a04d131c">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.0.0/Scatternest.zip]]>
+        <Version>1.2.0.1</Version>
+        <Link SHA256="fa7f173bdc756647fc515a53ad43bd62d00d879c72615f4827f6a00c697334f4">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.0.1/Scatternest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
