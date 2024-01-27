@@ -2885,9 +2885,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>2.2.8633.8591</Version>
-        <Link SHA256="423163E3B97E88639F89E65876C74D40DB1583BC9AACF6312E0DD2930D1BC400">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.2.8633.8591/TheRealJournalRando.zip]]>
+        <Version>2.3.8792.42318</Version>
+        <Link SHA256="344F043814204777EDE2439EC0FC2CD161365D0533443E182E71F7709F8A45AE">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.3.8792.42318/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -2973,9 +2973,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreLocations</Name>
         <Description>Randomizer 4 addon that adds assorted locations to the randomizer. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.0.8633.9529</Version>
-        <Link SHA256="A775D7EC0ED611E9A184F53B881207734F306F10910FB91042E3A40956CA7799">
-            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.0.8633.9529/MoreLocations.zip]]>
+        <Version>1.1.8792.42313</Version>
+        <Link SHA256="AA7B44BA82FD00DFF40480D0C3E325A8808131B503E2365E5686AE3C86E91E36">
+            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.1.8792.42313/MoreLocations.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
