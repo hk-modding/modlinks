@@ -3,6 +3,21 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
   <Manifest>
+    <Name>UnlimitedShades</Name>
+    <Description>Multiple shades can coexist, so geo is never truly lost.</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="20a962541f1016aa4ca89450096bfac927b00eb42701b649f992efe986d2ca98"><![CDATA[https://github.com/TheMathGeek314/UnlimitedShades/releases/download/v1.1.0.1/UnlimitedShades.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/UnlimitedShades/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+  </Manifest>
+  <Manifest>
     <Name>PersistentDivine</Name>
     <Description>A mod that keeps Divines tent in Dirtmouth even after you banish the Grimm Troupe so you don't accidentally miss the chance to get unbreakable charms</Description>
     <Version>1.1.8677.23928</Version>
