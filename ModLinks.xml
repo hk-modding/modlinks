@@ -5368,7 +5368,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>NoWalkOfShame</Name>
         <Description>Respawns you in the room you died in (skipping darkrooms/dreamrooms/colosseum)</Description>
-        <Version>1.0.0.0</Version>
+        <Version>1.0.0.3</Version>
         <Link SHA256="C71C8F3EEB3C6D724AEE810DDAAC7E2558B8FF62FE9E57CEECB89DD09D185D27">
             <![CDATA[https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame/releases/download/1.0.0.3/NoWalkOfShame.zip]]>
         </Link>
