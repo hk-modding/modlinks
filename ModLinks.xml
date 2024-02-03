@@ -6348,4 +6348,23 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        <Author>Foxyrobo</Author>
 	    </Authors>
     </Manifest>
+    <Manifest>
+    	<Name>Deez Nuts Mod</Name>
+    	<Description>Replaces all text with Deez Nuts</Description>
+    	<Version>1.0.0</Version>
+    	<Link SHA256="87BA571E0ACBDD4930104C016EFCBFDFC33FF3A5DB27D62063AA544A03C850BC">
+	    <![CDATA[https://github.com/Foxyrobo/Deez-Nuts-Mod/releases/download/1.0.0/Deez_Nuts_Mod.zip]]></Link>
+    	<Repository>
+	    <![CDATA[https://github.com/Foxyrobo/Deez-Nuts-Mod]]>
+    	</Repository>
+    	<Issues>
+	    <![CDATA[https://github.com/Foxyrobo/Deez-Nuts-Mod/issues]]>
+    	</Issues>
+    	<Tags>
+	    <Tag>Cosmetic</Tag>
+    	</Tags>
+    	<Authors>
+	    <Author>Foxyrobo</Author>
+    	</Authors>
+    </Manifest>
 </ModLinks>
