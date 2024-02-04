@@ -1223,9 +1223,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.12.0.0</Version>
-        <Link SHA256="7e706a51a6f9332b7de6069d5f10d61b14bc6ae3f96ab394eee727abb09d77ed">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.12.0.0/SkillUpgrades.zip]]>
+        <Version>0.12.1.0</Version>
+        <Link SHA256="1a6829f51f68e505ce3e85acad1bb65c77ac559526831d4171675706ad201596">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.12.1.0/SkillUpgrades.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -1360,9 +1360,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.5.1.1</Version>
-        <Link SHA256="85004082a4bc4ff9061ec5567614442938b15a672634a1b105faf035f29235e7">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.1.1/TrandoPlus.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="08674c8c60436e4cf8f857802d03eb01896afd2d8b93fd0f4cf0a9f6ec2a5b4d">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.2.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
