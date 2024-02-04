@@ -3,6 +3,21 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
   <Manifest>
+    <Name>UnlimitedShades</Name>
+    <Description>Multiple shades can coexist, so geo is never truly lost.</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="20a962541f1016aa4ca89450096bfac927b00eb42701b649f992efe986d2ca98"><![CDATA[https://github.com/TheMathGeek314/UnlimitedShades/releases/download/v1.1.0.1/UnlimitedShades.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/UnlimitedShades/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+  </Manifest>
+  <Manifest>
     <Name>PersistentDivine</Name>
     <Description>A mod that keeps Divines tent in Dirtmouth even after you banish the Grimm Troupe so you don't accidentally miss the chance to get unbreakable charms</Description>
     <Version>1.1.8677.23928</Version>
@@ -335,10 +350,10 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>Fyrenest</Name>
-        <Description>Fyrenest v3 Adds over 30 charms, and remaps the Ancient Basin, Hive, Abyss, Resting Grounds, and Crystal Peak! It also rewrites dialogue for most of the NPCs like The Seer, The Last Stag, Elderbug, Cornifer, Iselda, and more! Fyrenest now changes almost every aspect of the game.</Description>
-        <Version>3.0.0.0</Version>
-        <Link SHA256="d1552cd836bf01b92de66fbe83c744a131787d22f25c10f53e40405af22179b3">
-            <![CDATA[https://github.com/BubkisLord/Fyrenest/releases/download/v3/Fyrenest.zip]]>
+        <Description>Adds 30 new charms and creates new things to explore! The full map recreation is now being rolled back. If you want to continue playing with the map changes, either don't update or get the latest version off the repository.</Description>
+        <Version>3.0.0.1</Version>
+        <Link SHA256="74302dbf315a5cf592408d78cdb43f1c3f8490ae5923d866f058803f1f4f8c1e">
+            <![CDATA[https://github.com/BubkisLord/Fyrenest/releases/download/v2.12.45.65/Fyrenest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -1492,9 +1507,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.2.5.0</Version>
-        <Link SHA256="422794AC1B0507DB04FB0EBCEFE3F7F544D083BD8ECD216A486A939225E57F06">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.5.0/Benchwarp.zip]]>
+        <Version>3.2.6.0</Version>
+        <Link SHA256="135E041938CFB386D874B7E6DDDD0BEE7560942F05BEFCA0CC8F4897AC8C90CA">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.6.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1504,14 +1519,15 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.1.3.0</Version>
-        <Link SHA256="E658E9D32C9420756A9AC848C473DC96F764E9F460D7D69AD0D92FE4B178EE96">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.3%2B774/RandomizerMod.zip]]>
+        <Version>4.1.4.0</Version>
+        <Link SHA256="63AF9ADF02288EA02EAFDCC862037D5E81077F768496E73622C9D81947A064A5">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.4%2B145/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
             <Dependency>Benchwarp</Dependency>
             <Dependency>QoL</Dependency>
         </Dependencies>
@@ -1522,9 +1538,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.1.3.0</Version>
-        <Link SHA256="2C19A123065AA44C1C7F6F20AF7189347704FCB6C633977AD91C0DBE23444839">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.3%2B155/ItemChanger.zip]]>
+        <Version>2.1.4.0</Version>
+        <Link SHA256="528E9F7EB4E0E9A0E416DFDD1F437D5476E97C4DA4DB7369F0F8103632D1B5F1">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.4%2B578/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1546,9 +1562,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="87CC6BF498BC0405D95E6FECAB70E060F238D4D84843C4BD91FBD8523E26C7BB">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.1.2/RandomizerCore.zip]]>
+        <Version>2.0.1.0</Version>
+        <Link SHA256="98976F3A3FDE2EC20F828FD235B9711171B88BC0E8338A11402CEB13F1601AA5">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.1/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1556,11 +1572,23 @@ All with an incredible new soundtrack!</Description>
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>RandomizerCore.Json</Name>
+        <Description>A library which adds support for json-encoded logic data to RandomizerCore. </Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="DB40B6B910DD3DB3EDEF47EA7BB8CEB53E810A918856296BF0ADF4C8D2AF3D84">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.0.0/RandomizerCore.Json.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore.Json/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>ItemChangerDataLoader</Name>
         <Description>Mod for creating backups of randomizer saves and launching plandos.</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="1F7883F0D210C079309DFEF4AA8952340A71F8B74FA8C8CC595CE41A928E5650">
-            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.2/ItemChangerDataLoader.zip]]>
+        <Version>1.1.3.0</Version>
+        <Link SHA256="24F370AF832614453C8FA82CC1C4FF963E01458B1511E03C04ED90A649C44C76">
+            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.3/ItemChangerDataLoader.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -1602,9 +1630,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomLogicInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined logic edits.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="F0900CF3754F76D8D2B313D249607383F59C6C09132494E60D63CA2B9217C747">
-            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.0/CustomLogicInjector.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="0D3394CB7AB91955531F02EB7EE28F07B48301C7EFC491122423C4C31C0C1ECD">
+            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.1/CustomLogicInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1616,9 +1644,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomGroupInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined item groups for different split group randomizer options.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="14AEBBFB0EB9F73D51DAC3E9394A8D217B4C22730F5E2CFE6726540065F99803">
-            <![CDATA[https://github.com/homothetyhk/CustomGroupInjector/releases/download/v1.1.0/CustomGroupInjector.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="6C693965B5761B4CF289C3FA598AA381A559419F9E27C89DA73FBF3A17F5F9A0">
+            <![CDATA[https://github.com/homothetyhk/CustomGroupInjector/releases/download/v1.1.1/CustomGroupInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1644,9 +1672,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>BenchRando</Name>
         <Description>A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items.</Description>
-        <Version>1.0.4.0</Version>
-        <Link SHA256="676073BD3E4B9698AAAC660D7D76B2489624F3822CEE9BA2C1BB722CD5B1C34B">
-            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.4/BenchRando.zip]]>
+        <Version>1.0.5.0</Version>
+        <Link SHA256="084D4815FBA3262B99E8472C7011FE9F548A5A8E4352F207B15BCF2B12B626D4">
+            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.5/BenchRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -5354,9 +5382,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>NoWalkOfShame</Name>
         <Description>Respawns you in the room you died in (skipping darkrooms/dreamrooms/colosseum)</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="7F70F3BADD1405B143B01FCF54E6F02C2B16724830C09A926AB7B8CEE150628A">
-            <![CDATA[https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame/releases/download/1.0.0.2/NoWalkOfShame.zip]]>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="C71C8F3EEB3C6D724AEE810DDAAC7E2558B8FF62FE9E57CEECB89DD09D185D27">
+            <![CDATA[https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame/releases/download/1.0.0.3/NoWalkOfShame.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -6308,5 +6336,30 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		<Authors>
 			<Author>Samihamer1</Author>
 		</Authors>
+    </Manifest>
+    <Manifest>
+	    <Name>CarThingMod</Name>
+	    <Description>Throws a car everytime the player swings their nail</Description>
+	    <Version>1.0.0.0</Version>
+	    <Link SHA256="9426f901a54b11ee1626a14830ad4c1340295a78e89c092eeb99d837226bc899">
+	            <![CDATA[https://github.com/Foxyrobo/CarThingMod/releases/download/1.0.0/CarThingMod.zip]]>
+	    </Link>
+	    <Dependencies>
+	        <Dependency>Satchel</Dependency>
+	        <Dependency>FrogCore</Dependency>
+	        <Dependency>SFCore</Dependency>
+	    </Dependencies>
+	    <Repository>
+	        <![CDATA[https://github.com/Foxyrobo/CarThingMod]]>
+	    </Repository>
+	    <Issues>
+	        <![CDATA[https://github.com/Foxyrobo/CarThingMod/issues]]>
+	    </Issues>
+	    <Tags>
+	        <Tag>Gameplay</Tag>
+	    </Tags>
+	    <Authors>
+	        <Author>Foxyrobo</Author>
+	    </Authors>
     </Manifest>
 </ModLinks>
