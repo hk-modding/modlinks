@@ -1292,9 +1292,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.7.0.0</Version>
-        <Link SHA256="287ef06daa728e3af1825befbdc184e9dbe173d99579fb29e2d0555b4228ff36">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.7.0.0/RandoPlus.zip]]>
+        <Version>1.7.0.1</Version>
+        <Link SHA256="d2d7d6cb1403c77a456afc29a9c140cc3d82d25efa6ab3b3f425912a1baee6e5">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.7.0.1/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -1325,9 +1325,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.4.3</Version>
-        <Link SHA256="be42b162988354d7259edaaf6681507131a31f3df671d9ec18c77548fb96e118">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.4.3/RandomizableLevers.zip]]>
+        <Version>1.2.5.0</Version>
+        <Link SHA256="f8ae291180897b7e5842d3ff2b11fc7a0b134dfa5d74b7f51d07f84b2cbd888f">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.5.0/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
