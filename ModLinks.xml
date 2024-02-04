@@ -1522,9 +1522,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.1.4.0</Version>
-        <Link SHA256="B03AE59CD3FDE8994144CC5E229E7363076571AF945A4BD34C5BB93CD8DBE791">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.4%2B145/RandomizerMod.zip]]>
+        <Version>4.1.4.1</Version>
+        <Link SHA256="2FFF72FFBDA417534A596E07E9922151354BD5146203C722A5444F36D73A835E">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.4%2B207/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
