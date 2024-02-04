@@ -759,10 +759,10 @@ All with an incredible new soundtrack!</Description>
             <Dependency>MagicUI</Dependency>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
+        <Repository>https://github.com/dpinela/Transcendence/</Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
         </Integrations>
-        <Repository>https://github.com/dpinela/Transcendence/</Repository>
     </Manifest>
     <Manifest>
         <Name>RainbowEggs</Name>
