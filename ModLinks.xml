@@ -1242,9 +1242,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log (and several others) in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>1.10.0.0</Version>
-        <Link SHA256="3718a726c19ff5c65a86555ded7b00975d833346e58c6ba4eaf72cbf287c003b">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.10.0.0/CondensedSpoilerLogger.zip]]>
+        <Version>1.10.1.0</Version>
+        <Link SHA256="fb67b2a89e7e2340d3015e00fe35af6b6e03ec85f13dbfc03b5b5102a4f9f211">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.10.1.0/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
