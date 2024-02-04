@@ -2913,9 +2913,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>2.2.8633.8591</Version>
-        <Link SHA256="423163E3B97E88639F89E65876C74D40DB1583BC9AACF6312E0DD2930D1BC400">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.2.8633.8591/TheRealJournalRando.zip]]>
+        <Version>2.3.8792.42318</Version>
+        <Link SHA256="344F043814204777EDE2439EC0FC2CD161365D0533443E182E71F7709F8A45AE">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.3.8792.42318/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -3001,9 +3001,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreLocations</Name>
         <Description>Randomizer 4 addon that adds assorted locations to the randomizer. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.0.8633.9529</Version>
-        <Link SHA256="A775D7EC0ED611E9A184F53B881207734F306F10910FB91042E3A40956CA7799">
-            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.0.8633.9529/MoreLocations.zip]]>
+        <Version>1.1.8792.42313</Version>
+        <Link SHA256="AA7B44BA82FD00DFF40480D0C3E325A8808131B503E2365E5686AE3C86E91E36">
+            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.1.8792.42313/MoreLocations.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -5214,9 +5214,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="32578858E45CD8A9EB492A64A6D496EF9936E792547382DB70FB5EEFECA97B78">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.1.0/MapChanger.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="F875D0AED6F0C05C2DC3DB3B4F54892D0A88FE928DFE12B3A20F84C6F01A18A9">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.1.1/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -5238,9 +5238,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.4.0.0</Version>
-        <Link SHA256="139FAB4A8A05DE5D4DA58DBA2E6EFC67E030D64AC92A506BFD0284121823B558">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.4.0/RandoMapMod.zip]]>
+        <Version>3.4.1.0</Version>
+        <Link SHA256="0EB2D92B5E387C4B3DECB80FC65FC228DF0F80226C229AC43321E836D3351EEC">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.4.1/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
