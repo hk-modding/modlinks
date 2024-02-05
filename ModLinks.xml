@@ -6418,7 +6418,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Dependency>ItemChangerDataLoader</Dependency>
         <Dependency>KorzUtils</Dependency>
         <Dependency>MenuChanger</Dependency>
-        <Dependency>RandomizerMod</Dependency>
+        <Dependency>Randomizer 4</Dependency>
     </Dependencies>
     	<Repository>
 	    <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer]]>
