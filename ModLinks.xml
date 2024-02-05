@@ -5884,6 +5884,25 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Authors>
 </Manifest>
     <Manifest>
+        <Name>GrassCore</Name>
+        <Description>A core mod for grass-related activities.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="EC6AA77380687F7B090AC1F7029345363D77E3370BF2CC40C3D2EE72DA34EA04"><![CDATA[https://github.com/ManicJamie/GrassCore/releases/download/v1.0/GrassCore.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ManicJamie/GrassCore]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ManicJamie/GrassCore/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>ManicJamie</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>BingoSync</Name>
         <Description>A Hollow Knight mod that automatically marks squares on bingosync.com</Description>
         <Version>1.2.2.0</Version>
