@@ -752,14 +752,17 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Transcendence</Name>
         <Description>Adds 15 new charms with various abilities. Can be used with the randomizer.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="41b048ba1920166866f5b0732f3166ac9b5ad88842e21c22acf317bd1ae71623">https://github.com/dpinela/Transcendence/releases/download/v1.5/Transcendence.zip</Link>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="178338aa3fcf4f0bea6e03f87f66ff3375389b9cbbe4ec31da61ac44b8fcb58a">https://github.com/dpinela/Transcendence/releases/download/v1.5.1/Transcendence.zip</Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>MagicUI</Dependency>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
         <Repository>https://github.com/dpinela/Transcendence/</Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>RainbowEggs</Name>
@@ -1223,9 +1226,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>SkillUpgrades</Name>
         <Description>Provides a collection of upgrades and tweaks to the Knight's Skills. Visit the Mod Menu to enable them.</Description>
-        <Version>0.12.0.0</Version>
-        <Link SHA256="7e706a51a6f9332b7de6069d5f10d61b14bc6ae3f96ab394eee727abb09d77ed">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.12.0.0/SkillUpgrades.zip]]>
+        <Version>0.12.1.0</Version>
+        <Link SHA256="1a6829f51f68e505ce3e85acad1bb65c77ac559526831d4171675706ad201596">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.SkillUpgrades/releases/download/v0.12.1.0/SkillUpgrades.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -1242,9 +1245,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CondensedSpoilerLogger</Name>
         <Description>Creates a Condensed Spoiler Log (and several others) in the Rando Logs directory with the key information about the seed.</Description>
-        <Version>1.10.0.0</Version>
-        <Link SHA256="3718a726c19ff5c65a86555ded7b00975d833346e58c6ba4eaf72cbf287c003b">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.10.0.0/CondensedSpoilerLogger.zip]]>
+        <Version>1.10.1.0</Version>
+        <Link SHA256="fb67b2a89e7e2340d3015e00fe35af6b6e03ec85f13dbfc03b5b5102a4f9f211">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.10.1.0/CondensedSpoilerLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1292,9 +1295,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>RandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.</Description>
-        <Version>1.6.2.0</Version>
-        <Link SHA256="a59da21110f17ba4bbd60f04b4170d6d48b07c7804e1910074c4997ec4e38cbf">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.6.2.0/RandoPlus.zip]]>
+        <Version>1.7.0.1</Version>
+        <Link SHA256="d2d7d6cb1403c77a456afc29a9c140cc3d82d25efa6ab3b3f425912a1baee6e5">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.7.0.1/RandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -1325,9 +1328,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.4.3</Version>
-        <Link SHA256="be42b162988354d7259edaaf6681507131a31f3df671d9ec18c77548fb96e118">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.4.3/RandomizableLevers.zip]]>
+        <Version>1.2.5.0</Version>
+        <Link SHA256="f8ae291180897b7e5842d3ff2b11fc7a0b134dfa5d74b7f51d07f84b2cbd888f">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.5.0/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -1360,9 +1363,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>TrandoPlus</Name>
         <Description>Add-on for Randomizer 4 that adds more options to Transition Rando; for example, randomize only doorway transitions.</Description>
-        <Version>1.5.1.1</Version>
-        <Link SHA256="85004082a4bc4ff9061ec5567614442938b15a672634a1b105faf035f29235e7">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.1.1/TrandoPlus.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="08674c8c60436e4cf8f857802d03eb01896afd2d8b93fd0f4cf0a9f6ec2a5b4d">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.TrandoPlus/releases/download/v1.5.2.0/TrandoPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1507,9 +1510,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.2.5.0</Version>
-        <Link SHA256="422794AC1B0507DB04FB0EBCEFE3F7F544D083BD8ECD216A486A939225E57F06">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.5.0/Benchwarp.zip]]>
+        <Version>3.2.6.0</Version>
+        <Link SHA256="135E041938CFB386D874B7E6DDDD0BEE7560942F05BEFCA0CC8F4897AC8C90CA">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.6.0/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1519,14 +1522,15 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.1.3.0</Version>
-        <Link SHA256="E658E9D32C9420756A9AC848C473DC96F764E9F460D7D69AD0D92FE4B178EE96">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.3%2B774/RandomizerMod.zip]]>
+        <Version>4.1.4.1</Version>
+        <Link SHA256="2FFF72FFBDA417534A596E07E9922151354BD5146203C722A5444F36D73A835E">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.4%2B207/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
             <Dependency>Benchwarp</Dependency>
             <Dependency>QoL</Dependency>
         </Dependencies>
@@ -1537,9 +1541,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.1.3.0</Version>
-        <Link SHA256="2C19A123065AA44C1C7F6F20AF7189347704FCB6C633977AD91C0DBE23444839">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.3%2B155/ItemChanger.zip]]>
+        <Version>2.1.4.0</Version>
+        <Link SHA256="528E9F7EB4E0E9A0E416DFDD1F437D5476E97C4DA4DB7369F0F8103632D1B5F1">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.4%2B578/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1561,9 +1565,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="87CC6BF498BC0405D95E6FECAB70E060F238D4D84843C4BD91FBD8523E26C7BB">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v1.1.2/RandomizerCore.zip]]>
+        <Version>2.0.1.0</Version>
+        <Link SHA256="98976F3A3FDE2EC20F828FD235B9711171B88BC0E8338A11402CEB13F1601AA5">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.1/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1571,11 +1575,23 @@ All with an incredible new soundtrack!</Description>
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>RandomizerCore.Json</Name>
+        <Description>A library which adds support for json-encoded logic data to RandomizerCore. </Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="DB40B6B910DD3DB3EDEF47EA7BB8CEB53E810A918856296BF0ADF4C8D2AF3D84">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.0.0/RandomizerCore.Json.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore.Json/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>ItemChangerDataLoader</Name>
         <Description>Mod for creating backups of randomizer saves and launching plandos.</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="1F7883F0D210C079309DFEF4AA8952340A71F8B74FA8C8CC595CE41A928E5650">
-            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.2/ItemChangerDataLoader.zip]]>
+        <Version>1.1.3.0</Version>
+        <Link SHA256="24F370AF832614453C8FA82CC1C4FF963E01458B1511E03C04ED90A649C44C76">
+            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.3/ItemChangerDataLoader.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -1617,9 +1633,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomLogicInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined logic edits.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="F0900CF3754F76D8D2B313D249607383F59C6C09132494E60D63CA2B9217C747">
-            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.0/CustomLogicInjector.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="0D3394CB7AB91955531F02EB7EE28F07B48301C7EFC491122423C4C31C0C1ECD">
+            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.1/CustomLogicInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1631,9 +1647,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomGroupInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined item groups for different split group randomizer options.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="14AEBBFB0EB9F73D51DAC3E9394A8D217B4C22730F5E2CFE6726540065F99803">
-            <![CDATA[https://github.com/homothetyhk/CustomGroupInjector/releases/download/v1.1.0/CustomGroupInjector.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="6C693965B5761B4CF289C3FA598AA381A559419F9E27C89DA73FBF3A17F5F9A0">
+            <![CDATA[https://github.com/homothetyhk/CustomGroupInjector/releases/download/v1.1.1/CustomGroupInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1659,9 +1675,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>BenchRando</Name>
         <Description>A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items.</Description>
-        <Version>1.0.4.0</Version>
-        <Link SHA256="676073BD3E4B9698AAAC660D7D76B2489624F3822CEE9BA2C1BB722CD5B1C34B">
-            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.4/BenchRando.zip]]>
+        <Version>1.0.5.0</Version>
+        <Link SHA256="084D4815FBA3262B99E8472C7011FE9F548A5A8E4352F207B15BCF2B12B626D4">
+            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.5/BenchRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -2900,9 +2916,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>2.2.8633.8591</Version>
-        <Link SHA256="423163E3B97E88639F89E65876C74D40DB1583BC9AACF6312E0DD2930D1BC400">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.2.8633.8591/TheRealJournalRando.zip]]>
+        <Version>2.3.8792.42318</Version>
+        <Link SHA256="344F043814204777EDE2439EC0FC2CD161365D0533443E182E71F7709F8A45AE">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.3.8792.42318/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -2988,9 +3004,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreLocations</Name>
         <Description>Randomizer 4 addon that adds assorted locations to the randomizer. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.0.8633.9529</Version>
-        <Link SHA256="A775D7EC0ED611E9A184F53B881207734F306F10910FB91042E3A40956CA7799">
-            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.0.8633.9529/MoreLocations.zip]]>
+        <Version>1.1.8792.42313</Version>
+        <Link SHA256="AA7B44BA82FD00DFF40480D0C3E325A8808131B503E2365E5686AE3C86E91E36">
+            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.1.8792.42313/MoreLocations.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -5114,9 +5130,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.4.6.1</Version>
-        <Link SHA256="462450D759EFD13858581038DD342D9EE1E2EDA66165B83A6FBB605FA0800E42">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.6.1/DarknessRandomizer.zip]]>
+        <Version>1.4.7.0</Version>
+        <Link SHA256="C66B4D14223D44611E2873809FD557ECE4E4EB3587F79A29EF20FE9356978B00">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.7.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -5139,9 +5155,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>2.1.1.0</Version>
-        <Link SHA256="08B6E63D2FDDDBABE07B92B11D87F128DB168BF9F1FDB1C13E8F10CEEED75B5F">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v2.1.1.0/MoreDoors.zip]]>
+        <Version>2.1.2.0</Version>
+        <Link SHA256="AE9C29ABF4EDB4E935401AAEE31A01981685FC3A012066C035B09C278927CD3F">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v2.1.2.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -5164,11 +5180,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="CB9B5A517551EF3D2B2DFF675CC092E28DC020B0D2F839C49D090518A38F99F3">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.2.0.0/PurenailCore.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="13E12F3706FC439A01960D32032F4236E06EA05B9FD93A86162B46BA14CD8993">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.2.1.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
+	    <Dependency>RandomizerCore.Json</Dependency>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
         <Repository>
@@ -5200,9 +5217,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="32578858E45CD8A9EB492A64A6D496EF9936E792547382DB70FB5EEFECA97B78">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.1.0/MapChanger.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="F875D0AED6F0C05C2DC3DB3B4F54892D0A88FE928DFE12B3A20F84C6F01A18A9">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.1.1/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -5224,9 +5241,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.4.0.0</Version>
-        <Link SHA256="139FAB4A8A05DE5D4DA58DBA2E6EFC67E030D64AC92A506BFD0284121823B558">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.4.0/RandoMapMod.zip]]>
+        <Version>3.4.1.0</Version>
+        <Link SHA256="0EB2D92B5E387C4B3DECB80FC65FC228DF0F80226C229AC43321E836D3351EEC">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.4.1/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
