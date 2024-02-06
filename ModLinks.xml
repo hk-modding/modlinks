@@ -3892,9 +3892,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Hit Counter</Name>
         <Description>Allow creating custom counters for counting hits.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="E39521819BEB50F64A77F2ACF4A3346EB7D3486B5E90C28CBDECB80E1606D136">
-            <![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter/releases/download/v1.0.1/HitCounter.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="ABF089466F5D32CF5B1D770655A23C34FBE9E16131E168427A35F8FF6A52DA10">
+            <![CDATA[https://github.com/Dastan21/HollowKnight.HitCounter/releases/download/v1.1.0/HitCounter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
