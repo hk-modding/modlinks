@@ -5075,9 +5075,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.2.1.0</Version>
-        <Link SHA256="eb33d0c61d76f835d884de56ded0c1dba4b0477b6f8bfb23372d0f2a673fe029">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.2.1/LoreRandomizer.zip]]></Link>
+        <Version>0.2.2.0</Version>
+        <Link SHA256="2e832438bef3efe2d30856c03adecc5252dc46c55f047694c39b9356d6056d5b">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.2.2/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
@@ -5095,9 +5095,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.4.0.0</Version>
-        <Link SHA256="e78bf5f18c966467427cb66ce05f0eab13a6d4e65c33b229a7bf3161793c94a9">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.4.0/ExtraRando.zip]]></Link>
+        <Version>0.4.1.0</Version>
+        <Link SHA256="c1364d56bba73f3f54c38a3f2d6ae410fa77e1490094e8a02ca753246b321373">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.4.1/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
