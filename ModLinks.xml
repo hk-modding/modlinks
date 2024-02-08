@@ -1358,9 +1358,15 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/ManicJamie/HollowKnight.RopeRando/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ManicJamie/HollowKnight.RopeRando/issues]]>
+          </Issues>
         <Integrations>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
+        <Authors>
+            <Author>ManicJamie</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>TrandoPlus</Name>
