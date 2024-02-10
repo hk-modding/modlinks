@@ -4568,9 +4568,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>2.1.2.0</Version>
-        <Link SHA256="80DB56648FA81BF174153B96E6653EDB682A0C40AC9D985DC4995ECF35063A0B">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.2/Archipelago.Map.Mod.zip]]>
+        <Version>2.1.3.0</Version>
+        <Link SHA256="4D1F2F518BAEAB578B47C909F2C935DDFB9072788E5338809390034450F9B219">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.3/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
