@@ -1212,9 +1212,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>MylaFlower</Name>
         <Description>Protect Myla from the infection by bringing her a flower.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="eaacd97c592fb3a9c76ba741f05e6862a2458731e8db48071cb693cc2d9bac18">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v1.1.0.0/MylaFlower.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="94c9da348c80f68076b493ced1726709166bc19b5d32b6043ded282de9238128">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v2.0.0.0/MylaFlower.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -1222,6 +1222,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/flibber-hk/HollowKnight.MylaFlower/]]>
         </Repository>
+	<Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
     </Manifest>
     <Manifest>
         <Name>SkillUpgrades</Name>
