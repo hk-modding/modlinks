@@ -6421,9 +6421,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>HallOfGodsRandomizer</Name>
     	<Description>A Randomizer add-on for Hall of Gods statues.</Description>
-    	<Version>1.0.0.0</Version>
-    	<Link SHA256="3c24df465f1f9d8dfb66e570f974a01bfd9d5edcb53ee0f96e9720fa676809f0">
-	    <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.0.0.0/HallOfGodsRandomizer.zip]]>
+    	<Version>1.1.1.0</Version>
+    	<Link SHA256="f52ffc95bc771dc20dffbd3c679f59be281a312059c1bcdc2b3f9479bb78a346">
+	    <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.1.0/HallOfGodsRandomizer.zip]]>
 	</Link>
 	<Dependencies>
         <Dependency>ItemChanger</Dependency>
