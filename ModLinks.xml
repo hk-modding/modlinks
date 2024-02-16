@@ -334,7 +334,7 @@ All with an incredible new soundtrack!</Description>
         <Name>Core.FsmUtil</Name>
         <Description>A library mod for fsm editing.</Description>
         <Version>1.1.1.1</Version>
-        <Link SHA256="3A04BCFA5B329855D8AD117FB63788A32F9FF623CFD5B0C18CED6C3C6B98934B">
+        <Link SHA256="79578233F83E6AB655E680F168AD1266465FA6FF6A61DFA38DF9E069D941A1DD">
             <![CDATA[https://github.com/SFGrenade/HK.Core.FsmUtil/releases/download/v1.1.1.1/Core_FsmUtil.zip]]>
         </Link>
         <Dependencies />
