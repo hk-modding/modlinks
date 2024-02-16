@@ -333,12 +333,12 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Core.FsmUtil</Name>
         <Description>A library mod for fsm editing.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="3A04BCFA5B329855D8AD117FB63788A32F9FF623CFD5B0C18CED6C3C6B98934B">
-            <![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.1/Core_FsmUtil.zip]]>
+        <Version>1.1.1.1</Version>
+        <Link SHA256="79578233F83E6AB655E680F168AD1266465FA6FF6A61DFA38DF9E069D941A1DD">
+            <![CDATA[https://github.com/SFGrenade/HK.Core.FsmUtil/releases/download/v1.1.1.1/Core_FsmUtil.zip]]>
         </Link>
         <Dependencies />
-        <Repository><![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil]]></Repository>
+        <Repository><![CDATA[https://github.com/SFGrenade/HK.Core.FsmUtil]]></Repository>
         <Tags>
             <Tag>Library</Tag>
         </Tags>
@@ -346,6 +346,7 @@ All with an incredible new soundtrack!</Description>
             <Author>SFGrenade</Author>
             <Author>Flibber</Author>
             <Author>Mulhima</Author>
+            <Author>Clazex</Author>
         </Authors>
     </Manifest>
     <Manifest>
