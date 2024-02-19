@@ -5194,9 +5194,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="13E12F3706FC439A01960D32032F4236E06EA05B9FD93A86162B46BA14CD8993">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.2.1.0/PurenailCore.zip]]>
+        <Version>1.2.2.0</Version>
+        <Link SHA256="08B6A737F2519D9F6B0E5F5EB5476D51380508D104D4A8F7625E83EA69702044">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.2.2.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
 	    <Dependency>RandomizerCore.Json</Dependency>
