@@ -1602,9 +1602,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>ItemChangerDataLoader</Name>
         <Description>Mod for creating backups of randomizer saves and launching plandos.</Description>
-        <Version>1.1.3.0</Version>
-        <Link SHA256="24F370AF832614453C8FA82CC1C4FF963E01458B1511E03C04ED90A649C44C76">
-            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.3/ItemChangerDataLoader.zip]]>
+        <Version>1.1.4.0</Version>
+        <Link SHA256="ADF63E3EAD7830672A03511253327FCDCE1398F732B1ECA8F794256325953F57">
+            <![CDATA[https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.4/ItemChangerDataLoader.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
