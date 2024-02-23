@@ -647,9 +647,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Mask Maker Notches</Name>
         <Description>A mod that adds a few buyable Charm Notches in Mask Maker's room.</Description>
-        <Version>1.2.2.0</Version>
-        <Link SHA256="B71E29677E9FE6E8CE7CA32A7305032A67F9D8645B3C51FF25071F79151878EB">
-            <![CDATA[https://github.com/IronLucario2012/MaskMakerNotchesMod/releases/download/v1.2.2/MaskMakerNotches.zip]]>
+        <Version>1.2.3.0</Version>
+        <Link SHA256="BECC5D919002F9AEC0BE4E3C2B360A26B80A43492C2F244EED160C9478B33310">
+            <![CDATA[https://github.com/IronLucario2012/MaskMakerNotchesMod/releases/download/v1.2.3/MaskMakerNotches.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
