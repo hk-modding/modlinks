@@ -6446,4 +6446,25 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    <Author>nerthul11</Author>
     	</Authors>
     </Manifest>
+    <Manifest>
+    	<Name>RadianceSkin</Name>
+	<Description>A mod to load custom skins for Absolute Radiance</Description>
+    	<Version>0.1.0.0</Version>
+    	<Link SHA256="7f609a8ef41c1e1c50e5f2fa46146c03b408db180bc2177d4eaad656a64ab721"><![CDATA[https://github.com/MCXGK3/RadianceSkin/releases/download/0.1.0.0/RadianceSkin.zip]]></Link>
+    	<Dependencies>
+        	<Dependency>Satchel</Dependency>
+    	</Dependencies>
+    	<Repository>
+        	<![CDATA[https://github.com/MCXGK3/RadianceSkin]]>
+    	</Repository>
+    	<Issues>
+        	<![CDATA[https://github.com/MCXGK3/RadianceSkin/issues]]>
+    	</Issues>
+    	<Tags>
+        	<Tag>Cosmetic</Tag>
+    	</Tags>
+    	<Authors>
+        	<Author>MCXGK3</Author>
+    	</Authors>
+   </Manifest>
 </ModLinks>
