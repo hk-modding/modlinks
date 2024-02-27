@@ -5219,13 +5219,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>PurenailCore</Dependency>
             <Dependency>RandomizerCore.Json</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando]]>
+        </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
-        <Repository>
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore]]>
-        </Repository>
     </Manifest>
     <Manifest>
         <Name>SpoilerViewerMod</Name>
