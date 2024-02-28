@@ -6350,8 +6350,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
   <Manifest>
     <Name>HKViz</Name>
     <Description>A mod that records analytics like movement, deaths, equipped charms, abilities used and much more to allows visualizing those analytics on hkviz.org</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256="AEF4AAFE293141404EC4AFB1060147EC7F496DB19BE659A04A84E6969D253836"><![CDATA[https://github.com/hkviz/hkviz-mod/releases/download/v1.5.0.0/HKViz.zip]]></Link>
+    <Version>1.5.1.0</Version>
+    <Link SHA256="ABF6386111943AB1DC2705EFFA376D3C3DCE5BBCDD4417D561F63822E0B70CA5"><![CDATA[https://github.com/hkviz/hkviz-mod/releases/download/v1.5.1.0/HKViz.zip]]></Link>
     <Dependencies>
       <Dependency>HKMirror</Dependency>
       <Dependency>MapChanger</Dependency>
