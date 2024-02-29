@@ -1044,9 +1044,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>GrassyKnight</Name>
         <Description>Tracks and shows you how much grass you've cut.</Description>
-        <Version>2.1.0.35425</Version>
-        <Link SHA256="9f12921e792df2243366456c958d5e1558e051f70d1ac8d5edc4b70e203285b2">
-            <![CDATA[https://github.com/flibber-hk/GrassyKnight/releases/download/v2.1.0.35425/GrassyKnight.zip]]>
+        <Version>2.1.2.38663</Version>
+        <Link SHA256="1a1d611c7bedcaa747d2ca2e278e3d85591b4ca4437a1a78e66754b693ee4c02">
+            <![CDATA[https://github.com/flibber-hk/GrassyKnight/releases/download/v2.1.2.38663/GrassyKnight.zip]]>
         </Link>
         <Dependencies />
         <Repository>
