@@ -1578,9 +1578,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>2.0.1.0</Version>
-        <Link SHA256="98976F3A3FDE2EC20F828FD235B9711171B88BC0E8338A11402CEB13F1601AA5">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.1/RandomizerCore.zip]]>
+        <Version>2.0.2.0</Version>
+        <Link SHA256="B9E19B4CB59B88F64A3284E823576DB181864BFF2F11D8357F6CE21BDCBAF67A">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.2/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1590,9 +1590,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>RandomizerCore.Json</Name>
         <Description>A library which adds support for json-encoded logic data to RandomizerCore. </Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="DB40B6B910DD3DB3EDEF47EA7BB8CEB53E810A918856296BF0ADF4C8D2AF3D84">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.0.0/RandomizerCore.Json.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="3821DC60FA1C8D53E4AF3D2CB86B1615F169E5112B8656E7A1F9FCC5A0C7A1E5">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.0.1/RandomizerCore.Json.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -1646,9 +1646,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomLogicInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined logic edits.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="0D3394CB7AB91955531F02EB7EE28F07B48301C7EFC491122423C4C31C0C1ECD">
-            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.1/CustomLogicInjector.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="0914CD274FF11A5F2F9751D98AB98CFFFD10FB619AEC0FAD1D627AEF3BF4C270">
+            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.2/CustomLogicInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
