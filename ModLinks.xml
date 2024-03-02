@@ -1999,9 +1999,9 @@ Takes hours to load into the game.</Description>
     <Manifest>
         <Name>Graphic Options</Name>
         <Description>Adds a "few" graphics options. Some of those "might" be unstable to change.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="D6F8FB62D1EFE835818B924D1821B72D0382D287DC34BB29AD22606E91B911D7">
-            <![CDATA[https://github.com/SFGrenade/GraphicOptions/releases/download/v1.5.1/GraphicOptions.zip]]>
+        <Version>1.5.1.1</Version>
+        <Link SHA256="A40DBEF1814D9DCE9A08693DD70CF15F3C11203B7F502233CF2F5F27E1F87222">
+            <![CDATA[https://github.com/SFGrenade/GraphicOptions/releases/download/v1.5.1.1/GraphicOptions.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
