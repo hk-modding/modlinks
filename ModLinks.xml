@@ -3,6 +3,20 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
   <Manifest>
+    <Name>SiblingClimb</Name>
+    <Description>Removes platforms from the lighthouse climb.</Description>
+    <Version>1.2.2.2</Version>
+    <Link SHA256="9B01DB9E928032539654F1D462DFC2A10D25C1B9A04D01F9E645E5E1EC4722DA"><![CDATA[https://github.com/TheMathGeek314/SiblingClimb/releases/download/v1.2.2.2/SiblingClimb.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/SiblingClimb/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+  </Manifest>
+  <Manifest>
     <Name>UnlimitedShades</Name>
     <Description>Multiple shades can coexist, so geo is never truly lost.</Description>
     <Version>1.1.0.2</Version>
