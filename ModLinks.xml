@@ -649,6 +649,20 @@ All with an incredible new soundtrack!</Description>
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>AnyZote</Name>
+        <Description>Most powerful zote modded boss ever.</Description>
+        <Version>2.3.0.0</Version>
+        <Link SHA256="df51a8886e7865608137bdc451aecf06ba3e76cb127dfe745b5a8be8b51b82a2">
+            <![CDATA[https://github.com/danirainy/HollowKnight.AbsoluteZote/releases/download/2.3/AnyZote.2.3.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/nearrin/HollowKnight.AbsoluteZote/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>AbsoluteZote</Name>
         <Description>A new GPZ mod boss. Install AbsoluteZote and PureZote together to enable AnyZote.</Description>
         <Version>2.0.0.0</Version>
