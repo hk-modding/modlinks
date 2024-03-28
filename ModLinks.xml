@@ -5043,9 +5043,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Bomber Knight</Name>
         <Description>Adds a bomb ability, along a few new charms and custom "bosses".</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="42d453bc67ac2fbbeadb840ab2e29abe22f3b081cddd73b78603b8ad0f58f84a">
-            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.2.1/BomberKnight.zip]]></Link>
+        <Version>1.2.2.0</Version>
+        <Link SHA256="cb2fbeb280b786b7a689155391652023f70529d82c26e2a52ade54a8e29eb14d">
+            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.2.2/BomberKnight.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
@@ -5122,9 +5122,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.4.1.0</Version>
-        <Link SHA256="c1364d56bba73f3f54c38a3f2d6ae410fa77e1490094e8a02ca753246b321373">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.4.1/ExtraRando.zip]]></Link>
+        <Version>0.5.0.0</Version>
+        <Link SHA256="4e0c5a9080a6d768e404f430f1a16b417330f0a8cc8026407237ecd247c46f59">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.5.0/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
