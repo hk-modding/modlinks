@@ -679,6 +679,20 @@ All with an incredible new soundtrack!</Description>
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>AnyZote</Name>
+        <Description>Most powerful zote modded boss ever.</Description>
+        <Version>2.3.0.0</Version>
+        <Link SHA256="df51a8886e7865608137bdc451aecf06ba3e76cb127dfe745b5a8be8b51b82a2">
+            <![CDATA[https://github.com/danirainy/HollowKnight.AbsoluteZote/releases/download/2.3/AnyZote.2.3.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danirainy/HollowKnight.AbsoluteZote/tree/anyzote/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>AbsoluteZote</Name>
         <Description>A new GPZ mod boss. Install AbsoluteZote and PureZote together to enable AnyZote.</Description>
         <Version>2.0.0.0</Version>
@@ -2094,9 +2108,9 @@ Takes hours to load into the game.</Description>
     <Manifest>
         <Name>MoreHealing</Name>
         <Description>Adds more healing charms.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="D6C69911FAB117B18995E749EEB204BF0E5B3E1F3141BD952139CFDC48585638">
-            <![CDATA[https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.1/MoreHealing.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="F038226A9D2655DF0C9541F7F306DF528D8BF9DA964A995F75CF4F4415DF0BCC">
+            <![CDATA[https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.2/MoreHealing.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -2150,7 +2164,7 @@ Takes hours to load into the game.</Description>
     </Manifest>
     <Manifest>
         <Name>Zaliants Surprise</Name>
-        <Description>This is a meme that adds Rick Astley as a menu background.
+        <Description>This is a mod idea by Zaliant.
 Former Description:
 This is the Pale Court mod.
 Enjoy!</Description>
@@ -2943,9 +2957,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>2.3.8792.42318</Version>
-        <Link SHA256="344F043814204777EDE2439EC0FC2CD161365D0533443E182E71F7709F8A45AE">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.3.8792.42318/TheRealJournalRando.zip]]>
+        <Version>2.3.8843.8416</Version>
+        <Link SHA256="4B2404679050DC4ACF497204FE7C4F39EF376704040A5DBEC1C5FC4E009C4830">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.3.8843.8416/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -3855,9 +3869,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>2.0.2.0</Version>
-        <Link SHA256="7EBE1DE4D6D6E0E18E6B92E7173E5C593394BB01330FD80A87E8089C1996CFB7">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.0.2/VanillaMapMod.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="1AD8740B493A15CBF6E2EE08CC316F8BFBD2984B31BAC7ADF5BFB497D083D5EA">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.0/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
@@ -5043,9 +5057,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Bomber Knight</Name>
         <Description>Adds a bomb ability, along a few new charms and custom "bosses".</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="42d453bc67ac2fbbeadb840ab2e29abe22f3b081cddd73b78603b8ad0f58f84a">
-            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.2.1/BomberKnight.zip]]></Link>
+        <Version>1.2.2.0</Version>
+        <Link SHA256="cb2fbeb280b786b7a689155391652023f70529d82c26e2a52ade54a8e29eb14d">
+            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.2.2/BomberKnight.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
@@ -5122,9 +5136,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.4.1.0</Version>
-        <Link SHA256="c1364d56bba73f3f54c38a3f2d6ae410fa77e1490094e8a02ca753246b321373">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.4.1/ExtraRando.zip]]></Link>
+        <Version>0.5.0.0</Version>
+        <Link SHA256="4e0c5a9080a6d768e404f430f1a16b417330f0a8cc8026407237ecd247c46f59">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.5.0/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -5223,9 +5237,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="C9E2169435B68E94BBC2D83823B32436C06E0E20D24B4F73B1EBF58FF140D599">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.0.0.0/SpicyRando.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="BBFFB9D1731368CFEE6F7CDEBCEEA520EF0CC5A916D8C7BFBA849986687FFCAF">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.1.0.0/SpicyRando.zip]]>
         </Link>
         <Dependencies>
 	    <Dependency>ItemChanger</Dependency>
@@ -5266,9 +5280,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="F875D0AED6F0C05C2DC3DB3B4F54892D0A88FE928DFE12B3A20F84C6F01A18A9">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.1.1/MapChanger.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="A9287C809290EF9F69D0DF99341F0485C3972653BA3969509BF736BC6F00F336">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.2.0/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -5290,9 +5304,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.4.2.0</Version>
-        <Link SHA256="DA840234F9FD1BF823AE738E898116D68E5CE9E903CCDD4B56060B83959B7C75">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.4.2/RandoMapMod.zip]]>
+        <Version>3.5.1.0</Version>
+        <Link SHA256="E57C2EE8FDF194D88D4DBA1281768EC5152ABCDC6BDBF728BD1F2C8D6A8F3874">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.1/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -5738,9 +5752,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RCPathfinder</Name>
         <Description>A pathfinder library for RandomizerCore.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="C5C02AD82CD9622D402F0C6B506F1E8CB86127BE89BC8AE3C34D30E419E6A416">
-            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.0.0/RCPathfinder.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="8D532C93C6E147BDF360BAF8B1B40F49C6F93A5D1DB1420B8700C5A26C7F9888">
+            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.1.0/RCPathfinder.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore</Dependency>
@@ -5907,8 +5921,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Grass Randomizer</Name>
         <Description>Randomizer 4 connection that adds grass to the pool of randomized items and locations.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="EA3078AF9E3E082C45A761EF1C1C558B447C387AF8C15B0B203053D4375310AA"><![CDATA[https://github.com/ManicJamie/HollowKnightGrassRando/releases/download/v1.1.0/GrassRandoV2.zip]]></Link>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="081B7130DCE02071FA3B42A1DC9B23B3F104305004FD45781D20851FFFE763A5"><![CDATA[https://github.com/ManicJamie/HollowKnightGrassRando/releases/download/v1.1.1/GrassRandoV2.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>GrassCore</Dependency>
