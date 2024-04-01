@@ -5223,9 +5223,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="C9E2169435B68E94BBC2D83823B32436C06E0E20D24B4F73B1EBF58FF140D599">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.0.0.0/SpicyRando.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="BBFFB9D1731368CFEE6F7CDEBCEEA520EF0CC5A916D8C7BFBA849986687FFCAF">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.1.0.0/SpicyRando.zip]]>
         </Link>
         <Dependencies>
 	    <Dependency>ItemChanger</Dependency>
