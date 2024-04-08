@@ -6497,9 +6497,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>CelesteDash</Name>
         <Description>Bring a Celeste-like dash system into Hollow Knight</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="52C834C4F1676646AA3A1E3D56C73B40CF7F892DD083C06F1C83F71A58B3205B">
-            <![CDATA[https://github.com/kot9pa16lvl/HKCelesteDash/releases/download/v1.2.1.0/CelesteDash.zip]]>
+        <Version>1.2.2.0</Version>
+        <Link SHA256="F314ECEB78C929DEBE69C4EC9EDCDA28F2C5AB889F1EE6E9FF4CDE1DD72D4494">
+            <![CDATA[https://github.com/kot9pa16lvl/HKCelesteDash/releases/download/v1.2.2.0/CelesteDash.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
