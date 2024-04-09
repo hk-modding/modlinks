@@ -5752,9 +5752,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RCPathfinder</Name>
         <Description>A pathfinder library for RandomizerCore.</Description>
-        <Version>1.3.1.0</Version>
-        <Link SHA256="6B404971C8F996E4AE458DD6E2D0AFC685EE7E6B106D7D47EB544D7910E6CCA7">
-            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.3.1/RCPathfinder.zip]]>
+        <Version>1.3.2.0</Version>
+        <Link SHA256="79EFDCC9F9DB0D0C05B38F4ACF78EB05D45B0768E9D821D65DB2DF2F6BF7F31B">
+            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.3.2/RCPathfinder.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore</Dependency>
