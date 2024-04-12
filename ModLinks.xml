@@ -2774,7 +2774,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
 	<Manifest>
         <Name>More Godhome Space</Name>
-        <Description>Adds a third floor to the Hall of Gods area so more modded bosses can fit</Description>
+        <Description>Adds a third floor to the Hall of Gods area so more modded bosses can be added</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="d248088e9474d27e3a3fcf5580043d53afde28f56f708829f537f33d2cb00a7c">
             <![CDATA[https://github.com/nickc01/MoreGodhomeSpace/releases/download/v1.0.0.0/MoreGodhomeSpace.zip]]>
