@@ -2659,9 +2659,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ControllerFixes</Name>
         <Description>Fixes some controller issues and adds related features.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="D3DD3041C46EF1644512AF7EB9F3E5F50EE996EF99FEB7960172FE284DA9E3BD">
-            <![CDATA[https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.2/ControllerFixes.zip]]>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="B1A0022F34480586486ABA9558A8E0ED19CEB3CAB6A0775E1E1E645B022FD8FF">
+            <![CDATA[https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.3/ControllerFixes.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -2694,9 +2694,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
-        <Version>2.1.0.1</Version>
-        <Link SHA256="759ad0dbcba8846c4f621bd007de45e473fe707290082cfc2c17ff03e2cfc0da">
-            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v2.1.0.1/WeaverCore.zip]]>
+        <Version>2.2.0.0</Version>
+        <Link SHA256="821514ecdcd91623fb4e4315db390ef9f3fa1cde6d853d1b455d0885be54d459">
+            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.0/WeaverCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2712,9 +2712,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Inferno King Grimm</Name>
         <Description>A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu</Description>
-        <Version>4.2.2.1</Version>
-        <Link SHA256="aa512abde3bc02f76648a3909f901d389469bb120fc2272de177a28bd8adad15">
-            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.2.1/InfernoKingGrimm.zip]]>
+        <Version>4.2.3.0</Version>
+        <Link SHA256="be3b07402949fbfaae59c9b7e213cf0e501a11d04eaecbb6439e913f7a9a3269">
+            <![CDATA[https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.3.0/InfernoKingGrimm.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
@@ -2733,9 +2733,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Corrupted Kin</Name>
         <Description>A mod that significantly changes up the Lost Kin bossfight</Description>
-        <Version>1.3.2.0</Version>
-        <Link SHA256="2414ad7e7338a45a6b4e825bbf14f06cfe116f6cdc99387894e90ba5e2093b56">
-            <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.3.2.0/CorruptedKin.zip]]>
+        <Version>1.4.0.0</Version>
+        <Link SHA256="7ed6f6698389dd4a854e1faa95638445219563c2e79719b200b1b689cff424be">
+            <![CDATA[https://github.com/nickc01/Corrupted-Kin/releases/download/v1.4.0.0/CorruptedKin.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
@@ -2754,15 +2754,58 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Crystal Machinist</Name>
         <Description>A mod that significantly changes up the Enraged Guardian bossfight</Description>
-        <Version>2.0.1.1</Version>
-        <Link SHA256="175af74fe084759bcc0f11c9302a6497b5c30808ccacdf374cc1ff1fd56f0752">
-            <![CDATA[https://github.com/nickc01/Crystal-Machinist/releases/download/v2.0.1.1/CrystalMachinist.zip]]>
+        <Version>2.0.2.0</Version>
+        <Link SHA256="6781accf0ed64b75b62c710eff5f80842ad79d5beab02e345974881309965ae8">
+            <![CDATA[https://github.com/nickc01/Crystal-Machinist/releases/download/v2.0.2.0/CrystalMachinist.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/nickc01/Crystal-Machinist/]]>
+        </Repository>
+		<Tags>
+			<Tag>Boss</Tag>
+			<Tag>Gameplay</Tag>
+		</Tags>
+		<Authors>
+			<Author>Nickc01</Author>
+		</Authors>
+    </Manifest>
+	<Manifest>
+        <Name>More Godhome Space</Name>
+        <Description>Adds a third floor to the Hall of Gods area so more modded bosses can be added</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="d248088e9474d27e3a3fcf5580043d53afde28f56f708829f537f33d2cb00a7c">
+            <![CDATA[https://github.com/nickc01/MoreGodhomeSpace/releases/download/v1.0.0.0/MoreGodhomeSpace.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>WeaverCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/nickc01/MoreGodhomeSpace/]]>
+        </Repository>
+		<Tags>
+			<Tag>Gameplay</Tag>
+		</Tags>
+		<Authors>
+			<Author>Nickc01</Author>
+		</Authors>
+    </Manifest>
+	<Manifest>
+        <Name>Ancient Aspid</Name>
+        <Description>A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="03debfd869714a27985b27ec139c0c23f047e016ad93abf8c28c1e146d1d26a3">
+            <![CDATA[https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.0/Ancient-Aspid.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>WeaverCore</Dependency>
+            <Dependency>More Godhome Space</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/nickc01/Ancient-Aspid/]]>
         </Repository>
 		<Tags>
 			<Tag>Boss</Tag>
@@ -4583,9 +4626,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.4.0.0</Version>
-        <Link SHA256="BB09CDCC7C66488F266D3F42A6A696600BFFCF77C3F51BC9C56DB10BF232CC87">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.4.0/Archipelago.zip]]>
+        <Version>0.4.1.0</Version>
+        <Link SHA256="F8A76340DA79270F08066A99E214F155C677DF681628EDD9EEC3C2EC4B07D2A9">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.4.1/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -5237,9 +5280,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="BBFFB9D1731368CFEE6F7CDEBCEEA520EF0CC5A916D8C7BFBA849986687FFCAF">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.1.0.0/SpicyRando.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="27DDDE9140FCD69164446CA4BA7F45081B6DA05694ABDAB9DC84516AB2D100A6">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.1.1.0/SpicyRando.zip]]>
         </Link>
         <Dependencies>
 	    <Dependency>ItemChanger</Dependency>
@@ -5304,9 +5347,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.5.2.0</Version>
-        <Link SHA256="7894FED49D627E9B7B886BB2D6158AAE1078B3AEDA45CF3FB479EA65AA963315">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.2/RandoMapMod.zip]]>
+        <Version>3.5.4.0</Version>
+        <Link SHA256="80337F1ED1E82CE0E28882DE61CBBA02D5AF15D11325223F04281A78C6EA6CBE">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.4/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -5735,9 +5778,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RCPathfinder</Name>
         <Description>A pathfinder library for RandomizerCore.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="2F0603C4447859946DFDEB8A8AF690CB36CF7693A9A610C3E3586D2025ED4F0F">
-            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.2.0/RCPathfinder.zip]]>
+        <Version>1.3.2.0</Version>
+        <Link SHA256="79EFDCC9F9DB0D0C05B38F4ACF78EB05D45B0768E9D821D65DB2DF2F6BF7F31B">
+            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.3.2/RCPathfinder.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore</Dependency>
@@ -6453,9 +6496,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.0.0.0</Version>
-    	<Link SHA256="28d19e1810a377eac87df38b32527fc2f5b54dc9d86b4c5eb077342e48ec7226">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.0.0.0/GodhomeRandomizer.zip]]>
+    	<Version>2.1.1.1</Version>
+    	<Link SHA256="3121c20bfd53a4953bbcf8dc73c0c8496ddab35e2dfcbd21ddf3c0822ea64b54">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.1.1/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -6476,5 +6519,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	<Authors>
 	    <Author>nerthul11</Author>
     	</Authors>
+    </Manifest>
+    <Manifest>
+        <Name>CelesteDash</Name>
+        <Description>Bring a Celeste-like dash system into Hollow Knight</Description>
+        <Version>1.2.3.0</Version>
+        <Link SHA256="DB20ED7E7F4538CA7F84FABD1BACE232B8DF5A7CEAE43034ABDB31EB1915259E">
+            <![CDATA[https://github.com/kot9pa16lvl/HKCelesteDash/releases/download/v1.2.3.0/CelesteDash.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/kot9pa16lvl/HKCelesteDash]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>ADGOD</Author>
+        </Authors>
     </Manifest>
 </ModLinks>
