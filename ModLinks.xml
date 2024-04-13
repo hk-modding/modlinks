@@ -2776,7 +2776,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>More Godhome Space</Name>
         <Description>Adds a third floor to the Hall of Gods area so more modded bosses can be added</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="d248088e9474d27e3a3fcf5580043d53afde28f56f708829f537f33d2cb00a7c">
+        <Link SHA256="8495ab240eb0962d309a69ef1a664213fa48934e45ec3d66f35ab251eede8dfd">
             <![CDATA[https://github.com/nickc01/MoreGodhomeSpace/releases/download/v1.0.0.0/MoreGodhomeSpace.zip]]>
         </Link>
         <Dependencies>
@@ -2795,9 +2795,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Ancient Aspid</Name>
         <Description>A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge</Description>
-        <Version>1.0.0.2</Version>
+        <Version>1.0.0.3</Version>
         <Link SHA256="99f7f6d7e5e18145f06d269eefdf512512a3c45fe8316683502aee89e8fdda9e">
-            <![CDATA[https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.2/Ancient-Aspid.zip]]>
+            <![CDATA[https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.3/Ancient-Aspid.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
