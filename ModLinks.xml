@@ -74,11 +74,11 @@
 Overcome your opponents with powerful new charms!
 Discover new secrets and stories!
 All with an incredible new soundtrack!</Description>
-    <Version>1.0.1.0</Version>
+    <Version>1.1.0.0</Version>
     <Links>
-	<Linux SHA256="3B074BA2FFEF9575D2157CB80325F6C80C419D6B42BC2DE116E32B1CDF21AF78"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Lin.zip]]></Linux>
-        <Mac SHA256="5FAB7AFF27C610C5DA2E25EEE90DCEDF887C26259D672250D7EC2624B4CF0F0A"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Mac.zip]]></Mac>
-        <Windows SHA256="A7AB92D4FBB352D2A18FD31CD9F01370EB91488EEEB485AB915A9DDE01C54ADA"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Win.zip]]></Windows>
+	<Linux SHA256="FDFD057399BC185AA89601669D44B1096223ABB0445E6435CBA759D202D8F86E"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.1.0.0/PaleCourt-Lin.zip]]></Linux>
+        <Mac SHA256="3925C682FC68A60F56939E49C1D32090F27072729387490122126774FEF26BA8"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.1.0.0/PaleCourt-Mac.zip]]></Mac>
+        <Windows SHA256="2B1D6F9A81F8039AE326328EADE19F923DFE73631C2917520BABA93983155085"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.1.0.0/PaleCourt-Win.zip]]></Windows>
     </Links>
     <Dependencies>
         <Dependency>FrogCore</Dependency>
@@ -2694,9 +2694,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
-        <Version>2.2.0.0</Version>
-        <Link SHA256="821514ecdcd91623fb4e4315db390ef9f3fa1cde6d853d1b455d0885be54d459">
-            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.0/WeaverCore.zip]]>
+        <Version>2.2.0.2</Version>
+        <Link SHA256="fba933459c74587a5b4efc385b2e9f68a6b596c6139ead330a025e094e94e32c">
+            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.2/WeaverCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2795,9 +2795,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Ancient Aspid</Name>
         <Description>A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="03debfd869714a27985b27ec139c0c23f047e016ad93abf8c28c1e146d1d26a3">
-            <![CDATA[https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.0/Ancient-Aspid.zip]]>
+        <Version>1.0.0.4</Version>
+        <Link SHA256="24bf77ebec070bba708d124f24e99c50a8feabea4fd8c73a00ef7e43a7100d64">
+            <![CDATA[https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.4/Ancient-Aspid.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
@@ -3102,6 +3102,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
+        <Authors>
+            <Author>BadMagic</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ICPlandoTools</Name>
+        <Description>Adds assorted utilities for plando authors.</Description>
+        <Version>1.0.8870.7969</Version>
+        <Link SHA256="6F7517711D7FC256C5B76D4ECCD4E3F32843CA8B45622436AF287CEDD7072351">
+            <![CDATA[https://github.com/BadMagic100/ICPlandoTools/releases/download/v1.0.8870.7969/ICPlandoTools.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BadMagic100/ICPlandoTools]]>
+        </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
         <Authors>
             <Author>BadMagic</Author>
         </Authors>
@@ -4643,9 +4663,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>2.1.3.0</Version>
-        <Link SHA256="4D1F2F518BAEAB578B47C909F2C935DDFB9072788E5338809390034450F9B219">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.3/Archipelago.Map.Mod.zip]]>
+        <Version>2.2.0.0</Version>
+        <Link SHA256="E42C1B5BD170483CA4C12C58A972B1B3E74E15934C25232EA5F3F02AA50D47DD">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.2.0/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
