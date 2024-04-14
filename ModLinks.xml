@@ -5459,23 +5459,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
-        <Name>Shuriken</Name>
-        <Description>A tiny rando extension a new skill to the game: a shuriken that you can teleport to.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="0604b59c2113d499fc06ecdf50650de98c32e4b0a711ac69c37d42067283bef3"><![CDATA[https://github.com/randomscorp/Shuriken/releases/download/1.0.0.1/Shuriken.zip]]></Link>
-        <Dependencies>
-            <Dependency>Satchel</Dependency>
-        </Dependencies>
-        <Repository><![CDATA[https://github.com/randomscorp/Shuriken]]></Repository>
-        <Integrations>
-            <Integration>Randomizer 4</Integration>
-        </Integrations>
-        <Tags>
-            <Tag>Gameplay</Tag>
-        </Tags>
-
-    </Manifest>
-    <Manifest>
         <Name>NoSpiders</Name>
         <Description>A mod to remove the spiders in the foreground of deepnest</Description>
         <Version>1.2.0.0</Version>
