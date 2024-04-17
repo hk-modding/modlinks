@@ -6574,5 +6574,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/wdghzym/RecentItemsDisplayNoGrass]]>
         </Repository>
+    	<Authors>
+        	<Author>wdghzym</Author>
+    	</Authors>
+    </Manifest>
+    <Manifest>
+        <Name>LockResolution</Name>
+        <Description>Lock Resolution On GamePlay</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="72c3e4b5472f5f1c533fc45eb78bc5aeec2f5f4cde298e5e9b9f5a7e9bffee37">
+            <![CDATA[https://github.com/wdghzym/HollowKnight.LockResolution/releases/download/v1.1/LockResolution.v1.1.zip]]>
+        </Link>
+        <Repository>
+            <![CDATA[https://github.com/wdghzym/HollowKnight.LockResolution]]>
+        </Repository>
+    	<Authors>
+        	<Author>wdghzym</Author>
+    	</Authors>
     </Manifest>
 </ModLinks>
