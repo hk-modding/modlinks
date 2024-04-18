@@ -4811,14 +4811,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>press g to dab</Name>
         <Description>press g and the knight will dab</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="f99eac66f7b971ba054da397d9b2ccc0166203fdb7b6576e19070941a120f5de">
-            <![CDATA[https://github.com/Link459/PressGToDab/releases/download/1.0.0.0/PressGToDab.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="DB8B6D9AED797D4E87758AC58D278CAE79BD0083FBFB094B417752F7F2192AA0">
+            <![CDATA[https://github.com/Link459/PressGToDab/releases/download/1.2.0.0/PressGToDab.zip]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Link459/PressGToDab/]]>
         </Repository>
+	<Integrations>
+        	<Integration>Custom Knight</Integration>
+    	</Integrations>
         <Authors>
             <Author>Italy</Author>
             <Author>Link459</Author>
