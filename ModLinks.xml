@@ -6597,7 +6597,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>MetalPipeHM</Name>
         <Description>A hollow knight mod that plays the metal pipe falling sound whenever the knight swings their nail.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="2526897dd8fc48a0d1f239aac228ade8860148d639ff7161bf604dedbc5f301d">
+        <Link SHA256="4b91902f12e17cf9a5c7f195b270fa70c0ed29ef8108a15d817804b438f381bd">
             <![CDATA[https://github.com/HMertAcr/MetalPipeHM/archive/refs/tags/v1.0.0.0.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
