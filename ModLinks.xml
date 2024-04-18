@@ -4819,6 +4819,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Link459/PressGToDab/]]>
         </Repository>
+	<Integrations>
+        	<Integration>Custom Knight</Integration>
+    	</Integrations>
         <Authors>
             <Author>Italy</Author>
             <Author>Link459</Author>
