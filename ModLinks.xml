@@ -2,7 +2,43 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
-  <Manifest>
+<Manifest>
+    <Name>BingoGoalPack1</Name>
+    <Description>Adds more goals to BingoSync and includes new board types</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="1d9c353fce6231bd292454e81336e598348c2df49b355877968f81eddca38f12"><![CDATA[https://github.com/TheMathGeek314/BingoSyncGoalPack1/releases/download/v1.0.0.0/BingoGoalPack1.zip]]></Link>
+    <Dependencies>
+        <Dependency>BingoSyncExtension</Dependency>
+    	<Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/BingoSyncGoalPack1/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+	<Author>Alph4</Author>
+    	<Author>Le__Bun</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>BingoSyncExtension</Name>
+    <Description>A library mod that provides an interface to add extra automarking logic to BingoSync </Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="6C2EF7171E39A38DA97B027E5C84F382FD2F4152417410BBAC493745E6470025"><![CDATA[https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/v1.0.0.0/BingoSyncExtension.zip]]></Link>
+    <Dependencies>
+        <Dependency>BingoSync</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheRealAlph4/BingoSyncExtension/]]>
+    </Repository>
+    <Tags>
+        <Tag>Library</Tag>
+    </Tags>
+    <Authors>
+        <Author>Alph4</Author>
+    </Authors>
+</Manifest>  
+<Manifest>
     <Name>SiblingClimb</Name>
     <Description>Removes platforms from the lighthouse climb.</Description>
     <Version>1.2.2.2</Version>
