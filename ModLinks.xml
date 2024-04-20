@@ -6620,7 +6620,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>LockResolution</Name>
         <Description>Lock Resolution On GamePlay. VSync On LostFocus</Description>
-        <Version>1.1.0.0</Version>
+        <Version>1.2.0.0</Version>
         <Link SHA256="D680459018B4016CCCCCE9A4D67E36B2A68F53C587EA545F6DD74D7D9736370C">
             <![CDATA[https://github.com/wdghzym/HollowKnight.LockResolution/releases/download/v1.2/LockResolution.zip]]>
         </Link>
