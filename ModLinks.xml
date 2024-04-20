@@ -4847,14 +4847,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>press g to dab</Name>
         <Description>press g and the knight will dab</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="f99eac66f7b971ba054da397d9b2ccc0166203fdb7b6576e19070941a120f5de">
-            <![CDATA[https://github.com/Link459/PressGToDab/releases/download/1.0.0.0/PressGToDab.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="DB8B6D9AED797D4E87758AC58D278CAE79BD0083FBFB094B417752F7F2192AA0">
+            <![CDATA[https://github.com/Link459/PressGToDab/releases/download/1.2.0.0/PressGToDab.zip]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Link459/PressGToDab/]]>
         </Repository>
+	<Integrations>
+        	<Integration>Custom Knight</Integration>
+    	</Integrations>
         <Authors>
             <Author>Italy</Author>
             <Author>Link459</Author>
@@ -6628,5 +6631,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	<Authors>
         	<Author>wdghzym</Author>
     	</Authors>
+    </Manifest>
+	    <Manifest>
+        <Name>MetalPipeHM</Name>
+        <Description>A hollow knight mod that plays the metal pipe falling sound whenever the knight swings their nail.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="2526897dd8fc48a0d1f239aac228ade8860148d639ff7161bf604dedbc5f301d"><![CDATA[https://github.com/HMertAcr/MetalPipeHM/releases/download/v1.0.0.0/MetalPipeHM.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HMertAcr/MetalPipeHM]]>
+        </Repository>
+        <Authors>
+            <Author>HMertAcr</Author>
+        </Authors>
     </Manifest>
 </ModLinks>
