@@ -6608,13 +6608,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>MapChanger</Dependency>
             <Dependency>Benchwarp</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/wdghzym/HollowKnight.MapSyncMod]]>
+        </Repository>
   	<Integrations>
        	    <Integration>RandoMapMod</Integration>
        	    <Integration>RecentItemsDisplay</Integration>
    	</Integrations>
-        <Repository>
-            <![CDATA[https://github.com/wdghzym/HollowKnight.MapSyncMod]]>
-        </Repository>
     	<Authors>
         	<Author>wdghzym</Author>
     	</Authors>
