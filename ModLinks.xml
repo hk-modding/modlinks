@@ -5235,7 +5235,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Korz</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
         <Version>0.5.0.0</Version>
@@ -5253,6 +5253,29 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
         <Authors>
             <Author>Korz</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>TheHuntIsOn</Name>
+        <Description>A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.</Description>
+        <Version>0.4.0.0</Version>
+        <Link SHA256="c00a03199f5e6d846609d9312f5f8989cdf390d7cc562dca0ca2d21283dc9bd2">
+            <![CDATA[https://github.com/Korzer420/TheHuntIsOn/releases/download/v0.4.0/TheHuntIsOn.zip]]></Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+            <Dependency>KorzUtils</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/TheHuntIsOn]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+            <Author>Fireb0rn</Author>
+	    <Author>Extremelyd1</Author>
         </Authors>
     </Manifest>
     <Manifest>
