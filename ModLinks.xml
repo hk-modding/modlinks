@@ -2730,9 +2730,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
-        <Version>2.2.0.3</Version>
-        <Link SHA256="836b0c1e3be5baf521bc16ba914a1b155f4e45f58df1bb0ae0968a7e39dc0c09">
-            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.3/WeaverCore.zip]]>
+        <Version>2.2.0.4</Version>
+        <Link SHA256="790dd2b5311466b13589e8972e2e9b3f07e76b0c1091476eaf4d342a8a307d6a">
+            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.4/WeaverCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2831,9 +2831,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Ancient Aspid</Name>
         <Description>A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge</Description>
-        <Version>1.0.0.5</Version>
-        <Link SHA256="5dac090d58644b03c1e879c5f009fb48b061f9bc33f931954f541198cf10c2b6">
-            <![CDATA[https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.5/Ancient-Aspid.zip]]>
+        <Version>1.0.0.6</Version>
+        <Link SHA256="34ee2b5661cb82dfad312c307572037c5490ff34a95755382a8861d58397b468">
+            <![CDATA[https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.6/Ancient-Aspid.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
