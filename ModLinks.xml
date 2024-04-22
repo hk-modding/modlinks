@@ -2730,9 +2730,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
-        <Version>2.2.0.3</Version>
-        <Link SHA256="836b0c1e3be5baf521bc16ba914a1b155f4e45f58df1bb0ae0968a7e39dc0c09">
-            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.3/WeaverCore.zip]]>
+        <Version>2.2.0.4</Version>
+        <Link SHA256="790dd2b5311466b13589e8972e2e9b3f07e76b0c1091476eaf4d342a8a307d6a">
+            <![CDATA[https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.4/WeaverCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2831,9 +2831,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Ancient Aspid</Name>
         <Description>A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge</Description>
-        <Version>1.0.0.5</Version>
-        <Link SHA256="5dac090d58644b03c1e879c5f009fb48b061f9bc33f931954f541198cf10c2b6">
-            <![CDATA[https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.5/Ancient-Aspid.zip]]>
+        <Version>1.0.0.6</Version>
+        <Link SHA256="34ee2b5661cb82dfad312c307572037c5490ff34a95755382a8861d58397b468">
+            <![CDATA[https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.6/Ancient-Aspid.zip]]>
         </Link>
         <Dependencies>
             <Dependency>WeaverCore</Dependency>
@@ -5235,7 +5235,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Korz</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
         <Version>0.5.0.0</Version>
@@ -5253,6 +5253,29 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
         <Authors>
             <Author>Korz</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>TheHuntIsOn</Name>
+        <Description>A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.</Description>
+        <Version>0.4.0.0</Version>
+        <Link SHA256="c00a03199f5e6d846609d9312f5f8989cdf390d7cc562dca0ca2d21283dc9bd2">
+            <![CDATA[https://github.com/Korzer420/TheHuntIsOn/releases/download/v0.4.0/TheHuntIsOn.zip]]></Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+            <Dependency>KorzUtils</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/TheHuntIsOn]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+            <Author>Fireb0rn</Author>
+	    <Author>Extremelyd1</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -5339,9 +5362,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="27DDDE9140FCD69164446CA4BA7F45081B6DA05694ABDAB9DC84516AB2D100A6">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.1.1.0/SpicyRando.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="A59E93306DE6A8A1617C45D8553C55003D102BEE6AA1FBEF4BE4D4988867A00F">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.2.1.0/SpicyRando.zip]]>
         </Link>
         <Dependencies>
 	    <Dependency>ItemChanger</Dependency>
@@ -5406,9 +5429,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.5.4.0</Version>
-        <Link SHA256="80337F1ED1E82CE0E28882DE61CBBA02D5AF15D11325223F04281A78C6EA6CBE">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.4/RandoMapMod.zip]]>
+        <Version>3.5.5.0</Version>
+        <Link SHA256="47E7031F724E47093036F977A18F50D1830E3F9DB01AC1195C33773D5824DF04">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.5/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
