@@ -6578,9 +6578,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.1.1.1</Version>
-    	<Link SHA256="3121c20bfd53a4953bbcf8dc73c0c8496ddab35e2dfcbd21ddf3c0822ea64b54">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.1.1/GodhomeRandomizer.zip]]>
+    	<Version>2.1.2.0</Version>
+    	<Link SHA256="a90f2e7b6d58f1d125994de750cb76a33deab46f851cdd52c4557cb375d0ea97">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.2.0/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -6588,6 +6588,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		<Dependency>KorzUtils</Dependency>
 		<Dependency>MenuChanger</Dependency>
 		<Dependency>Randomizer 4</Dependency>
+		<Dependency>Satchel</Dependency>
 	</Dependencies>
     	<Repository>
 	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer]]>
