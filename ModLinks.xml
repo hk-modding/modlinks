@@ -3226,10 +3226,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Satchel</Name>
-        <Description>A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.</Description>
-        <Version>0.8.12.0</Version>
-        <Link SHA256="1a3e7395515d349485ac01972fe53d2cbc32ebdc910d44492b1abaa2c2efe247">
-            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.8.12/Satchel.zip]]>
+        <Description>A bag of tricks for other Mods, does nothing by itself, allows other mods to do cool things.</Description>
+        <Version>0.9.1.0</Version>
+        <Link SHA256="54c52f069b8c3c20bb7ea756c5abaa7b03f4ebfb9711ec86c7a5ae7090dc8799">
+            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.9.1/Satchel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
