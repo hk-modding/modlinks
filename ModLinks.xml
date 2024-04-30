@@ -6577,7 +6577,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
     	<Name>HallOfGodsRandomizer</Name>
-    	<Description>DEPRECATED - A randomizer add-on for Hall of Gods bosses.</Description>
+    	<Description>DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.</Description>
     	<Version>1.1.2.1</Version>
     	<Link SHA256="2cf93185a74a911102618d3dbdc071bcfff1bc9773166f1564a28ec1cf8d3af1">
 	    <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.2.1/HallOfGodsRandomizer.zip]]>
@@ -6605,9 +6605,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.1.2.1</Version>
-    	<Link SHA256="1d96dbf57f367bb0d6e9f5714d9a54de5b45ec595cb7b92593c83b6e4fd046f3">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.2.1/GodhomeRandomizer.zip]]>
+    	<Version>2.1.3.0</Version>
+    	<Link SHA256="f0120ab2257f3b4365659619aea11c3d54a0daf504818cb63b5fd23f357f987b">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.3.0/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
