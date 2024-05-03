@@ -4287,13 +4287,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>A library mod.No longer maintained!!!**If it crashes your game, this is normal and the reason is unknown**</Description>
         <Version>1.11.8.0</Version>
         <Link SHA256="407d2fef66e28e9a729c34ec0b4f57a5f5247eb1ded4b4c59c30e27fd970e9bb">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/Legacy-v0/Output.zip]]>
+            <![CDATA[https://github.com/Box074/HollowKnightMod.Tool/releases/download/Legacy-v0/Output.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/]]>
+            <![CDATA[https://github.com/Box074/HollowKnightMod.Tool/]]>
         </Repository>
         <Tags>
             <Tag>Library</Tag>
@@ -4304,11 +4304,11 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>A library mod</Description>
         <Version>2.2.1.0</Version>
         <Link SHA256="FCE0348C4D69925195690E19DC6D334D5D46F8721173CDBD798E73F9820CBEAF">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v2.2.1.0/Publish.zip]]>
+            <![CDATA[https://github.com/Box074/HollowKnightMod.Tool/releases/download/v2.2.1.0/Publish.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/]]>
+            <![CDATA[https://github.com/Box074/HollowKnightMod.Tool/]]>
         </Repository>
         <Tags>
             <Tag>Library</Tag>
@@ -4320,20 +4320,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Version>1.1.0.0</Version>
         <Links>
             <Linux SHA256="0D9143C198C54F17F276F94C240B09D810850816B75A394EB8871001FF22997F">
-                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-Linux.zip]]>
+                <![CDATA[https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-Linux.zip]]>
             </Linux>
             <Mac SHA256="6471E84C453CAA2F9A311FE02A8AE5469AF6C869CE2510846EC8282EFC4E849C">
-                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-OSX.zip]]>
+                <![CDATA[https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-OSX.zip]]>
             </Mac>
             <Windows SHA256="807C7FA235243FB7E35A8122184D8824A1E173E0085CD156A2BBFD40BF6B34AE">
-                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-Windows.zip]]>
+                <![CDATA[https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-Windows.zip]]>
             </Windows>
         </Links>
         <Dependencies>
 			<Dependency>HKTool</Dependency>
 		</Dependencies>
         <Repository>
-            <![CDATA[https://github.com/HKLab/NoskGod/]]>
+            <![CDATA[https://github.com/Box074/NoskGod/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
@@ -4344,13 +4344,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Allows player to use shield in the game</Description>
         <Version>0.0.0.2</Version>
         <Link SHA256="5e69f89e73d9db65505f123676c2ee4cb070d8d914d23a8fa5c9218dacd104c1">
-            <![CDATA[https://github.com/HKLab/DCParry/releases/download/v0.0.0.2/DCParry.dll]]>
+            <![CDATA[https://github.com/Box074/DCParry/releases/download/v0.0.0.2/DCParry.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/HKLab/DCParry/]]>
+            <![CDATA[https://github.com/Box074/DCParry/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -4358,13 +4358,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Allows player to use back dash in the game</Description>
         <Version>0.0.0.2</Version>
         <Link SHA256="54874eb6d71cf5b4e5b931f87123e1172b7f6a3d2fa07895def18f969c9154dd">
-            <![CDATA[https://github.com/HKLab/HK.BackDash/releases/download/v0/Output.zip]]>
+            <![CDATA[https://github.com/Box074/HK.BackDash/releases/download/v0/Output.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/HKLab/HK.BackDash/]]>
+            <![CDATA[https://github.com/Box074/HK.BackDash/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -4410,7 +4410,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>A mod that adds functionality to UnityExplorer</Description>
         <Version>2.6.0.0</Version>
         <Link SHA256="3742BA1A2946023345220B4C409BACD996F0B9288DF67A64E87A6229F9C6D919">
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.6.0.0/Publish.zip]]>
+            <![CDATA[https://github.com/Box074/UnityExplorerPlus/releases/download/v2.6.0.0/Publish.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
@@ -4418,7 +4418,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/]]>
+            <![CDATA[https://github.com/Box074/UnityExplorerPlus/]]>
         </Repository>
         <Integrations>
             <Integration>Satchel</Integration>
@@ -4433,14 +4433,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Change the knight's weapon to Barrel Launcher</Description>
         <Version>0.0.0.0</Version>
         <Link SHA256="e0c38393f9a52d7ce4e7089df56f21e631874a2c9f10bdaa23467a5d05395125">
-            <![CDATA[https://github.com/HKLab/DCBarrelLauncher/releases/download/v0.0.0.0/DCBarrelLauncher.dll]]>
+            <![CDATA[https://github.com/Box074/DCBarrelLauncher/releases/download/v0.0.0.0/DCBarrelLauncher.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/HKLab/DCBarrelLauncher/]]>
+            <![CDATA[https://github.com/Box074/DCBarrelLauncher/]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -4543,7 +4543,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>The mod has been abandoned and is no longer maintained, please use 'Dead Cells Bosses'</Description>
         <Version>0.0.0.1</Version>
         <Link SHA256="15447a2921d1f2b57f47ade8dab14ae5439ec1de151cecaa86e349865800af5b">
-            <![CDATA[https://github.com/HKLab/DCQueen/releases/download/l/DCQueenLoader.dll]]>
+            <![CDATA[https://github.com/Box074/DCQueen/releases/download/l/DCQueenLoader.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
@@ -4551,7 +4551,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/HKLab/DCQueen/]]>
+            <![CDATA[https://github.com/Box074/DCQueen/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
@@ -4562,14 +4562,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Add Dead Cells' Bosses to Hollow Knight</Description>
         <Version>1.1.0.2</Version>
         <Link SHA256="5C6F7F31D68A7285CE7897C4E90ACC480C50755CF00664418E8B42F15E6F3659">
-            <![CDATA[https://github.com/HKLab/DCBosses/releases/download/v1.1.0.2/Publish.zip]]>
+            <![CDATA[https://github.com/Box074/DCBosses/releases/download/v1.1.0.2/Publish.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/HKLab/DCBosses/]]>
+            <![CDATA[https://github.com/Box074/DCBosses/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
@@ -4580,14 +4580,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Add TimeKeeper statue</Description>
         <Version>0.0.0.0</Version>
         <Link SHA256="e67e8dfc5b71db5f016aad9a65eebfa15ae6992d4b4e54bcee46a0120c65987c">
-            <![CDATA[https://github.com/HKLab/DCTimeKeeper/releases/download/v0.0.0.0/Output.zip]]>
+            <![CDATA[https://github.com/Box074/DCTimeKeeper/releases/download/v0.0.0.0/Output.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/HKLab/DCTimeKeeper/]]>
+            <![CDATA[https://github.com/Box074/DCTimeKeeper/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
@@ -4633,14 +4633,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Allows you to kill the Zote in the Colosseum</Description>
         <Version>0.1.0.0</Version>
         <Link SHA256="c0e1d68d361f54f551277a77014f013f808150455fad25f4809615211ed7bf4d">
-            <![CDATA[https://github.com/HKLab/ZoteKiller/releases/download/v0.1/ZoteKiller.dll]]>
+            <![CDATA[https://github.com/Box074/ZoteKiller/releases/download/v0.1/ZoteKiller.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/HKLab/ZoteKiller/]]>
+            <![CDATA[https://github.com/Box074/ZoteKiller/]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -4651,14 +4651,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Allows you to throw the Cyclone as a ranged weapon </Description>
         <Version>0.0.0.0</Version>
         <Link SHA256="b7d9cd795f0957873b433a96df0f4e1e8f59a13ca94b7c63a263ff364d12605c">
-            <![CDATA[https://github.com/HKLab/CycloneOut/releases/download/v0.0.0.0/CycloneOut.dll]]>
+            <![CDATA[https://github.com/Box074/CycloneOut/releases/download/v0.0.0.0/CycloneOut.dll]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/HKLab/CycloneOut/]]>
+            <![CDATA[https://github.com/Box074/CycloneOut/]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -4747,14 +4747,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Removed the learn Cyclone cutscene in and replaced it with real combat</Description>
         <Version>0.0.0.0</Version>
         <Link SHA256="a3a6b2c0294a28de26bda4caba4cf14bc80fcea31dce4a25259e158774efa50b">
-            <![CDATA[https://github.com/HKLab/NailMaster/releases/download/v1/NailMaster.zip]]>
+            <![CDATA[https://github.com/Box074/NailMaster/releases/download/v1/NailMaster.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/HKLab/NailMaster/]]>
+            <![CDATA[https://github.com/Box074/NailMaster/]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -4831,14 +4831,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>Uumuu has been slightly enhanced</Description>
         <Version>1.0.3.0</Version>
         <Link SHA256="026767ed592e3108868fbceef379ebae71ad0db72bdc29b941beea78d3f6b011">
-            <![CDATA[https://github.com/HKLab/UumuuPlus/releases/download/v1.0.3.0/Output.zip]]>
+            <![CDATA[https://github.com/Box074/UumuuPlus/releases/download/v1.0.3.0/Output.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/HKLab/UumuuPlus/]]>
+            <![CDATA[https://github.com/Box074/UumuuPlus/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
@@ -5508,13 +5508,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>A mod that provides conditional skin support for Custom Knight</Description>
         <Version>0.0.1.0</Version>
         <Link SHA256="D6B830191F87C6CE3E09F517E25AA1D392D3ECA6757D1B2D3DCCBF40412A2850">
-            <![CDATA[https://github.com/HKLab/CustomKnightPlus/releases/download/v0.0.1/CustomKnightPlus.zip]]>
+            <![CDATA[https://github.com/Box074/CustomKnightPlus/releases/download/v0.0.1/CustomKnightPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Custom Knight</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/HKLab/CustomKnightPlus/]]>
+            <![CDATA[https://github.com/Box074/CustomKnightPlus/]]>
         </Repository>
         <Tags>
             <Tag>Cosmetic</Tag>
