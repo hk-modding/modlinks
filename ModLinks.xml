@@ -6796,9 +6796,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>A Hollow Knight mod that enables permadeath in dream/godhome zones when playing in steel soul mode.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="3BB7BDBBAA8856D38034F37105888F90BDB80BEFF8DB3EC2DF60C106FBA18D8D"><![CDATA[https://github.com/Briskless/UnrestrictedSteelSoul/releases/download/v1.0.0/Deathless.zip]]></Link>
-        <Dependencies>
-            <Dependency></Dependency>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Briskless/UnrestrictedSteelSoul]]>
         </Repository>
