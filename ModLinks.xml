@@ -6599,7 +6599,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
-		<Dependency>ItemChangerDataLoader</Dependency>
 		<Dependency>KorzUtils</Dependency>
 		<Dependency>MenuChanger</Dependency>
 		<Dependency>Randomizer 4</Dependency>
@@ -6626,7 +6625,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
-		<Dependency>ItemChangerDataLoader</Dependency>
 		<Dependency>KorzUtils</Dependency>
 		<Dependency>MenuChanger</Dependency>
 		<Dependency>Randomizer 4</Dependency>
@@ -6781,13 +6779,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>AccessRandomizer</Name>
     	<Description>A randomizer add-on for miscellaneous access checks.</Description>
-    	<Version>1.0.0.0</Version>
-    	<Link SHA256="08b1c83e531019b83103428351f910c1cfa3e9597b23863219fe207dffa189e3">
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.0.0.0/AccessRandomizer.zip]]>
+    	<Version>1.0.0.1</Version>
+    	<Link SHA256="ebee81dc45ceab1cf6d25f21f5d437c7979c02cfae518d4a38758c370a6c4a59">
+	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.0.0.1/AccessRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
-		<Dependency>ItemChangerDataLoader</Dependency>
 		<Dependency>KorzUtils</Dependency>
 		<Dependency>MenuChanger</Dependency>
 		<Dependency>Randomizer 4</Dependency>
