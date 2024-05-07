@@ -4373,14 +4373,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Backdash</Name>
         <Description>Allows player to use back dash in the game</Description>
         <Version>0.0.0.2</Version>
-        <Link SHA256="54874eb6d71cf5b4e5b931f87123e1172b7f6a3d2fa07895def18f969c9154dd">
-            <![CDATA[https://github.com/Box074/HK.BackDash/releases/download/v0/Output.zip]]>
+        <Link SHA256="bd2d44a817d8c7e1ffc1d96064c5e5c8d3b203e1b01bdfd49ba6da494ac2f7ee">
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/BackDash.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Box074/HK.BackDash/]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
     </Manifest>
     <Manifest>
