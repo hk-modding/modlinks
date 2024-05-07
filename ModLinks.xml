@@ -4318,12 +4318,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>HKTool</Name>
         <Description>A library mod</Description>
         <Version>2.2.1.0</Version>
-        <Link SHA256="FCE0348C4D69925195690E19DC6D334D5D46F8721173CDBD798E73F9820CBEAF">
-            <![CDATA[https://github.com/Box074/HollowKnightMod.Tool/releases/download/v2.2.1.0/Publish.zip]]>
+        <Link SHA256="e2a8cf695470a35dd5d0dbb3ee1e8c4a41f7c24e2b0414ce4d00f9fed88a1366">
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/HKTool.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/Box074/HollowKnightMod.Tool/]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
         <Tags>
             <Tag>Library</Tag>
@@ -4424,8 +4424,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
         <Version>2.6.0.0</Version>
-        <Link SHA256="3742BA1A2946023345220B4C409BACD996F0B9288DF67A64E87A6229F9C6D919">
-            <![CDATA[https://github.com/Box074/UnityExplorerPlus/releases/download/v2.6.0.0/Publish.zip]]>
+        <Link SHA256="669d7ffa02ff4a8c7f9ae283baf423614784c4e5cc494d073a98b9e1c448314a">
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/UnityExplorerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
@@ -4433,7 +4433,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/Box074/UnityExplorerPlus/]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
         <Integrations>
             <Integration>Satchel</Integration>
