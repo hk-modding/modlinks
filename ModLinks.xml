@@ -4338,8 +4338,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Linux SHA256="0D9143C198C54F17F276F94C240B09D810850816B75A394EB8871001FF22997F">
                 <![CDATA[https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-Linux.zip]]>
             </Linux>
-            <Mac SHA256="6471E84C453CAA2F9A311FE02A8AE5469AF6C869CE2510846EC8282EFC4E849C">
-                <![CDATA[https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-OSX.zip]]>
+            <Mac SHA256="a51c6790ebed029b1ac7f372593f418a2a9b4fc9af906ab654d9d77248dc7914">
+                <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/Nosk%20God%201.1.0.0%20Mac.zip]]>
             </Mac>
             <Windows SHA256="807C7FA235243FB7E35A8122184D8824A1E173E0085CD156A2BBFD40BF6B34AE">
                 <![CDATA[https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-Windows.zip]]>
@@ -4349,7 +4349,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>HKTool</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Box074/NoskGod/]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
