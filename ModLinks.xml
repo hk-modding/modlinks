@@ -4317,8 +4317,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>2.2.0.0</Version>
-        <!-- Wangha had a 2.2.0.0 version, not 2.2.1.0, but at least someting i guess? -->
+        <Version>2.2.1.0</Version>
+        <!-- file version is 2.2.0.0, but published as version 2.2.1.0 -->
         <Link SHA256="e2a8cf695470a35dd5d0dbb3ee1e8c4a41f7c24e2b0414ce4d00f9fed88a1366">
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/HKTool.zip]]>
         </Link>
