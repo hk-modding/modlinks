@@ -4301,14 +4301,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>HKTool Legacy</Name>
         <Description>A library mod.No longer maintained!!!**If it crashes your game, this is normal and the reason is unknown**</Description>
         <Version>1.11.8.0</Version>
-        <Link SHA256="407d2fef66e28e9a729c34ec0b4f57a5f5247eb1ded4b4c59c30e27fd970e9bb">
-            <![CDATA[https://github.com/Box074/HollowKnightMod.Tool/releases/download/Legacy-v0/Output.zip]]>
+        <Link SHA256="7f2e8838968e98b3ef2f520f254ee1bcd2204adec79f0461c64771a62d2ae70f">
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/HKTool%20Legacy.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Box074/HollowKnightMod.Tool/]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
         <Tags>
             <Tag>Library</Tag>
@@ -4346,8 +4346,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             </Windows>
         </Links>
         <Dependencies>
-			<Dependency>HKTool</Dependency>
-		</Dependencies>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Box074/NoskGod/]]>
         </Repository>
@@ -4558,8 +4558,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Dead Cells The Queen</Name>
         <Description>The mod has been abandoned and is no longer maintained, please use 'Dead Cells Bosses'</Description>
         <Version>0.0.0.1</Version>
-        <Link SHA256="15447a2921d1f2b57f47ade8dab14ae5439ec1de151cecaa86e349865800af5b">
-            <![CDATA[https://github.com/Box074/DCQueen/releases/download/l/DCQueenLoader.dll]]>
+        <Link SHA256="7e932bd2100007d23b7685359191c03f05575fea12464e36bc9a03291282b49a">
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/DCQueenLoader.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
@@ -4567,7 +4567,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/Box074/DCQueen/]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
@@ -4576,7 +4576,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Dead Cells Bosses</Name>
         <Description>Add Dead Cells' Bosses to Hollow Knight</Description>
-	<!-- Only got version 1.1.0.0 so far, not 1.1.0.2 -->
+        <!-- Only got version 1.1.0.0 so far, not 1.1.0.2 -->
         <Version>1.1.0.0</Version>
         <Link SHA256="464f01d054314fc357cb1a70e9815a8d549295f7173a9d153606bca06f7c0f59">
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/Dead%20Cells%20Bosses%201.1.0.0.zip]]>
@@ -4586,7 +4586,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/Box074/DCBosses/]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
@@ -4847,15 +4847,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Uumuu Plus</Name>
         <Description>Uumuu has been slightly enhanced</Description>
         <Version>1.0.3.0</Version>
-        <Link SHA256="026767ed592e3108868fbceef379ebae71ad0db72bdc29b941beea78d3f6b011">
-            <![CDATA[https://github.com/Box074/UumuuPlus/releases/download/v1.0.3.0/Output.zip]]>
+        <Link SHA256="7f6b2a196dd7e38841607bbd7a79db21c4bf4fe81fdeb2ffa1bbbfbbe3a9d6a9">
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/Uumuu%20Plus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/Box074/UumuuPlus/]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
