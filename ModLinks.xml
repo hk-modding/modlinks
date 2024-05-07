@@ -4319,7 +4319,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Description>A library mod</Description>
         <Version>2.2.1.0</Version>
         <!-- file version is 2.2.0.0, but published as version 2.2.1.0 -->
-        <Link SHA256="e2a8cf695470a35dd5d0dbb3ee1e8c4a41f7c24e2b0414ce4d00f9fed88a1366">
+        <Link SHA256="0d72b8d1abeaf1ac4cf1493bd5a34ec050f9c1dcc96e983900113fc98d27ae26">
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/HKTool.zip]]>
         </Link>
         <Dependencies />
@@ -4425,7 +4425,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
         <Version>2.6.0.0</Version>
-        <Link SHA256="669d7ffa02ff4a8c7f9ae283baf423614784c4e5cc494d073a98b9e1c448314a">
+        <Link SHA256="15ae5fe62dce557a17af71797eb3179174a635f429636dc4b32f2ae1a43b54e1">
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/UnityExplorerPlus.zip]]>
         </Link>
         <Dependencies>
