@@ -4667,15 +4667,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Cyclone Throws</Name>
         <Description>Allows you to throw the Cyclone as a ranged weapon </Description>
         <Version>0.0.0.0</Version>
-        <Link SHA256="b7d9cd795f0957873b433a96df0f4e1e8f59a13ca94b7c63a263ff364d12605c">
-            <![CDATA[https://github.com/Box074/CycloneOut/releases/download/v0.0.0.0/CycloneOut.dll]]>
+        <Link SHA256="57bf6a0197a629a1d751ae900daebbe11700ec5052eac6ca22e02f51e603ccb0">
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/Cyclone%20Throws%200.0.0.0.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
 
         <Repository>
-            <![CDATA[https://github.com/Box074/CycloneOut/]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
