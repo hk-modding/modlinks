@@ -4341,8 +4341,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Mac SHA256="a51c6790ebed029b1ac7f372593f418a2a9b4fc9af906ab654d9d77248dc7914">
                 <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/Nosk%20God%201.1.0.0%20Mac.zip]]>
             </Mac>
-            <Windows SHA256="807C7FA235243FB7E35A8122184D8824A1E173E0085CD156A2BBFD40BF6B34AE">
-                <![CDATA[https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-Windows.zip]]>
+            <Windows SHA256="b8e15d0cdfc153f15f9b96aa812112805418885d90818be8b03439a24f601daf">
+                <![CDATA[https://github.com/HK-Modding-Preservation/Box074/raw/master/Nosk%20God%201.1.0.0%20Windows.zip]]>
             </Windows>
         </Links>
         <Dependencies>
