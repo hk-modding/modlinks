@@ -5494,9 +5494,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Carefree Grimm</Name>
         <Description>Allows you to have Carefree Melody and Grimmchild at the same time</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="3ADEEB75BEE0B48032B36BFC7D7AD3B9B20909135F6E27863C3413623613240C">
-            <![CDATA[https://github.com/ilcheese2/CarefreeGrimm/releases/download/1.0.0.2/CarefreeGrimm.dll]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="2DDBCD04198E88690C21104F579764C28ABCC2DF87AAF9D60A834969F3F0CA27">
+            <![CDATA[https://github.com/ilcheese2/CarefreeGrimm/releases/download/1.0.1.0/CarefreeGrimm.dll]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
