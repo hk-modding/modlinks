@@ -3,6 +3,21 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 <Manifest>
+    <Name>SaferWhitePalace</Name>
+    <Description>Allows you to remove the dangers of White Palace</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="6B895334775A1A4AE18C23D45B6AE36C7A49951529960C7A59205B1CC76749DF"><![CDATA[https://github.com/TheMathGeek314/SaferWhitePalace/releases/download/v1.0.0.0/Safer_White_Palace.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/SaferWhitePalace/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>Elderbugnest</Name>
     <Description>Replaces a bunch of NPCs with the sweet old friend</Description>
     <Version>1.0.1.0</Version>
