@@ -1975,9 +1975,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomBgm</Name>
         <Description>Allows customization of background music. See its readme for a how-to.</Description>
-        <Version>1.5.2.0</Version>
-        <Link SHA256="89E2FAE03D4E479EDCCD4596D7F7E1DEE0BAF9138811753CFC811D00949BC966">
-            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.2/CustomBgm.zip]]>
+        <Version>1.5.3.0</Version>
+        <Link SHA256="BE114DF41A8613CB84C343BCBC3EA927EED162EC675915135C2400BF5834B86A">
+            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3/CustomBgm.zip]]>
         </Link>
         <Dependencies />
         <Repository>
