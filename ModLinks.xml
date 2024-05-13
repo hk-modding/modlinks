@@ -1975,9 +1975,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomBgm</Name>
         <Description>Allows customization of background music. See its readme for a how-to.</Description>
-        <Version>1.5.3.0</Version>
-        <Link SHA256="BE114DF41A8613CB84C343BCBC3EA927EED162EC675915135C2400BF5834B86A">
-            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3/CustomBgm.zip]]>
+        <Version>1.5.3.1</Version>
+        <Link SHA256="DB1146368FAC7954A703055B00930242FAE1391AAED1662FA417420D18CED0F5">
+            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3.1/CustomBgm.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2336,9 +2336,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.11.1</Version>
-        <Link SHA256="05786F9A78ADDD6F37EAFD31183C7CDB16090171CFF8764148A4D5CB1B03CB34">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.11.1/SFCore.zip]]>
+        <Version>1.5.11.2</Version>
+        <Link SHA256="3B6FF93F435C054A94696D947EF8132A5263E6342F02871BA963822168618BD4">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.11.2/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
