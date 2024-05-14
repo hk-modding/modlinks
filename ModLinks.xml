@@ -35,14 +35,14 @@
 <Manifest>
     <Name>BingoGoalPack1</Name>
     <Description>Adds more goals to BingoSync and includes new board types</Description>
-    <Version>1.0.0.4</Version>
-    <Link SHA256="32d3b474c8497252ea2461e8ee5a1d761fe19508d64cadfc35d0f8e5e323a409"><![CDATA[https://github.com/TheMathGeek314/BingoSyncGoalPack1/releases/download/v1.0.0.4/BingoGoalPack1.zip]]></Link>
+    <Version>1.2.1.0</Version>
+    <Link SHA256="e6c35b38862e562914898a9eb8011e68245aa369c42fa26d903d85431355fa78"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.2.1.0/BingoGoalPack1.zip]]></Link>
     <Dependencies>
         <Dependency>BingoSyncExtension</Dependency>
     	<Dependency>Satchel</Dependency>
     </Dependencies>
     <Repository>
-        <![CDATA[https://github.com/TheMathGeek314/BingoSyncGoalPack1/]]>
+        <![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/]]>
     </Repository>
     <Authors>
         <Author>TheMathGeek_314</Author>
@@ -53,10 +53,11 @@
 <Manifest>
     <Name>BingoSyncExtension</Name>
     <Description>A library mod that provides an interface to add extra automarking logic to BingoSync </Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="6C2EF7171E39A38DA97B027E5C84F382FD2F4152417410BBAC493745E6470025"><![CDATA[https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/v1.0.0.0/BingoSyncExtension.zip]]></Link>
+    <Version>1.1.0.0</Version>
+    <Link SHA256="209AF0873618BFAB94C276DA45DEE0F6A878171CA42B01D345BE4C5DF2532FAF"><![CDATA[https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/v1.1.0.0/BingoSyncExtension.zip]]></Link>
     <Dependencies>
         <Dependency>BingoSync</Dependency>
+	<Dependency>MagicUI</Dependency>
     </Dependencies>
     <Repository>
         <![CDATA[https://github.com/TheRealAlph4/BingoSyncExtension/]]>
@@ -66,6 +67,7 @@
     </Tags>
     <Authors>
         <Author>Alph4</Author>
+	<Author>TheMathGeek_314</Author>
     </Authors>
 </Manifest>  
 <Manifest>
