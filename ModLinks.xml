@@ -6737,7 +6737,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	<Authors>
         	<Author>wdghzym</Author>
     	</Authors>
-    </Manifest></Manifest>
+    </Manifest>
     <Manifest>
         <Name>BenchDeploy</Name>
         <Description>Deploy Multi Bench use controller/keyboard</Description>
