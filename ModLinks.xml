@@ -6754,6 +6754,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	<Authors>
         	<Author>wdghzym</Author>
     	</Authors>
+    </Manifest>
 	    <Manifest>
         <Name>MetalPipeHM</Name>
         <Description>A hollow knight mod that plays the metal pipe falling sound whenever the knight swings their nail.</Description>
