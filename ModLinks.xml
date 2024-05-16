@@ -589,9 +589,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Lost Artifacts</Name>
         <Description>A mod that adds powerful artifacts scattered all across Hallownest that can be equipped to the nail! Compatible with Randomizer 4.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="737AA541F50AD457E760115D520853EBBB6D7C921677F3873EB73093B340135C">
-            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.1.1.0/LostArtifacts.zip]]>
+        <Version>1.1.1.1</Version>
+        <Link SHA256="3CD429C4B94BE6F0C4AB549C8D97DAFD8BC51B8575C72090A635675596B779F5">
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.1.1.1/LostArtifacts.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -604,6 +604,7 @@ All with an incredible new soundtrack!</Description>
         <Integrations>
             <Integration>Randomizer 4</Integration>
             <Integration>DebugMod</Integration>
+	    <Integration>RandoSettingsManager</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
