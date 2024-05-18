@@ -6718,10 +6718,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>MapSyncMod</Name>
-        <Description>Sync Map and Bench on ItemSyncMOD</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="224fb62a39a183adf9bc07783faef956c570f3b4598adabf387d39981fc5d745">
-            <![CDATA[https://github.com/wdghzym/HollowKnight.MapSyncMod/releases/download/v1.0/MapSyncMod.v1.0.zip]]>
+        <Description>Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD</Description>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="FD0BA202F638942EC39B0C08E419BD3E948895299018B5A74D216454CDDB5B2A">
+            <![CDATA[https://github.com/wdghzym/HollowKnight.MapSyncMod/releases/download/v1.2/MapSyncMod.v.1.2.zip]]>
         </Link>
 	<Dependencies>
             <Dependency>ItemSync</Dependency>
