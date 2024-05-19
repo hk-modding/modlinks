@@ -5440,9 +5440,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="A9287C809290EF9F69D0DF99341F0485C3972653BA3969509BF736BC6F00F336">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.2.0/MapChanger.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="389EFE69AD82A8E247A324A35526ADE39F488F2E87914C1E51D28C70072E9BB4">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.2.1/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
