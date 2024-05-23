@@ -6742,12 +6742,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>BenchDeploy</Name>
         <Description>Deploy Multi Bench use controller/keyboard</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="10369494FC281375D23EF5F7C23E2EA2629F5C7AAE6BE5BEE3259EA3D829D362">
-            <![CDATA[https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.1/BenchDeploy.v1.1.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="385B9E6597C662273FE96D0D61DA84645E3F98CE5FA85AB5DC0DCFDE8EC7E24C">
+            <![CDATA[https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.2.1.0/BenchDeploy.V1.2.1.0.zip]]>
         </Link>
 	<Dependencies>
             <Dependency>Benchwarp</Dependency>
+            <Dependency>MagicUI</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/wdghzym/HollowKnight.BenchDeploy]]>
