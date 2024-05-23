@@ -6639,9 +6639,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.2.1.0</Version>
-    	<Link SHA256="3acb3055098d1748cfb979e3acaa2bd1e3952373adbec68a46303e5998efbcef">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.1.0/GodhomeRandomizer.zip]]>
+    	<Version>2.2.2.0</Version>
+    	<Link SHA256="e44758870261b3ad0ff7c498578267da808ea0995bfb1398fdba219b218ad7cf">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.2.0/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -6817,9 +6817,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>AccessRandomizer</Name>
     	<Description>A randomizer add-on for miscellaneous access checks.</Description>
-    	<Version>1.2.0.2</Version>
-    	<Link SHA256="b6b61547c761355ca36d4b784fe51f5758ec1472270064a1f2a6159c8f2f426c">
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.2/AccessRandomizer.zip]]>
+    	<Version>1.2.0.3</Version>
+    	<Link SHA256="f160f0e2c9fc519d4c0c58d1b42ebda4fd6521bbcc513a3d048880372860f794">
+	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.3/AccessRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
