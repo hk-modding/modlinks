@@ -6727,13 +6727,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>ItemSync</Dependency>
             <Dependency>MapChanger</Dependency>
             <Dependency>Benchwarp</Dependency>
+       	    <Dependency>RecentItemsDisplay</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/wdghzym/HollowKnight.MapSyncMod]]>
         </Repository>
   	<Integrations>
        	    <Integration>RandoMapMod</Integration>
-       	    <Integration>RecentItemsDisplay</Integration>
    	</Integrations>
     	<Authors>
         	<Author>wdghzym</Author>
