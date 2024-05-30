@@ -6817,9 +6817,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>AccessRandomizer</Name>
     	<Description>A randomizer add-on for miscellaneous access checks.</Description>
-    	<Version>1.2.1.0</Version>
-    	<Link SHA256="c843cdde27465ed9ecc61a1b5da9cb54032598e448e981772fcc00cd677ca076">
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.1.0/AccessRandomizer.zip]]>
+    	<Version>1.2.1.1</Version>
+    	<Link SHA256="9c8d9c3e7fa71a9dffc967503d4f88fa717d1043dbf071563baa1bbe68f5d6c9">
+	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.1.1/AccessRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
