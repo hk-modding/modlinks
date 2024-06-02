@@ -2513,15 +2513,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>SpeedRunQoL</Name>
         <Description>A debug Add On that adds new keybinds that are QoL for speedrunning practice. Currently adds Position Save States, Glitched Binds, Force Extra Uumuu attack and radiance quick reload</Description>
-        <Version>0.6.0.0</Version>
-        <Link SHA256="20375112B0F23766E26F4EC0D241801206E5AD6C72ECCB835B40FC2D2CFDF663">
-            <![CDATA[https://github.com/TheMulhima/SpeedRunQoL/releases/download/v0.60/SpeedRunQoL.zip]]>
+        <Version>0.6.1.0</Version>
+        <Link SHA256="88D325D449C765F92601AA3BAD06FCE4A348FE27E244AEC34805EDDC0619C257">
+            <![CDATA[https://github.com/pseudorandomhk/SpeedRunQoL/releases/download/v0.61/SpeedRunQoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>DebugMod</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/TheMulhima/SpeedRunQoL/]]>
+            <![CDATA[https://github.com/pseudorandomhk/SpeedRunQoL/]]>
         </Repository>
         <Tags>
             <Tag>Utility</Tag>
