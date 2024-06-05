@@ -52,9 +52,9 @@
 </Manifest>
 <Manifest>
     <Name>BingoSyncExtension</Name>
-    <Description>A library mod that provides an interface to add extra automarking logic to BingoSync </Description>
-    <Version>1.1.0.0</Version>
-    <Link SHA256="209AF0873618BFAB94C276DA45DEE0F6A878171CA42B01D345BE4C5DF2532FAF"><![CDATA[https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/v1.1.0.0/BingoSyncExtension.zip]]></Link>
+    <Description>A library mod that provides an interface to add extra automarking logic to BingoSync</Description>
+    <Version>1.1.1.0</Version>
+    <Link SHA256="0B7F2884AE3FF5B741320F87ACB5E5F2701A5B28D62B751AFFAAA81A00D18DCA"><![CDATA[https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/v1.1.1.0/BingoSyncExtension.zip]]></Link>
     <Dependencies>
         <Dependency>BingoSync</Dependency>
 	<Dependency>MagicUI</Dependency>
