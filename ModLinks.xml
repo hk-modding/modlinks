@@ -6909,4 +6909,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    <Author>Plutz</Author>
     	</Authors>
     </Manifest>
+    <Manifest>
+        <Name>Afterimage Plus</Name>
+        <Description>A mod that gives customizable afterimages to the Knight and enemies.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="66d6c552829f493f103243221667181cc34040f3aa041c5b0ff77998045febd2"><![CDATA[https://github.com/thegodfriend/AfterimagePlus/releases/download/v1.0.0/AfterimagePlus.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/thegodfriend/AfterimagePlus]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>Godfriend</Author>
+            <Author>Nearrin</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
