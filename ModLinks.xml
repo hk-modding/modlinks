@@ -1374,6 +1374,20 @@ All with an incredible new soundtrack!</Description>
         </Repository>
     </Manifest>
     <Manifest>
+	<Name>SkiploverSpoilerLog</Name>
+	<Description>Creates a Skiplover Spoiler Log in the Rando Logs directory showing what would be reachable with All skips enabled.</Description>
+	<Version>1.0.0.0</Version>
+	<Link SHA256="2744bab7ee41fa4c6ae54a8ce49713179b8f90c57d2cd78765f5d353d3f3e38e">
+	    <![CDATA[https://github.com/AlexKnauth/SkiploverSpoilerLog/releases/download/v1.0.0.0/SkiploverSpoilerLog.zip]]>
+	</Link>
+	<Dependencies>
+            <Dependency>CondensedSpoilerLogger</Dependency>
+        </Dependencies>
+	<Repository>
+            <![CDATA[https://github.com/AlexKnauth/SkiploverSpoilerLog]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>DapperMapperSpoils</Name>
         <Description>Adds a category to the condensed spoiler log which shows the locations of the 13 maps.</Description>
         <Version>1.1.0.0</Version>
