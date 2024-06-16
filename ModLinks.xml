@@ -6929,7 +6929,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RemoveLaggyObjects</Name>
         <Description>Removes various objects from scenes where they can cause major lag.</Description>
-        <Version>1.0.1</Version>
+        <Version>1.0.1.0</Version>
         <Link SHA256="c4c9122f46ae8bb93cc2b6b80d3d5b7fe0a7f152f2a5ba7e08e9d55ad11ba5b6"><![CDATA[https://github.com/thegodfriend/RemoveLaggyObjects/releases/download/v1.0.1/RemoveLaggyObjects.zip]]></Link>
         <Dependencies/>
         <Repository>
