@@ -6926,4 +6926,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Nearrin</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>HollowSpouse</Name>
+        <Description>A mod that allows you to interact Hollow Knight with the LoveSpouce devices.</Description>
+        <Version>0.9.5.0</Version>
+        <Link SHA256="f2f90bfc06789b93023bbc6479a435fd64e64043425e4e8227c06c98e819be00"><![CDATA[https://github.com/RevenantFreddy/HollowSpouse/releases/download/pre-release/HollowSpouse.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+	    <![CDATA[https://github.com/RevenantFreddy/HollowSpouse]]>
+    	</Repository>
+    	<Issues>
+	    <![CDATA[https://github.com/RevenantFreddy/HollowSpouse/issues]]>
+    	</Issues>
+    	<Authors>
+	    <Author>Revenant Freddy</Author>
+    	</Authors>
+    </Manifest>
 </ModLinks>
