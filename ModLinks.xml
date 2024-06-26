@@ -516,19 +516,28 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
-        <Description>Adds dive floors, breakable walls, and one-way walls to Randomizer 4. Configure in connections menu after installation.</Description>
-        <Version>2.1.0.1</Version>
-        <Link SHA256="9EEF8EE3EFB6C479C42319B9A689277CBF863A4BBFE31DEAB7D54A3ED58C5649">
-            <![CDATA[https://github.com/Bentechy66/HollowKnight.BreakableWallRandomizer/releases/download/2.1.0.1/BreakableWallRandomiser.zip]]>
+        <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
+        <Version>3.0.0.0</Version>
+        <Link SHA256="8db63e55d1064db839e3694fe436374949cac6dcc2bf8023d12d115f34db9082">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.0/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Satchel</Dependency>
-            <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Bentechy66/HollowKnight.BreakableWallRandomizer/]]>
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/]]>
         </Repository>
+	<Issues>
+	    <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/issues]]>
+    	</Issues>
+    	<Tags>
+	    <Tag>Gameplay</Tag>
+    	</Tags>
+    	<Authors>
+	    <Author>Bentechy66</Author>
+	    <Author>nerthul11</Author>
+    	</Authors>
     </Manifest>
     <Manifest>
         <Name>Heal On Wall</Name>
