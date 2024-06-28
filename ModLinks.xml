@@ -4373,7 +4373,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>HKTool</Name>
-        <Description>A library mod</Description>
+        <Description>A library mod. (Linux not supported)</Description>
         <Version>2.2.1.0</Version>
         <!-- file version is 2.2.0.0, but published as version 2.2.1.0 -->
         <Link SHA256="0d72b8d1abeaf1ac4cf1493bd5a34ec050f9c1dcc96e983900113fc98d27ae26">
