@@ -6148,7 +6148,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>BingoSync</Name>
         <Description>A Hollow Knight mod that automatically marks squares on bingosync.com</Description>
-        <Version>1.2.3.0</Version>
+        <Version>1.2.4.0</Version>
         <Link SHA256="F5A2332EDD2C77823D9255F4B50CF2B774FD10284BD2447EDC3DA7552F610EE7">
             <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.2.4.0/BingoSync.zip]]>
         </Link>
