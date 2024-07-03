@@ -6954,9 +6954,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>Biblically Accurate Lasers</Name>
-        <Description>Adds some more, configurable lasers to the Radiance and Absolute Radiance fights.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="17a924d3c31c4ad24e5f5e8d100305fb626d987ed0ad41ce785c08487bb4d431"><![CDATA[https://github.com/thegodfriend/BiblicallyAccurateLasers/releases/download/v1.0.0/BiblicallyAccurateLasers.zip]]></Link>
+        <Description>Adds some configurable lasers to the Radiance and Absolute Radiance fights.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="b57081d322ede3da0303daa132b6f1eee3280387c3f239aa7d717889ba7b1e10"><![CDATA[https://github.com/thegodfriend/BiblicallyAccurateLasers/releases/download/v1.1.0/BiblicallyAccurateLasers.zip]]></Link>
         <Dependencies/>
         <Repository>
             <![CDATA[https://github.com/thegodfriend/BiblicallyAccurateLasers]]>
