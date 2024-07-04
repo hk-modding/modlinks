@@ -2767,9 +2767,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ControllerFixes</Name>
         <Description>Fixes some controller issues and adds related features.</Description>
-        <Version>1.0.3.0</Version>
-        <Link SHA256="B1A0022F34480586486ABA9558A8E0ED19CEB3CAB6A0775E1E1E645B022FD8FF">
-            <![CDATA[https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.3/ControllerFixes.zip]]>
+        <Version>1.0.4.0</Version>
+        <Link SHA256="4040BAC6B97FDEB4A3AE5A6B7ED20267189CFC3CB105736DDB2979D7D5D8A815">
+            <![CDATA[https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.4/ControllerFixes.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -4040,9 +4040,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>2.1.0.0</Version>
-        <Link SHA256="1AD8740B493A15CBF6E2EE08CC316F8BFBD2984B31BAC7ADF5BFB497D083D5EA">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.0/VanillaMapMod.zip]]>
+        <Version>2.1.1.0</Version>
+        <Link SHA256="65CF7DFE933B54E8D5AA246A9382CE725FF43CB1E4B5324AB88D8DC3066F3A46">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.1/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
@@ -5479,9 +5479,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="389EFE69AD82A8E247A324A35526ADE39F488F2E87914C1E51D28C70072E9BB4">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.2.1/MapChanger.zip]]>
+        <Version>1.2.2.0</Version>
+        <Link SHA256="5AFA17FCCCD0DE8037CFFE219E91AA2177DE277D0E366D9AAA0F423B1F66E683">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.2.2/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -5503,9 +5503,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.5.5.0</Version>
-        <Link SHA256="47E7031F724E47093036F977A18F50D1830E3F9DB01AC1195C33773D5824DF04">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.5/RandoMapMod.zip]]>
+        <Version>3.5.6.0</Version>
+        <Link SHA256="60B8C9F5ACD0FB1E6E8E3EF2211E791EAA8340F13130748894BD35FD734C6CCD">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.6/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -5934,9 +5934,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RCPathfinder</Name>
         <Description>A pathfinder library for RandomizerCore.</Description>
-        <Version>1.3.2.0</Version>
-        <Link SHA256="79EFDCC9F9DB0D0C05B38F4ACF78EB05D45B0768E9D821D65DB2DF2F6BF7F31B">
-            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.3.2/RCPathfinder.zip]]>
+        <Version>1.3.3.0</Version>
+        <Link SHA256="1B13916CBAB8880D51AFBAD16B9C80FC8BBD9F3EF307AA464D79740C94E48BF7">
+            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.3.3/RCPathfinder.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore</Dependency>
