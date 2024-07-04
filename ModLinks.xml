@@ -2174,6 +2174,27 @@ Takes hours to load into the game.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Hollow Knight Achievement Manager</Name>
+        <Description>Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox).</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="87931BB347E5EC9D8D3EDDA2329DD3BEBC58CB509F926A7ABC5EC3BA76B20864">
+            <![CDATA[https://github.com/SFGrenade/HollowKnightAchievementManager/releases/download/v1.5/HollowKnightAchievementManager.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/HollowKnightAchievementManager/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>LanguageSupport</Name>
         <Description>Allows additional languages to be supported. Doesn't allow for some characters of other languages yet.</Description>
         <Version>1.5.1.0</Version>
