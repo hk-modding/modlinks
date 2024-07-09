@@ -5478,9 +5478,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Sein</Name>
         <Description>Companion mod for the Custom Knight skin "Ori", adding specialized effects</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="3926386E8351D6D49EED8EC679D647605D1CA034B729C0DB739CAB5318E43727">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.Sein/releases/download/v1.0.0.0/Sein.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="5A3876B32CA7DF61D96A4C68501060FEFD4DC978795F983A53D032268CC3D1AB">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.Sein/releases/download/v1.0.0.1/Sein.zip]]>
 	</Link>
         <Dependencies>
 	    <Dependency>Custom Knight</Dependency>
