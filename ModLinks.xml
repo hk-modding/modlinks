@@ -5476,6 +5476,25 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Integrations>
     </Manifest>
     <Manifest>
+        <Name>Sein</Name>
+        <Description>Companion mod for the Custom Knight skin "Ori", adding specialized effects</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="5A3876B32CA7DF61D96A4C68501060FEFD4DC978795F983A53D032268CC3D1AB">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.Sein/releases/download/v1.0.0.1/Sein.zip]]>
+	</Link>
+        <Dependencies>
+	    <Dependency>Custom Knight</Dependency>
+            <Dependency>CustomKnightSuperAnimationAddon</Dependency>
+            <Dependency>FrogCore</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.Sein]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>SpoilerViewerMod</Name>
         <Description>Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.</Description>
         <Version>2.10.1.0</Version>
