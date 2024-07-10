@@ -7,7 +7,7 @@
     <Description>Face the god of power, a modified version of Any Radiance which was made not to be harder but to be a cool and unique fight.</Description>
     <Version>0.0.1.0</Version>
     <Link SHA256="46b902c89cba96b8fa2481e7c7736fed3ae5dc23ef9a793b3650b2cb239d9149">
-        <![CDATA[https://github.com/Talezshadid/Omega-Radiance/blob/main/OmegaRadiance.dll]]>
+        <![CDATA[https://github.com/Talezshadid/Omega-Radiance/raw/main/OmegaRadiance.dll]]>
     </Link>
     <Dependencies>
         <Dependency>ModCommon</Dependency>
