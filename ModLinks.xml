@@ -4,9 +4,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 <Manifest>
     <Name>ModCommon</Name>
-    <Description>A hollow knight mod that provides an API of helpers and other utilities for modding hollow knight.</Description>
+    <Description>A hollow knight mod that provides an API of helpers and other utilities for modding hollow knight.
+Not recommended for use in new mods.</Description>
     <Version>0.0.0.0</Version>
     <Link SHA256="a4959501676033bb66136b466597f266794ef3627c92c4455c94b2a6450b69aa"><![CDATA[https://github.com/Talezshadid/ModCommon1.5/blob/main/1.5ModCommon.dll]]></Link>
+    <Dependencies/>
     <Repository>
         <![CDATA[https://github.com/Talezshadid/ModCommon1.5]]>
     </Repository>
