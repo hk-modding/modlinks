@@ -6,8 +6,8 @@
     <Name>ModCommon</Name>
     <Description>A hollow knight mod that provides an API of helpers and other utilities for modding hollow knight.
 Not recommended for use in new mods.</Description>
-    <Version>0.0.0.0</Version>
-    <Link SHA256="c8164c90c8ced45705c0f9f5e32485906fe1c135c0b00e42229ed0156d3b973c">
+    <Version>1.0.0.0</Version>
+    <Link SHA256="a4959501676033bb66136b466597f266794ef3627c92c4455c94b2a6450b69aa">
         <![CDATA[https://github.com/HK-Modding-Preservation/ModCommon/releases/download/v1/ModCommon_1.5.dll]]>
     </Link>
     <Dependencies/>
