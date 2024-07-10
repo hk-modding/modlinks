@@ -2,6 +2,21 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+	<Manifest>
+    <Name>Omega Radiance</Name>
+    <Description>Face the god of power, a modified version of Any Radiance which was made not to be harder but to be a cool and unique fight. It requires Mod Common to work</Description>
+    <Version>0.0.1.0</Version>
+    <Link SHA256="46b902c89cba96b8fa2481e7c7736fed3ae5dc23ef9a793b3650b2cb239d9149"><![CDATA[https://github.com/Talezshadid/Omega-Radiance/blob/main/OmegaRadiance.dll]]></Link>
+    <Repository>
+        <![CDATA[https://github.com/Talezshadid/Omega-Radiance]]>
+    </Repository>
+    <Tags>
+        <Tag>Boss</Tag>
+    </Tags>
+    <Authors>
+        <Author>talezshadid</Author>
+    </Authors>
+</Manifest>
 <Manifest>
     <Name>DynamicCrystalDash</Name>
     <Description>Scales the speed of cdash by how long you charge it</Description>
