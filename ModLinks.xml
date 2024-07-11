@@ -6,7 +6,7 @@
     <Name>Omega Radiance</Name>
     <Description>Face the god of power, a modified version of Any Radiance which was made not to be harder but to be a cool and unique fight.</Description>
     <Version>0.0.1.0</Version>
-    <Link SHA256="46b902c89cba96b8fa2481e7c7736fed3ae5dc23ef9a793b3650b2cb239d9149">
+    <Link SHA256="e3dc183164a37ef713ce4bec4a7c3ff57d921d79e72906d417fa845e6d63ce10">
         <![CDATA[https://github.com/Talezshadid/Omega-Radiance/raw/main/OmegaRadiance.dll]]>
     </Link>
     <Dependencies>
