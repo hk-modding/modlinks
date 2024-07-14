@@ -4831,9 +4831,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.4.2.0</Version>
-        <Link SHA256="3BE50602B082414E598226524BACE0F92FA17C5A0559BED4E394166663BD76FC">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.4.2/Archipelago.zip]]>
+        <Version>0.5.0.0</Version>
+        <Link SHA256="FBAD8CA61466923CBE0E64D6B7F53FCA469E74578B270A3006E9222B49984729">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.5.0/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -4848,9 +4848,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>2.2.0.0</Version>
-        <Link SHA256="E42C1B5BD170483CA4C12C58A972B1B3E74E15934C25232EA5F3F02AA50D47DD">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.2.0/Archipelago.Map.Mod.zip]]>
+        <Version>2.2.1.0</Version>
+        <Link SHA256="11845C8EDEC57BF2424DCA916DDDFF1201854CCEEC59BCA19A5389130A3679E8">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.2.1/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
