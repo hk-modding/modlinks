@@ -2490,6 +2490,24 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Stories of a HK player - Chapter 1</Name>
+        <Description>The start of a story of a Hollow Knight player and his personalized copy of the game.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="28FE1E34A8EB8F7C1AE73103603567061EB7580BE8BA724DE21AFD7317FBC6C6">
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/releases/download/v1.5/StoriesOfaHkPlayer_Ch1.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Test of Teamwork</Name>
         <Description>Adds a Path of Pain style section to the White Palace.
 Start by talking to people in and around dirtmouth.
