@@ -571,9 +571,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>3.0.1.0</Version>
-        <Link SHA256="14d5030678a9cf1cd55f5a5018b61ae577550bd925d92e18a95ba402fc29f960">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.1.0/BreakableWallRandomizer.zip]]>
+        <Version>3.0.1.1</Version>
+        <Link SHA256="10c8e413f4b007174159cbccac4fc5ebec9c8ebaf1b4010475fd31fbd45f4250">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.1.1/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
