@@ -43,7 +43,7 @@ Not recommended for use in new mods.</Description>
 </Manifest>
 <Manifest>
     <Name>NoTransitions</Name>
-    <Description>INCOMPLETE, BROKEN, DEMO VERSION Removes transitions for a more seamless experience</Description>
+    <Description>INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info</Description>
     <Version>0.9.3.0</Version>
     <Link SHA256="CC3937184C716B9196C54E3675784A57D5D99E06DA335B0AF60F59E8D63459B8"><![CDATA[https://github.com/TheMathGeek314/NoTransitions/releases/download/v0.9.3.0/NoTransitions.zip]]></Link>
     <Dependencies>
