@@ -42,6 +42,20 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>NoTransitions</Name>
+    <Description>INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info</Description>
+    <Version>0.9.3.0</Version>
+    <Link SHA256="CC3937184C716B9196C54E3675784A57D5D99E06DA335B0AF60F59E8D63459B8"><![CDATA[https://github.com/TheMathGeek314/NoTransitions/releases/download/v0.9.3.0/NoTransitions.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/NoTransitions/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>WorseSteadyBody</Name>
     <Description>Steady Body now has a more consistent effect</Description>
     <Version>1.0.0.0</Version>
