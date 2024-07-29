@@ -2500,6 +2500,24 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>ShowFPS</Name>
+        <Description>A mod that adds a FPS display in the bottom right corner.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="B7929834A26AC17BF05CED9C51EE283AD5EB3DD207EA1E1FF80112004FBCF081">
+            <![CDATA[https://github.com/SFGrenade/ShowFPS/releases/download/v1.5/ShowFPS.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/ShowFPS/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>SpriteDumper</Name>
         <Description>A mod that dumps sprites. Can take more than 10 minutes per dump. Uses the P key to initiate dumping.</Description>
         <Version>1.5.0.0</Version>
