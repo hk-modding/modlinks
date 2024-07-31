@@ -6500,12 +6500,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        <Repository>
 	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera]]>
 	        </Repository>
-		<Integrations>
-			<Integration>DebugMod</Integration>
-		</Integrations>
 	        <Issues>
 	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera/issues]]>
 	        </Issues>
+		<Integrations>
+			<Integration>DebugMod</Integration>
+		</Integrations>
 	        <Tags>
 	        	<Tag>Utility</Tag>
 	        </Tags>
