@@ -5433,9 +5433,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.3.0.1</Version>
-        <Link SHA256="25f15cd2849c6820f7174cf235f144c486e98ce8cc76cbffd4fbc44bb0ecdf1d">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.1/LoreRandomizer.zip]]></Link>
+        <Version>0.3.2.0</Version>
+        <Link SHA256="9656e5618df71bf872b45f237cde4259c6fb79e2e3560c5131c77e40046d5dd9">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.2/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
