@@ -7066,7 +7066,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
 	<Manifest>
     	<Name>BossSync</Name>
-    	<Description>An extension mod for ItemSync that allows for the synchronization of bosses!</Description>
+    	<Description>This mod is now obsolete as its features are implemented into another mod (MapSyncMod). Currently working on another mod to polish up some things for 112% Coop APB speedruns that will be released under the name "SpeedrunSync"</Description>
     	<Version>1.0.1.0</Version>
     	<Link SHA256="946667DB57A4BB7B4A94BBEA425216A6D2C09078374737BEDE67D43CAA6CE181">
 	    <![CDATA[https://github.com/Plutzz/BossSync/releases/download/v1.0.1.0/BossSync.zip]]>
@@ -7075,6 +7075,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		<Dependency>ItemSync</Dependency>
 		<Dependency>MenuChanger</Dependency>
 		<Dependency>Randomizer 4</Dependency>
+		<Dependency>MapChanger</Dependency>
 	</Dependencies>
     	<Repository>
 	    <![CDATA[https://github.com/Plutzz/BossSync]]>
