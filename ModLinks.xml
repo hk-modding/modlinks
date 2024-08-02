@@ -6840,6 +6840,31 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	</Authors>
     </Manifest>
     <Manifest>
+    	<Name>CombatRandomizer</Name>
+    	<Description>A Randomizer add-on for a cursed combat experience.</Description>
+    	<Version>1.0.0.0</Version>
+    	<Link SHA256="b62b0599771878b398960742e403d69043a525b71c00e9be4bc6132f4150ac5a">
+	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.0.0/CombatRandomizer.zip]]>
+	</Link>
+	<Dependencies>
+		<Dependency>ItemChanger</Dependency>
+		<Dependency>MenuChanger</Dependency>
+		<Dependency>Randomizer 4</Dependency>
+	</Dependencies>
+    	<Repository>
+	    <![CDATA[https://github.com/nerthul11/CombatRandomizer]]>
+    	</Repository>
+    	<Issues>
+	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/issues]]>
+    	</Issues>
+    	<Tags>
+	    <Tag>Gameplay</Tag>
+    	</Tags>
+    	<Authors>
+	    <Author>nerthul11</Author>
+    	</Authors>
+    </Manifest>
+    <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
     	<Version>2.2.4.3</Version>
