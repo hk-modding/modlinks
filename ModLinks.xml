@@ -2061,9 +2061,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>BlindRadiance</Name>
         <Description>Makes background darker in selected scenes to make foreground objects more visible.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="9111BBC3F5C4B059EDE9C06F3BD26C9DC09DAF8500336CD70B153187B6E92BED">
-            <![CDATA[https://github.com/SFGrenade/BlindRadiance/releases/download/v1.5.1/BlindRadiance.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="CD99E06AD0D9C7F0BAD39A608EB4EFDBFD9E93C37D8E5450F5CC7F1058FF4A03">
+            <![CDATA[https://github.com/SFGrenade/BlindRadiance/releases/download/v1.5.2/BlindRadiance.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
