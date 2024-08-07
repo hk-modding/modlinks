@@ -5395,9 +5395,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>KorzUtils</Name>
         <Description>Library mod that provide useful functions for other mods.</Description>
-        <Version>0.7.0.0</Version>
-        <Link SHA256="82831581cbea2d492394f898f3a6df6954e4ab9a9568a0839a6f1cb518327c2c">
-            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.7.0/KorzUtils.zip]]></Link>
+        <Version>0.8.0.0</Version>
+        <Link SHA256="0bfe1bb26d4e4c47b65d027d7ea0bd90baaaca90b7b3eff7425d7ee517318590">
+            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.8.0/KorzUtils.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
