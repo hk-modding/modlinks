@@ -599,9 +599,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>3.0.2.0</Version>
-        <Link SHA256="bc404fd446a4785c3749885a6197881f55fc9a4cd15c42ae6b31e3a04c2de339">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.0/BreakableWallRandomizer.zip]]>
+        <Version>3.0.2.1</Version>
+        <Link SHA256="573d21907a51a574b1ca403b85239ab4d01e3a696569c262390909eccc41891b">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.1/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -6823,9 +6823,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>CombatRandomizer</Name>
     	<Description>A Randomizer add-on for a cursed combat experience.</Description>
-    	<Version>1.0.0.0</Version>
-    	<Link SHA256="b62b0599771878b398960742e403d69043a525b71c00e9be4bc6132f4150ac5a">
-	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.0.0/CombatRandomizer.zip]]>
+    	<Version>1.0.1.0</Version>
+    	<Link SHA256="4c171cd8fa658f5127b1d436b156c32bfb74082ca7985230142cf425235d809b">
+	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.1.0/CombatRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -6848,9 +6848,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.2.4.3</Version>
-    	<Link SHA256="bdc92de40987b0006116b6ab8d6513ed099caa191d34d29065fe95d62bd1754e">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.3/GodhomeRandomizer.zip]]>
+    	<Version>2.2.4.4</Version>
+    	<Link SHA256="57da79c0114275ae8e687491fe070a9cfb155eb84d44aa22ffbcc3d75c15df02">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.4/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
