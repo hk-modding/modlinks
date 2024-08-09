@@ -841,9 +841,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CelesteKnight</Name>
         <Description>Celeste movements like dash, super, hyper, wallbounce</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="9abe0b7b903cb27dd5da6bf396e7e08a14f127b542e5002929dfc07c1c61e077">
-            <![CDATA[https://github.com/danirainy/CelesteKnight/releases/download/1.0.0.0/CelesteKnight.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="857b2dc30a125c276de40f342b0f7fa10ab285c5b17fa17ab95d614f37166018">
+            <![CDATA[https://github.com/danirainy/CelesteKnight/releases/download/1.0.0.1/CelesteKnightfix1.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
