@@ -3264,9 +3264,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>2.4.8955.7331</Version>
-        <Link SHA256="59B67256C75AE2A417BA2165F07EB0B11FA67094C2A0FB35C126D2FB2CED71CA">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.4.8955.7331/TheRealJournalRando.zip]]>
+        <Version>2.4.8989.31846</Version>
+        <Link SHA256="256F979499C37380C6D71D37D436D97FA4B99A033329C6A6B8E16344FCD38330">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.4.8989.31846/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -4912,9 +4912,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.5.0.0</Version>
-        <Link SHA256="FBAD8CA61466923CBE0E64D6B7F53FCA469E74578B270A3006E9222B49984729">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.5.0/Archipelago.zip]]>
+        <Version>0.6.0.0</Version>
+        <Link SHA256="B33C015FB167829B244E7D0394F8AA3690AA053420FEFDF00E3E2B6B1D6ED762">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.6.0/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -4929,9 +4929,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>2.2.2.0</Version>
-        <Link SHA256="3A0227ABDAE4D0C9D0B0EF44729158E0F6EDCEA864853B58BDF70597BB31CE17">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.2.2/Archipelago.Map.Mod.zip]]>
+        <Version>2.2.3.0</Version>
+        <Link SHA256="732E1CB92166A192CEDBC967E41D4F3B16CDF190E787074AB59A64E01C89F837">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.2.3/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
