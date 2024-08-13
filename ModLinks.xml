@@ -5600,7 +5600,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>PurenailCore</Dependency>
-            <Dependency>RandomizeCore</Dependency>
+            <Dependency>RandomizerCore</Dependency>
             <Dependency>Randomizer 4</Dependency>
 	    <Dependency>RandoSettingsManager</Dependency>
         </Dependencies>
