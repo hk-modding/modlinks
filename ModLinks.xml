@@ -5590,6 +5590,31 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>UnRando</Name>
+        <Description>A Rando 4 connection which fixes the order in which rando items are obtained.</Description>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="D1AE2A4B09F6C59476678EC5A3D67D5BCF4644334AE0225DFAA9343A10FE169A">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.UnRando/releases/download/v0.2.0.0/UnRando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>RandomizeCore</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+	    <Dependency>RandoSettingsManager</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.UnRando]]>
+        </Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
         <Version>1.2.3.0</Version>
