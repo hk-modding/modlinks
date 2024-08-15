@@ -44,8 +44,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>MilliGolf</Name>
     <Description>An 18-hole course featuring Millibelle the Golf Ball</Description>
-    <Version>1.0.1.1</Version>
-    <Link SHA256="0DF485FF1B598E40CE036CFD6706304F532810DC1D1ECB537480E2FE5B5BF62E"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.0.1.1/MilliGolf.zip]]></Link>
+    <Version>1.0.2.0</Version>
+    <Link SHA256="F14020BF03D439FF2F0D05068BC287F4163BA8A0C39FC79AC43E612255CEFD37"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.0.2.0/MilliGolf.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
