@@ -5503,9 +5503,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheHuntIsOn</Name>
         <Description>A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.</Description>
-        <Version>0.4.0.0</Version>
-        <Link SHA256="c00a03199f5e6d846609d9312f5f8989cdf390d7cc562dca0ca2d21283dc9bd2">
-            <![CDATA[https://github.com/Korzer420/TheHuntIsOn/releases/download/v0.4.0/TheHuntIsOn.zip]]></Link>
+        <Version>0.5.0.0</Version>
+        <Link SHA256="2fc6e4541f81b081edffec0cd740c9d7136289e83b896deeef0632a6481e5049">
+            <![CDATA[https://github.com/Korzer420/TheHuntIsOn/releases/download/v0.5.0/TheHuntIsOn.zip]]></Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
             <Dependency>KorzUtils</Dependency>
