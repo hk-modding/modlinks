@@ -59,8 +59,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>MilliGolf</Name>
     <Description>An 18-hole course featuring Millibelle the Golf Ball</Description>
-    <Version>1.1.0.1</Version>
-    <Link SHA256="2A320EE506FAF84FD4C8865E39A891DB48028BAA3EC86095E61C20F80DDC7776"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.1.0.1/MilliGolf.zip]]></Link>
+    <Version>1.1.1.0</Version>
+    <Link SHA256="5DBF64664252C2AC70029528CCC43F938785CE6C514B1C0B0DC619548FA82706"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.1.1.0/MilliGolf.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -5607,9 +5607,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>UnRando</Name>
         <Description>A Rando 4 connection which fixes the order in which rando items are obtained.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="7F88D6F58C2A2F81B87E2788176E38E4C7315C880102012F50E9828F03EC74F5">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.UnRando/releases/download/v0.3.0.0/UnRando.zip]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="C8D5DBB2700A9C6BD37D0C402513D61952DB3FA897DF9CB08430ACC37A4A1BD0">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.UnRando/releases/download/v1.0.0.0/UnRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -7210,6 +7210,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
         <Authors>
             <Author>Godfriend</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>CollectorGlitchRemover</Name>
+        <Description>Prevents the collector insta-grab glitch.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="C011070932B9204AC4A8A95329BE891A379B3BE2F2B994ADE0D7112F7575BB0B"><![CDATA[https://github.com/EarlyHemisphere/HK.CollectorGlitchRemover/releases/download/v1.0.1/CollectorGlitchRemover.dll]]></Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HK.CollectorGlitchRemover]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
         </Authors>
     </Manifest>
 </ModLinks>
