@@ -7212,4 +7212,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Godfriend</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>CollectorGlitchRemover</Name>
+        <Description>Prevents the collector insta-grab glitch.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="C011070932B9204AC4A8A95329BE891A379B3BE2F2B994ADE0D7112F7575BB0B"><![CDATA[https://github.com/EarlyHemisphere/HK.CollectorGlitchRemover/releases/download/v1.0.1/CollectorGlitchRemover.dll]]></Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HK.CollectorGlitchRemover]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
