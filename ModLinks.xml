@@ -2,7 +2,27 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
-	<Manifest>
+<Manifest>
+    <Name>Pale Shadow</Name>
+    <Description>Homemade Pure Vessel boss mod.</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="7e6647f1c0aad339149db1e109c1d49d3b4e4d232779af95f6a5f83a94716ded">
+        <![CDATA[https://github.com/HK-Modding-Preservation/ChineseMods/releases/download/pale-shadow/Pale.Shadow.zip]]>
+    </Link>
+    <Dependencies>
+        <Dependency>Vasi</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/HK-Modding-Preservation/ChineseMods]]>
+    </Repository>
+    <Tags>
+        <Tag>Boss</Tag>
+    </Tags>
+    <Authors>
+        <Author>腐草ROT</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>Omega Radiance</Name>
     <Description>Face the god of power, a modified version of Any Radiance which was made not to be harder but to be a cool and unique fight.</Description>
     <Version>0.0.1.0</Version>
