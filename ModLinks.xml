@@ -62,6 +62,21 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>KeepDiveIFrames</Name>
+    <Description>Now you can abuse i-frames for dive spam again</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="DAA6633C126297994A5BBF7FA27CD7AD0E212E740F847A1EDF6522553DE0F213"><![CDATA[https://github.com/TheMathGeek314/KeepDiveIFrames/releases/download/v1.0.0.0/KeepDiveIFrames.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/KeepDiveIFrames/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>UnlimitedHiveblood</Name>
     <Description>Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen</Description>
     <Version>1.0.0.0</Version>
