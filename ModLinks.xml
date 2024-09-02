@@ -200,7 +200,7 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>BingoSyncExtension</Name>
     <Description>Previously used to add extra automarking logic to BingoSync, now deprecated</Description>
-    <Version>Deprecated</Version>
+    <Version>1.2.0.0</Version>
     <Link SHA256="D3B0A6B45B3C1260038A02F13819E9FF19F383B495E041A8234862941F3BED18"><![CDATA[https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/Deprecated/BingoSyncExtension.zip]]></Link>
     <Dependencies>
         <Dependency>BingoSync</Dependency>
