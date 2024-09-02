@@ -182,10 +182,10 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>BingoGoalPack1</Name>
     <Description>Adds more goals to BingoSync and includes new board types</Description>
-    <Version>1.4.0.0</Version>
-    <Link SHA256="B39F019C90367E746BBE45AFACC78E5F5FE95D5C177E959FC890CEDCFFE87D7C"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.4.0.0/BingoGoalPack1.zip]]></Link>
+    <Version>1.5.0.0</Version>
+    <Link SHA256="2A30B8938FF5C667F8C5F88EF62F045CBA4A053A7612322A09DFB861A204592E"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.0.0/BingoGoalPack1.zip]]></Link>
     <Dependencies>
-        <Dependency>BingoSyncExtension</Dependency>
+    	<Dependency>BingoSync</Dependency>
     	<Dependency>Satchel</Dependency>
     </Dependencies>
     <Repository>
@@ -199,9 +199,9 @@ Not recommended for use in new mods.</Description>
 </Manifest>
 <Manifest>
     <Name>BingoSyncExtension</Name>
-    <Description>A library mod that provides an interface to add extra automarking logic to BingoSync</Description>
-    <Version>1.1.2.0</Version>
-    <Link SHA256="7FD10F4FB24FE716131DA3B19C8D48C6B07A57845BF459D759DF2171C331F65E"><![CDATA[https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/v1.1.2.0/BingoSyncExtension.zip]]></Link>
+    <Description>Previously used to add extra automarking logic to BingoSync, now deprecated</Description>
+    <Version>Deprecated</Version>
+    <Link SHA256="D3B0A6B45B3C1260038A02F13819E9FF19F383B495E041A8234862941F3BED18"><![CDATA[https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/Deprecated/BingoSyncExtension.zip]]></Link>
     <Dependencies>
         <Dependency>BingoSync</Dependency>
 	<Dependency>MagicUI</Dependency>
@@ -6394,9 +6394,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>BingoSync</Name>
         <Description>A Hollow Knight mod that automatically marks squares on bingosync.com</Description>
-        <Version>1.2.4.0</Version>
-        <Link SHA256="F5A2332EDD2C77823D9255F4B50CF2B774FD10284BD2447EDC3DA7552F610EE7">
-            <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.2.4.0/BingoSync.zip]]>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="69BAB674A4AF6755BBA444B7E8C73043C9785BD0B74374DB7C3FD20E86780EA5">
+            <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.3.0.0/BingoSync.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -6406,6 +6406,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync]]>
         </Repository>
+        <Authors>
+            <Author>pedroteosousa</Author>
+            <Author>Alph4</Author>
+        </Authors>
     </Manifest>
      <Manifest>
         <Name>Soul Paladin</Name>
