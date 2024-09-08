@@ -7068,9 +7068,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MapSyncMod</Name>
         <Description>Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD</Description>
-        <Version>1.3.0.0</Version>
-        <Link SHA256="A72CF0C9764D65CA5EC3D60872ACE99145D257430AA97249E4CE27D3623860E6">
-            <![CDATA[https://github.com/wdghzym/HollowKnight.MapSyncMod/releases/download/v1.3.0.0/MapSyncModV1.3.0.0.zip]]>
+        <Version>1.3.2.0</Version>
+        <Link SHA256="09DC81C168BD144BBC802E7C980A82D6D624A0393018FF5B4AD797F809F546D6">
+            <![CDATA[https://github.com/wdghzym/HollowKnight.MapSyncMod/releases/download/v1.3.2.0/MapSyncMod.v1.3.2.0.zip]]>
         </Link>
 	<Dependencies>
             <Dependency>ItemSync</Dependency>
@@ -7092,9 +7092,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>BenchDeploy</Name>
         <Description>Deploy Multi Bench use controller/keyboard. other player bench on itemsync MapSyncMod</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="499F57CE8802230C28720471A28B79D04A7251746166E27905C799288E0DE6B1">
-            <![CDATA[https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.4.0.0/BenchDeployV1.4.0.0.zip]]>
+        <Version>1.4.4.0</Version>
+        <Link SHA256="FFD34FA3D10AF38FBEB670BBEE6AABBEBAEBE4AF1A30E7379B399D2DDD17BB9B">
+            <![CDATA[https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.4.4.0/BenchDeploy.v1.4.4.0.zip]]>
         </Link>
 	<Dependencies>
             <Dependency>Benchwarp</Dependency>
