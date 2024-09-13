@@ -7304,7 +7304,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Casino Knight</Name>
         <Description>Lets go gambling! Adds a casino with slot machines into Dirtmouth to spend geo on. Win big!</Description>
-        <Version>0.1.0.0-beta</Version>
+        <Version>0.1.0.0</Version>
         <Link SHA256="96CEEE7DAD8A0567DEA69C9CDE43B85C458F6032FE335A2762A4D23FC34C4814">
             <![CDATA[https://github.com/AbsoluteStratos/CasinoKnight/releases/download/v0.1.0-beta/CasinoKnight.zip]]>
         </Link>
