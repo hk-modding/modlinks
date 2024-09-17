@@ -2287,6 +2287,26 @@ All with an incredible new soundtrack!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>FullSpeedAhead</Name>
+        <Description>Removes Parry Slow-Down.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="CADA5346B9F888CB822EDAE0ADFDA8D6728575BA6441BCFF856DC0D6E9394933">
+            <![CDATA[https://github.com/SFGrenade/FullSpeedAhead/releases/download/v1.5/FullSpeedAhead.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/FullSpeedAhead/]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>FuryFix</Name>
         <Description>Tries to fix fury for 1 max health saves.</Description>
         <Version>1.5.0.0</Version>
