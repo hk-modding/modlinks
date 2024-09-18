@@ -2289,9 +2289,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>FullSpeedAhead</Name>
         <Description>Removes Parry Slow-Down.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="CADA5346B9F888CB822EDAE0ADFDA8D6728575BA6441BCFF856DC0D6E9394933">
-            <![CDATA[https://github.com/SFGrenade/FullSpeedAhead/releases/download/v1.5/FullSpeedAhead.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="23109D2296052F49D6DCD9B7E1040508AD3AAEA247D377BA680D6BD6CF858D5F">
+            <![CDATA[https://github.com/SFGrenade/FullSpeedAhead/releases/download/v1.5.1/FullSpeedAhead.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
