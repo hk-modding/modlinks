@@ -6984,9 +6984,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>CombatRandomizer</Name>
     	<Description>A Randomizer add-on for a cursed combat experience.</Description>
-    	<Version>1.1.0.0</Version>
-    	<Link SHA256="c13e9aa4a7a6cc8f7913f491f66a7d2f0ee9bbbc8d6255110e79c7a6225838c7">
-	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.0.0/CombatRandomizer.zip]]>
+    	<Version>1.1.0.1</Version>
+    	<Link SHA256="93264e4998bf1019ffc0c313110452107ebc238f9292785651b795110bb599a8">
+	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.0.1/CombatRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
