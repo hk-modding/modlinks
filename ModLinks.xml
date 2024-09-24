@@ -79,6 +79,22 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>VoiceToCrySuffering</Name>
+    <Description>A minor tweak to the Pure Vessel fight</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="D86635ADFD7694EC3A870E3875BCC6EF811746010AF36851CD9FC728A447686F"><![CDATA[https://github.com/TheMathGeek314/VoiceToCrySuffering/releases/download/v1.0.0.0/VoiceToCrySuffering.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+        <Dependency>SFCore</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/VoiceToCrySuffering/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>PlayerTrail</Name>
     <Description>An HKMP addon to add a lingering trail behind some players</Description>
     <Version>1.0.0.1</Version>
