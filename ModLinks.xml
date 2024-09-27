@@ -79,6 +79,20 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>PogoableFlukes</Name>
+    <Description>You can pogo off your flukenest casts</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="740D549CA7F3177A68A4F28010E9C7231AB7C82F20FCAAE87D145411E63780BA"><![CDATA[https://github.com/TheMathGeek314/PogoableFlukes/releases/download/v1.0.0.0/PogoableFlukes.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/PogoableFlukes/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>AdBlocker</Name>
     <Description>Blocks ads</Description>
     <Version>1.0.0.0</Version>
