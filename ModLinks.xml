@@ -79,6 +79,21 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>AdBlocker</Name>
+    <Description>Blocks ads</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="EC0BF43547585B67D1C77EFF8EC3FEC9ABA1A7324D63F55F2651E3871EBBCC72"><![CDATA[https://github.com/TheMathGeek314/AdBlocker/releases/download/v1.0.0.0/AdBlocker.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/AdBlocker/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>VoiceToCrySuffering</Name>
     <Description>A minor tweak to the Pure Vessel fight</Description>
     <Version>1.0.0.0</Version>
