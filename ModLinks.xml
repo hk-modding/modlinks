@@ -7418,4 +7418,48 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Author>Trashmedes</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>SpellChanger</Name>
+	<Description>A library mod that aims to allow other mods to edit spells and nail arts more easily.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="6E10AB23C72A3514054789297DF18100FE6B512D2C27E42DAB64D3664881BFA4">
+            	<![CDATA[https://github.com/Samihamer1/Hollow-Knight-SpellChanger/releases/download/v1.0.0.0/SpellChanger1000.zip]]>
+       	 </Link>
+        <Dependencies>
+            	<Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+           	<![CDATA[https://github.com/Samihamer1/Hollow-Knight-SpellChanger]]>
+        </Repository>
+	<Issues>
+		<![CDATA[https://github.com/Samihamer1/Hollow-Knight-SpellChanger/issues]]>
+	</Issues>
+	<Authors>
+		<Author>Samihamer1</Author>
+	</Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ExtraSpells</Name>
+	<Description>A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="273323A5669C16DDE9BCE2E901941BE7FF8A159AEA46ED943618EA6EDE5654DE">
+            	<![CDATA[https://github.com/Samihamer1/Hollow-Knight-ExtraSpells/releases/download/v1.0.0.0/ExtraSpells1000.zip]]>
+       	 </Link>
+        <Dependencies>
+            	<Dependency>Vasi</Dependency>
+		<Dependency>SpellChanger</Dependency>
+        </Dependencies>
+        <Repository>
+           	<![CDATA[https://github.com/Samihamer1/Hollow-Knight-ExtraSpells]]>
+        </Repository>
+	<Issues>
+		<![CDATA[https://github.com/Samihamer1/Hollow-Knight-ExtraSpells/issues]]>
+	</Issues>
+	<Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+	<Authors>
+		<Author>Samihamer1</Author>
+	</Authors>
+    </Manifest>
 </ModLinks>
