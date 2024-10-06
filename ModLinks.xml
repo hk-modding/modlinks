@@ -23,6 +23,25 @@
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>Floor is Lava</Name>
+    <Description>Is a floor is lava mod for Hollow Knight</Description>
+    <Version>1.0.5.0</Version>
+    <Link SHA256="5062B5BB345DFFDEF6B096C8750929CA52CF4B40B8A176A18F7A3334CAB69B30">
+      <![CDATA[https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.5.0/Floor_is_lava.zip]]>
+    </Link>
+    <Dependencies>
+      <Dependency>MagicUI</Dependency>
+      <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository><![CDATA[https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava]]></Repository>
+    <Tags>
+      <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+      <Author>derkrankesenator</Author>
+    </Authors>
+  </Manifest>
+<Manifest>
     <Name>Omega Radiance</Name>
     <Description>Face the god of power, a modified version of Any Radiance which was made not to be harder but to be a cool and unique fight.</Description>
     <Version>0.0.1.0</Version>
