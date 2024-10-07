@@ -7458,10 +7458,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>ExtraSpells</Name>
-	<Description>A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="273323A5669C16DDE9BCE2E901941BE7FF8A159AEA46ED943618EA6EDE5654DE">
-            	<![CDATA[https://github.com/Samihamer1/Hollow-Knight-ExtraSpells/releases/download/v1.0.0.0/ExtraSpells1000.zip]]>
+	<Description>A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="74385296258679AE24AB9F33C5FD2F249022F9BA41E0B71C73CE1A85493E797C">
+            	<![CDATA[https://github.com/Samihamer1/Hollow-Knight-ExtraSpells/releases/download/v1.0.0.1/ExtraSpells1001.zip]]>
        	 </Link>
         <Dependencies>
             	<Dependency>Vasi</Dependency>
