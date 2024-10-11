@@ -2582,9 +2582,9 @@ Takes hours to load into the game.</Description>
     <Manifest>
         <Name>MoreHealing</Name>
         <Description>Adds more healing charms.</Description>
-        <Version>1.5.2.0</Version>
-        <Link SHA256="F038226A9D2655DF0C9541F7F306DF528D8BF9DA964A995F75CF4F4415DF0BCC">
-            <![CDATA[https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.2/MoreHealing.zip]]>
+        <Version>1.5.3.0</Version>
+        <Link SHA256="5B0C46040E7AE4AA2B6ED3E2272A056FD2E765891EE31F830A95C2AC4ADB59EB">
+            <![CDATA[https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.3/MoreHealing.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
