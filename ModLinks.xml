@@ -2663,6 +2663,26 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Peaking Peeking Peaks</Name>
+        <Description>This mods aims to make the Crystal Peak name more memorable.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="681DABDFBC1DB965496047985C4378FC10D77AEF98B2D1DC5DA38F5B8A39E6BE">
+            <![CDATA[https://github.com/SFGrenade/PeakingPeekingPeaks/releases/download/v1.5/PeakingPeekingPeaks.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/PeakingPeekingPeaks/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>PvP Arena</Name>
         <Description>This mod adds a PvP arena with an invisible entrance right of the bench in Dirtmouth.</Description>
         <Version>1.5.1.0</Version>
