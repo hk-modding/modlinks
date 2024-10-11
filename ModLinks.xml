@@ -3,6 +3,67 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 <Manifest>
+    <Name>Bonfire</Name>
+    <Description>A level-up system in Hollow Knight for a more realistic Dark Souls experience (a well-known Hollow Knight ripoff).</Description>
+    <Version>2.1.1.0</Version>
+    <Link SHA256="cb25998d344df2c3f83659e36269308870b0181719c3dbf2fc605abd020cecba">
+        <![CDATA[https://github.com/TheodoreChristianRadu/Bonfire/releases/download/2.1.1/Bonfire.zip]]>
+    </Link>
+    <Dependencies />
+    <Repository>
+        <![CDATA[https://github.com/TheodoreChristianRadu/Bonfire]]>
+    </Repository>
+    <Tags>
+        <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+        <Author>ricardosouzag</Author>
+	<Author>Théodore</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Lightbringer</Name>
+    <Description>Major gameplay overhaul: fight your way through Hallownest with a lance of light, brand new charms and radiant spells to seek the binding light that plagues our dreams.</Description>
+    <Version>3.0.1.0</Version>
+    <Link SHA256="9ce3c7d55ee7269f0ff8ce47902855661dbed994bd144b820fbd06150f10dd91">
+        <![CDATA[https://github.com/TheodoreChristianRadu/Lightbringer/releases/download/3.0.1/Lightbringer.zip]]>
+    </Link>
+    <Dependencies />
+    <Repository>
+        <![CDATA[https://github.com/TheodoreChristianRadu/Lightbringer]]>
+    </Repository>
+    <Tags>
+        <Tag>Boss</Tag>
+        <Tag>Expansion</Tag>
+        <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+        <Author>753</Author>
+        <Author>56</Author>
+        <Author>a2659802</Author>
+	<Author>Théodore</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Exaltation</Name>
+    <Description>Implements the scrapped mechanic of "charm glorification": empower your charms by progressing through Godhome.</Description>
+    <Version>2.1.2.0</Version>
+    <Link SHA256="926263c5e11eefe3cf1ba77a79f276888829c96a4b16a00a10b3c709d9e5ab2e">
+        <![CDATA[https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.2/Exaltation.zip]]>
+    </Link>
+    <Dependencies />
+    <Repository>
+        <![CDATA[https://github.com/TheodoreChristianRadu/Exaltation]]>
+    </Repository>
+    <Tags>
+        <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+        <Author>Xhuis</Author>
+	<Author>Théodore</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>Pale Shadow</Name>
     <Description>Homemade Pure Vessel boss mod.</Description>
     <Version>1.0.0.0</Version>
