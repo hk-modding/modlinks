@@ -7496,9 +7496,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Rogue</Name>
         <Description>A rogue-like Pantheon of Hallownest mod</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="52945EDE126484E612D3AC896F303D4CCD5703D420DC1C292F23A55558EEB4B0">
-            <![CDATA[https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V1.0.0.2/rogue.zip]]>
+        <Version>1.0.0.5</Version>
+        <Link SHA256="D51D6DE2935A36C198564A485CD9C442FE1741E84E860D81966E34AB7D3C2B89">
+            <![CDATA[https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V1.0.0.5/rogue.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
