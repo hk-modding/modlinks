@@ -86,9 +86,9 @@
 <Manifest>
     <Name>Floor is Lava</Name>
     <Description>Is a floor is lava mod for Hollow Knight</Description>
-    <Version>1.0.5.2</Version>
-    <Link SHA256="59487de8aec39e6dd0b93a46d2d9e43e57c587b6c6d0d0ecd33887684f3a7b3d">
-      <![CDATA[https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.5.2/Floor_is_lava.zip]]>
+    <Version>1.0.6.0</Version>
+    <Link SHA256="78D887ED13105ECEDA1D364F33FCA972B1C0B3E526579D692AA5BDD9CEEA4B43">
+      <![CDATA[https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.6.0/Floor_is_lava.zip]]>
     </Link>
     <Dependencies>
       <Dependency>MagicUI</Dependency>
@@ -5180,9 +5180,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.6.0.0</Version>
-        <Link SHA256="B33C015FB167829B244E7D0394F8AA3690AA053420FEFDF00E3E2B6B1D6ED762">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.6.0/Archipelago.zip]]>
+        <Version>0.6.1.0</Version>
+        <Link SHA256="15226C5ED32E15CE5259A3C33CF2424EBCB817E0B52C5877E2550AE20DA48E19">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.6.1/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -5197,9 +5197,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>2.2.3.0</Version>
-        <Link SHA256="732E1CB92166A192CEDBC967E41D4F3B16CDF190E787074AB59A64E01C89F837">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.2.3/Archipelago.Map.Mod.zip]]>
+        <Version>2.3.0.0</Version>
+        <Link SHA256="CB6A4D39FDF5CD6D2EBB1B8A179D695B02620CF60345CDF70B61562D540A4560">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.3.0/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
@@ -7496,9 +7496,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Rogue</Name>
         <Description>A rogue-like Pantheon of Hallownest mod</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="52945EDE126484E612D3AC896F303D4CCD5703D420DC1C292F23A55558EEB4B0">
-            <![CDATA[https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V1.0.0.2/rogue.zip]]>
+        <Version>1.0.0.5</Version>
+        <Link SHA256="D51D6DE2935A36C198564A485CD9C442FE1741E84E860D81966E34AB7D3C2B89">
+            <![CDATA[https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V1.0.0.5/rogue.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
