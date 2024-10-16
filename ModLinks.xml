@@ -5,9 +5,9 @@
 <Manifest>
     <Name>Bonfire</Name>
     <Description>A level-up system in Hollow Knight for a more realistic Dark Souls experience (a well-known Hollow Knight ripoff).</Description>
-    <Version>3.0.0.0</Version>
-    <Link SHA256="52a6457ffb7b6d6324fc692b3bb67955c0668b65091f118ec17b1240a5de85fa">
-        <![CDATA[https://github.com/TheodoreChristianRadu/Bonfire/releases/download/3.0.0/Bonfire.zip]]>
+    <Version>3.0.1.0</Version>
+    <Link SHA256="d293c9162b4a2262f5cc760694bd60f1e832272e1031a87222dd483fb9c6c25f">
+        <![CDATA[https://github.com/TheodoreChristianRadu/Bonfire/releases/download/3.0.1/Bonfire.zip]]>
     </Link>
     <Dependencies />
     <Repository>
