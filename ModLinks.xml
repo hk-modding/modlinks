@@ -5,9 +5,9 @@
 <Manifest>
     <Name>Bonfire</Name>
     <Description>A level-up system in Hollow Knight for a more realistic Dark Souls experience (a well-known Hollow Knight ripoff).</Description>
-    <Version>2.1.1.0</Version>
-    <Link SHA256="cb25998d344df2c3f83659e36269308870b0181719c3dbf2fc605abd020cecba">
-        <![CDATA[https://github.com/TheodoreChristianRadu/Bonfire/releases/download/2.1.1/Bonfire.zip]]>
+    <Version>3.0.1.0</Version>
+    <Link SHA256="d293c9162b4a2262f5cc760694bd60f1e832272e1031a87222dd483fb9c6c25f">
+        <![CDATA[https://github.com/TheodoreChristianRadu/Bonfire/releases/download/3.0.1/Bonfire.zip]]>
     </Link>
     <Dependencies />
     <Repository>
@@ -47,9 +47,9 @@
 <Manifest>
     <Name>Exaltation</Name>
     <Description>Implements the scrapped mechanic of "charm glorification": empower your charms by progressing through Godhome.</Description>
-    <Version>2.1.2.0</Version>
-    <Link SHA256="926263c5e11eefe3cf1ba77a79f276888829c96a4b16a00a10b3c709d9e5ab2e">
-        <![CDATA[https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.2/Exaltation.zip]]>
+    <Version>2.1.3.0</Version>
+    <Link SHA256="a7215924eac7816cd2c798be09d194986fc8d982118e983a755f151427c1c7c6">
+        <![CDATA[https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.3/Exaltation.zip]]>
     </Link>
     <Dependencies />
     <Repository>
