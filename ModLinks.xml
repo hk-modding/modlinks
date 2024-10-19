@@ -221,8 +221,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>PlayerTrail</Name>
     <Description>An HKMP addon to add a lingering trail behind some players</Description>
-    <Version>1.0.0.1</Version>
-    <Link SHA256="BDCE88B12A62B56AF1A4D2D13FD8EBCA4663769FE5478D116D2F7BBF3173393D"><![CDATA[https://github.com/TheMathGeek314/PlayerTrail/releases/download/v1.0.0.1/PlayerTrail.zip]]></Link>
+    <Version>1.0.0.2</Version>
+    <Link SHA256="0012CD77C82150D28D03AEFC80CF9EDEB2994474F7F4603C23DD73DCD79D89A9"><![CDATA[https://github.com/TheMathGeek314/PlayerTrail/releases/download/v1.0.0.2/PlayerTrail.zip]]></Link>
     <Dependencies>
         <Dependency>HKMP</Dependency>
         <Dependency>Satchel</Dependency>
