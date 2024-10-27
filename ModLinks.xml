@@ -7648,4 +7648,27 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>BestBardTopNA</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>QuickDive</Name>
+        <Description>A mod that remaps your Quick Cast button to only Dive</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="62AAB681504E6335EEE07734C2BF0485FBC362210F2EB8E637BA47B027D5CA2B">
+	     <![CDATA[https://github.com/tickylolokaka/QuickDive/releases/download/v1.0.0.0/QuickDive.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/tickylolokaka/QuickDive]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/tickylolokaka/QuickDive/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>tickylolokaka</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
