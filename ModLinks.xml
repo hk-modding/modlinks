@@ -2919,6 +2919,29 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Stories of a HK player - Chapter 2</Name>
+        <Description>The second iteration of a story of a Hollow Knight player and his personalized copy of the game.
+Warning for people streaming this mod: This mod displays your windows/mac/linux username.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="7662E910375A785EBA2810C227D4E8415A8D6CD2F3413AF7C3D34B5E43408F23">
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/releases/download/v1.5/StoriesOfaHkPlayer_Ch2.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/]]>
+        </Repository>
+        <Tags>
+            <Tag>Expansion</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>HelenSB</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Test of Teamwork</Name>
         <Description>Adds a Path of Pain style section to the White Palace.
 Start by talking to people in and around dirtmouth.
