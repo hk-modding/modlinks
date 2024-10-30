@@ -177,6 +177,21 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>BingoGoalPack2</Name>
+    <Description>Adds more granular specifications for custom BingoSync challenges</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="E709512EADABE66D870D084C9EE3E65857B9FF2E2A127B2DD2CA3295FC7C2171"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack2/releases/download/v1.0.0.0/BingoGoalPack2.zip]]></Link>
+    <Dependencies>
+        <Dependency>BingoSync</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/BingoGoalPack2/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>KeybindOverhaul</Name>
     <Description>Enhances keybind customization with split actions, key combos, and duplicate inputs</Description>
     <Version>1.0.0.0</Version>
@@ -5848,6 +5863,25 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Korzer420/ExtraRando]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+        </Authors>
+    </Manifest>
+	<Manifest>
+        <Name>Arcade Knight</Name>
+        <Description>Adds some minigames.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="a757ac8fcc005d5dbac0a06997f310834774ac4d85ffee76f1e99840206353d6">
+            <![CDATA[https://github.com/Korzer420/ArcadeKnight/releases/download/v0.1.0/ArcadeKnight.zip]]></Link>
+        <Dependencies>
+            <Dependency>KorzUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/ArcadeKnight]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
