@@ -5848,6 +5848,25 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Korz</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>Arcade Knight</Name>
+        <Description>Adds some minigames.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="a757ac8fcc005d5dbac0a06997f310834774ac4d85ffee76f1e99840206353d6">
+            <![CDATA[https://github.com/Korzer420/ArcadeKnight/releases/download/v0.1.0/ArcadeKnight.zip]]></Link>
+        <Dependencies>
+            <Dependency>KorzUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/ArcadeKnight]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
         <Name>TheHuntIsOn</Name>
         <Description>A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.</Description>
