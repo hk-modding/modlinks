@@ -65,9 +65,9 @@
 <Manifest>
     <Name>Exaltation</Name>
     <Description>Implements the scrapped mechanic of "charm glorification": empower your charms by progressing through Godhome.</Description>
-    <Version>2.1.3.0</Version>
-    <Link SHA256="a7215924eac7816cd2c798be09d194986fc8d982118e983a755f151427c1c7c6">
-        <![CDATA[https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.3/Exaltation.zip]]>
+    <Version>2.1.4.0</Version>
+    <Link SHA256="cb1aae046c404ee4b86cb3cfe8446d32f88bb48461e7f611d5a14f70ae795177">
+        <![CDATA[https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.4/Exaltation.zip]]>
     </Link>
     <Dependencies />
     <Repository>
