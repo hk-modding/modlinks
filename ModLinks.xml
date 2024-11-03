@@ -3808,10 +3808,10 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>EmoteWheel</Name>
-        <Description>A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="6fe12adf08f124eb20ffb9fecdd563cd8afd68f90f24969ee7cd068c190cde69">
-            <![CDATA[https://github.com/PrashantMohta/EmoteWheel/releases/download/1.1.0/EmoteWheel.zip]]>
+        <Description>A mod that allows using custom emotes (also works during multiplay if the server has HkmpPouch).</Description>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="30c099d7f08550d0d41d2b3b26d861c7ecb63f7ba7210c810559fe828c1ddef6">
+            <![CDATA[https://github.com/PrashantMohta/EmoteWheel/releases/download/v1.1.2/EmoteWheel.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HkmpPouch</Dependency>
