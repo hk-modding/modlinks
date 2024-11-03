@@ -3825,9 +3825,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MultiplayerEvents</Name>
         <Description>A mod that adds some Multiplayer interactions.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="ca68ab9feb52c1024f55fd611882e37eca14f5dbaf130d7f1be8206349ca53c2">
-            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v1.0.0/MultiplayerEvents.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="00adc530c7dba02b617d5895f698f9c272cbd30757046908afea84e82572aae3">
+            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v1.0.1/MultiplayerEvents.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HkmpPouch</Dependency>
