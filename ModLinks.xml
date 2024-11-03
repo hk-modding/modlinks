@@ -3793,9 +3793,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GhostHunter</Name>
         <Description>A mod that shows the positions of other player's enemies during multiplay.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="b3d182f6c0fd42b5f67463278486507490fee1f1e885865efdfa0d9392e1e2ce">
-            <![CDATA[https://github.com/PrashantMohta/GhostHunter/releases/download/v2.0.0/GhostHunter.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="79d2def9f295ff2fe865da3c1dd995560fced70c40de69042d9459aaf5df7063">
+            <![CDATA[https://github.com/PrashantMohta/GhostHunter/releases/download/v2.1.0/GhostHunter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -3825,9 +3825,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MultiplayerEvents</Name>
         <Description>A mod that adds some Multiplayer interactions.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="ca68ab9feb52c1024f55fd611882e37eca14f5dbaf130d7f1be8206349ca53c2">
-            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v1.0.0/MultiplayerEvents.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="00adc530c7dba02b617d5895f698f9c272cbd30757046908afea84e82572aae3">
+            <![CDATA[https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v1.0.1/MultiplayerEvents.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HkmpPouch</Dependency>
@@ -3950,12 +3950,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ESoulLink</Name>
         <Description>A Pouch Mod that makes enemies share health over HKMP server.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="631f855429b7e727bc3ab8920335958060552f00f45c665ef75a207d9addef44">
-            <![CDATA[https://github.com/PrashantMohta/ESoulLink/releases/download/v1.0.0/ESoulLink.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="12ccfaa91d3ba69b18add3ef318ca529f511ccfee73394bb3142e0ffe4593d34">
+            <![CDATA[https://github.com/PrashantMohta/ESoulLink/releases/download/v1.0.1/ESoulLink.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>HKMirror</Dependency>
+            <Dependency>HkmpPouch</Dependency>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
