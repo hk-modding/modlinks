@@ -5888,9 +5888,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Arcade Knight</Name>
         <Description>Adds some minigames.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="4bb3596c2e373a70a23cb1205f4a2c726e285d0ab1863d728a633507c7d89cfc">
-            <![CDATA[https://github.com/Korzer420/ArcadeKnight/releases/download/v0.3.0/ArcadeKnight.zip]]></Link>
+        <Version>0.3.1.0</Version>
+        <Link SHA256="afd9496e85c3e08f993cb032d1051ab5f80138701a80f68bdaff103b47475e58">
+            <![CDATA[https://github.com/Korzer420/ArcadeKnight/releases/download/v0.3.1/ArcadeKnight.zip]]></Link>
         <Dependencies>
             <Dependency>KorzUtils</Dependency>
         </Dependencies>
