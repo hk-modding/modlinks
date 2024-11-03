@@ -3793,9 +3793,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>GhostHunter</Name>
         <Description>A mod that shows the positions of other player's enemies during multiplay.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="b3d182f6c0fd42b5f67463278486507490fee1f1e885865efdfa0d9392e1e2ce">
-            <![CDATA[https://github.com/PrashantMohta/GhostHunter/releases/download/v2.0.0/GhostHunter.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="79d2def9f295ff2fe865da3c1dd995560fced70c40de69042d9459aaf5df7063">
+            <![CDATA[https://github.com/PrashantMohta/GhostHunter/releases/download/v2.1.0/GhostHunter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
