@@ -3950,12 +3950,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>ESoulLink</Name>
         <Description>A Pouch Mod that makes enemies share health over HKMP server.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="631f855429b7e727bc3ab8920335958060552f00f45c665ef75a207d9addef44">
-            <![CDATA[https://github.com/PrashantMohta/ESoulLink/releases/download/v1.0.0/ESoulLink.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="12ccfaa91d3ba69b18add3ef318ca529f511ccfee73394bb3142e0ffe4593d34">
+            <![CDATA[https://github.com/PrashantMohta/ESoulLink/releases/download/v1.0.1/ESoulLink.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>HKMirror</Dependency>
+            <Dependency>HkmpPouch</Dependency>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
