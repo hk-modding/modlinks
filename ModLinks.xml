@@ -936,9 +936,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>3.0.2.4</Version>
-        <Link SHA256="a2226dccc9e6bb42ae525134894d755ced0d87ca44a9602155089c7762e5b211">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.4/BreakableWallRandomizer.zip]]>
+        <Version>3.0.2.5</Version>
+        <Link SHA256="4b81ea91112cc17234a27a7d3e7f4b39fdeb6a2a838e4a74435573b751ee9f87">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.5/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -7285,9 +7285,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>CombatRandomizer</Name>
     	<Description>A Randomizer add-on for a cursed combat experience.</Description>
-    	<Version>1.1.0.1</Version>
-    	<Link SHA256="93264e4998bf1019ffc0c313110452107ebc238f9292785651b795110bb599a8">
-	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.0.1/CombatRandomizer.zip]]>
+    	<Version>1.1.0.2</Version>
+    	<Link SHA256="9994bb7005ba0b08026a119308e339f98924a3d389eb867e78a1e475e01d4b33">
+	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.0.2/CombatRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -7310,9 +7310,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.2.4.6</Version>
-    	<Link SHA256="7b8b2a2f3151b0a788fa2e2f67353014c7a26bae72b76ede6c3aee1b583d0c11">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.6/GodhomeRandomizer.zip]]>
+    	<Version>2.2.4.7</Version>
+    	<Link SHA256="f5ee815b1c133fecdebce8fd4aea8ba79ac826252705e0b1350835a505dac6e9">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.7/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -7491,9 +7491,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>AccessRandomizer</Name>
     	<Description>A randomizer add-on for miscellaneous access checks.</Description>
-    	<Version>1.2.4.2</Version>
-    	<Link SHA256="c8d1445c3710c593e9360cc00f74e57e88b9828b7363f2a114389ba9df8fca8a">
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.4.2/AccessRandomizer.zip]]>
+    	<Version>1.2.4.3</Version>
+    	<Link SHA256="b1404cfa972d3b981d41ee63f75bfee1bdbe62226549cf2ff7f9ab9ab1da9932">
+	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.4.3/AccessRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
