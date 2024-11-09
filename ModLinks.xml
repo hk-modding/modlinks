@@ -834,9 +834,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Core.FsmUtil</Name>
         <Description>A library mod for fsm editing.</Description>
-        <Version>1.1.1.2</Version>
-        <Link SHA256="7B3CA78BA511CE9F92325D593615791D75639A4D5E1E7E6F40F78F58602FA0E4">
-            <![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.1.2/Core_FsmUtil.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="AC4B2CCF21E3CBDD998F8F069460F18CDF2DAF8D0F64177D50D9328A6FD04691">
+            <![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.2/Core_FsmUtil.zip]]>
         </Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil]]></Repository>
@@ -2873,9 +2873,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.12.6</Version>
-        <Link SHA256="5A6FED8AEE9CDA5178953F8610708802ED465CBE98AD59F18B51F231E54626B4">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.6/SFCore.zip]]>
+        <Version>1.5.13.0</Version>
+        <Link SHA256="D4474F460F4C3CB0797A0CBFE42B541AFCE5B17AC40F361321F911F8BA21A33E">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.13/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
