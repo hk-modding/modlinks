@@ -177,6 +177,20 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>Archiv</Name>
+    <Description>Something is amiss in Teacher's Archives</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="75044378EFBE675639056A87A5A54D50947B7E11E50B7C084E04037F8AFB3F62"><![CDATA[https://github.com/TheMathGeek314/Archiv/releases/download/v1.0.0.0/Archiv.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/Archiv/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>AlwaysWorldSense</Name>
     <Description>Grants World Sense immediately</Description>
     <Version>1.0.0.0</Version>
