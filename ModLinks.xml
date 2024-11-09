@@ -7308,6 +7308,32 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	</Authors>
     </Manifest>
     <Manifest>
+    	<Name>FlowerRandomizer</Name>
+    	<Description>A Hollow Knight Randomizer add-on for flower quest lovers.</Description>
+    	<Version>1.0.0.0</Version>
+    	<Link SHA256="1b8f58d7490e0c4813a78ad830f887b4868ba0b82fc62ebeb3c67713eb0d994d">
+	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.0/FlowerRandomizer.zip]]>
+	</Link>
+	<Dependencies>
+		<Dependency>ItemChanger</Dependency>
+		<Dependency>MenuChanger</Dependency>
+		<Dependency>Randomizer 4</Dependency>
+		<Dependency>Satchel</Dependency>
+	</Dependencies>
+    	<Repository>
+	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer]]>
+    	</Repository>
+    	<Issues>
+	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer/issues]]>
+    	</Issues>
+    	<Tags>
+	    <Tag>Gameplay</Tag>
+    	</Tags>
+    	<Authors>
+	    <Author>nerthul11</Author>
+    	</Authors>
+    </Manifest>
+    <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
     	<Version>2.2.4.7</Version>
