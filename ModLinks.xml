@@ -7755,9 +7755,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Charm Changer Rando</Name>
         <Description>A mod to randomize the settings of Charm Changer</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="ab5a9219713744aeb0b9ee63996f15a9043c0050a22d20cd14f6ce8ef6461163">
-	     <![CDATA[https://github.com/BestBardTopNA/CharmChangerRando/releases/download/v1/CharmChangerRando.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="50683b961bc0ec55e9cefc22c5aad12fb72a037c0fc35f67e8edd8dc346c9af8">
+	     <![CDATA[https://github.com/BestBardTopNA/CharmChangerRando/releases/download/v1.1/CharmChangerRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Charm Changer</Dependency>
