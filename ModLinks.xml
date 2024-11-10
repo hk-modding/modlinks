@@ -2445,11 +2445,11 @@ All with an incredible new soundtrack!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>CursedMod 🕶</Name>
+        <Name>CursedMod</Name>
         <Description>This mod does miscellaneous stuff. Like making the game window be dark mode on windows.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="C88CB6C2BB3BFEA39999627204A84173FE5B2750535255AB8C7BBA7AB2DDDE6A">
-            <![CDATA[https://github.com/SFGrenade/CursedMod/releases/download/v1/CursedMod.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="B815042B3828AFCB90808331E72AA8E929369114FDB76906943C3D5799989F04">
+            <![CDATA[https://github.com/SFGrenade/CursedMod/releases/download/v1.5/CursedMod.zip]]>
         </Link>
         <Dependencies />
         <Repository>
