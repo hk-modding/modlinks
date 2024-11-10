@@ -141,6 +141,26 @@
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>Sunset Rad</Name>
+    <Description>Modded Radiance</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="b01a0aa751a451b914e0164bd960b36705b34e5134c8a2b3d7a163103a26ba47">
+        <![CDATA[https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.0/SUNSET.Rad.dll]]>
+    </Link>
+    <Dependencies>
+        <Dependency>Vasi</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/ROTTEN108/SunSet-Rad]]>
+    </Repository>
+    <Tags>
+        <Tag>Boss</Tag>
+    </Tags>
+    <Authors>
+        <Author>Sunset-Rad</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>Castless Focus</Name>
     <Description>Stops the focus button from casting when tapped. (Note: This causes tapping the focus button to always start the focus, with the same delay as if it was held)</Description>
     <Version>1.0.0.0</Version>
