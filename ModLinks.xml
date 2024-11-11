@@ -143,12 +143,13 @@
 <Manifest>
     <Name>Sunset Rad</Name>
     <Description>Modded Radiance</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="b01a0aa751a451b914e0164bd960b36705b34e5134c8a2b3d7a163103a26ba47">
-        <![CDATA[https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.0/SUNSET.Rad.dll]]>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855">
+        <![CDATA[https://github.com/ROTTEN108/Sunset-Rad/releases/download/Sunset Last Update/SUNSET.Rad.dll]]>
     </Link>
     <Dependencies>
         <Dependency>Vasi</Dependency>
+        <Dependency>HKMirror</Dependency>
     </Dependencies>
     <Repository>
         <![CDATA[https://github.com/ROTTEN108/SunSet-Rad]]>
