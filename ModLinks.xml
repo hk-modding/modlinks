@@ -145,7 +145,7 @@
     <Description>Modded Radiance</Description>
     <Version>1.0.0.1</Version>
     <Link SHA256="e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855">
-        <![CDATA[https://github.com/ROTTEN108/Sunset-Rad/releases/download/Sunset%20Last%20Update/SUNSET.Rad.dll]]>
+        <![CDATA[https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.1/SUNSET.Rad.dll]]>
     </Link>
     <Dependencies>
         <Dependency>Vasi</Dependency>
