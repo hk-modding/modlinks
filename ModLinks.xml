@@ -144,7 +144,7 @@
     <Name>Sunset Rad</Name>
     <Description>Modded Radiance</Description>
     <Version>1.0.0.1</Version>
-    <Link SHA256="e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855">
+    <Link SHA256="e723866e1f2ee2e023a7901f423cdda437a537acc8faf9e84ef7c0fc150b1bb9">
         <![CDATA[https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.1/SUNSET.Rad.dll]]>
     </Link>
     <Dependencies>
