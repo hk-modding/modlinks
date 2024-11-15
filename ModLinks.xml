@@ -228,8 +228,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>BingoGoalPack2</Name>
     <Description>Adds more granular specifications for custom BingoSync challenges</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="E709512EADABE66D870D084C9EE3E65857B9FF2E2A127B2DD2CA3295FC7C2171"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack2/releases/download/v1.0.0.0/BingoGoalPack2.zip]]></Link>
+    <Version>1.0.1.0</Version>
+    <Link SHA256="C94F5A6A3E560D6288A7B79A42DDC6883C3D55C2B3A16E79ABE9878803530CAF"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack2/releases/download/v1.0.1.0/BingoGoalPack2.zip]]></Link>
     <Dependencies>
         <Dependency>BingoSync</Dependency>
     </Dependencies>
@@ -489,8 +489,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>BingoGoalPack1</Name>
     <Description>Adds more goals to BingoSync and includes new board types</Description>
-    <Version>1.5.0.0</Version>
-    <Link SHA256="2A30B8938FF5C667F8C5F88EF62F045CBA4A053A7612322A09DFB861A204592E"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.0.0/BingoGoalPack1.zip]]></Link>
+    <Version>1.5.1.0</Version>
+    <Link SHA256="06052B7B931D326B2C0CE252CE200160AD7CD6C79D1DE196462E92E707E21F39"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.1.0/BingoGoalPack1.zip]]></Link>
     <Dependencies>
     	<Dependency>BingoSync</Dependency>
     	<Dependency>Satchel</Dependency>
