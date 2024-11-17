@@ -5712,9 +5712,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKMP Tag</Name>
         <Description>An HKMP addon that adds the tag game-mode.</Description>
-        <Version>2.3.1.0</Version>
-        <Link SHA256="6b37e33012c3392ca0dd6855a3a9b5e3ec460a868d5d769087063f62d623c7b9">
-            <![CDATA[https://github.com/Extremelyd1/HKMP.Tag/releases/download/v2.3.1/HKMPTag.dll]]>
+        <Version>2.3.2.0</Version>
+        <Link SHA256="f0cafcd5b018baa662b8604c0795ddd01b4c095622fafac9745f71dad73e2081">
+            <![CDATA[https://github.com/Extremelyd1/HKMP.Tag/releases/download/v2.3.2/HKMPTag.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
