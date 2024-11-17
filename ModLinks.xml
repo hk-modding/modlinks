@@ -504,8 +504,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>BingoGoalPack1</Name>
     <Description>Adds more goals to BingoSync and includes new board types</Description>
-    <Version>1.5.1.0</Version>
-    <Link SHA256="06052B7B931D326B2C0CE252CE200160AD7CD6C79D1DE196462E92E707E21F39"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.1.0/BingoGoalPack1.zip]]></Link>
+    <Version>1.5.1.1</Version>
+    <Link SHA256="342A23B444C6D9100124CBC210BC0E84E3E152E78BB3ECA82C451F6DE723CD01"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.1.1/BingoGoalPack1.zip]]></Link>
     <Dependencies>
     	<Dependency>BingoSync</Dependency>
     	<Dependency>Satchel</Dependency>
