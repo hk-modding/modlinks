@@ -104,9 +104,9 @@
 <Manifest>
     <Name>Floor is Lava</Name>
     <Description>Is a floor is lava mod for Hollow Knight</Description>
-    <Version>1.0.6.0</Version>
-    <Link SHA256="78D887ED13105ECEDA1D364F33FCA972B1C0B3E526579D692AA5BDD9CEEA4B43">
-      <![CDATA[https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.6.0/Floor_is_lava.zip]]>
+    <Version>1.0.7.0</Version>
+    <Link SHA256="BEF06BD76C75B003543CFE0C2D56E145AFD56E7E8FE3EDBCE6F9A7FD859746D5">
+      <![CDATA[https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.7.0/Floor_is_lava.zip]]>
     </Link>
     <Dependencies>
       <Dependency>MagicUI</Dependency>
