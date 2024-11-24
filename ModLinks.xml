@@ -7360,9 +7360,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>FlowerRandomizer</Name>
     	<Description>A Hollow Knight Randomizer add-on for flower quest lovers.</Description>
-    	<Version>1.0.0.0</Version>
-    	<Link SHA256="1b8f58d7490e0c4813a78ad830f887b4868ba0b82fc62ebeb3c67713eb0d994d">
-	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.0/FlowerRandomizer.zip]]>
+    	<Version>1.0.0.1</Version>
+    	<Link SHA256="07a7481bb47d53d1a053cd367174239f67f116d5e4f0a1b4757bfa6529b33050">
+	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.1/FlowerRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
