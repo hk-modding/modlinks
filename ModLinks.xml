@@ -198,6 +198,22 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>FlappyKnight</Name>
+    <Description>It's Flappy Bird but in Hollow Knight</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="F66D720F40E125E05812AFC2D0743F1858CC776D4DE2A0FC8A4EA5C0E1F92F2A"><![CDATA[https://github.com/TheMathGeek314/FlappyKnight/releases/download/v1.0.0.0/FlappyKnight.zip]]></Link>
+    <Dependencies>
+	<Dependency>MenuChanger</Dependency>
+        <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/FlappyKnight/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>Taxes</Name>
     <Description>All your geo means all your geo</Description>
     <Version>1.0.0.0</Version>
