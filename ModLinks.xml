@@ -6012,9 +6012,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.4.8.1</Version>
-        <Link SHA256="6974AAEDB4AFF5B2F3FF89ABBEF44731317145E75782845518A5D85DD3F23FBF">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.8.1/DarknessRandomizer.zip]]>
+        <Version>1.4.8.2</Version>
+        <Link SHA256="6D89FA24A243F1AAE9637FC909F02CC2856EC8CF4CE27AF34827B32B9FF7D99E">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.8.2/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -6037,9 +6037,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.0.6.1</Version>
-        <Link SHA256="4B06E69EBFD1DA74FA4749AB3AC34B01FBF593746938913CA4AA1BE19AA01198">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.6.1/MoreDoors.zip]]>
+        <Version>3.0.7.0</Version>
+        <Link SHA256="33665594410029DD52BCAAC66D743CD68F4316051600BD91D92C8922504116A7">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.7.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
