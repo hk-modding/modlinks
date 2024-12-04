@@ -198,6 +198,20 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>UnconstrainedRotation</Name>
+    <Description>The knight can rotate freely</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="8E8B621EE9A09C9AD21ACC634CD3C57685AAC37227D4DAA0C1B1BDB57F6D30A2"><![CDATA[https://github.com/TheMathGeek314/UnconstrainedRotation/releases/download/v1.0.0.0/UnconstrainedRotation.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/UnconstrainedRotation/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>FlappyKnight</Name>
     <Description>It's Flappy Bird but in Hollow Knight</Description>
     <Version>1.0.0.0</Version>
