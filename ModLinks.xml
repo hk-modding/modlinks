@@ -7405,9 +7405,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>FlowerRandomizer</Name>
     	<Description>A Hollow Knight Randomizer add-on for flower quest lovers.</Description>
-    	<Version>1.0.0.1</Version>
-    	<Link SHA256="07a7481bb47d53d1a053cd367174239f67f116d5e4f0a1b4757bfa6529b33050">
-	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.1/FlowerRandomizer.zip]]>
+    	<Version>1.0.0.2</Version>
+    	<Link SHA256="88218cb9aeb4900016c3b050dd061c85af2edf37dd98e20330f0504e4daa4bd0">
+	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.2/FlowerRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -7612,9 +7612,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>AccessRandomizer</Name>
     	<Description>A randomizer add-on for miscellaneous access checks.</Description>
-    	<Version>1.2.4.3</Version>
-    	<Link SHA256="b1404cfa972d3b981d41ee63f75bfee1bdbe62226549cf2ff7f9ab9ab1da9932">
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.4.3/AccessRandomizer.zip]]>
+    	<Version>1.2.5.0</Version>
+    	<Link SHA256="2a4b344d970dc83bf7f16d120ee4a314016fe8735496646ef7d1f89adbee876d">
+	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.5.0/AccessRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
