@@ -7923,9 +7923,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Christmas In Dirtmouth</Name>
         <Description>Things are getting festive in Dirtmouth! This mod adds a new Christmas decoration shop in Dirtmouth owned by a new NPC, Merrywisp. Happy holidays!</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="C5BA6317AFE8ACB632BCDB294F6D9C8D0B689960788FB2DC6B71792C235A0B64">
-            <![CDATA[https://github.com/AbsoluteStratos/ChristmasInDirtmouth/releases/download/v1.0.1/ChristmasInDirtmouth.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="9DECEFA56D128CE5ACDDC021EC491AD4BEF840F1572D44051B12CB5FE4C79329">
+            <![CDATA[https://github.com/AbsoluteStratos/ChristmasInDirtmouth/releases/download/v1.0.2/ChristmasInDirtmouth.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
