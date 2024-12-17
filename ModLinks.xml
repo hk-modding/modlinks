@@ -198,6 +198,21 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>ShadesAnywhere</Name>
+    <Description>A shade can spawn in dreams, White Palace, and Godhome</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="45139B770656ED59A16F6C88BF2FA0E4399A73C6D278D0A04E6C8B3DD0B752A5"><![CDATA[https://github.com/TheMathGeek314/ShadesAnywhere/releases/download/v1.0.0.0/ShadesAnywhere.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/ShadesAnywhere/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>BetterModList</Name>
     <Description>Customize how the mod list is displayed</Description>
     <Version>1.0.0.0</Version>
