@@ -2983,9 +2983,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.14.0</Version>
-        <Link SHA256="AF71D99EE4711518032B15B495317090641F6E2EF90F0CF0243D7048413B18BC">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.14/SFCore.zip]]>
+        <Version>1.5.14.1</Version>
+        <Link SHA256="7F03A2CF87A8549DDA7C5DD01FF0B367FA3DA3D5E5CE39F4AF8E79BAFF9F120A">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.1/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
