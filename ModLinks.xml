@@ -7899,9 +7899,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Godhome Elo Counter</Name>
         <Description>A mod that introduces an ELO rating system to Godhome</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="8A16EE29A29A4AB2842A4F58E8BA25045D31CAF6DBA83AF4BF89EBD48857E6FC">
-            <![CDATA[https://github.com/Oery/Godhome-Elo-Counter/releases/download/v1.1/GodhomeEloCounter.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="5F1FDA16E11DF9032DFF5A394F3B36414C990FB56C6860B20BD4C05FD36360E4">
+            <![CDATA[https://github.com/Oery/Godhome-Elo-Counter/releases/download/v1.2/GodhomeEloCounter-v1.2.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
