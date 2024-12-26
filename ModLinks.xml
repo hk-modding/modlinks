@@ -5443,9 +5443,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.7.0.0</Version>
-        <Link SHA256="FF4AD21F664C4126E4285CD8515A820CB3711B62C2930EA8EDF929311ABFC6E5">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.7.0/Archipelago.zip]]>
+        <Version>0.7.1.0</Version>
+        <Link SHA256="CA8EE2F596CE39772625DBF255172B191EA2D0AFE4FE43ECB961E6D71C2CFDA6">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.7.1/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
