@@ -7982,7 +7982,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Hivesong</Name>
         <Description>This mod adds a new charm, Hivesong, which increases the damage dealt by pets.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="92B49E41E0074627CBDD35E52D1311454D15D3378855837DA46CBD9CE561BD59">
+        <Link SHA256="45b0c1904316b972d623cfaaf8cc471c21de7daa2ac04cb5e646df806db979ed">
             <![CDATA[https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.0.0.0/Hivesong.zip]]>
         </Link>
         <Dependencies>
