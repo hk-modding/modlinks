@@ -219,6 +219,20 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>InfiniteMapMarkers</Name>
+    <Description>Why stop at 6 of each map marker</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="C281FD26100E2D7151C2D5A6312D2B87D63E5CCC0484993B4B8A337A399911DE"><![CDATA[https://github.com/TheMathGeek314/InfiniteMapMarkers/releases/download/v1.0.0.0/InfiniteMapMarkers.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/InfiniteMapMarkers/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>ShadesAnywhere</Name>
     <Description>A shade can spawn in dreams, White Palace, and Godhome</Description>
     <Version>1.0.0.0</Version>
