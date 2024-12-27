@@ -7987,11 +7987,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
-        </Dependencies>
-		<Dependencies>
             <Dependency>ItemChanger</Dependency>
-        </Dependencies>
-		<Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
