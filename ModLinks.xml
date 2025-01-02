@@ -8031,6 +8031,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Description>Touching grass hurts or kills the player.</Description>
 	<Version>1.0.0.0</Version>
 	<Link SHA256="6B6543CDF8DB9B72940C8144EE83EC2084424E0EF151FB96C2FFB6C593906DF5"><![CDATA[https://github.com/RedknanRonin/ouchyGrass/releases/download/1.0.0.0/ouchyGrass.zip]]></Link>
+        <Dependencies />
 	<Repository>
 	    <![CDATA[https://github.com/RedknanRonin/ouchyGrass]]>
 	</Repository>
