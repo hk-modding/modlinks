@@ -1081,9 +1081,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>3.0.2.7</Version>
-        <Link SHA256="06A91C732262E70B2B26330B6770EFC7309127D2C5DB347E4BF670F1DA30A09D">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.7/BreakableWallRandomizer.zip]]>
+        <Version>3.0.3.0</Version>
+        <Link SHA256="E163F761A24394773F93E34E88A9AE2853875C07CA4C628BB64CCC948935AD0A">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.3.0/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -7481,9 +7481,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.2.4.8</Version>
-    	<Link SHA256="9F14568117C764984A468790724CC0A2DFFC20996FE9404C72701771A538B635">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.8/GodhomeRandomizer.zip]]>
+    	<Version>2.2.4.9</Version>
+    	<Link SHA256="D1037D84FF43C61E160EA4180395AE197D00D4579BE46228D80ADFE95FDD01E5">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.9/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -7662,9 +7662,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>AccessRandomizer</Name>
     	<Description>A randomizer add-on for miscellaneous access checks.</Description>
-    	<Version>1.2.5.0</Version>
-    	<Link SHA256="2a4b344d970dc83bf7f16d120ee4a314016fe8735496646ef7d1f89adbee876d">
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.5.0/AccessRandomizer.zip]]>
+    	<Version>1.2.5.1</Version>
+    	<Link SHA256="542F7CE64F7C1587F025D70D18CE5B4CEF9046363DF43296B6A77FADCCACCBE7">
+	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.5.1/AccessRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
