@@ -8046,5 +8046,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    <Author>RedknanRonin</Author>
 	</Authors>
     </Manifest>
-
+    <Manifest>
+        <Name>AllHallownestEnhanced</Name>
+        <Description>This is a mod that enhances the entire Hallownest. I spent 2.5 months to make it. It will take you to experience the joy of meeting the Hollow Knight first. I hope it can become a good meal replacement before the release of SilkSong.</Description>
+        <Version>2.5</Version>
+        <Link SHA256="79BE30A153C718A99A36F3C84349E4F68004B86001B0292EFD1B2DA271C7F75C"><![CDATA[https://github.com/eer0fans/AllHallownestEnhanced/releases/download/v2.5/AllHallownestEnhanced.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/eer0fans/AllHallownestEnhanced]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Rourou</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
