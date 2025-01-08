@@ -5972,7 +5972,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>LoreCore</Name>
-        <Description>Adds a bunch of lore related itemchanger locations and items.</Description>
+        <Description>Adds a bunch of lore related ItemChanger locations and items.</Description>
         <Version>0.6.1.0</Version>
         <Link SHA256="f05516601d67af2a7d3e8d86716cdd00e2ea52a4c0eff704916e96ee7d9ac82f">
             <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.6.1/LoreCore.zip]]></Link>
