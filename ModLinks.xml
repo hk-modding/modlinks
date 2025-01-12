@@ -7777,8 +7777,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>CollectorGlitchRemover</Name>
         <Description>Prevents the "insta-grab" and "sticky feet" Collector glitches.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="600A03C5478EB13B1B55E2857F7743C84571A3582DACD81862B115AF38CD31C9"><![CDATA[https://github.com/EarlyHemisphere/HK.CollectorGlitchRemover/releases/download/v1.1.0/CollectorGlitchRemover.dll]]></Link>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="E21225D0E17ACAE3F4A6C8FCC3B4671A830BCE882881F58C4858346B4F9407D4"><![CDATA[https://github.com/EarlyHemisphere/HK.CollectorGlitchRemover/releases/download/v1.2.0/CollectorGlitchRemover.dll]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
