@@ -7782,6 +7782,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/EarlyHemisphere/HK.CollectorGlitchRemover]]>
         </Repository>
+	<Dependencies></Dependencies>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
