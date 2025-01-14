@@ -7358,9 +7358,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
 	    <Name>CarThingMod</Name>
 	    <Description>Throws a car everytime the player swings their nail</Description>
-	    <Version>1.2.6.4</Version>
-	    <Link SHA256="A6B95550C52AAAB61DE4983C30FF107B6F09D5C5F3C08E4E5670465441A32732">
-	            <![CDATA[https://github.com/Foxyrobo/CarThingMod/releases/download/1.2.6.4/CarThingMod.zip]]>
+	    <Version>1.2.7.7</Version>
+	    <Link SHA256="CBAAFB5211D179D5BF3B0B7FCCFEB2A03410EC45855BAD414979D65CE50FAF20">
+	            <![CDATA[https://github.com/Foxyrobo/CarThingMod/releases/download/1.2.7.7/CarThingMod.zip]]>
 	    </Link>
 	    <Dependencies>
 	        <Dependency>Satchel</Dependency>
