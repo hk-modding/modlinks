@@ -30,7 +30,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Setup ModLinksShaVerifier
         run: |
-          wget https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v2/linux.zip
+          wget https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v2.2/linux.zip
           unzip linux.zip
       - name: Verify APILinks SHAs
         run: ./ModlinksShaVerifier ApiLinks.xml
