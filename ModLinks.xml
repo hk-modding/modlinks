@@ -7373,9 +7373,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
 	    <Name>CarThingMod</Name>
 	    <Description>Throws a car everytime the player swings their nail</Description>
-	    <Version>1.2.6.4</Version>
-	    <Link SHA256="A6B95550C52AAAB61DE4983C30FF107B6F09D5C5F3C08E4E5670465441A32732">
-	            <![CDATA[https://github.com/Foxyrobo/CarThingMod/releases/download/1.2.6.4/CarThingMod.zip]]>
+	    <Version>1.2.8.1</Version>
+	    <Link SHA256="F8A5848A6DCA2DA10AA50E76201CC029A788EC57ED9662E560632A3ADC2F5405">
+	            <![CDATA[https://github.com/Foxyrobo/CarThingMod/releases/download/1.2.8.1/CarThingMod.zip]]>
 	    </Link>
 	    <Dependencies>
 	        <Dependency>Satchel</Dependency>
@@ -7695,6 +7695,28 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	</Issues>
     	<Tags>
 	    <Tag>Gameplay</Tag>
+    	</Tags>
+    	<Authors>
+	    <Author>nerthul11</Author>
+    	</Authors>
+    </Manifest>
+    <Manifest>
+    	<Name>Moonside</Name>
+    	<Description>Yes is No and No is Yes. It makes perfect sense in Moonside.</Description>
+    	<Version>1.0.0.0</Version>
+    	<Link SHA256="FACC84ABF9048808252A3D0C095664D0C93B8911CF690B61F2BF934CF4B221F6">
+	    <![CDATA[https://github.com/nerthul11/Moonside/releases/download/1.0.0.0/Moonside.zip]]>
+	</Link>
+	<Dependencies>
+	</Dependencies>
+    	<Repository>
+	    <![CDATA[https://github.com/nerthul11/Moonside]]>
+    	</Repository>
+    	<Issues>
+	    <![CDATA[https://github.com/nerthul11/Moonside/issues]]>
+    	</Issues>
+    	<Tags>
+	    <Tag>Cosmetic</Tag>
     	</Tags>
     	<Authors>
 	    <Author>nerthul11</Author>
