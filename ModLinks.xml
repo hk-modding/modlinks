@@ -7686,6 +7686,28 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	</Authors>
     </Manifest>
     <Manifest>
+    	<Name>Moonside</Name>
+    	<Description>Yes is No and No is Yes. It makes perfect sense in Moonside.</Description>
+    	<Version>1.0.0.0</Version>
+    	<Link SHA256="FACC84ABF9048808252A3D0C095664D0C93B8911CF690B61F2BF934CF4B221F6">
+	    <![CDATA[https://github.com/nerthul11/Moonside/releases/download/1.0.0.0/Moonside.zip]]>
+	</Link>
+	<Dependencies>
+	</Dependencies>
+    	<Repository>
+	    <![CDATA[https://github.com/nerthul11/Moonside]]>
+    	</Repository>
+    	<Issues>
+	    <![CDATA[https://github.com/nerthul11/Moonside/issues]]>
+    	</Issues>
+    	<Tags>
+	    <Tag>Cosmetic</Tag>
+    	</Tags>
+    	<Authors>
+	    <Author>nerthul11</Author>
+    	</Authors>
+    </Manifest>
+    <Manifest>
         <Name>UnrestrictedSteelSoul</Name>
         <Description>A Hollow Knight mod that enables permadeath in dream/godhome zones when playing in steel soul mode.</Description>
         <Version>1.0.0.0</Version>
