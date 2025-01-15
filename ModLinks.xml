@@ -219,6 +219,21 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>CustomPlayerModel</Name>
+    <Description>Replace your knight sprite with a 3D model</Description>
+    <Version>0.8.0.0</Version>
+    <Link SHA256="4233D695A1B8A791713E743A6AA435917EB1F5375A0FA887EE95933CBD370026"><![CDATA[https://github.com/TheMathGeek314/CustomPlayerModel/releases/download/v0.8.0.0/CustomPlayerModel.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/CustomPlayerModel/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>InfiniteMapMarkers</Name>
     <Description>Why stop at 6 of each map marker</Description>
     <Version>1.0.0.0</Version>
