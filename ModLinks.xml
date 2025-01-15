@@ -7693,19 +7693,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    <![CDATA[https://github.com/nerthul11/Moonside/releases/download/1.0.0.0/Moonside.zip]]>
 	</Link>
 	<Dependencies>
-		<Dependency>ItemChanger</Dependency>
-		<Dependency>MenuChanger</Dependency>
-		<Dependency>Randomizer 4</Dependency>
-		<Dependency>Satchel</Dependency>
 	</Dependencies>
     	<Repository>
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer]]>
+	    <![CDATA[https://github.com/nerthul11/Moonside]]>
     	</Repository>
     	<Issues>
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/issues]]>
+	    <![CDATA[https://github.com/nerthul11/Moonside/issues]]>
     	</Issues>
     	<Tags>
-	    <Tag>Gameplay</Tag>
+	    <Tag>Cosmetic</Tag>
     	</Tags>
     	<Authors>
 	    <Author>nerthul11</Author>
