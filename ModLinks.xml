@@ -1369,15 +1369,15 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>AnyZote</Name>
         <Description>Most powerful zote modded boss ever.</Description>
-        <Version>2.3.0.0</Version>
-        <Link SHA256="df51a8886e7865608137bdc451aecf06ba3e76cb127dfe745b5a8be8b51b82a2">
-            <![CDATA[https://github.com/danirainy/HollowKnight.AbsoluteZote/releases/download/2.3/AnyZote.2.3.zip]]>
+        <Version>2.8.0.0</Version>
+        <Link SHA256="3942f3a64b6203d235b746facd3958ce0ee81dd49d90ffdff1cfaae567405e95">
+            <![CDATA[https://github.com/zoteline/HollowKnight.AbsoluteZote/releases/download/2.8/AnyZote.2.8.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/danirainy/HollowKnight.AbsoluteZote/tree/anyzote/]]>
+            <![CDATA[https://github.com/zoteline/HollowKnight.AbsoluteZote/tree/anyzote/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -6387,9 +6387,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Curse Randomizer</Name>
         <Description>Randomizer 4 connection that adds additional cursed options.</Description>
-        <Version>5.1.4.0</Version>
-        <Link SHA256="031f706de553430ae4dc53064cca5b940719b9e6332d4f65a5f22bda91baf095">
-            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.4/CurseRandomizer.zip]]></Link>
+        <Version>5.1.5.0</Version>
+        <Link SHA256="936e2348d715296de04f76f7f83c53c686cb376f47d6fc2bffad24ab40c47d60">
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.5/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
