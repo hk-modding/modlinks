@@ -1,7 +1,11 @@
 <?xml version="1.0"?>
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xomedh
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+<Manifest>
+    <Name>ScreenShakeService</Name>
+    <Description>Removes screen shake: Screen Shake Service simply supports slashing Scooped Swordsman's (Hollow Knight's) superfluous screen shake since said shaking stimulates some souls' squeamishness.</Description>
+    <Version>1.0.0.0</Version>
     <Link SHA256="b8c4f83c987df6c68782d4e0005352b7ad98cf495c79a03bc5563789d6efe54a">
         <![CDATA[https://github.com/Emik03/ScreenShakeService/releases/download/1/ScreenShakeService.zip]]>
     </Link>
