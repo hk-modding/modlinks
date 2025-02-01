@@ -1,11 +1,7 @@
 <?xml version="1.0"?>
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
-<Manifest>
-    <Name>ScreenShakeService</Name>
-    <Description>Removes screen shake: Screen Shake Service simply supports slashing Scooped Swordsman's (Hollow Knight's) superfluous screen shake since said shaking stimulates some souls' squeamishness.</Description>
-    <Version>1.0.0.0</Version>
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xomedh
     <Link SHA256="b8c4f83c987df6c68782d4e0005352b7ad98cf495c79a03bc5563789d6efe54a">
         <![CDATA[https://github.com/Emik03/ScreenShakeService/releases/download/1/ScreenShakeService.zip]]>
     </Link>
@@ -7510,9 +7506,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.2.4.9</Version>
-    	<Link SHA256="D1037D84FF43C61E160EA4180395AE197D00D4579BE46228D80ADFE95FDD01E5">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.9/GodhomeRandomizer.zip]]>
+    	<Version>2.2.4.10</Version>
+    	<Link SHA256="AB1C5BA49CE13D30B03D25A20891D751FD28C026052893E3CCDB722D332CDBBB">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.10/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -7717,9 +7713,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>Moonside</Name>
     	<Description>Yes is No and No is Yes. It makes perfect sense in Moonside.</Description>
-    	<Version>1.0.0.0</Version>
-    	<Link SHA256="FACC84ABF9048808252A3D0C095664D0C93B8911CF690B61F2BF934CF4B221F6">
-	    <![CDATA[https://github.com/nerthul11/Moonside/releases/download/1.0.0.0/Moonside.zip]]>
+    	<Version>1.1.0.0</Version>
+    	<Link SHA256="BD85B11FBC4E158E0C957752F115384059127ABCCAA380DC52F118740AF07A47">
+	    <![CDATA[https://github.com/nerthul11/Moonside/releases/download/1.1.0.0/Moonside.zip]]>
 	</Link>
 	<Dependencies>
 	</Dependencies>
