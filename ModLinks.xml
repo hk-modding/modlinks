@@ -3838,9 +3838,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>2.4.8989.41686</Version>
-        <Link SHA256="667A7773484AC69EBED534A15445B48BBB7705128179A58DB0DEA22D26F984DF">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.4.8989.41686/TheRealJournalRando.zip]]>
+        <Version>2.4.9164.32616</Version>
+        <Link SHA256="54C92DAF9520E51CB63050CD44CD5F8D7870A46D8E414BD902F09BC8CB992AD9">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.4.9164.32616/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -3926,9 +3926,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreLocations</Name>
         <Description>Randomizer 4 addon that adds assorted locations to the randomizer. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>1.1.8940.26445</Version>
-        <Link SHA256="A22B69D3FA5AF8D474100BEAA19F1CE2F9D78D82C7E58BD0AE6D3D6B49D13F84">
-            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.1.8940.26445/MoreLocations.zip]]>
+        <Version>1.2.9164.32425</Version>
+        <Link SHA256="1DA32097C0AC0DCA3137089A6BE2E8CE8944AA529E7339DE8C2BE0917412C91E">
+            <![CDATA[https://github.com/BadMagic100/MoreLocations/releases/download/v1.2.9164.32425/MoreLocations.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -5486,9 +5486,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.7.1.0</Version>
-        <Link SHA256="CA8EE2F596CE39772625DBF255172B191EA2D0AFE4FE43ECB961E6D71C2CFDA6">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.7.1/Archipelago.zip]]>
+        <Version>0.8.0.0</Version>
+        <Link SHA256="1B6C4804DFF8D91FA1DAF296E92139FEA858EDCD19B9622E7EEB4FE29C8374EC">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.8.0/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
