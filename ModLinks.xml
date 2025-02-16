@@ -7484,9 +7484,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>FlowerRandomizer</Name>
     	<Description>A Hollow Knight Randomizer add-on for flower quest lovers.</Description>
-    	<Version>1.0.0.2</Version>
-    	<Link SHA256="88218cb9aeb4900016c3b050dd061c85af2edf37dd98e20330f0504e4daa4bd0">
-	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.2/FlowerRandomizer.zip]]>
+    	<Version>1.0.0.3</Version>
+    	<Link SHA256="98DD7D2F5EE8608F0EF4F6B07D407936446217FE984A7EC4328A3D032F261403">
+	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.3/FlowerRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -7717,9 +7717,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>Moonside</Name>
     	<Description>Yes is No and No is Yes. It makes perfect sense in Moonside.</Description>
-    	<Version>1.1.0.0</Version>
-    	<Link SHA256="BD85B11FBC4E158E0C957752F115384059127ABCCAA380DC52F118740AF07A47">
-	    <![CDATA[https://github.com/nerthul11/Moonside/releases/download/1.1.0.0/Moonside.zip]]>
+    	<Version>1.1.0.1</Version>
+    	<Link SHA256="94F456AEEE84B465ED69D898577B855A47AAB775F9A05D6096ED050012A0CD56">
+	    <![CDATA[https://github.com/nerthul11/Moonside/releases/download/1.1.0.1/Moonside.zip]]>
 	</Link>
 	<Dependencies>
 	</Dependencies>
