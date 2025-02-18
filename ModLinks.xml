@@ -162,6 +162,27 @@
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>Sunset Samsara II</Name>
+    <Description>Modded Radiance</Description>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="98043a29ca2132154c945ffcad5a6f05ec72a65895e9dd77e220228a962e5d5c">
+        <![CDATA[https://github.com/ROTTEN108/Sunset-Samsara-II/releases/download/1.0.0.1/Sunset.Samsara.2.zip]]>
+    </Link>
+    <Dependencies>
+        <Dependency>Vasi</Dependency>
+        <Dependency>HKMirror</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/ROTTEN108/Sunset-Samsara-II]]>
+    </Repository>
+    <Tags>
+        <Tag>Boss</Tag>
+    </Tags>
+    <Authors>
+        <Author>ROTTEN108</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>Pure Shape</Name>
     <Description>Changes the player's spell and nail arts, players can use skills similar to pure containers, such as blocking counterattacks.</Description>
     <Version>1.0.0.1</Version>
