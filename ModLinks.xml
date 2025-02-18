@@ -166,7 +166,7 @@
     <Description>Modded Radiance</Description>
     <Version>1.0.0.1</Version>
     <Link SHA256="98043a29ca2132154c945ffcad5a6f05ec72a65895e9dd77e220228a962e5d5c">
-        <![CDATA[https://github.com/ROTTEN108/Sunset-Samsara-II/releases/download/1.0.0.1/Sunset.Samsara.2.zip]]>
+        <![CDATA[https://github.com/ROTTEN108/Sunset-Samsara-II/releases/download/v1.0.0.1/Sunset.Samsara.2.zip]]>
     </Link>
     <Dependencies>
         <Dependency>Vasi</Dependency>
