@@ -240,6 +240,20 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>Pogonest</Name>
+    <Description>Pogo anything</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="AE2BA5148647F09A267D901CA6BC4CE245D1BE972A7DF793BA72286AB333513A"><![CDATA[https://github.com/TheMathGeek314/Pogonest/releases/download/v1.0.0.0/Pogonest.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/Pogonest/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>IntangibleShadow</Name>
     <Description>Shade Cloak can go through just about anything</Description>
     <Version>1.0.0.0</Version>
