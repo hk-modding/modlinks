@@ -270,8 +270,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>CustomPlayerModel</Name>
     <Description>Replace your knight sprite with a 3D model</Description>
-    <Version>0.8.0.0</Version>
-    <Link SHA256="4233D695A1B8A791713E743A6AA435917EB1F5375A0FA887EE95933CBD370026"><![CDATA[https://github.com/TheMathGeek314/CustomPlayerModel/releases/download/v0.8.0.0/CustomPlayerModel.zip]]></Link>
+    <Version>0.8.0.1</Version>
+    <Link SHA256="2191F7A158A646973B8FA54E27D75947E9EEC9610336C9FE50ACD9A821DA144C"><![CDATA[https://github.com/TheMathGeek314/CustomPlayerModel/releases/download/v0.8.0.1/CustomPlayerModel.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -299,8 +299,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>ShadesAnywhere</Name>
     <Description>A shade can spawn in dreams, White Palace, and Godhome</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="23BC8422882A3A7EECD384C45F08B22439F1F2C8924BAD9CD59BA07C35DD5504"><![CDATA[https://github.com/TheMathGeek314/ShadesAnywhere/releases/download/v1.0.0.0/ShadesAnywhere.zip]]></Link>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="B0A5C30899FD0D68209C0E41CA6CB232E35D73CCFAFC37E537AEA21A495E0994"><![CDATA[https://github.com/TheMathGeek314/ShadesAnywhere/releases/download/v1.0.0.1/ShadesAnywhere.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -329,8 +329,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>UnconstrainedRotation</Name>
     <Description>The knight can rotate freely</Description>
-    <Version>1.0.1.0</Version>
-    <Link SHA256="4F83A92BF7743C4A4B5037CE5D77A45D069DE7C6F5C12BB636ACF6AB71E5F07F"><![CDATA[https://github.com/TheMathGeek314/UnconstrainedRotation/releases/download/v1.0.1.0/UnconstrainedRotation.zip]]></Link>
+    <Version>1.0.2.0</Version>
+    <Link SHA256="736A748166A5C42FDCA40C316F4B3FF063607F817B782D12C457ABFB8F22FB34"><![CDATA[https://github.com/TheMathGeek314/UnconstrainedRotation/releases/download/v1.0.2.0/UnconstrainedRotation.zip]]></Link>
     <Dependencies>
     </Dependencies>
     <Repository>
@@ -417,8 +417,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>KeybindOverhaul</Name>
     <Description>Enhances keybind customization with split actions, key combos, and duplicate inputs</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="4EC5FA371B13A8E378CA84FEE14C778B975D3AA14AAB57578047A1D9841CAECA"><![CDATA[https://github.com/TheMathGeek314/KeybindOverhaul/releases/download/v1.0.0.0/KeybindOverhaul.zip]]></Link>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="5A6C2B3B14DD519E215406F456B5A293E00B2D62C2AAA0A2C42C8DA471A61313"><![CDATA[https://github.com/TheMathGeek314/KeybindOverhaul/releases/download/v1.0.0.1/KeybindOverhaul.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -432,8 +432,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>MidasTouch</Name>
     <Description>Gorgeous Husk drops a charm that turns enemies to gold</Description>
-    <Version>1.0.1.0</Version>
-    <Link SHA256="E213B9E1E08B10905AE0F1D2B4EDEDA281B64EE210EEDAA714E8386759740497"><![CDATA[https://github.com/TheMathGeek314/MidasTouch/releases/download/v1.0.1.0/MidasTouch.zip]]></Link>
+    <Version>1.0.1.1</Version>
+    <Link SHA256="657B34B514F7E4BA07D0A591EE4345A377EEDEF4FF0584860A61AE28BAC7D8DC"><![CDATA[https://github.com/TheMathGeek314/MidasTouch/releases/download/v1.0.1.1/MidasTouch.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
         <Dependency>SFCore</Dependency>
@@ -448,8 +448,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>HkmpTransitionAlerts</Name>
     <Description>An HKMP addon to highlight recently used transitions</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="9DD37DA9EC29C55DFFABAE6D535F6607F993DFD980700774949D03B1324C1860"><![CDATA[https://github.com/TheMathGeek314/HkmpTransitionAlerts/releases/download/v1.0.0.0/HkmpTransitionAlerts.zip]]></Link>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="AC6DC5AED73647A4943A0A502B472DF262A034365D1E6B89951F95C5C9A0344E"><![CDATA[https://github.com/TheMathGeek314/HkmpTransitionAlerts/releases/download/v1.0.0.1/HkmpTransitionAlerts.zip]]></Link>
     <Dependencies>
         <Dependency>HKMP</Dependency>
         <Dependency>Satchel</Dependency>
@@ -464,8 +464,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>CycloneCopter</Name>
     <Description>Extend your cyclone to achieve liftoff</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="91A7E442C29F1838E5EE8D93B0593CD0141BAD66BBF4CE54495ED9C24CDCE5A7"><![CDATA[https://github.com/TheMathGeek314/CycloneCopter/releases/download/v1.0.0.0/CycloneCopter.zip]]></Link>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="DA2C03DF9F24429BBDEAE7A2C67B9E105CB11584A37032CED32D50EE75AFD49D"><![CDATA[https://github.com/TheMathGeek314/CycloneCopter/releases/download/v1.0.0.1/CycloneCopter.zip]]></Link>
     <Dependencies>
 	<Dependency>Satchel</Dependency>
     </Dependencies>
@@ -493,8 +493,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>AdBlocker</Name>
     <Description>Blocks ads</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="EC0BF43547585B67D1C77EFF8EC3FEC9ABA1A7324D63F55F2651E3871EBBCC72"><![CDATA[https://github.com/TheMathGeek314/AdBlocker/releases/download/v1.0.0.0/AdBlocker.zip]]></Link>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="4D0C56FA2383167DE02A878B1EEF7D7FE16F5E89DCF7DAE4327040279CDADC6D"><![CDATA[https://github.com/TheMathGeek314/AdBlocker/releases/download/v1.0.0.1/AdBlocker.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -508,8 +508,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>VoiceToCrySuffering</Name>
     <Description>A minor tweak to the Pure Vessel fight</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="D86635ADFD7694EC3A870E3875BCC6EF811746010AF36851CD9FC728A447686F"><![CDATA[https://github.com/TheMathGeek314/VoiceToCrySuffering/releases/download/v1.0.0.0/VoiceToCrySuffering.zip]]></Link>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="BD10B3BA695CA50308C1C481AEB77303E842916D1FF98012DDC6B68BC0D7EB81"><![CDATA[https://github.com/TheMathGeek314/VoiceToCrySuffering/releases/download/v1.0.0.1/VoiceToCrySuffering.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
         <Dependency>SFCore</Dependency>
@@ -524,8 +524,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>PlayerTrail</Name>
     <Description>An HKMP addon to add a lingering trail behind some players</Description>
-    <Version>1.0.0.2</Version>
-    <Link SHA256="0012CD77C82150D28D03AEFC80CF9EDEB2994474F7F4603C23DD73DCD79D89A9"><![CDATA[https://github.com/TheMathGeek314/PlayerTrail/releases/download/v1.0.0.2/PlayerTrail.zip]]></Link>
+    <Version>1.0.0.3</Version>
+    <Link SHA256="92D6310F64686075233A74A70292D96A7E83103A801B08438EB6CF11E328DC88"><![CDATA[https://github.com/TheMathGeek314/PlayerTrail/releases/download/v1.0.0.3/PlayerTrail.zip]]></Link>
     <Dependencies>
         <Dependency>HKMP</Dependency>
         <Dependency>Satchel</Dependency>
@@ -540,8 +540,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>KeepDiveIFrames</Name>
     <Description>Now you can abuse i-frames for dive spam again</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="DAA6633C126297994A5BBF7FA27CD7AD0E212E740F847A1EDF6522553DE0F213"><![CDATA[https://github.com/TheMathGeek314/KeepDiveIFrames/releases/download/v1.0.0.0/KeepDiveIFrames.zip]]></Link>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="391A4EFBF6D7E31DCAB21DDB396F4D5EE731358896CB3EDE6C112C347D17F812"><![CDATA[https://github.com/TheMathGeek314/KeepDiveIFrames/releases/download/v1.0.0.1/KeepDiveIFrames.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -555,8 +555,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>UnlimitedHiveblood</Name>
     <Description>Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen</Description>
-    <Version>1.0.0.1</Version>
-    <Link SHA256="0E85D19D617C4D4601146BD6311784D29D08F3B24C456640D78AE23E03F78679"><![CDATA[https://github.com/TheMathGeek314/UnlimitedHiveblood/releases/download/v1.0.0.1/UnlimitedHiveblood.zip]]></Link>
+    <Version>1.0.0.2</Version>
+    <Link SHA256="44AA3B93C740F2BEF3744C04935B38053C253133FF42AA882219B7CD997A7661"><![CDATA[https://github.com/TheMathGeek314/UnlimitedHiveblood/releases/download/v1.0.0.2/UnlimitedHiveblood.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -570,8 +570,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>MilliGolf</Name>
     <Description>An 18-hole course featuring Millibelle the Golf Ball</Description>
-    <Version>1.2.0.2</Version>
-    <Link SHA256="C895C59FE735423F40C5653FFFB1D64F5D22A2941282738D01C25A1AE197623E"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.2.0.2/MilliGolf.zip]]></Link>
+    <Version>1.2.0.3</Version>
+    <Link SHA256="B905597200F84E73ECB4137CED471ABECAFAF9085FBBDF23C893425AB45E5BE2"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.2.0.3/MilliGolf.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -618,8 +618,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>DynamicCrystalDash</Name>
     <Description>Scales the speed of cdash by how long you charge it</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="090B765439366A939CAC3DA5D410A1B5A62551BAC0CFB61C68545ED25A5FBC83"><![CDATA[https://github.com/TheMathGeek314/DynamicCrystalDash/releases/download/v1.0.0.0/DynamicCrystalDash.zip]]></Link>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="E317D25E9E0AFFC614DE1B74D064B601C360A649C16160DD65E40E607F09AFE2"><![CDATA[https://github.com/TheMathGeek314/DynamicCrystalDash/releases/download/v1.0.0.1/DynamicCrystalDash.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -633,8 +633,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>SaferWhitePalace</Name>
     <Description>Allows you to remove the dangers of White Palace</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="6B895334775A1A4AE18C23D45B6AE36C7A49951529960C7A59205B1CC76749DF"><![CDATA[https://github.com/TheMathGeek314/SaferWhitePalace/releases/download/v1.0.0.0/Safer_White_Palace.zip]]></Link>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="1E0C0760EE21BC8BE826F9307F247F977E64A48FC72A5A778BD6BD0A9F2093DA"><![CDATA[https://github.com/TheMathGeek314/SaferWhitePalace/releases/download/v1.0.0.1/Safer_White_Palace.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -648,8 +648,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>Elderbugnest</Name>
     <Description>Replaces a bunch of NPCs with the sweet old friend</Description>
-    <Version>1.0.1.0</Version>
-    <Link SHA256="6698B3BE8C20A890F290E949825FA64A72D13A4E5AE6D6E7DFEBF4BD4BFFD10F"><![CDATA[https://github.com/TheMathGeek314/Elderbugnest/releases/download/v1.0.1.0/Elderbugnest.zip]]></Link>
+    <Version>1.0.1.1</Version>
+    <Link SHA256="9E3EB73BFAA81D7214F15C0E0CC843D7AA38530140624EFBF27675A54FA80B0B"><![CDATA[https://github.com/TheMathGeek314/Elderbugnest/releases/download/v1.0.1.1/Elderbugnest.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -663,8 +663,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>BingoGoalPack1</Name>
     <Description>Adds more goals to BingoSync and includes new board types</Description>
-    <Version>1.5.1.1</Version>
-    <Link SHA256="342A23B444C6D9100124CBC210BC0E84E3E152E78BB3ECA82C451F6DE723CD01"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.1.1/BingoGoalPack1.zip]]></Link>
+    <Version>1.5.1.2</Version>
+    <Link SHA256="71D7A430D6BA455ADE48F02CBE6AC643B0B2AFA3DCF2EDAB9A8FFEA0D16DFD09"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.1.2/BingoGoalPack1.zip]]></Link>
     <Dependencies>
     	<Dependency>BingoSync</Dependency>
     	<Dependency>Satchel</Dependency>
