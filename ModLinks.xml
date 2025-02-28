@@ -715,8 +715,8 @@ Not recommended for use in new mods.</Description>
   <Manifest>
     <Name>UnlimitedShades</Name>
     <Description>Multiple shades can coexist, so geo is never truly lost.</Description>
-    <Version>1.2.0.0</Version>
-    <Link SHA256="4AFCF734DE0E06BD7EB1601850C895DD6C1F2A3CFAF2DD689C2962A5BD9A8230"><![CDATA[https://github.com/TheMathGeek314/UnlimitedShades/releases/download/v1.2.0.0/UnlimitedShades.zip]]></Link>
+    <Version>1.2.0.1</Version>
+    <Link SHA256="D041B9D27302083E3038C8FD4B909A0D4B58251132DA4FCE8B7C49E1032B8F3A"><![CDATA[https://github.com/TheMathGeek314/UnlimitedShades/releases/download/v1.2.0.1/UnlimitedShades.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
