@@ -8164,4 +8164,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>vanaigr</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>FasterIntroSkip</Name>
+        <Description>Makes skipping the intro cutscenes faster.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="97CDEE4DA432AD0BB68FF20A6D16FFCE9E37C68FD4F58F4D46997EC02C223177"><![CDATA[https://github.com/peekagrub/FasterIntroSkip/releases/download/1.0.0.0/FasterIntroSkip.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/peekagrub/FasterIntroSkip]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>peekagrub</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
