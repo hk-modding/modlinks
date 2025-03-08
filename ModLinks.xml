@@ -6242,6 +6242,31 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+	<Name>Scattered and Lost</Name>
+	<Description>Celeste-themed content mod, expanding Bretta's hut</Description>
+	<Version>1.1.0.0</Version>
+        <Link SHA256="D618A90771BF1BD14BF4115E44960153F0255EEC6CA8530A3B42BE65CC9F6037">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.1.0.0/SpicyRando.zip]]>
+        </Link>
+        <Dependencies>
+	    <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
+	    <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost]]>
+        </Repository>
+        <Integrations>
+	    <Integration>CondensedSpoilerLogger</Integration>
+	    <Integration>DebugMod</Integration>
+	    <Integration>MoreDoors</Integration>
+            <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+    </Manifest>
+    <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
         <Version>1.2.2.0</Version>
