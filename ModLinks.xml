@@ -6244,13 +6244,14 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
 	<Name>Scattered and Lost</Name>
 	<Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-	<Version>1.1.0.0</Version>
-        <Link SHA256="D618A90771BF1BD14BF4115E44960153F0255EEC6CA8530A3B42BE65CC9F6037">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.1/Scattered.and.Lost.zip]]>
+	<Version>1.0.2.0</Version>
+        <Link SHA256="6BB13317CD90091667DFB8AFC29285794B5088EFC38A36DD12BB9F35E81D80BD">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.0.2/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
 	    <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
+	    <Dependency>MoreDoors</Dependency>
             <Dependency>PurenailCore</Dependency>
             <Dependency>RandomizerCore.Json</Dependency>
 	    <Dependency>SFCore</Dependency>
@@ -6261,7 +6262,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Integrations>
 	    <Integration>CondensedSpoilerLogger</Integration>
 	    <Integration>DebugMod</Integration>
-	    <Integration>MoreDoors</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
