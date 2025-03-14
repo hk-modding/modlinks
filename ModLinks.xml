@@ -240,6 +240,20 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>Marmalade</Name>
+    <Description>Radiance spawns Marmu instead of orbs</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="E35611B8ACA20EE0AB02E1B8A867C3EB2020920CD14FD410E926D0EB5D9985B3"><![CDATA[https://github.com/TheMathGeek314/Marmalade/releases/download/v1.0.0.0/Marmalade.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/Marmalade/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>Pogonest</Name>
     <Description>Pogo anything</Description>
     <Version>1.0.0.0</Version>
