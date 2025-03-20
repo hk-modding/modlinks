@@ -6218,6 +6218,31 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
     </Manifest>
     <Manifest>
+        <Name>TreasureHunt</Name>
+        <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="07FDC6BDE1EBF83B09A8DD6FED8031FFDDB854505A2EC340A27B4B858E603858">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v0.1.1.0/TreasureHunt.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+	    <Dependency>MagicUI</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
         <Name>UnRando</Name>
         <Description>A Rando 4 connection which fixes the order in which rando items are obtained.</Description>
         <Version>1.1.0.0</Version>
