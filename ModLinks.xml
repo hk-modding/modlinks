@@ -6220,11 +6220,12 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TreasureHunt</Name>
         <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>0.1.1.0</Version>
-        <Link SHA256="07FDC6BDE1EBF83B09A8DD6FED8031FFDDB854505A2EC340A27B4B858E603858">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v0.1.1.0/TreasureHunt.zip]]>
+        <Version>0.1.2.0</Version>
+        <Link SHA256="45CF375ECE856B8216915B60E763AA6FF4BB665CF1C5B75484DB2C8103B6DBEB">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v0.1.2.0/TreasureHunt.zip]]>
         </Link>
         <Dependencies>
+            <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
 	    <Dependency>MagicUI</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -6284,9 +6285,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
 	<Name>Scattered and Lost</Name>
 	<Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-	<Version>1.3.0.0</Version>
-        <Link SHA256="2CE262CF4DC9CB4B199E33058AC2A16C9B31DB715D3C5134FCA1F41F69FD00C8">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.3/Scattered.and.Lost.zip]]>
+	<Version>1.3.1.0</Version>
+        <Link SHA256="925BF7CDFD88BC5C4E2F1470552EF2092078E9423781A53ACBD2135D076D80ED">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.3.1/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
 	    <Dependency>ItemChanger</Dependency>
