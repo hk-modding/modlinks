@@ -2,6 +2,26 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+	<Manifest>
+    <!-- Not Optional -->
+    <Name>Quasar Radiance</Name>
+    <Description>A version of Any Radiance 3.0 that's heavily modified to be more fun and enjoyable by casual players while still providing some level of challenge. Very unique fight that's not impossibly hard like the real thing. The mod is meant to be played with a 300 FPS cap so if you play on lower or higher it's gonna be harder or easier than intended.</Description>
+    <Version>0.0.0.0</Version>
+    <Link SHA256="5c8aa8a823d889f4ff3a56c2d3f59437d0ca653f9555cf33e14fa4ba7047ed41"><![CDATA[https://github.com/Talezshadid/Shattered-Quasar-/releases/download/A/ShatteredQuasar.dll]]></Link>
+    <Dependencies>
+        <Dependency>VASI</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/Talezshadid/Shattered-Quasar-]]>
+    </Repository>
+    <Tags>
+        <Tag>Boss</Tag>
+    </Tags>
+    <Authors>
+        <Author>talezshadid</Author>
+    </Authors>
+</Manifest>
+
 <Manifest>
     <Name>ScreenShakeService</Name>
     <Description>Removes screen shake: Screen Shake Service simply supports slashing Scooped Swordsman's (Hollow Knight's) superfluous screen shake since said shaking stimulates some souls' squeamishness.</Description>
