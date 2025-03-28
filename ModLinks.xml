@@ -5699,6 +5699,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
     </Manifest>
     <Manifest>
+        <Name>HKMP.CheckSave</Name>
+        <Description>HKMP Addon for checking player save</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="3d45dc8d0162db9f5b3b79f97787db55f31132b1be7797905fd2d0c709b3a5f1">
+            <![CDATA[https://github.com/MorozicH20/Hkmp.CheckSave/releases/download/v1.0.0/Hkmp.CheckSave.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/MorozicH20/Hkmp.CheckSave/]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>RandomCharm</Name>
         <Description>A HollowKnight mod change charm you equipped each scene in random(include Transcendence new charms)</Description>
         <Version>1.5.0.0</Version>
