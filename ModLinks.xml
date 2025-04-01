@@ -6291,9 +6291,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TreasureHunt</Name>
         <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>0.1.2.0</Version>
-        <Link SHA256="45CF375ECE856B8216915B60E763AA6FF4BB665CF1C5B75484DB2C8103B6DBEB">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v0.1.2.0/TreasureHunt.zip]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="5CA48DA8B7F7E3021FD6CF7F32EE3666CA005E8F08F65AC6B155189D67ED53DB">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.0.0.0/TreasureHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -6356,9 +6356,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
 	<Name>Scattered and Lost</Name>
 	<Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-	<Version>1.3.1.0</Version>
-        <Link SHA256="925BF7CDFD88BC5C4E2F1470552EF2092078E9423781A53ACBD2135D076D80ED">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.3.1/Scattered.and.Lost.zip]]>
+	<Version>1.4.0.0</Version>
+        <Link SHA256="40914DF66BF8AE8CABB789701A0FC5EF347B8A156E20B80B13958C4034D7CE08">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.4/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
 	    <Dependency>ItemChanger</Dependency>
@@ -6374,6 +6374,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Integrations>
 	    <Integration>CondensedSpoilerLogger</Integration>
 	    <Integration>DebugMod</Integration>
+	    <Integration>DecorationMaster</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
