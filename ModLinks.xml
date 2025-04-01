@@ -1833,14 +1833,20 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>HowwowKnyight</Name>
         <Description>Twanswates aww of de text in Howwow Knyight into de much supewiow UwU wanguage, incwuding menyus, usew intewface and in-game diawogues! OwO</Description>
-        <Version>3.8.2.0</Version>
-        <Link SHA256="8d1fcbfddd1912e1124d14c6f87c97732b4479ea742e0431acba88e005f23b94">
-            <![CDATA[https://github.com/DDRM-VGV/HowwowKnyight/releases/download/3.8.2/HowwowKnyight.zip]]>
+        <Version>4.0.0.0</Version>
+        <Link SHA256="dd4e9305b9865ed6b48836b3d28e6842133f931bd60e72b9949510fb8f9c671c">
+            <![CDATA[https://github.com/Ruttie2006/HowwowKnyight/releases/download/v4.0.0.0/HowwowKnyight.zip]]>
         </Link>
         <Dependencies />
-        <Repository>
-            <![CDATA[https://github.com/DDRM-VGV/HowwowKnyight/]]>
-        </Repository>
+        <Repository><![CDATA[https://github.com/Ruttie2006/HowwowKnyight/]]></Repository>
+	<Issues><![CDATA[https://github.com/Ruttie2006/HowwowKnyight/issues/]]></Issues>
+	<Tags>
+	    <Tag>Cosmetic</Tag>
+	</Tags>
+	<Authors>
+            <Author>Ruttie</Author>
+            <Author>Henpemaz</Author>
+    	</Authors>
     </Manifest>
     <Manifest>
         <Name>Transtrans</Name>
