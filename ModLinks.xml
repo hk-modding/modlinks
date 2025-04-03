@@ -6123,9 +6123,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>LoreCore</Name>
         <Description>Adds a bunch of lore related Item Changer locations and items.</Description>
-        <Version>0.6.2.0</Version>
-        <Link SHA256="b04603100e7251efd9d4e7c78b0abdad67dd76b4a6df0507896c83dc267a458d">
-            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.6.2/LoreCore.zip]]></Link>
+        <Version>0.6.3.0</Version>
+        <Link SHA256="e05f0611890c1e88d9a7cf6f37f16e1c825336ed45a8932f01ffa2acc326fe87">
+            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.6.3/LoreCore.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -6143,9 +6143,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.3.2.0</Version>
-        <Link SHA256="9656e5618df71bf872b45f237cde4259c6fb79e2e3560c5131c77e40046d5dd9">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.2/LoreRandomizer.zip]]></Link>
+        <Version>0.3.3.0</Version>
+        <Link SHA256="62564a6f23082dcdd2faaae807d2131f016ff716b25b5a686cd12f25f4a9dd97">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.3/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
