@@ -8289,8 +8289,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>LumaflyKnight</Name>
         <Description>Tracks how many lumaflies you've freed</Description>
-        <Version>10.0.0.0</Version>
-        <Link SHA256="FF69BA4F75F80616477197150AA9C6CAA51819CE48BBC18E660802F799BF2597"><![CDATA[https://github.com/vanaigr/LumaflyKnight/releases/download/release-10/LumaflyKnight.zip]]></Link>
+        <Version>11.0.0.0</Version>
+        <Link SHA256="692FB0C4E638C8A01FF476E33284E7D4CB60C73E1AE929A91FAB300D05A63918"><![CDATA[https://github.com/vanaigr/LumaflyKnight/releases/download/release-11/LumaflyKnight.zip]]></Link>
         <Dependencies/>
         <Repository>
             <![CDATA[https://github.com/vanaigr/LumaflyKnight]]>
