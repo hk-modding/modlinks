@@ -6356,9 +6356,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
 	<Name>Scattered and Lost</Name>
 	<Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-	<Version>1.4.0.0</Version>
-        <Link SHA256="40914DF66BF8AE8CABB789701A0FC5EF347B8A156E20B80B13958C4034D7CE08">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.4/Scattered.and.Lost.zip]]>
+	<Version>1.4.1.0</Version>
+        <Link SHA256="AA6299DACFADB2BF3F5DE3003E5688E781B0F83DD968FCA6F945CEB345236A24">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.4.1/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
 	    <Dependency>ItemChanger</Dependency>
