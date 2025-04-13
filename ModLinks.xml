@@ -8228,9 +8228,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>CharmPatch</Name>
         <Description>This is a collection of small changes that I think improve the balance of certain charms in the game. This should be fully compatible with Excempt-Medic's Charm Overhaul mod.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="520DB51006049B9FDF985C46FF65CE7C53172CF6DBA524556E41E08337BBAC83">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.2.0.0/CharmPatch.zip]]>
+        <Version>1.2.0.1</Version>
+        <Link SHA256="4456F790DD6DD486EB0EF006891807AD46699EAC783520C0DC14B037F5EF7910">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.2.0.1/CharmPatch.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
