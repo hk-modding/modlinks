@@ -4303,13 +4303,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Name>Memesong</Name>
         <Description>Play some meme audio clips as you play (can add or remove clips to make stream friendly)</Description>
         <Version>1.6.0.0</Version>
-        <Link SHA256="646153865b4294e7c8f20315f631757873a8a96a06d1c681dde70dd3d6d89b3f">
-            <![CDATA[https://github.com/yoink-city/memesong/releases/download/v1.6.0/Memesong.zip]]>
+        <Link SHA256="81d44ee0e21e2ed34cb8fe9115eb19cb0014987f8ad2486590aa901423242f91">
+            <![CDATA[https://github.com/yoink-city/memesong/releases/download/v1.6.1/Memesong.zip]]>
         </Link>
         <Dependencies />
-        <Repository>
-            <![CDATA[https://github.com/yoink-city/memesong/]]>
-        </Repository>
+        <Repository><![CDATA[https://github.com/yoink-city/memesong/]]></Repository>
+	<Authors>
+	    <Author>Dandy</Author>
+	    <Author>Ruttie</Author>
+	</Authors>
     </Manifest>
     <Manifest>
         <Name>GrubTrain</Name>
