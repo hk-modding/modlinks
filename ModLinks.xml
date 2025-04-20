@@ -2746,14 +2746,17 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomBgm</Name>
         <Description>Allows customization of background music. See its readme for a how-to.</Description>
-        <Version>1.5.3.6</Version>
-        <Link SHA256="63CAA0675C17A38B3A9C030906F80C0F7B9BE588CFD3597A85C0639D2FBC1E7D">
-            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3.6/CustomBgm.zip]]>
+        <Version>1.5.4.0</Version>
+        <Link SHA256="F0715A32FDAAD6495329536A0415CBD39297588ADD2EAE072BB7687AF882751C">
+            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.4.0/CustomBgm.zip]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/SFGrenade/CustomBgm/]]>
         </Repository>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
