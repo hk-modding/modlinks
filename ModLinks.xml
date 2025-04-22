@@ -8043,13 +8043,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		<Dependency>FriendCore</Dependency>
 		<Dependency>SFCore</Dependency>
 	</Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/thegodfriend/BuzzbosLair]]>
+        </Repository>
         <Integrations>
 		<Integration>EnemyHPBar</Integration>
 		<Integration>HueShifter</Integration>
 	</Integrations>
-        <Repository>
-            <![CDATA[https://github.com/thegodfriend/BuzzbosLair]]>
-        </Repository>
         <Tags>
             <Tag>Boss</Tag>
             <Tag>Cosmetic</Tag>
