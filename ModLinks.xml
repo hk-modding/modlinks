@@ -8047,7 +8047,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/thegodfriend/BuzzbosLair]]>
         </Repository>
         <Integrations>
-		<Integration>EnemyHPBar</Integration>
+		<Integration>Enemy HP Bar</Integration>
 		<Integration>HueShifter</Integration>
 	</Integrations>
         <Tags>
