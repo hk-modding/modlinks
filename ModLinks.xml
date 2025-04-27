@@ -1559,11 +1559,11 @@ All with an incredible new soundtrack!</Description>
         <Description>Show only hitboxes and hide all sprites. This provides a new experience for several bosses since attack anticipation is no longer visible.</Description>
         <Version>1.3.0.0</Version>
         <Link SHA256="a10a68b088628c6c4420067555e20b9cbc12e1238af26696cd1c0383b6c2dc17">
-            <![CDATA[https://github.com/mystelin/HollowKnight.Abstraction/releases/download/1.3/HitboxOnly-v1.3.zip]]>
+            <![CDATA[https://github.com/mystelin/HollowKnight.HitboxOnly/releases/download/1.3/HitboxOnly-v1.3.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/mystelin/HollowKnight.Abstraction/]]>
+            <![CDATA[https://github.com/mystelin/HollowKnight.HitboxOnly/]]>
         </Repository>
     </Manifest>
     <Manifest>
