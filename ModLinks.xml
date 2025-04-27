@@ -1596,9 +1596,6 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/mystelin/HollowKnight.niaPfohtaP/]]>
         </Repository>
-        <Integrations>
-            <Integration>AbsoluteZote</Integration>
-        </Integrations>
     </Manifest>
     <Manifest>
         <Name>SteelSoulHUD</Name>
