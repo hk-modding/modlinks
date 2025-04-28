@@ -1514,13 +1514,13 @@ All with an incredible new soundtrack!</Description>
         <Description>A new GPZ mod boss. Install AbsoluteZote and PureZote together to enable AnyZote.</Description>
         <Version>2.0.0.0</Version>
         <Link SHA256="327bd4575877834b7e94b141ca9c09354dbd61e976a6dbbb2a16c842c70e984c">
-            <![CDATA[https://github.com/nearrin/HollowKnight.AbsoluteZote/releases/download/2.0/AbsoluteZote-v2.0.zip]]>
+            <![CDATA[https://github.com/mystelin/HollowKnight.AbsoluteZote/releases/download/2.0/AbsoluteZote-v2.0.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/nearrin/HollowKnight.AbsoluteZote/]]>
+            <![CDATA[https://github.com/mystelin/HollowKnight.AbsoluteZote/]]>
         </Repository>
         <Integrations>
             <Integration>PureZote</Integration>
@@ -1545,13 +1545,13 @@ All with an incredible new soundtrack!</Description>
         <Description>Tweaks to Grey Prince Zote and ascended Collector, like the HP of zotelings and more.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="83cb2c38d51faf8bd6a0106f95586bec5580cf8d8173185cf76550a74c7df1b9">
-            <![CDATA[https://github.com/nearrin/HollowKnight.ZoteCollectorHelper/releases/download/1.0.0.0/ZoteCollectorHelper.zip]]>
+            <![CDATA[https://github.com/mystelin/HollowKnight.ZoteCollectorHelper/releases/download/1.0.0.0/ZoteCollectorHelper.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/nearrin/HollowKnight.ZoteCollectorHelper/]]>
+            <![CDATA[https://github.com/mystelin/HollowKnight.ZoteCollectorHelper/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -1559,11 +1559,11 @@ All with an incredible new soundtrack!</Description>
         <Description>Show only hitboxes and hide all sprites. This provides a new experience for several bosses since attack anticipation is no longer visible.</Description>
         <Version>1.3.0.0</Version>
         <Link SHA256="a10a68b088628c6c4420067555e20b9cbc12e1238af26696cd1c0383b6c2dc17">
-            <![CDATA[https://github.com/nearrin/HollowKnight.Abstraction/releases/download/1.3/HitboxOnly-v1.3.zip]]>
+            <![CDATA[https://github.com/mystelin/HollowKnight.HitboxOnly/releases/download/1.3/HitboxOnly-v1.3.zip]]>
         </Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/nearrin/HollowKnight.Abstraction/]]>
+            <![CDATA[https://github.com/mystelin/HollowKnight.HitboxOnly/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -1571,17 +1571,31 @@ All with an incredible new soundtrack!</Description>
         <Description>Enabled Grey Prince Zote to summon Eternal Ordeal and upgraded its skills. Install AbsoluteZote and PureZote together to enable AnyZote.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="52fa80b5fb01ae7d756f0b9af3958c4f79cb95b826d14a3d5fef2692b77f65a5">
-            <![CDATA[https://github.com/nearrin/PureZote/releases/download/1.0/PureZote.zip]]>
+            <![CDATA[https://github.com/mystelin/HollowKnight.PureZote/releases/download/1.0/PureZote.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/nearrin/PureZote/]]>
+            <![CDATA[https://github.com/mystelin/HollowKnight.PureZote/]]>
         </Repository>
         <Integrations>
             <Integration>AbsoluteZote</Integration>
         </Integrations>
+    </Manifest>
+    <Manifest>
+        <Name>niaPfohtaP (PoP Upside Down)</Name>
+        <Description>Makes Path of Pain upside down.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="4c52d44c3f2f21bcbb78e3d6213ef0e9b24b8ce641dca4991c736ed4ea4676a5">
+            <![CDATA[https://github.com/mystelin/HollowKnight.niaPfohtaP/releases/download/1.0/niaPfohtaP.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/mystelin/HollowKnight.niaPfohtaP/]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>SteelSoulHUD</Name>
@@ -4629,7 +4643,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Clazex</Author>
             <Author>Mulhima</Author>
             <Author>HKLab</Author>
-            <Author>Nearrin</Author>
+            <Author>mystelin</Author>
             <Author>Roy</Author>
         </Authors>
     </Manifest>
@@ -7982,7 +7996,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
         <Authors>
             <Author>Godfriend</Author>
-            <Author>Nearrin</Author>
+            <Author>mystelin</Author>
         </Authors>
     </Manifest>
     <Manifest>
