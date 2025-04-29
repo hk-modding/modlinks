@@ -5914,19 +5914,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Fake Peppino</Name>
         <Description>Adds Fake Peppino boss from Pizza Tower.</Description>
-        <Version>1.1.0.1</Version>
+        <Version>1.2.0.0</Version>
         <Links>
-            <Linux SHA256="95d14739cbc47eeac0ed96cc1df1fd13a7a218bf8b091e23802550aa9ea961ec">
-                <![CDATA[https://github.com/jngo102/FakePeppino/releases/download/1.1.0.1/FakePeppino_Linux.zip]]>
+            <Linux SHA256="2C2C0528D99BC4942C3F4F3EE0A40B46E2B843EC221C018FFA82386388F4B6E7">
+                <![CDATA[https://github.com/jngo102/FakePeppino/releases/download/1.2.0.0/FakePeppino_Linux.zip]]>
             </Linux>
-            <Mac SHA256="7cfb818ea3d9c19d8e25614241097d554eb7d2ffdcedbd1ee7369b4db38f97d9">
-                <![CDATA[https://github.com/jngo102/FakePeppino/releases/download/1.1.0.1/FakePeppino_OSX.zip]]>
+            <Mac SHA256="C573452DCE3D7169EED261E430CD5AF3D716646CD37812529D85219E30EF0DA3">
+                <![CDATA[https://github.com/jngo102/FakePeppino/releases/download/1.2.0.0/FakePeppino_OSX.zip]]>
             </Mac>
-            <Windows SHA256="93456dc29cd0946024806b0592e0caddd5422231729b73ab2e46ac00056478dc">
-                <![CDATA[https://github.com/jngo102/FakePeppino/releases/download/1.1.0.1/FakePeppino_Windows.zip]]>
+            <Windows SHA256="02D8A46556429E0BA2746E7B75CE6ECB48C1C3572DCE8F76CC83398AB7A67E35">
+                <![CDATA[https://github.com/jngo102/FakePeppino/releases/download/1.2.0.0/FakePeppino_Windows.zip]]>
             </Windows>
         </Links>
         <Dependencies>
+	    <Dependency>BossStatueFramework</Dependency>
             <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
