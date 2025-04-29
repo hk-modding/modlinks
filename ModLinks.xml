@@ -8413,4 +8413,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>peekagrub</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Boss Statue Framework</Name>
+        <Description>Library for adding custom boss statues to the Hall of Gods.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="1B742D45FFF08A9CD88B4286CFC8E043C759C933B20A7042CD9E90C9BF97360C"><![CDATA[https://github.com/jngo102/HollowKnight.BossStatueFramework/releases/download/1.0.0.0/BossStatueFramework.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/jngo102/HollowKnight.BossStatueFramework]]>
+        </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>jngo102</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
