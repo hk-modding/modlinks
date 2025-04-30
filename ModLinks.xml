@@ -21,7 +21,24 @@
         <Author>talezshadid</Author>
     </Authors>
 </Manifest>
-
+<Manifest>
+    <Name>HkSpeedUp</Name>
+    <Description>Lets you change game speed</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="c121f7d6e9a6f38aaf21b4abf486ca3fe3fdf4f4c17a17a2d7b3117b42605402">
+        <![CDATA[https://github.com/gGordey/HkSpeedUp/releases/download/release/release.zip]]>
+    </Link>
+    <Dependencies />
+    <Repository>
+        <![CDATA[https://github.com/gGordey/HkSpeedUp]]>
+    </Repository>
+    <Tags>
+        <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+        <Author>gGordey</Author>
+    </Authors>
+</Manifest>
 <Manifest>
     <Name>ScreenShakeService</Name>
     <Description>Removes screen shake: Screen Shake Service simply supports slashing Scooped Swordsman's (Hollow Knight's) superfluous screen shake since said shaking stimulates some souls' squeamishness.</Description>
