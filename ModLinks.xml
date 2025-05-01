@@ -2673,8 +2673,67 @@ All with an incredible new soundtrack!</Description>
             <![CDATA[https://github.com/homothetyhk/HollowKnight.LoadNormalizer/]]>
         </Repository>
     </Manifest>
+    <!-- SFGrenade placeholder manifests start -->
+    <Manifest>
+        <Name>Hollow Knight Achievement Manager</Name>
+        <Description>Dummy mod. Install the dependency "HollowKnightAchievementManager" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>HollowKnightAchievementManager</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Peaking Peeking Peaks</Name>
+        <Description>Dummy mod. Install the dependency "PeakingPeekingPeaks" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>PeakingPeekingPeaks</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>PvP Arena</Name>
+        <Description>Dummy mod. Install the dependency "PvpArena" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>PvpArena</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Stories of a HK player - Chapter 1</Name>
+        <Description>Dummy mod. Install the dependency "StoriesOfaHkPlayer-Ch1" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>StoriesOfaHkPlayer-Ch1</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Stories of a HK player - Chapter 2</Name>
+        <Description>Dummy mod. Install the dependency "StoriesOfaHkPlayer-Ch2" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>StoriesOfaHkPlayer-Ch2</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Test of Teamwork</Name>
+        <Description>Dummy mod. Install the dependency "TestOfTeamwork" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>TestOfTeamwork</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Zaliants Surprise</Name>
+        <Description>Dummy mod. Install the dependency "ZaliantsSurprise" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>ZaliantsSurprise</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <!-- SFGrenade placeholder manifests end -->
     <Manifest>
         <Name>AdditionalMaps</Name>
+        <DisplayName>Additional Maps</DisplayName>
         <Description>Adds white palace and godhome maps. The white palace one is next to the bench in the big room. The godhome one is next to the bench above the pantheons.</Description>
         <Version>1.5.4.0</Version>
         <Link SHA256="0B787F11973A313383C34F6A4F87B5593863652F9E96B404BB319EABBBFCF0EE">
@@ -2686,6 +2745,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/AdditionalMaps/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/issues/]]>
+        </Issues>
         <Integrations>
             <Integration>CompassAlwaysOn</Integration>
             <Integration>HKMP</Integration>
@@ -2702,6 +2764,7 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>BenchWarpFix</Name>
+        <DisplayName>Bench Warp Fix</DisplayName>
         <Description>When benchwarping into a scene without a bench, instead of softlock drops you into dirtmouth. Probably doesn't work with glitched runs.</Description>
         <Version>1.5.1.1</Version>
         <Link SHA256="D22C6C90EFEFBB649314586EFD3A8FAACDD2D772CA0917FC3F701B574DE17FDE">
@@ -2711,6 +2774,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/BenchWarpFix/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/BenchWarpFix/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -2720,6 +2786,7 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>BlindRadiance</Name>
+        <DisplayName>Blind Radiance</DisplayName>
         <Description>Makes background darker in selected scenes to make foreground objects more visible.</Description>
         <Version>1.5.2.0</Version>
         <Link SHA256="CD99E06AD0D9C7F0BAD39A608EB4EFDBFD9E93C37D8E5450F5CC7F1058FF4A03">
@@ -2731,6 +2798,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/BlindRadiance/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/BlindRadiance/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
@@ -2740,6 +2810,7 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>CursedMod</Name>
+        <DisplayName>Cursed Mod</DisplayName>
         <Description>This mod does miscellaneous stuff. Like making the game window be dark mode on windows.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="B815042B3828AFCB90808331E72AA8E929369114FDB76906943C3D5799989F04">
@@ -2749,6 +2820,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/CursedMod/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/CursedMod/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -2758,6 +2832,7 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>CustomBgm</Name>
+        <DisplayName>Custom BGM</DisplayName>
         <Description>Allows customization of background music. See its readme for a how-to.</Description>
         <Version>1.5.4.0</Version>
         <Link SHA256="F0715A32FDAAD6495329536A0415CBD39297588ADD2EAE072BB7687AF882751C">
@@ -2767,6 +2842,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/CustomBgm/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/CustomBgm/issues/]]>
+        </Issues>
         <Integrations>
             <Integration>Custom Knight</Integration>
         </Integrations>
@@ -2779,6 +2857,7 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>CustomSaveArt</Name>
+        <DisplayName>Custom Save Art</DisplayName>
         <Description>Makes white palace save art funny. Literally nothing else.</Description>
         <Version>1.5.0.1</Version>
         <Link SHA256="8302BE9F5D2FB9464310E9F74E11A7581A99185B81662DC09449BDC426A7C060">
@@ -2788,6 +2867,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/CustomSaveArt/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/CustomSaveArt/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
@@ -2797,6 +2879,7 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>EnemyChanger</Name>
+        <DisplayName>Enemy Changer</DisplayName>
         <Description>Allows to dump and replace enemy textures. Refer to the readme on how to do that.</Description>
         <Version>1.5.2.0</Version>
         <Link SHA256="F1193A62CF17066B449C096CB5ECBAAE4528D6DD5EB97BDB756074E22AB77AF0">
@@ -2808,6 +2891,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/EnemyChanger/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/EnemyChanger/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
@@ -2818,6 +2904,7 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>FireIsSmolBrain</Name>
+        <DisplayName>Fire Is Smol Brain</DisplayName>
         <Description>Adds a soul totem to dirtmouth and blocks off boss arenas.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="5A7FC5C3AC551B0258BB01D1BE42D6D1073DF18C0FC767327A6497B65F80A12B">
@@ -2827,6 +2914,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/FireIsSmolBrain/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/FireIsSmolBrain/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Gameplay</Tag>
             <Tag>Utility</Tag>
@@ -2838,6 +2928,7 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>FullSpeedAhead</Name>
+        <DisplayName>Full Speed Ahead</DisplayName>
         <Description>Removes Parry Slow-Down.</Description>
         <Version>1.5.1.0</Version>
         <Link SHA256="23109D2296052F49D6DCD9B7E1040508AD3AAEA247D377BA680D6BD6CF858D5F">
@@ -2849,6 +2940,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/FullSpeedAhead/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/FullSpeedAhead/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -2858,6 +2952,7 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>FuryFix</Name>
+        <DisplayName>Fury Fix</DisplayName>
         <Description>Tries to fix fury for 1 max health saves.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="7B30BF03780F7E5CA3C83D9D61B5EA19B6C6A0314B04874FAD1392ED7A1FF1D8">
@@ -2869,6 +2964,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/FuryFix/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/FuryFix/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -2878,8 +2976,8 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>GeoLog</Name>
-        <Description>Logs all geo locations in the game.
-Takes hours to load into the game.</Description>
+        <DisplayName>Geo Log</DisplayName>
+        <Description>Logs all geo locations in the game. Goes through the entire game on startup.</Description>
         <Version>1.5.1.0</Version>
         <Link SHA256="ABA4861BAA7FFDBF398AD22D6CE317FC41E5579843F80EFFD83B7C6355BE0093">
             <![CDATA[https://github.com/SFGrenade/GeoLog/releases/download/v1.5.1/GeoLog.zip]]>
@@ -2890,6 +2988,9 @@ Takes hours to load into the game.</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/GeoLog/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/GeoLog/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -2898,7 +2999,8 @@ Takes hours to load into the game.</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Graphic Options</Name>
+        <Name>GraphicOptions</Name>
+        <DisplayName>Graphic Options</DisplayName>
         <Description>Adds a "few" graphics options. Some of those "might" be unstable to change.</Description>
         <Version>1.5.1.1</Version>
         <Link SHA256="A40DBEF1814D9DCE9A08693DD70CF15F3C11203B7F502233CF2F5F27E1F87222">
@@ -2911,6 +3013,9 @@ Takes hours to load into the game.</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/GraphicOptions/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/GraphicOptions/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -2920,6 +3025,7 @@ Takes hours to load into the game.</Description>
     </Manifest>
     <Manifest>
         <Name>HKHKHKHKHK</Name>
+        <DisplayName>HKHKHKHKHK</DisplayName>
         <Description>VVVVVVV but in HK. Flip gravity with the R key.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="4C8765071FA4722BC9D553F18B355282BC44B1595E5DCCF61CB4AA08E9B156F6">
@@ -2931,6 +3037,9 @@ Takes hours to load into the game.</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/HKHKHKHKHK/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/HKHKHKHKHK/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -2939,7 +3048,8 @@ Takes hours to load into the game.</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Hollow Knight Achievement Manager</Name>
+        <Name>HollowKnightAchievementManager</Name>
+        <DisplayName>Hollow Knight Achievement Manager</DisplayName>
         <Description>Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.</Description>
         <Version>1.5.2.0</Version>
         <Link SHA256="09843B49A0BAC2E0CA47A247AC2D6D44D53AEC3D3AF39E228254481460B18DAF">
@@ -2952,6 +3062,9 @@ Takes hours to load into the game.</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/HollowKnightAchievementManager/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/HollowKnightAchievementManager/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -2961,6 +3074,7 @@ Takes hours to load into the game.</Description>
     </Manifest>
     <Manifest>
         <Name>LanguageSupport</Name>
+        <DisplayName>Language Support</DisplayName>
         <Description>Allows additional languages to be supported. Doesn't allow for some characters of other languages yet.</Description>
         <Version>1.5.1.0</Version>
         <Link SHA256="F1C9853EFF0361019DCAEE19CE652EB972127C08711701E71D5C79C679F99609">
@@ -2972,6 +3086,9 @@ Takes hours to load into the game.</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/LanguageSupport/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/LanguageSupport/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Cosmetic</Tag>
             <Tag>Utility</Tag>
@@ -2983,6 +3100,7 @@ Takes hours to load into the game.</Description>
     </Manifest>
     <Manifest>
         <Name>MenuThemesInGame</Name>
+        <DisplayName>Menu Themes In Game</DisplayName>
         <Description>Applies the menu color correction to gameplay. Breaks immersion.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="8AF2B8C9FCBD5076F846F88BB2527ADF1DFE2EC47D77DCD7581D821831890CB0">
@@ -2992,6 +3110,9 @@ Takes hours to load into the game.</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/MenuThemesInGame/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/MenuThemesInGame/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
@@ -3001,6 +3122,7 @@ Takes hours to load into the game.</Description>
     </Manifest>
     <Manifest>
         <Name>MoreHealing</Name>
+        <DisplayName>More Healing</DisplayName>
         <Description>Adds more healing charms.</Description>
         <Version>1.5.3.7</Version>
         <Link SHA256="9403D3FC7D959B01FBA20D355D14D0AEC35047A918F502496CBC70F981A7167B">
@@ -3012,6 +3134,9 @@ Takes hours to load into the game.</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/MoreHealing/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/MoreHealing/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -3021,6 +3146,7 @@ Takes hours to load into the game.</Description>
     </Manifest>
     <Manifest>
         <Name>NailsmithBackPay</Name>
+        <DisplayName>Nailsmith Back Pay</DisplayName>
         <Description>Get your geo back from the nailsmith after upgrading your nail.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="16188DCD98860FCE814F075966936B434F8FAC7A1556881FFD8CD29A1030E40A">
@@ -3030,6 +3156,9 @@ Takes hours to load into the game.</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/NailsmithBackPay/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/NailsmithBackPay/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
@@ -3039,6 +3168,7 @@ Takes hours to load into the game.</Description>
     </Manifest>
     <Manifest>
         <Name>NeverMuffle</Name>
+        <DisplayName>Never Muffle</DisplayName>
         <Description>Removes the muffling sound effect when taking damage.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="b14e6174a37cb08def7d52c3c3b392e54b3e26b9fbdf989d2fc322b778787d15">
@@ -3048,6 +3178,9 @@ Takes hours to load into the game.</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/NeverMuffle/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/NeverMuffle/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -3057,33 +3190,8 @@ Takes hours to load into the game.</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Zaliants Surprise</Name>
-        <Description>This is a mod idea by Zaliant.
-Former Description:
-This is the Pale Court mod.
-Enjoy!</Description>
-        <Version>1.5.2.0</Version>
-        <Link SHA256="36F95A1C91874A2A617EA2D719262085E4F038DEF4F132C5C87AB9567DCC7720">
-            <![CDATA[https://github.com/SFGrenade/ZaliantsSurprise/releases/download/v1.5.2/Pail-Curt.zip]]>
-        </Link>
-        <Dependencies>
-            <Dependency>FrogCore</Dependency>
-            <Dependency>SFCore</Dependency>
-            <Dependency>Vasi</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/SFGrenade/ZaliantsSurprise/]]>
-        </Repository>
-        <Tags>
-            <Tag>Utility</Tag>
-        </Tags>
-        <Authors>
-            <Author>SFGrenade</Author>
-            <Author>Zaliant</Author>
-        </Authors>
-    </Manifest>
-    <Manifest>
-        <Name>Peaking Peeking Peaks</Name>
+        <Name>PeakingPeekingPeaks</Name>
+        <DisplayName>Peaking Peeking Peaks</DisplayName>
         <Description>This mods aims to make the Crystal Peak name more memorable.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="681DABDFBC1DB965496047985C4378FC10D77AEF98B2D1DC5DA38F5B8A39E6BE">
@@ -3095,6 +3203,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/PeakingPeekingPeaks/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/PeakingPeekingPeaks/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
@@ -3103,7 +3214,8 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>PvP Arena</Name>
+        <Name>PvpArena</Name>
+        <DisplayName>PvP Arena</DisplayName>
         <Description>This mod adds a PvP arena with an invisible entrance right of the bench in Dirtmouth.</Description>
         <Version>1.5.1.0</Version>
         <Link SHA256="52A249727D8E357201A7AF68CB01CD55B64BF0C1633D8C773827FF92681B31A7">
@@ -3115,6 +3227,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/PvpArena/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/PvpArena/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Expansion</Tag>
         </Tags>
@@ -3124,6 +3239,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>RadiantMenu</Name>
+        <DisplayName>Radiant Menu</DisplayName>
         <Description>Adds a radiant menu theme to the game.</Description>
         <Version>1.5.2.0</Version>
         <Link SHA256="DCE52F62E5B7FBF3AFA42D4CF0E7A8DC9DF2FD0A0DFDEED490A55EF6DF531983">
@@ -3135,6 +3251,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/RadiantMenu/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/RadiantMenu/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
@@ -3145,6 +3264,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>RedoBirthplace</Name>
+        <DisplayName>Redo Birthplace</DisplayName>
         <Description>Redo the Birthplace cutscene.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="7944573C1D3567406D2D298F166204B3C8A6B03C2D30E248A43612B0B31653CC">
@@ -3156,6 +3276,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/RedoBirthplace/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/RedoBirthplace/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -3165,6 +3288,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>ResetCharmNotches</Name>
+        <DisplayName>Reset Charm Notches</DisplayName>
         <Description>Reset charm notches and charm notch cost.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="69F8A5979D2C208933229FE7AD1FCFFB3201B07AF26C7958FCED9A5CDAF6834A">
@@ -3174,6 +3298,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/ResetCharmNotches/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/ResetCharmNotches/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -3183,6 +3310,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>ScenePainter</Name>
+        <DisplayName>Scene Painter</DisplayName>
         <Description>Creates SVG images of all scenes in the game. Can be initiated manually using the K key.</Description>
         <Version>1.5.1.4</Version>
         <Link SHA256="3B2061AE3CC12005B3BF8044D6C7DD7F691FFEA0A2748059981B6EFA7AAA6153">
@@ -3206,6 +3334,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>SFCore</Name>
+        <DisplayName>SFCore</DisplayName>
         <Description>Library mod used by other mods.</Description>
         <Version>1.5.14.10</Version>
         <Link SHA256="F5F1506A34E394CCCFB41F4B96C56DFB5F0707B11AA2ED42D3CA919CC0E402A0">
@@ -3215,6 +3344,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/SFCore/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/SFCore/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Library</Tag>
         </Tags>
@@ -3227,6 +3359,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>ShowFPS</Name>
+        <DisplayName>Show FPS</DisplayName>
         <Description>A mod that adds a FPS display in the bottom right corner.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="B7929834A26AC17BF05CED9C51EE283AD5EB3DD207EA1E1FF80112004FBCF081">
@@ -3236,6 +3369,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/ShowFPS/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/ShowFPS/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -3245,6 +3381,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>SpriteDumper</Name>
+        <DisplayName>Sprite Dumper</DisplayName>
         <Description>A mod that dumps sprites. Can take more than 10 minutes per dump. Uses the P key to initiate dumping.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="D2425256B9851A2A21226897D8039CC1D511EF94B9FF0288BE499694B413AECC">
@@ -3254,6 +3391,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/SpriteDumper/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/SpriteDumper/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -3262,7 +3402,8 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Stories of a HK player - Chapter 1</Name>
+        <Name>StoriesOfaHkPlayer-Ch1</Name>
+        <DisplayName>Stories of a HK player - Chapter 1</DisplayName>
         <Description>The start of a story of a Hollow Knight player and his personalized copy of the game.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="28FE1E34A8EB8F7C1AE73103603567061EB7580BE8BA724DE21AFD7317FBC6C6">
@@ -3274,6 +3415,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
@@ -3282,7 +3426,8 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Stories of a HK player - Chapter 2</Name>
+        <Name>StoriesOfaHkPlayer-Ch2</Name>
+        <DisplayName>Stories of a HK player - Chapter 2</DisplayName>
         <Description>The second iteration of a story of a Hollow Knight player and his personalized copy of the game.
 Warning for people streaming this mod: This mod displays your windows/mac/linux username.</Description>
         <Version>1.5.1.0</Version>
@@ -3295,6 +3440,9 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
         <Repository>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/issues/]]>
+        </Issues>
         <Tags>
             <Tag>Expansion</Tag>
             <Tag>Gameplay</Tag>
@@ -3306,6 +3454,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
     </Manifest>
     <Manifest>
         <Name>SvgLib</Name>
+        <DisplayName>SvgLib</DisplayName>
         <Description>SVG parser and composer library for .NET Framework and .NET Core.</Description>
         <Version>1.0.0.4</Version>
         <Link SHA256="8EB73F3CF9A36919C1A153D702776515D5A58C5808C1FCB4D3400F72C272A795">
@@ -3327,7 +3476,8 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Test of Teamwork</Name>
+        <Name>TestOfTeamwork</Name>
+        <DisplayName>Test of Teamwork</DisplayName>
         <Description>Adds a Path of Pain style section to the White Palace.
 Start by talking to people in and around dirtmouth.
 This is a singleplayer mod. The "teamwork" refers to in-game events.</Description>
@@ -3340,6 +3490,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/]]>
+        </Repository>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/issues/]]>
         </Repository>
         <Integrations>
             <Integration>DebugMod</Integration>
@@ -3369,6 +3522,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>WideCamera</Name>
+        <DisplayName>Wide Camera</DisplayName>
         <Description>Make ultrawide screens possible without black bars. Should also work for thinner/taller than 16:9. In theory.</Description>
         <Version>1.5.1.0</Version>
         <Link SHA256="73DC688F0361E7D7780CA5E75607CBEDCA0345C2E2AEB02D601A6158729426CF">
@@ -3388,6 +3542,36 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
         <Authors>
             <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ZaliantsSurprise</Name>
+        <DisplayName>Zaliant's Surprise</DisplayName>
+        <Description>This is a mod idea by Zaliant.
+Former Description:
+This is the Pale Court mod.
+Enjoy!</Description>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="36F95A1C91874A2A617EA2D719262085E4F038DEF4F132C5C87AB9567DCC7720">
+            <![CDATA[https://github.com/SFGrenade/ZaliantsSurprise/releases/download/v1.5.2/Pail-Curt.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>FrogCore</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/ZaliantsSurprise/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/ZaliantsSurprise/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+            <Author>Zaliant</Author>
         </Authors>
     </Manifest>
     <Manifest>
