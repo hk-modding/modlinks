@@ -3283,6 +3283,28 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>SvgLib</Name>
+        <Description>SVG parser and composer library for .NET Framework and .NET Core.</Description>
+        <Version>1.0.0.4</Version>
+        <Link SHA256="8EB73F3CF9A36919C1A153D702776515D5A58C5808C1FCB4D3400F72C272A795">
+            <![CDATA[https://github.com/SFGrenade/svglib/releases/download/v1.0.0.4/SvgLib.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/svglib/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/huysentruitw/svglib/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>Wouter Huysentruit</Author>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Test of Teamwork</Name>
         <Description>Adds a Path of Pain style section to the White Palace.
 Start by talking to people in and around dirtmouth.
