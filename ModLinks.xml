@@ -3183,6 +3183,29 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>ScenePainter</Name>
+        <Description>Creates SVG images of all scenes in the game. Can be initiated manually using the K key.</Description>
+        <Version>1.5.1.4</Version>
+        <Link SHA256="3B2061AE3CC12005B3BF8044D6C7DD7F691FFEA0A2748059981B6EFA7AAA6153">
+            <![CDATA[https://github.com/SFGrenade/ScenePainter/releases/download/v1.5.1.4/ScenePainter.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SvgLib</Dependency>
+	</Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/ScenePainter/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/ScenePainter/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
         <Version>1.5.14.10</Version>
