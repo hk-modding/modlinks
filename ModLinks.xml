@@ -3311,9 +3311,9 @@ All with an incredible new soundtrack!</Description>
         <Name>ScenePainter</Name>
         <DisplayName>Scene Painter</DisplayName>
         <Description>Creates SVG images of all scenes in the game. Can be initiated manually using the K key.</Description>
-        <Version>1.5.1.4</Version>
-        <Link SHA256="3B2061AE3CC12005B3BF8044D6C7DD7F691FFEA0A2748059981B6EFA7AAA6153">
-            <![CDATA[https://github.com/SFGrenade/ScenePainter/releases/download/v1.5.1.4/ScenePainter.zip]]>
+        <Version>1.5.1.5</Version>
+        <Link SHA256="A4C49A9DBDA6E65C3A5B459F9FB54443D56F1110BDF43DC45DD9AED161101984">
+            <![CDATA[https://github.com/SFGrenade/ScenePainter/releases/download/v1.5.1.5/ScenePainter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SvgLib</Dependency>
@@ -3480,9 +3480,9 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
         <Description>Adds a Path of Pain style section to the White Palace.
 Start by talking to people in and around dirtmouth.
 This is a singleplayer mod. The "teamwork" refers to in-game events.</Description>
-        <Version>1.5.79.0</Version>
-        <Link SHA256="A1A63A9B335379DA6BD0F1D30AD70C5E43EF65F13E25C740E718DA7B0D7B0D58">
-            <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/releases/download/v1.5.79/TestOfTeamwork.zip]]>
+        <Version>1.5.79.11</Version>
+        <Link SHA256="E1AC9DC9F14045339392768DB95C5603AE6717413EFED5A55700AABD0FFEFB49">
+            <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/releases/download/v1.5.79.11/TestOfTeamwork.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
