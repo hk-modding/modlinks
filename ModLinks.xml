@@ -20,7 +20,6 @@
             <Author>talezshadid</Author>
         </Authors>
     </Manifest>
-
     <Manifest>
         <Name>ScreenShakeService</Name>
         <Description>Removes screen shake: Screen Shake Service simply supports slashing Scooped Swordsman's (Hollow Knight's) superfluous screen shake since said shaking stimulates some souls' squeamishness.</Description>
@@ -3491,9 +3490,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/]]>
         </Repository>
-        <Repository>
+        <Issues>
             <![CDATA[https://github.com/SFGrenade/TestOfTeamwork/issues/]]>
-        </Repository>
+        </Issues>
         <Integrations>
             <Integration>DebugMod</Integration>
             <Integration>HKMP</Integration>
@@ -4361,7 +4360,6 @@ Enjoy!</Description>
             <![CDATA[https://github.com/PrashantMohta/EmoteWheel/]]>
         </Repository>
     </Manifest>
-
     <Manifest>
         <Name>MultiplayerEvents</Name>
         <Description>A mod that adds some Multiplayer interactions.</Description>
@@ -5587,7 +5585,6 @@ Enjoy!</Description>
             <Dependency>HKTool</Dependency>
             <Dependency>Unity Explorer</Dependency>
         </Dependencies>
-
         <Repository>
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
@@ -5609,7 +5606,6 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
-
         <Repository>
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
@@ -5720,7 +5716,6 @@ Enjoy!</Description>
             <Dependency>HKTool Legacy</Dependency>
             <Dependency>Dead Cells Bosses</Dependency>
         </Dependencies>
-
         <Repository>
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
@@ -5739,7 +5734,6 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>HKTool</Dependency>
         </Dependencies>
-
         <Repository>
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
@@ -5757,7 +5751,6 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
-
         <Repository>
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
@@ -5810,7 +5803,6 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
-
         <Repository>
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
@@ -5828,7 +5820,6 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
-
         <Repository>
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
@@ -5924,7 +5915,6 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
-
         <Repository>
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
@@ -6023,7 +6013,6 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>HKTool Legacy</Dependency>
         </Dependencies>
-
         <Repository>
             <![CDATA[https://github.com/HK-Modding-Preservation/Box074/]]>
         </Repository>
@@ -6236,7 +6225,6 @@ Enjoy!</Description>
         <Description>Adds a game mode that changes the layout, items and lore of Hallownest into a whole new world to explore - the Glimmering Realm! Join the Discord at https://discord.gg/wP2FFY6uAB</Description>
         <Version>1.1.5.2</Version>
         <Link SHA256="9599FA2D461E422FAF7C157B9ECA1B9F3AF408107B7145D5F9CDB0758DEF2F2F"><![CDATA[https://github.com/ToboterXP/HollowKnight.TheGlimmeringRealm/releases/download/v1.1.5.2/TheGlimmeringRealm.zip]]></Link>
-
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -6855,7 +6843,6 @@ Enjoy!</Description>
             <Author>Korz</Author>
         </Authors>
     </Manifest>
-
     <Manifest>
         <Name>NoWalkOfShame</Name>
         <Description>Respawns you in the room you died in (skipping darkrooms/dreamrooms/colosseum)</Description>
@@ -7414,7 +7401,6 @@ Enjoy!</Description>
             <Author>Destalta</Author>
         </Authors>
     </Manifest>
-
     <Manifest>
         <Name>Keep Me Geo</Name>
         <Description>Don't want the anxiety of losing everything when you die? Then Keep Me Geo will take your worries away! You won't lose any more geo than you want to when you die!</Description>
@@ -7436,7 +7422,6 @@ Enjoy!</Description>
             <Author>CDog</Author>
         </Authors>
     </Manifest>
-
     <Manifest>
         <Name>Stop Hitting Yourself</Name>
         <Description>The night becomes clumsy</Description>
@@ -7456,7 +7441,6 @@ Enjoy!</Description>
             <Author>ChouchIsCool</Author>
         </Authors>
     </Manifest>
-
     <Manifest>
         <Name>ShyKnight</Name>
         <Description>Removes the audience from Godhome arenas and Colosseum of Fools</Description>
@@ -7476,7 +7460,6 @@ Enjoy!</Description>
             <Author>Acu1000</Author>
         </Authors>
     </Manifest>
-
     <Manifest>
         <Name>EasySoulRefill</Name>
         <Description>Instantly refills your soul meter whenever you respawn, sit on a bench or enter a dream boss arena (compatible with Pale Court)</Description>
@@ -7498,7 +7481,6 @@ Enjoy!</Description>
             <Author>Acu1000</Author>
         </Authors>
     </Manifest>
-
     <Manifest>
         <Name>LessVisualNoise</Name>
         <Description>Reduces amount of visuals in the game for accessibility purposes. Still in development. Recommended to use along with the No Particles mod</Description>
@@ -8657,7 +8639,6 @@ Enjoy!</Description>
             <Author>jngo102</Author>
         </Authors>
     </Manifest>
-
     <Manifest>
         <Name>HkSpeedUp</Name>
         <Description>Lets you change game speed</Description>
