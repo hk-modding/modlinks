@@ -26,6 +26,7 @@ If you are familiar with common Git and GitHub workflows, this approach may be m
 ```xml
 <Manifest>
     <Name>Test Name</Name>
+    <DisplayName>Test Name that is used for display, where &lt;Name&gt; can be used as a sort of ID</DisplayName>
     <Description>Test description</Description>
     <Version>0.0.0.0</Version>
     <Links>
