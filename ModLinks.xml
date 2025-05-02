@@ -3311,9 +3311,9 @@ All with an incredible new soundtrack!</Description>
         <Name>ScenePainter</Name>
         <DisplayName>Scene Painter</DisplayName>
         <Description>Creates SVG images of all scenes in the game. Can be initiated manually using the K key.</Description>
-        <Version>1.5.1.5</Version>
-        <Link SHA256="A4C49A9DBDA6E65C3A5B459F9FB54443D56F1110BDF43DC45DD9AED161101984">
-            <![CDATA[https://github.com/SFGrenade/ScenePainter/releases/download/v1.5.1.5/ScenePainter.zip]]>
+        <Version>1.5.1.6</Version>
+        <Link SHA256="7924126A6BED1187FD6D28BC178622AB56CF9E62BE17751F855B4754153DB7E2">
+            <![CDATA[https://github.com/SFGrenade/ScenePainter/releases/download/v1.5.1.6/ScenePainter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SvgLib</Dependency>
