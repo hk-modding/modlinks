@@ -8642,9 +8642,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HkSpeedUp</Name>
         <Description>Lets you change game speed</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="943b035a62e0c47d5dea971e7821468e1e586a81e17e178e7091f6de0f48b25c">
-            <![CDATA[https://github.com/gGordey/HkSpeedUp/releases/download/release/release.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="986d040e166376bc3e69c87a66e294a342863991aa63229d4d727adb63ba7d3f">
+            <![CDATA[https://github.com/gGordey/HkSpeedUp/releases/download/release/HkSpeedUp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
