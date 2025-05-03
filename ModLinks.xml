@@ -8640,11 +8640,11 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>HkSpeedUp</Name>
-        <Description>Lets you change game speed</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="ba3bceb7e6acb64504718489238121ab8f255244f8f50267136b2626d149d985">
-            <![CDATA[https://github.com/gGordey/HkSpeedUp/releases/download/release/HkSpeedUp.zip]]>
+        <Name>SpeedChanger</Name>
+        <Description>Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.</Description>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="F29583CC90037AD4DEE38532C536AA02BAAF5F927826DD1675E23A9C0A0A8A2D">
+            <![CDATA[https://github.com/gGordey/HkSpeedUp/releases/download/1.0.3/SpeedChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
