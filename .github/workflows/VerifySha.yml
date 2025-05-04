@@ -1,10 +1,10 @@
 name: Verify-Sha
 
 on:
-  - pull_request:
+  pull_request:
     branches: [ main ]
 
-  - workflow_dispatch
+  workflow_dispatch:
 
 jobs:
   validate:
@@ -16,8 +16,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        ref: ${{ github.event.pull_request.base.sha }}
-        path: prev
+        with: 
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: prev
       - uses: actions/checkout@v4
       - name: Setup ModLinksShaVerifier
         run: |
