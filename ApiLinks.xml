@@ -6,7 +6,7 @@
         <Version>74</Version>
 
         <Links>
-            <Linux SHA256="e19442921b6dc40ce793750b1fac7ceac00545bec3e010145e4ca8293652ca55">
+            <Linux SHA256="e19442921b6dc40ce793750b1fac7ceac00545bec3e010145e4ca82a3652ca55">
                 <![CDATA[https://github.com/hk-modding/api/releases/download/1.5.78.11833-74/ModdingApiLinux.zip]]>
             </Linux>
             <Mac SHA256="892e94d6ae061a73c67c859fc7003be3c98d2b5ced5b2ee911d9c4079d1c882c">
