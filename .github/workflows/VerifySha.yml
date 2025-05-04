@@ -16,10 +16,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with: 
           ref: ${{ github.event.pull_request.base.sha }}
           path: prev
-      - uses: actions/checkout@v4
       - name: Setup ModLinksShaVerifier
         run: |
           wget https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v3.0/linux.zip
