@@ -8,7 +8,7 @@ on:
 
 jobs:
   validate:
-    uses: ./.github/workflows/XmlValidation.yaml
+    uses: ./.github/workflows/XmlValidation.yml
 
   verify:
     needs: [validate]
