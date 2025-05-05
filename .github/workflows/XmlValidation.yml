@@ -9,7 +9,7 @@ on:
   workflow_call:
 
 jobs:
-  build:
+  validate:
     runs-on: ubuntu-latest
 
     steps:
