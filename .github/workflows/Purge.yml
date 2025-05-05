@@ -7,7 +7,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    build:
+    purge:
         runs-on: ubuntu-latest
         steps:
             - run: curl https://purge.jsdelivr.net/hk-modding/modlinks/
