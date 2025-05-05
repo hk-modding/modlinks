@@ -2808,6 +2808,28 @@ All with an incredible new soundtrack!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>CarefreeRngReset</Name>
+        <DisplayName>Carefree Rng Reset</DisplayName>
+        <Description>This mod resets carefree melody rng to highest likelyhood of blocking each time the player enters the hall of gods.</Description>
+        <Version>1.5.0.1</Version>
+        <Link SHA256="BDD97533C7626FF64DF8D638CDEADB960303D4DA3870D199D4F10D665BEA3C6B">
+            <![CDATA[https://github.com/SFGrenade/MetabusserCheatMod/releases/download/v1.5.0.1/CarefreeRngReset.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/MetabusserCheatMod/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/MetabusserCheatMod/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>CursedMod</Name>
         <DisplayName>Cursed Mod</DisplayName>
         <Description>This mod does miscellaneous stuff. Like making the game window be dark mode on windows.</Description>
