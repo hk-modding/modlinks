@@ -2862,6 +2862,28 @@ All with an incredible new soundtrack!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>ColosseumTrophy</Name>
+        <DisplayName>Colosseum Trophy</DisplayName>
+        <Description>Reenables the colosseum trophy cut content.</Description>
+        <Version>1.5.0.1</Version>
+        <Link SHA256="FC34AA7EA88D8CAF4BF621EE15EB99CCEF06D72836C887FEA1371D0E113BE206">
+            <![CDATA[https://github.com/SFGrenade/ColosseumTrophy/releases/download/v1.5.0.1/ColosseumTrophy.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/ColosseumTrophy/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/ColosseumTrophy/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>CursedMod</Name>
         <DisplayName>Cursed Mod</DisplayName>
         <Description>This mod does miscellaneous stuff. Like making the game window be dark mode on windows.</Description>
@@ -3192,6 +3214,30 @@ All with an incredible new soundtrack!</Description>
         </Issues>
         <Tags>
             <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>MoreMapMarkers</Name>
+        <DisplayName>More Map Markers</DisplayName>
+        <Description>Adds configurably more map markers.</Description>
+        <Version>1.5.1.2</Version>
+        <Link SHA256="D9C8898243A59753D094D652EA9BAD156FD883BF4D145671F9EC6A5E906418D1">
+            <![CDATA[https://github.com/SFGrenade/MoreMapMarkers/releases/download/v1.5.1.2/MoreMapMarkers.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/MoreMapMarkers/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/MoreMapMarkers/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
         </Tags>
         <Authors>
             <Author>SFGrenade</Author>
