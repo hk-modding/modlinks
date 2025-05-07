@@ -8708,4 +8708,22 @@ Enjoy!</Description>
             <Author>Egir</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Fishing</Name>
+        <Description>Adds a fishing minigame to the randomizer</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="57a91718d92d65296962d1e6e336f3ddfbf3d85829402346c973d32e1c3eda9b">https://github.com/dpinela/Fishing/releases/download/v1.0/Fishing.zip</Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>https://github.com/dpinela/Fishing</Repository>
+    </Manifest>
+    <Manifest>
+        <Name>RomanNumerals</Name>
+        <Description>Converts all numbers to the Roman numeral system</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="f370b8d3ac2c28ee159751df95f838ebd206affe0d4e889273b6ede44c7c7a7a">https://github.com/dpinela/RomanNumerals/releases/download/v1.0/RomanNumerals.zip</Link>
+        <Dependencies></Dependencies>
+        <Repository>https://github.com/dpinela/RomanNumerals</Repository>
+    </Manifest>
 </ModLinks>
