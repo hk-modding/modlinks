@@ -239,6 +239,23 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>BingoBoardReplay</Name>
+        <Description>A mod for bingo tournament organizers to help restream the board when the players have stream delay. See GitHub readme for usage. </Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="01DE45E7F79F5D5E5BF0676825A878307B8B68921EC2D372CAABDFC3059CAA07">
+            <![CDATA[https://github.com/TheRealAlph4/HollowKnight.BingoBoardReplay/releases/download/v1.0.0.0/BingoBoardReplay.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>BingoSync</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheRealAlph4/HollowKnight.BingoBoardReplay]]>
+        </Repository>
+        <Authors>
+            <Author>Alph4</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>ModCommon</Name>
         <Description>A hollow knight mod that provides an API of helpers and other utilities for modding hollow knight.
 Not recommended for use in new mods.</Description>
@@ -255,6 +272,21 @@ Not recommended for use in new mods.</Description>
         </Tags>
         <Authors>
             <Author>Kerr1291</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>DebugCharms</Name>
+        <Description>A Debug extension specifically for charms</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="8E39A846054FB33CD2E2A0BFB97D2F031E87DB4783AF4449CA6C2FFAE4E8B9DC"><![CDATA[https://github.com/TheMathGeek314/DebugCharms/releases/download/v1.0.0.0/DebugCharms.zip]]></Link>
+        <Dependencies>
+            <Dependency>DebugMod</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/DebugCharms/]]>
+        </Repository>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -1223,9 +1255,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>4.0.0.1</Version>
-        <Link SHA256="A1B26383275AB816CEB18AA83A96BC6D3890334EA8EBCC34CF2D3DB20F202F82">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.1/BreakableWallRandomizer.zip]]>
+        <Version>4.0.0.2</Version>
+        <Link SHA256="398555620725CC06C555F11750ECF5A1AF197FF4B0A9930269D62F5DC1E37589">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.2/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -2734,9 +2766,9 @@ All with an incredible new soundtrack!</Description>
         <Name>AdditionalMaps</Name>
         <DisplayName>Additional Maps</DisplayName>
         <Description>Adds white palace and godhome maps. The white palace one is next to the bench in the big room. The godhome one is next to the bench above the pantheons.</Description>
-        <Version>1.5.4.0</Version>
-        <Link SHA256="0B787F11973A313383C34F6A4F87B5593863652F9E96B404BB319EABBBFCF0EE">
-            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.4.0/AdditionalMaps.zip]]>
+        <Version>1.5.4.1</Version>
+        <Link SHA256="78F34209CA461769F15705B73F1C2437BFCFD8894D3DB2201DD4F5B4E635957B">
+            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.4.1/AdditionalMaps.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -3311,9 +3343,9 @@ All with an incredible new soundtrack!</Description>
         <Name>ScenePainter</Name>
         <DisplayName>Scene Painter</DisplayName>
         <Description>Creates SVG images of all scenes in the game. Can be initiated manually using the K key.</Description>
-        <Version>1.5.1.5</Version>
-        <Link SHA256="A4C49A9DBDA6E65C3A5B459F9FB54443D56F1110BDF43DC45DD9AED161101984">
-            <![CDATA[https://github.com/SFGrenade/ScenePainter/releases/download/v1.5.1.5/ScenePainter.zip]]>
+        <Version>1.5.1.6</Version>
+        <Link SHA256="7924126A6BED1187FD6D28BC178622AB56CF9E62BE17751F855B4754153DB7E2">
+            <![CDATA[https://github.com/SFGrenade/ScenePainter/releases/download/v1.5.1.6/ScenePainter.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SvgLib</Dependency>
@@ -8640,11 +8672,11 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>HkSpeedUp</Name>
-        <Description>Lets you change game speed</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="943b035a62e0c47d5dea971e7821468e1e586a81e17e178e7091f6de0f48b25c">
-            <![CDATA[https://github.com/gGordey/HkSpeedUp/releases/download/release/release.zip]]>
+        <Name>SpeedChanger</Name>
+        <Description>Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.</Description>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="F29583CC90037AD4DEE38532C536AA02BAAF5F927826DD1675E23A9C0A0A8A2D">
+            <![CDATA[https://github.com/gGordey/HkSpeedUp/releases/download/1.0.3/SpeedChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -8655,6 +8687,25 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>gGordey</Author>
+            <Author>mint</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>GearSwitcher</Name>
+        <Description>A modification that allows you to switch the prepared equipment patterns, as well as switch the chains at any time.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="4D359978CC4BB184B0258F5E31692DE823CEE92362D32EBD3DF15F971275D120">
+            <![CDATA[https://github.com/MorozicH20/GearSwitcher/releases/download/v1.0.0.0/GearSwitcher.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Toggleable Bindings</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/MorozicH20/GearSwitcher]]>
+        </Repository>
+        <Authors>
+            <Author>Egir</Author>
         </Authors>
     </Manifest>
     <Manifest>

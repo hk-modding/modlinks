@@ -3,13 +3,13 @@ name: Validate-XML
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
   workflow_dispatch:
 
+  workflow_call:
+
 jobs:
-  build:
+  validate:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,18 +21,3 @@ jobs:
         run: xmllint --noblanks ModLinks.xml --schema Schemas/ModLinks.xml
       - name: Validate APILinks
         run: xmllint --noblanks ApiLinks.xml --schema Schemas/ApiLinks.xml
-
-  verify:
-    needs: [build]
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-      - name: Setup ModLinksShaVerifier
-        run: |
-          wget https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v2.3/linux.zip
-          unzip linux.zip
-      - name: Verify APILinks SHAs
-        run: ./ModlinksShaVerifier ApiLinks.xml
-      - name: Verify ModLinks.xml SHAs
-        run: ./ModlinksShaVerifier ModLinks.xml
