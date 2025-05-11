@@ -2869,7 +2869,9 @@ All with an incredible new soundtrack!</Description>
         <Link SHA256="FC34AA7EA88D8CAF4BF621EE15EB99CCEF06D72836C887FEA1371D0E113BE206">
             <![CDATA[https://github.com/SFGrenade/ColosseumTrophy/releases/download/v1.5.0.1/ColosseumTrophy.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/ColosseumTrophy/]]>
         </Repository>
