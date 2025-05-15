@@ -8797,4 +8797,29 @@ Enjoy!</Description>
         <Dependencies></Dependencies>
         <Repository>https://github.com/dpinela/RomanNumerals</Repository>
     </Manifest>
+    <Manifest>
+        <Name>DivineFury</Name>
+        <Description>This mod adds a new charm, Divine Fury, which sets the player's health to 1.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="CADC5C60BEB85233FAE47FA6763BAE9E0F507ED46A25CC87D80642150CFF51D3">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.0.0.0/DivineFury.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
