@@ -8799,7 +8799,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>DivineFury</Name>
-        <Description>This mod adds a new charm, Divine Fury, which sets the player's health to 1.</Description>
+        <Description>This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in certain Godhome battles.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="CADC5C60BEB85233FAE47FA6763BAE9E0F507ED46A25CC87D80642150CFF51D3">
             <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.0.0.0/DivineFury.zip]]>
