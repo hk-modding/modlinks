@@ -8822,4 +8822,25 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Silksong-Start-Screen</Name>
+        <Description>A Hollow Knight mod that replaces the game's title screen with a Silksong-themed start screen. Currently, this version only replaces the logo and does not replace the background—mainly due to the lack of high-quality resources. For the best visual match, it's recommended to use the Grimm background.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="54AB2C020F3738F195D9E00C5290AD4A842B4A094939AD35173F0E8E07A2DD42">
+            <![CDATA[https://github.com/hien-ngo29/SilksongStartScreen/releases/download/v1.0.0.0/SilksongStartScreen.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/hien-ngo29/SilksongStartScreen]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/hien-ngo29/SilksongStartScreen/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Hien Ngo</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
