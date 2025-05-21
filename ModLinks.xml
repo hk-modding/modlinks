@@ -8591,9 +8591,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Hivesong</Name>
         <Description>This mod adds a new charm, Hivesong, which increases the damage dealt by pets.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="86CE7F384987D2311C52415D7AAE55510F63F7DE51FCE6FEE202E28934827348">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.1.0.0/Hivesong.zip]]>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="878D98676B609364353E9DAE6272B33B23ED8199F32F3F56DAF8BA973ACB5BEA">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.1.0.1/Hivesong.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -8799,10 +8799,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>DivineFury</Name>
-        <Description>This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in certain Godhome battles.</Description>
-        <Version>1.0.0.0</Version>
+        <Description>This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.</Description>
+        <Version>1.0.0.1</Version>
         <Link SHA256="CADC5C60BEB85233FAE47FA6763BAE9E0F507ED46A25CC87D80642150CFF51D3">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.0.0.0/DivineFury.zip]]>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.0.0.1/DivineFury.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
