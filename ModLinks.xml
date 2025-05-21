@@ -4952,9 +4952,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodSeekerPlus</Name>
         <Description>Various tweaks and utilities to enhance your Godhome experience</Description>
-        <Version>0.24.1.0</Version>
-        <Link SHA256="F223D7ABB7391C2FDF76036C442D8C66E8EBFDEC980CEAD643644F19F5D4F336">
-            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.24.1/GodSeekerPlus.zip]]>
+        <Version>0.25.0.0</Version>
+        <Link SHA256="764DE0440103EC49F1F840DF144E678B79695F07B54D81BCCDC5F6B3E1753A52">
+            <![CDATA[https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.25.0/GodSeekerPlus.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
