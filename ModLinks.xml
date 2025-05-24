@@ -5964,9 +5964,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>3.0.0.0</Version>
-        <Link SHA256="7BBF2DAA56259BF68B6877AFC3D0072B62EA7761D5862859245E47C9A742C4E8">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.0.0/Archipelago.Map.Mod.zip]]>
+        <Version>3.0.1.0</Version>
+        <Link SHA256="FB849FC3DCD2C13894287AC38C53DFC9BBC35D675F531630C09114A399E1A3A7">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.0.1/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
