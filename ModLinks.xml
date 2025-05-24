@@ -5947,9 +5947,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.8.1.0</Version>
-        <Link SHA256="52F9CD163554CD15426DFAEF858B9FDEF44DDFAE1763583959F853EA88A4C8C6">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.8.1/Archipelago.zip]]>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="000E9B193EE1383532F91C2D8DD6A021FA0592581D702A6D40B0102E470EBAFD">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.9.0/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -5964,20 +5964,17 @@ Enjoy!</Description>
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>2.3.1.0</Version>
-        <Link SHA256="A1D43051EFF7D896269433EC8BCA6A537889F96EA922BC85BBB12A6FE7A9C6B8">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.3.1/Archipelago.Map.Mod.zip]]>
+        <Version>3.0.0.0</Version>
+        <Link SHA256="7BBF2DAA56259BF68B6877AFC3D0072B62EA7761D5862859245E47C9A742C4E8">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.0.0/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
-            <Dependency>RCPathfinder</Dependency>
             <Dependency>RandomizerCore</Dependency>
             <Dependency>RandomizerCore.Json</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MapChanger</Dependency>
-            <Dependency>Satchel</Dependency>
-            <Dependency>ConnectionMetadataInjector</Dependency>
-            <Dependency>MagicUI</Dependency>
+            <Dependency>RandoMapCore</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod]]>
@@ -5985,6 +5982,7 @@ Enjoy!</Description>
         <Integrations>
             <Integration>AdditionalMaps</Integration>
             <Integration>Benchwarp</Integration>
+            <Integration>BenchRando</Integration>
         </Integrations>
         <Tags>
             <Tag>Utility</Tag>
