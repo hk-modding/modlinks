@@ -6822,9 +6822,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.6.4.0</Version>
-        <Link SHA256="060D4A8AC8021CE5F81D51216529FEF7A128A28F22EEE7326CC60A3DD0A80B79">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.4/RandoMapMod.zip]]>
+        <Version>3.6.5.0</Version>
+        <Link SHA256="7AD8873F8CB37F28E66ED61B7FB0AF43012D0602839BADD60FD67848A259EA7C">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.5/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
