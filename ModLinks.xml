@@ -5238,14 +5238,14 @@ Enjoy!</Description>
     <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>2.1.1.0</Version>
-        <Link SHA256="65CF7DFE933B54E8D5AA246A9382CE725FF43CB1E4B5324AB88D8DC3066F3A46">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.1/VanillaMapMod.zip]]>
+        <Version>2.1.5.0</Version>
+        <Link SHA256="4243E9C4E50DA857300157A8964176097FA2A6FEB1226918E0081504FA17F1C8">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.5/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
+            <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>MapChanger</Dependency>
             <Dependency>MagicUI</Dependency>
-            <Dependency>ConnectionMetadataInjector</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod]]>
@@ -6288,9 +6288,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Rando Vanilla Tracker</Name>
         <Description>Randomizer 4 add-on for tracking non-randomized items.</Description>
-        <Version>1.2.4.0</Version>
-        <Link SHA256="CD634A4560EB0A00760D9A71CC4C80E52B16E85F9631810EF7B40DB34CD35504">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/releases/download/v1.2.4/RandoVanillaTracker.zip]]>
+        <Version>1.2.5.0</Version>
+        <Link SHA256="7167044C66B8211D80E4450D3917928A316A4836D1A7F3F5F21EFD36404151FD">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/releases/download/v1.2.5/RandoVanillaTracker.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -6796,12 +6796,13 @@ Enjoy!</Description>
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.2.2.0</Version>
-        <Link SHA256="5AFA17FCCCD0DE8037CFFE219E91AA2177DE277D0E366D9AAA0F423B1F66E683">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.2.2/MapChanger.zip]]>
+        <Version>1.3.7.0</Version>
+        <Link SHA256="C77E645BBB3C9807F3552AD99C93B04A3C3068E4BCC8D47A57A87D6D39D60663">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.7/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
+            <Dependency>Satchel</Dependency>
             <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
@@ -6809,6 +6810,7 @@ Enjoy!</Description>
         </Repository>
         <Integrations>
             <Integration>AdditionalMaps</Integration>
+            <Integration>DebugMod</Integration>
         </Integrations>
         <Tags>
             <Tag>Library</Tag>
@@ -6820,27 +6822,26 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.5.8.0</Version>
-        <Link SHA256="DAA305BE38F8EF6D6C31E33753AC8A19B114CBE9DBEA8969065A7652F751EBFC">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.8/RandoMapMod.zip]]>
+        <Version>3.6.4.0</Version>
+        <Link SHA256="060D4A8AC8021CE5F81D51216529FEF7A128A28F22EEE7326CC60A3DD0A80B79">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.4/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
-            <Dependency>MagicUI</Dependency>
             <Dependency>MapChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
+            <Dependency>RandoMapCore</Dependency>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>RandomizerCore</Dependency>
-            <Dependency>RCPathfinder</Dependency>
-            <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/syyePhenomenol/RandoMapMod]]>
         </Repository>
         <Integrations>
-            <Integration>Benchwarp</Integration>
             <Integration>AdditionalMaps</Integration>
+            <Integration>Benchwarp</Integration>
+            <Integration>DebugMod</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
         <Tags>
             <Tag>Utility</Tag>
@@ -7250,9 +7251,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RCPathfinder</Name>
         <Description>A pathfinder library for RandomizerCore.</Description>
-        <Version>1.3.3.0</Version>
-        <Link SHA256="1B13916CBAB8880D51AFBAD16B9C80FC8BBD9F3EF307AA464D79740C94E48BF7">
-            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.3.3/RCPathfinder.zip]]>
+        <Version>1.4.2.0</Version>
+        <Link SHA256="1D25FA80183942176678E5F44294BC1AC0BA034042A014DD209CE4E0079C8395">
+            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.4.2/RCPathfinder.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore</Dependency>
@@ -8839,6 +8840,37 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Hien Ngo</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>RandoMapCore</Name>
+        <Description>A library for RandoMapMod and ArchipelagoMapMod.</Description>
+        <Version>1.0.9.0</Version>
+        <Link SHA256="3AD2CDB9A3C0BB7CD4FB4304BD283A8E130F85A64122FAD2DBF89E6C7CEE0365">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.9/RandoMapCore.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ConnectionMetadataInjector</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>MapChanger</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
+            <Dependency>RCPathfinder</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore]]>
+        </Repository>
+        <Integrations>
+            <Integration>AdditionalMaps</Integration>
+            <Integration>Benchwarp</Integration>
+            <Integration>DebugMod</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>Phenomenol</Author>
         </Authors>
     </Manifest>
 </ModLinks>
