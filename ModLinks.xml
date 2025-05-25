@@ -6796,9 +6796,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.3.7.0</Version>
-        <Link SHA256="C77E645BBB3C9807F3552AD99C93B04A3C3068E4BCC8D47A57A87D6D39D60663">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.7/MapChanger.zip]]>
+        <Version>1.3.8.0</Version>
+        <Link SHA256="916A8830C14F12D8DCF826B47662AFA70846BFD6855D7CC5069DFBE69E410876">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.8/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
