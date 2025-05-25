@@ -4515,9 +4515,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Custom Knight</Name>
         <Description>Supports Skins for Player, Enemies and Area overhauls</Description>
-        <Version>3.1.0.0</Version>
-        <Link SHA256="656c988ed712ee33dde67cd0855065bbaba6667849c3046f2f542ea78a83966d">
-            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v3.1.0-auto-mr/CustomKnight.zip]]>
+        <Version>3.5.0.0</Version>
+        <Link SHA256="928e240f030b008a374f3881663197b438d7660b3a23ce736024bfbf02fbb0d7">
+            <![CDATA[https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v3.5.0/CustomKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
