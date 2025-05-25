@@ -4496,8 +4496,8 @@ Enjoy!</Description>
         <Name>Satchel</Name>
         <Description>A Satchel is a bag, this one has cool stuff for other mods to use.</Description>
         <Version>0.9.3.0</Version>
-        <Link SHA256="472a96d87e1a23945d067b5e917fa6884b6b9d81cdf1c7e5f11c1764e43d39db">
-            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.9.3r/Satchel.zip]]>
+        <Link SHA256="b23bb2f83fd969f018de76dac93f297bbfa07bdbe17f065a566d00fe5e29f47b">
+            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.9.3b/Satchel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
