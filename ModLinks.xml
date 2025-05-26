@@ -4496,8 +4496,8 @@ Enjoy!</Description>
         <Name>Satchel</Name>
         <Description>A Satchel is a bag, this one has cool stuff for other mods to use.</Description>
         <Version>0.9.3.0</Version>
-        <Link SHA256="472a96d87e1a23945d067b5e917fa6884b6b9d81cdf1c7e5f11c1764e43d39db">
-            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.9.3r/Satchel.zip]]>
+        <Link SHA256="b23bb2f83fd969f018de76dac93f297bbfa07bdbe17f065a566d00fe5e29f47b">
+            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.9.3b/Satchel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -8710,8 +8710,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>Screensaver</Name>
         <Description>Adds a screensaver untop of the game.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="64F21CADFAE8317963309315E381566CEEFDCA194DCA0E4130545A12AB65DFCD"><![CDATA[https://github.com/peekagrub/Screensaver/releases/download/1.2.0.0/Screensaver.zip]]></Link>
+        <Version>1.2.0.1</Version>
+        <Link SHA256="FB56115EFF2D2C400E4FC40A3BD996A28A0F381A8AEFCC4DB1E6CA8064290370"><![CDATA[https://github.com/peekagrub/Screensaver/releases/download/1.2.0.1/Screensaver.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
