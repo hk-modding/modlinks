@@ -8845,9 +8845,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapCore</Name>
         <Description>A library for RandoMapMod and ArchipelagoMapMod.</Description>
-        <Version>1.0.10.0</Version>
-        <Link SHA256="A4951AA8FAF980C865CD1732AAD183333301FB133811E66C7712CC45FD4A7DB3">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.10/RandoMapCore.zip]]>
+        <Version>1.0.12.0</Version>
+        <Link SHA256="30F18BA26CCC8A1F84536EDB160CBCD840727619A9736EEA526AC1545B6F7B16">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.12/RandoMapCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
