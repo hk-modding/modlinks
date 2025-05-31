@@ -8915,4 +8915,27 @@ Enjoy!</Description>
             <Author>Hien Ngo</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Zen Charm</Name>
+        <Description>Adds a Charm that allows you to change other charms while not at a bench</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256 ="526eed6a71514028c0fc3121999dce41a5abb57916467aad64fd1c6485524f08">
+            <![CDATA[https://github.com/AdamJiwa/ZenCharm/releases/download/v1.0.0.0/ZenCharm.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/AdamJiwa/ZenCharm/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/AdamJiwa/ZenCharm/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Charm</Tag>
+        </Tags>
+        <Authors>
+            <Author>Adam Jiwa</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
