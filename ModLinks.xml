@@ -2444,9 +2444,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.1.4.1</Version>
-        <Link SHA256="2FFF72FFBDA417534A596E07E9922151354BD5146203C722A5444F36D73A835E">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.4%2B207/RandomizerMod.zip]]>
+        <Version>4.1.5.0</Version>
+        <Link SHA256="d2de7d2d66b519413d70b4ffe68957a0ad7b587acbc329991283c4b4bd9204ad">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.5%2B879/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -2463,9 +2463,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.1.4.0</Version>
-        <Link SHA256="528E9F7EB4E0E9A0E416DFDD1F437D5476E97C4DA4DB7369F0F8103632D1B5F1">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.4%2B578/ItemChanger.zip]]>
+        <Version>2.1.5.0</Version>
+        <Link SHA256="a7290d949e33fd5d36dfd0ae281620257f759f0f68091386d82ec9c72d19ef4d">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.5%2B512/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2487,9 +2487,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>2.0.2.0</Version>
-        <Link SHA256="B9E19B4CB59B88F64A3284E823576DB181864BFF2F11D8357F6CE21BDCBAF67A">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.2/RandomizerCore.zip]]>
+        <Version>2.0.3.0</Version>
+        <Link SHA256="55703e19bbd4faa758d469621f5a7d9f35ad9cb1728e30e2978c325444ca1c96">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.3/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2555,9 +2555,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomLogicInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined logic edits.</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="0914CD274FF11A5F2F9751D98AB98CFFFD10FB619AEC0FAD1D627AEF3BF4C270">
-            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.2/CustomLogicInjector.zip]]>
+        <Version>1.1.3.0</Version>
+        <Link SHA256="3632f788101e219f4e9319babf8d603479121b0524414621c0e96946e10944db">
+            <![CDATA[https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.3/CustomLogicInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
