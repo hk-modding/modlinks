@@ -6412,10 +6412,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Lore Master</Name>
-        <Description>Adds abilities to lore tablets and certain npc. Currently not usable with Randomizer 4!</Description>
-        <Version>2.3.3.0</Version>
-        <Link SHA256="f73d98b11102d6e2a302f6d84963c1b90397f1d4b66f9b6bd97679d1ce755afc">
-            <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.3.3/LoreMaster.zip]]></Link>
+        <Description>Adds abilities to lore tablets and certain npc. Not compatible with Lore Rando! If you're only interested in the rando locations, please use Lore Randomizer instead.</Description>
+        <Version>2.3.4.0</Version>
+        <Link SHA256="ae0e759091f8f1211190c3fd20d955ea396e313eb7199168be67d695849a0e66">
+            <![CDATA[https://github.com/Korzer420/LoreMaster/releases/download/v2.3.4/LoreMaster.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
