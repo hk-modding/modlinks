@@ -2241,9 +2241,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.6.0</Version>
-        <Link SHA256="f53d6d615f98a1378896faecde4f78a8626576d28f9f61c7d61e2f9a4c76fe8e">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.0/RandomizableLevers.zip]]>
+        <Version>1.2.6.1</Version>
+        <Link SHA256="a5e56512c3973878c3086c036ab5583d8aa59cd080fd2767472525ebc358f550">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.1/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
