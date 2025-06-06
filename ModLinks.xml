@@ -8063,6 +8063,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/nerthul11/GrubSpoiler]]>
         </Repository>
+        <Integrations>
+            <Integration>CondensedSpoilerLogger</Integration>
+        </Integrations>
         <Issues>
             <![CDATA[https://github.com/nerthul11/GrubSpoiler/issues]]>
         </Issues>
@@ -8072,9 +8075,6 @@ Enjoy!</Description>
         <Authors>
             <Author>nerthul11</Author>
         </Authors>
-        <Integrations>
-            <Integration>CondensedSpoilerLogger</Integration>
-        </Integrations>
     </Manifest>
     <Manifest>
         <Name>CelesteDash</Name>
