@@ -8059,6 +8059,7 @@ Enjoy!</Description>
         <Link SHA256="9B72DAFD10B064D60139061587F443BDBA4F1E38B9432D2414634FEAC291C705">
             <![CDATA[https://github.com/nerthul11/GrubSpoiler/releases/download/1.0.0.0/GrubSpoiler.zip]]>
         </Link>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/nerthul11/GrubSpoiler]]>
         </Repository>
