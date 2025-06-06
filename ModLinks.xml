@@ -8066,9 +8066,6 @@ Enjoy!</Description>
         <Integrations>
             <Integration>CondensedSpoilerLogger</Integration>
         </Integrations>
-        <Issues>
-            <![CDATA[https://github.com/nerthul11/GrubSpoiler/issues]]>
-        </Issues>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
