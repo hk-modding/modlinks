@@ -104,11 +104,15 @@
 
   <xs:simpleType name="TagType">
     <xs:restriction base="mm:CollapsedString">
+      <xs:enumeration value="Accessibility" />
       <xs:enumeration value="Boss" />
+      <xs:enumeration value="Charm" />
       <xs:enumeration value="Cosmetic" />
       <xs:enumeration value="Expansion" />
       <xs:enumeration value="Gameplay" />
+      <xs:enumeration value="Joke" />
       <xs:enumeration value="Library" />
+      <xs:enumeration value="Optimization" />
       <xs:enumeration value="Utility" />
     </xs:restriction>
   </xs:simpleType>
