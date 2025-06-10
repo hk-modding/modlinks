@@ -48,7 +48,7 @@ If you are familiar with common Git and GitHub workflows, this approach may be m
         <Integration>Another mod's name, like the dependency list, but not a hard dependency, but extra stuff when it is installed alongside</Integration>
     </Integrations>
     <Tags>
-        <Tag>Either of: 'Boss', 'Cosmetic', 'Expansion', 'Gameplay', 'Library', 'Utility'</Tag>
+        <Tag>Either of: 'Accessibility', 'Boss', 'Charm', 'Cosmetic', 'Expansion', 'Gameplay', 'Joke', 'Library', 'Optimization', 'Utility'</Tag>
     </Tags>
     <Authors>
         <Author>An author's name. Has no specific format.</Author>
