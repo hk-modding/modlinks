@@ -6606,7 +6606,7 @@ Enjoy!</Description>
             <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer]]>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince]]>
         </Repository>
         <Integrations>
             <Integration>RandoSettingsManager</Integration>
