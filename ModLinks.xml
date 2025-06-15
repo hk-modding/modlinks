@@ -9056,4 +9056,75 @@ Enjoy!</Description>
             <Author>Hien Ngo</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Mask Remover</Name>
+        <Description>Removes masks from the HUD. Useful for radiant fights.</Description>
+        <Version>1.0.3.0<Version>
+        <Link SHA256="8D62311DDFA627332A388B85E2CED04DB0F798E7DE6F949B0EC53540D2627976">
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.MaskRemover/releases/tag/v1.0.3/MaskRemover.dll]]>
+        </Link>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.MaskRemover]]>
+        </Repositories>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Author>
+    </Manifest>
+    <Manifest>
+        <Name>Geo Remover</Name>
+        <Description>Removes geo icons from the HUD.</Description>
+        <Version>1.0.3.0<Version>
+        <Link SHA256="E90909768FBE2AA5D241FCF96F9F7E52B7CE5D2DC5CAF829E523D16E79268224">
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.GeoRemover/releases/tag/v1.0.3/GeoRemover.dll]]>
+        </Link>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.GeoRemover]]>
+        </Repositories>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Author>
+    </Manifest>
+    <Manifest>
+        <Name>Invulnerability Indicator</Name>
+        <Description>Adds a visual indicator when the player character is invulnerable outside of screen transitions, invincibility, and invulnerability that is already visually indicated.</Description>
+        <Version>1.0.1.0<Version>
+        <Link SHA256="12C80DBB252C8D39E1FCD5EA39D20576F691008E454B4C2BD6EBB0E097F46B28">
+            <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator/releases/tag/v1.0.1/InvulnerabilityIndicator.dll]]>
+        </Link>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator]]>
+        </Repositories>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Author>
+    </Manifest>
+    <Manifest>
+        <Name>Collision Glitch Remover</Name>
+        <Description>Removes collision-based glitches such as the Gruz mother wall bounce and Collector "sticky feet" glitch. Works the same way as CollectorGlitchRemover except it works in every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.</Description>
+        <Version>1.0.0.0<Version>
+        <Link SHA256="B14AAC4CBC3F51A747A10CD5E53880DBF49B959789FC3FE56ECA47BF5C9024AF">
+            <![CDATA[https://github.com/EarlyHemisphere/HK.CollisionGlitchRemover/releases/download/v1.0.0/CollisionGlitchRemover.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        <Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HK.CollisionGlitchRemover]]>
+        </Repositories>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Author>
+    </Manifest>
 </ModLinks>
