@@ -9116,7 +9116,7 @@ Enjoy!</Description>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
-        <Dependencies>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/EarlyHemisphere/HK.CollisionGlitchRemover]]>
         </Repository>
