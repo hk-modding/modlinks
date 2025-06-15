@@ -9096,7 +9096,7 @@ Enjoy!</Description>
         <Name>Invulnerability Indicator</Name>
         <Description>Adds a visual indicator when the player character is invulnerable outside of screen transitions, invincibility, and invulnerability that is already visually indicated.</Description>
         <Version>1.0.1.0</Version>
-        <Link SHA256="C10FA24AB35F2665F45F3073FB370F985B91F9937FDEFBFBB2AD9066F2B3AAE8">
+        <Link SHA256="9388C6602E67E7C8409468B465C50E538C9FAC40F7CB6629FE3584AD2068BF1F">
             <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator/releases/tag/v1.0.1/InvulnerabilityIndicator.dll]]>
         </Link>
         <Dependencies></Dependencies>
