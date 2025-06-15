@@ -9063,6 +9063,7 @@ Enjoy!</Description>
         <Link SHA256="8D62311DDFA627332A388B85E2CED04DB0F798E7DE6F949B0EC53540D2627976">
             <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.MaskRemover/releases/tag/v1.0.3/MaskRemover.dll]]>
         </Link>
+        <Dependencies></Dependencies>
         <Repository>
             <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.MaskRemover]]>
         </Repository>
@@ -9080,6 +9081,7 @@ Enjoy!</Description>
         <Link SHA256="E90909768FBE2AA5D241FCF96F9F7E52B7CE5D2DC5CAF829E523D16E79268224">
             <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.GeoRemover/releases/tag/v1.0.3/GeoRemover.dll]]>
         </Link>
+        <Dependencies></Dependencies>
         <Repository>
             <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.GeoRemover]]>
         </Repository>
@@ -9097,6 +9099,7 @@ Enjoy!</Description>
         <Link SHA256="12C80DBB252C8D39E1FCD5EA39D20576F691008E454B4C2BD6EBB0E097F46B28">
             <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator/releases/tag/v1.0.1/InvulnerabilityIndicator.dll]]>
         </Link>
+        <Dependencies></Dependencies>
         <Repository>
             <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator]]>
         </Repository>
