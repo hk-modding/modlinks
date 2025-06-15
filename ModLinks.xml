@@ -9065,7 +9065,7 @@ Enjoy!</Description>
         </Link>
         <Repository>
             <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.MaskRemover]]>
-        </Repositories>
+        </Repository>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -9082,7 +9082,7 @@ Enjoy!</Description>
         </Link>
         <Repository>
             <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.GeoRemover]]>
-        </Repositories>
+        </Repository>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -9099,7 +9099,7 @@ Enjoy!</Description>
         </Link>
         <Repository>
             <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator]]>
-        </Repositories>
+        </Repository>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -9119,7 +9119,7 @@ Enjoy!</Description>
         <Dependencies>
         <Repository>
             <![CDATA[https://github.com/EarlyHemisphere/HK.CollisionGlitchRemover]]>
-        </Repositories>
+        </Repository>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
