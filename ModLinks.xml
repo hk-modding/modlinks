@@ -9078,7 +9078,7 @@ Enjoy!</Description>
         <Name>Geo Remover</Name>
         <Description>Removes geo icons from the HUD.</Description>
         <Version>1.0.3.0</Version>
-        <Link SHA256="E90909768FBE2AA5D241FCF96F9F7E52B7CE5D2DC5CAF829E523D16E79268224">
+        <Link SHA256="722E4F901EAFE665B173665CA03A764A0864447A9C4A1D14415B078D52C6B614">
             <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.GeoRemover/releases/tag/v1.0.3/GeoRemover.dll]]>
         </Link>
         <Dependencies></Dependencies>
@@ -9096,7 +9096,7 @@ Enjoy!</Description>
         <Name>Invulnerability Indicator</Name>
         <Description>Adds a visual indicator when the player character is invulnerable outside of screen transitions, invincibility, and invulnerability that is already visually indicated.</Description>
         <Version>1.0.1.0</Version>
-        <Link SHA256="12C80DBB252C8D39E1FCD5EA39D20576F691008E454B4C2BD6EBB0E097F46B28">
+        <Link SHA256="C10FA24AB35F2665F45F3073FB370F985B91F9937FDEFBFBB2AD9066F2B3AAE8">
             <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator/releases/tag/v1.0.1/InvulnerabilityIndicator.dll]]>
         </Link>
         <Dependencies></Dependencies>
