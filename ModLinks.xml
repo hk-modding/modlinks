@@ -9138,4 +9138,31 @@ Enjoy!</Description>
         <Dependencies></Dependencies>
         <Repository>https://github.com/dpinela/RainbowShinies</Repository>
     </Manifest>
+    <Manifest>
+        <Name>Architect</Name>
+        <Description>A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="84dcafc19bd7a3f65b14a16d13a34c422f6e67c56c9334ff03c29c318eb071d4">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/Release/Architect.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/Architect]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/Architect/issues]]>
+        </Issues>
+        <Integrations>
+            <Integration>HKMP</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
