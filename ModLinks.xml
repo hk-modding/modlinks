@@ -9131,6 +9131,14 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>RainbowShinies</Name>
+        <Description>Makes all shinies have a random color</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="8ee2f97d80e553f06c7dc1fa6a45b8c273b1f11805942192f11e56bb0c64f635">https://github.com/dpinela/RainbowShinies/releases/download/v1.0/RainbowShinies.zip</Link>
+        <Dependencies></Dependencies>
+        <Repository>https://github.com/dpinela/RainbowShinies</Repository>
+    </Manifest>
+    <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.</Description>
         <Version>1.0.0.0</Version>
