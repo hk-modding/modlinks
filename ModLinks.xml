@@ -3464,6 +3464,31 @@ All with an incredible new soundtrack!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>ScreenResolution</Name>
+        <DisplayName>Screen Resolution</DisplayName>
+        <Description>Adds more available screen resolution options.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="F6D78D2A01D6D9C9D6F1050F122BCFFD579405B728DA1DFFF54008D131B38153">
+            <![CDATA[https://github.com/SFGrenade/ScreenResolution/releases/download/v1.5.0.0/ScreenResolution.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/ScreenResolution/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/ScreenResolution/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>SFCore</Name>
         <DisplayName>SFCore</DisplayName>
         <Description>Library mod used by other mods.</Description>
