@@ -9205,4 +9205,24 @@ Enjoy!</Description>
             <Author>cometcake575</Author>
         </Authors>
     </Manifest>
+    <?xml version="1.0" encoding="utf-8"?>
+    <Manifest>
+        <Name>ConfigurableDamage</Name>
+        <Description>Configurable Damage</Description>
+        <Version>1.2.0</Version>
+        <Link SHA256="2a601407851585d5be88772bfe2759e66c212fa0820da64f737ba0d98512c23e">
+            <![CDATA[https://github.com/F1NS3N/ConfigurableDamage/releases/tag/ConfigurableDamage-v1.2.0]]> 
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/F1NS3N/ConfigurableDamage]]> 
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>FIN</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
