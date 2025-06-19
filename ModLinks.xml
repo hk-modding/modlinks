@@ -9205,4 +9205,22 @@ Enjoy!</Description>
             <Author>cometcake575</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>ConfigurableMaskDamage</Name>
+        <Description>Changes the amount of damage dealt to the knight</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="a58ef6e1a36f085fcdde7dbb1c53582a764aa6d30b563c67dff5e9da7577d41a">
+            <![CDATA[https://github.com/F1NS3N/ConfigurableMaskDamage/releases/tag/ConfigurableMaskDamage-v1.0.0]]> 
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/F1NS3N/ConfigurableMaskDamage]]> 
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>FIN</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
