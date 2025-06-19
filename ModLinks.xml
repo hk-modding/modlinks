@@ -6939,9 +6939,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.6.5.0</Version>
-        <Link SHA256="7AD8873F8CB37F28E66ED61B7FB0AF43012D0602839BADD60FD67848A259EA7C">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.5/RandoMapMod.zip]]>
+        <Version>3.6.6.0</Version>
+        <Link SHA256="E5B60815E1A9125689BE0F1912EAA0CD02D152430188EDA7B20C000AAB05CD49">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.6/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -7368,9 +7368,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RCPathfinder</Name>
         <Description>A pathfinder library for RandomizerCore.</Description>
-        <Version>1.4.2.0</Version>
-        <Link SHA256="1D25FA80183942176678E5F44294BC1AC0BA034042A014DD209CE4E0079C8395">
-            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.4.2/RCPathfinder.zip]]>
+        <Version>1.4.5.0</Version>
+        <Link SHA256="64A215FE7818543C68D1AB5FE1D8D8C924FAA825DF29F6A2F098CFC1052E98EE">
+            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.4.5/RCPathfinder.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore</Dependency>
@@ -8983,9 +8983,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapCore</Name>
         <Description>A library for RandoMapMod and ArchipelagoMapMod.</Description>
-        <Version>1.0.12.0</Version>
-        <Link SHA256="30F18BA26CCC8A1F84536EDB160CBCD840727619A9736EEA526AC1545B6F7B16">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.12/RandoMapCore.zip]]>
+        <Version>1.0.14.0</Version>
+        <Link SHA256="098D39FA97E70A566370B69A61CEDA6A17DF9CAC747BC7816E18A8EA1386A58B">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.14/RandoMapCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
