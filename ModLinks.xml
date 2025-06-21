@@ -9015,9 +9015,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Smart Nail</Name>
         <Description>Qol mod for RandoPlus,which auto-upgrades your nail in Godhome and in dream bosses fights.Doesn't work with combat or curse rando.</Description>
-        <Version>1.3.5.0</Version>
-        <Link SHA256 ="1D6C3522E935523E65E4DE5BF5F671592D947B9C5550A395F07023DFA176B6E7">
-            <![CDATA[https://github.com/Roma-337/SmartNail/releases/download/v1.3.5/SmartNail.zip]]>
+        <Version>1.3.5.5</Version>
+        <Link SHA256 ="51D44499C23B281E4B62C328C393F0B62A0DA4C9FC542CECCDECD9BC84FADBFE">
+            <![CDATA[https://github.com/Roma-337/SmartNail/releases/download/v1.3.5.5/SmartNail.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
