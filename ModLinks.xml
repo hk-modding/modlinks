@@ -9209,9 +9209,9 @@ Enjoy!</Description>
       <Manifest>
         <Name>ConfigurableMaskDamage</Name>
         <Description>Changes the amount of damage dealt to the knight</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="6f63dedfdd5bf695a440d4aad5de1ee7d29e707f55a46684ce2c9448609381b3">
-            <![CDATA[https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.1.0/ConfigurableMaskDamage.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="b60afa25359414551686986eb33164b6ee439638a869c6fed82eec306eb269a8">
+            <![CDATA[https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.1.1/ConfigurableMaskDamage.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
