@@ -6914,9 +6914,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.3.8.0</Version>
-        <Link SHA256="916A8830C14F12D8DCF826B47662AFA70846BFD6855D7CC5069DFBE69E410876">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.8/MapChanger.zip]]>
+        <Version>1.3.9.0</Version>
+        <Link SHA256="4338862CD8ACA9C7FE04B7C7A718B160704E258BD97FF3006C99C44179B42B0D">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.9/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -6940,9 +6940,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.6.6.0</Version>
-        <Link SHA256="E5B60815E1A9125689BE0F1912EAA0CD02D152430188EDA7B20C000AAB05CD49">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.6/RandoMapMod.zip]]>
+        <Version>3.6.7.0</Version>
+        <Link SHA256="0F3830F7E0729001904D3AFE1A62742D8F3AA20A4EDB6026D378DD101D3A490A">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.7/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8984,9 +8984,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapCore</Name>
         <Description>A library for RandoMapMod and ArchipelagoMapMod.</Description>
-        <Version>1.0.14.0</Version>
-        <Link SHA256="098D39FA97E70A566370B69A61CEDA6A17DF9CAC747BC7816E18A8EA1386A58B">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.14/RandoMapCore.zip]]>
+        <Version>1.0.15.0</Version>
+        <Link SHA256="E786E8712D13F2E1B1BE045079F8868687DDB6F40A0DD8638D0C920378D2B617">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.15/RandoMapCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
