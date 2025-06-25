@@ -6688,6 +6688,9 @@ Enjoy!</Description>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>DarknessRandomizer</Name>
@@ -6713,6 +6716,9 @@ Enjoy!</Description>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Mimicpocalypse</Name>
@@ -6730,6 +6736,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.Mimicpocalypse]]>
         </Repository>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MoreDoors</Name>
@@ -6755,57 +6764,9 @@ Enjoy!</Description>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
-    </Manifest>
-    <Manifest>
-        <Name>TreasureHunt</Name>
-        <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>1.4.1.0</Version>
-        <Link SHA256="D2CC4B9D435C123AE8A8ACE305CDA3F0164356B6698EB4645C0241DE194FD993">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.4.1.0/TreasureHunt.zip]]>
-        </Link>
-        <Dependencies>
-            <Dependency>ConnectionMetadataInjector</Dependency>
-            <Dependency>ItemChanger</Dependency>
-            <Dependency>MagicUI</Dependency>
-            <Dependency>MenuChanger</Dependency>
-            <Dependency>PurenailCore</Dependency>
-            <Dependency>Randomizer 4</Dependency>
-            <Dependency>SFCore</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt]]>
-        </Repository>
-        <Integrations>
-            <Integration>Randomizer 4</Integration>
-            <Integration>RandoSettingsManager</Integration>
-        </Integrations>
-        <Tags>
-            <Tag>Gameplay</Tag>
-        </Tags>
-    </Manifest>
-    <Manifest>
-        <Name>UnRando</Name>
-        <Description>A Rando 4 connection which fixes the order in which rando items are obtained.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="1CBE076892AE547EA1C1935B656C2B5E0E1E3A22948DAE5A01E4DBD724538F2B">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.UnRando/releases/download/v1.1.0.0/UnRando.zip]]>
-        </Link>
-        <Dependencies>
-            <Dependency>ItemChanger</Dependency>
-            <Dependency>MenuChanger</Dependency>
-            <Dependency>PurenailCore</Dependency>
-            <Dependency>RandomizerCore</Dependency>
-            <Dependency>Randomizer 4</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.UnRando]]>
-        </Repository>
-        <Integrations>
-            <Integration>RandoSettingsManager</Integration>
-        </Integrations>
-        <Tags>
-            <Tag>Gameplay</Tag>
-        </Tags>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>PurenailCore</Name>
@@ -6847,27 +6808,9 @@ Enjoy!</Description>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
-    </Manifest>
-    <Manifest>
-        <Name>SpicyRando</Name>
-        <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>1.2.2.0</Version>
-        <Link SHA256="3D1A2E6FF6AA0C2A9F97F643C764779A8D843433D3C118FE73F5DC9396077B33">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.2.2.0/SpicyRando.zip]]>
-        </Link>
-        <Dependencies>
-            <Dependency>ItemChanger</Dependency>
-            <Dependency>MenuChanger</Dependency>
-            <Dependency>PurenailCore</Dependency>
-            <Dependency>RandomizerCore.Json</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando]]>
-        </Repository>
-        <Integrations>
-            <Integration>Randomizer 4</Integration>
-            <Integration>RandoSettingsManager</Integration>
-        </Integrations>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Sein</Name>
@@ -6888,6 +6831,33 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.Sein]]>
         </Repository>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>SpicyRando</Name>
+        <Description>Various difficulty increases in specific parts of rando</Description>
+        <Version>1.2.3.0</Version>
+        <Link SHA256="8CEC3E515FC8919623A664B7DBBDF29D1076E2911F2F71B5C4556F8C41219D49">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.2.3.0/SpicyRando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>SpoilerViewerMod</Name>
@@ -6910,6 +6880,66 @@ Enjoy!</Description>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>TreasureHunt</Name>
+        <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
+        <Version>1.4.1.0</Version>
+        <Link SHA256="D2CC4B9D435C123AE8A8ACE305CDA3F0164356B6698EB4645C0241DE194FD993">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.4.1.0/TreasureHunt.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ConnectionMetadataInjector</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>UnRando</Name>
+        <Description>A Rando 4 connection which fixes the order in which rando items are obtained.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="1CBE076892AE547EA1C1935B656C2B5E0E1E3A22948DAE5A01E4DBD724538F2B">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.UnRando/releases/download/v1.1.0.0/UnRando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.UnRando]]>
+        </Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>MapChanger</Name>
