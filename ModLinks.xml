@@ -9332,7 +9332,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/NightFuryoOo/HK_QoLTeleportKit/releases/download/v1.0.0.0/QoLTeleportKit.zip]]>
         </Link>
         <Dependencies>
-            <Dependency></Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/NightFuryoOo/HK_QoLTeleportKit]]> 
