@@ -9307,9 +9307,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CustomizableNailDamage</Name>
         <Description>A Hollow Knight mod that allows you to change the damage of the nail almost as you like.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="0003c77f5e3d312660edb36e38b8e6264dca336d9776fd9e03e0b95d4cc2f5fd">
-            <![CDATA[https://github.com/kon4ino/CustomizableNailDamage/releases/download/1.1/CustomizableNailDamage.zip]]>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="a2044bce18199a011ae30061030972bd6307c6d9e8dde6b9b818d7793905bf5b">
+            <![CDATA[https://github.com/kon4ino/CustomizableNailDamage/releases/download/1.1.0.1/CustomizableNailDamage.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
