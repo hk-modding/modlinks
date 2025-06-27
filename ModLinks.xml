@@ -6588,9 +6588,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.6.1.0</Version>
-        <Link SHA256="941ee4da844a0e01c6430d91b9fa347ed8397854dfee059795c71691bd984d1d">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.6.1/ExtraRando.zip]]></Link>
+        <Version>0.6.2.0</Version>
+        <Link SHA256="1880ba3056f683844780b719de6e8f82dfd840c85d98004abbcc14c59a507b4c">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.6.2/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -6650,9 +6650,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Trial of Crusaders</Name>
         <Description>A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="b70b8504a798fe6790c8145e2a0bdff92bfeca1d81552af3f7e946b638f4f3b4">
-            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.1.0/TrialOfCrusaders.zip]]></Link>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="09d41f25e82b7e9f2e943caa5c89781a29f471b34517b50c15ba5e16aa6b6354">
+            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.1.1/TrialOfCrusaders.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -7095,9 +7095,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Curse Randomizer</Name>
         <Description>Randomizer 4 connection that adds additional cursed options.</Description>
-        <Version>5.1.5.0</Version>
-        <Link SHA256="936e2348d715296de04f76f7f83c53c686cb376f47d6fc2bffad24ab40c47d60">
-            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.5/CurseRandomizer.zip]]></Link>
+        <Version>5.1.6.0</Version>
+        <Link SHA256="acc94d31c8a76ec8c64c6062d30308af9a6c6bcba4e8a7d6b73805e991b6e023">
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.6/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
