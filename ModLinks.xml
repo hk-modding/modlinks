@@ -1687,8 +1687,8 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Transcendence</Name>
         <Description>Adds 15 new charms with various abilities. Can be used with the randomizer.</Description>
-        <Version>1.5.3.0</Version>
-        <Link SHA256="1856562c62a06998eb213c8ad85317856333eafd265c9bb8cdf13b39d59bf832">https://github.com/dpinela/Transcendence/releases/download/v1.5.3/Transcendence.zip</Link>
+        <Version>1.5.4.0</Version>
+        <Link SHA256="9508a59237567d380390e66d1fa77b9e245664db8e68dc7440751880d482f19d">https://github.com/dpinela/Transcendence/releases/download/v1.5.4/Transcendence.zip</Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>MagicUI</Dependency>
