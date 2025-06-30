@@ -9321,9 +9321,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CustomizableNailDamage</Name>
         <Description>Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="2a6df8ffa874922982b4341a8aa2e87c9ba7b76c587be00cf36f22a2666b120b">
-            <![CDATA[https://github.com/kon4ino/CustomizableNailDamage/releases/download/1.2.0.0/CustomizableNailDamage.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="09c6817774e69c42c4bc1a7463bb7312ed9533ca0724e17e04abc4cc26dd563c">
+            <![CDATA[https://github.com/kon4ino/CustomizableNailDamage/releases/download/1.2.1.0/CustomizableNailDamage.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
