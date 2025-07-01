@@ -6701,9 +6701,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.3.1.0</Version>
-        <Link SHA256="2313164cbd123ad48823fe53356b38e4cc29a96bbf697c8df287d5112ac49690">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.3.1/BugPrince.zip]]>
+        <Version>1.3.2.0</Version>
+        <Link SHA256="1edaedd999311c98e3f1dd8cb73639f4c701fd3b26f6299b1aa4a85b68568a81">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.3.2/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -6922,9 +6922,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TreasureHunt</Name>
         <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>1.6.0.0</Version>
-        <Link SHA256="93FEE3473B43E9D44F4A1CC95572A00A34D9DB23EF97D84D56AC6C5CF15E5D44">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.6.0.0/TreasureHunt.zip]]>
+        <Version>1.6.1.0</Version>
+        <Link SHA256="6A7922BD49A9BFB8C27BAB961C95BE34D3028DDDB24774C8FED055A5D8B68C32">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.6.1.0/TreasureHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
