@@ -9380,4 +9380,25 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>DashChanger</Name>
+        <Description>Allows you to change the horizontal and vertical length of the dash.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="d8bb4dc60fb293875997fc1ae63ce1c69f94fafc8e58f8f53a740ca7f321f94b">
+            <![CDATA[https://github.com/AndrewDbdbd/DashChanger/releases/download/HollowKnightMod/DashChanger.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/AndrewDbdbd/DashChanger]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Dbdbd</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
