@@ -586,8 +586,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MidasTouch</Name>
         <Description>Gorgeous Husk drops a charm that turns enemies to gold</Description>
-        <Version>1.0.1.1</Version>
-        <Link SHA256="657B34B514F7E4BA07D0A591EE4345A377EEDEF4FF0584860A61AE28BAC7D8DC"><![CDATA[https://github.com/TheMathGeek314/MidasTouch/releases/download/v1.0.1.1/MidasTouch.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="F4EB92A4B2A423A8C12A9D769B473A6055AC4B1A801BC828F9431FE728D3D076"><![CDATA[https://github.com/TheMathGeek314/MidasTouch/releases/download/v1.1.0.0/MidasTouch.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
@@ -595,6 +595,9 @@ Not recommended for use in new mods.</Description>
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/MidasTouch/]]>
         </Repository>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+        </Integrations>
         <Authors>
             <Author>TheMathGeek_314</Author>
         </Authors>
