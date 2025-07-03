@@ -355,6 +355,7 @@ Not recommended for use in new mods.</Description>
         <Link SHA256="4E1E10A9818B4118A34687B6FC1133E0063A60C77DB01897D4D5C65943601D6E"><![CDATA[https://github.com/TheMathGeek314/Flukemaster/releases/download/v1.0.0.1/Flukemaster.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+            <Dependency>HKTool</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/Flukemaster/]]>
