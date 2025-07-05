@@ -9277,7 +9277,6 @@ Enjoy!</Description>
             <Dependency>Satchel</Dependency>
             <Dependency>MagicUI</Dependency>
             <Dependency>SFCore</Dependency>
-            <Dependency>Scattered and Lost</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/cometcake575/Architect]]>
@@ -9287,6 +9286,7 @@ Enjoy!</Description>
         </Issues>
         <Integrations>
             <Integration>HKMP</Integration>
+            <Integration>Scattered and Lost</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
