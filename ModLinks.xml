@@ -9277,6 +9277,7 @@ Enjoy!</Description>
             <Dependency>Satchel</Dependency>
             <Dependency>MagicUI</Dependency>
             <Dependency>SFCore</Dependency>
+            <Dependency>Scattered and Lost</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/cometcake575/Architect]]>
