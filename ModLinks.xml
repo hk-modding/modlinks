@@ -6723,9 +6723,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.3.3.0</Version>
+        <Version>1.4.0.0</Version>
         <Link SHA256="9f5fab35bb9972de30b1f2c3016c03dbbacc72df90d365e2bf55afb240ac6ffd">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.3.3/BugPrince.zip]]>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -6843,9 +6843,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Scattered and Lost</Name>
         <Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-        <Version>1.4.3.1</Version>
-        <Link SHA256="dd4d16ce0aff80fb72f116d2c2b391fd1eb99cec2025736b129bb351becc63af">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.4.3.1/Scattered.and.Lost.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="6f2deee22bb13e54a8e7801198f64cf296a225ca181d543ac203779c4b856a70">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -6859,6 +6859,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost]]>
         </Repository>
         <Integrations>
+            <Integration>BugPrince</Integration>
             <Integration>CondensedSpoilerLogger</Integration>
             <Integration>DebugMod</Integration>
             <Integration>DecorationMaster</Integration>
