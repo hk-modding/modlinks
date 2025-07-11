@@ -9448,7 +9448,7 @@ Enjoy!</Description>
         <Name>ShowHPOnDeath</Name>
         <Description>A mod that allows you to watch hp after death</Description>
         <Version>1.1.3.0</Version>
-        <Link SHA256="2f4c21eb6827b2441acec033cda8303cd92a4a877b14251bbdeb5fb00dccd8cc">
+        <Link SHA256="3570fda113fc8dde490a460047fd534c70cb2f19a6a15d75a4593adbac20d4b6">
             <![CDATA[https://github.com/F1NS3N/ShowHPOnDeath/releases/download/ShowHPOnDeath-v1.1.3/ShowHPOnDeath.zip]]>
         </Link>
         <Dependencies />
