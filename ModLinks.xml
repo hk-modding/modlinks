@@ -6843,7 +6843,7 @@ Enjoy!</Description>
     <Manifest>
         <Name>Scattered and Lost</Name>
         <Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-        <Version>1.5.1</Version>
+        <Version>1.5.1.0</Version>
         <Link SHA256="f95ca9cbe92451a1f7c21561d6c5d3c1e6e228d67d5f67e78f345accfc2d2b9b">
             <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5.1/Scattered.and.Lost.zip]]>
         </Link>
