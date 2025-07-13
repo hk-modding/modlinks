@@ -6865,6 +6865,7 @@ Enjoy!</Description>
             <Integration>DecorationMaster</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
+            <Integration>Architect</Integration>
         </Integrations>
         <Authors>
             <Author>Purenail</Author>
