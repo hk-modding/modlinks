@@ -9012,6 +9012,7 @@ Enjoy!</Description>
         <Link SHA256="9b0cbb5ba0bf1c1c7f34daa6ec73710be31609b38281bd40f6b6e11be0bbac62">
             <![CDATA[https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.0/ReplayLogger.zip]]>
         </Link>
+         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/MorozicH20/ReplayLogger]]>
         </Repository>
