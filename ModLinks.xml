@@ -9556,12 +9556,12 @@ Enjoy!</Description>
         <Issues>
             <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/issues]]>
         </Issues>
-        <Tags>
-            <Tag>Gameplay</Tag>
-        </Tags>
         <Integrations>
             <Integration>DebugMod</Integration>
         </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
         <Authors>
             <Author>DanielStegink</Author>
         </Authors>
