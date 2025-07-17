@@ -293,6 +293,20 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>RainbowFlukes</Name>
+        <Description>The flukes are rainbow!</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="E19A3341130D773D68A870BFA3F249985193F63EF1D9AF3780AC99CD0D7838FA"><![CDATA[https://github.com/TheMathGeek314/RainbowFlukes/releases/download/v1.0.0.0/RainbowFlukes.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/RainbowFlukes/]]>
+        </Repository>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>PermaFlukes</Name>
         <Description>Flukes don't disappear</Description>
         <Version>1.0.0.1</Version>
