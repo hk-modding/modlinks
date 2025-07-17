@@ -9396,6 +9396,15 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <!-- i'll put SFGrenade's empty mod here just to have some download -->
+        <Name>HK_QoLTeleportKit</Name>
+        <Description>Dummy mod. Install the dependency "QoLTeleportKit" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>QoLTeleportKit</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
         <Name>QoLTeleportKit</Name>
         <Description>QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.</Description>
         <Version>1.0.0.1</Version>
