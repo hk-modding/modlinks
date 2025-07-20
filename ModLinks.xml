@@ -8555,8 +8555,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>RemoveLaggyObjects</Name>
         <Description>Removes various objects from scenes where they can cause major lag.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="6e2cc835fd9b1852ac2ec8d3ab17f9a8b29f145ff830a1dbe03f90d8833d9767"><![CDATA[https://github.com/thegodfriend/RemoveLaggyObjects/releases/download/v1.0.2/RemoveLaggyObjects.zip]]></Link>
+        <Version>1.0.4.0</Version>
+        <Link SHA256="65fb671cc3fe1ded6c59a15bdc41647424ef8fb51e2114d58d3c833c7f8630f4"><![CDATA[https://github.com/thegodfriend/RemoveLaggyObjects/releases/download/v1.0.4/RemoveLaggyObjects.zip]]></Link>
         <Dependencies/>
         <Repository>
             <![CDATA[https://github.com/thegodfriend/RemoveLaggyObjects]]>
