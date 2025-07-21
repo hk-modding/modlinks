@@ -293,6 +293,32 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>VendorRando</Name>
+        <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="06CBED49586664D24B67B2B051D971391E36CDA105718612AD00A1F662C11867"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.0/VendorRando.zip]]></Link>
+        <Dependencies>
+            <Dependency>ConnectionMetadataInjector</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/VendorRando/]]>
+        </Repository>
+        <Integrations>
+            <Integration>CondensedSpoilerLogger</Integration>
+            <Integration>QoL</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>RainbowFlukes</Name>
         <Description>The flukes are rainbow!</Description>
         <Version>1.0.0.0</Version>
