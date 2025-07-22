@@ -295,8 +295,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>VendorRando</Name>
         <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="06CBED49586664D24B67B2B051D971391E36CDA105718612AD00A1F662C11867"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.0/VendorRando.zip]]></Link>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="B1C5514B8E952C151C9AF73DAB38E5C51BF47CC99E492B0701CBAAFC899DD620"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.1/VendorRando.zip]]></Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -9090,9 +9090,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DivineFury</Name>
         <Description>This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="17E681DC284AE013FC63A511EAD2D23CB898C05BB5B367AA8FCE548A61D47761">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.0.0/DivineFury.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="FA20CB5B2D7FEA77283EB868A085CE326CA54032CF2ECB96378DDAF0C6C09F5A">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.1.0/DivineFury.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9105,6 +9105,10 @@ Enjoy!</Description>
         <Issues>
             <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/issues]]>
         </Issues>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+            <Integration>ExaltationExpanded</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
