@@ -9617,4 +9617,25 @@ Enjoy!</Description>
             <Author>RYS</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>DPSMeter</Name>
+        <Description>Mod that allows you to see how much damage you deal per second. Also works with negative damage.</Description>
+        <Version>1.0.0</Version>
+        <Link SHA256="894827b5354211349de535f9dbee928d81c7674082881c63967e1a7c80f3fddd">
+            <![CDATA[https://github.com/kon4ino/DPSMeter/releases/download/1.0.0/DPSMeter.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/kon4ino/DPSMeter]]> 
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>kon4ino</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
