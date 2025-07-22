@@ -8858,9 +8858,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Hivesong</Name>
         <Description>This mod adds a new charm, Hivesong, which increases the damage dealt by pets.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="C4BB950FBC77965B89C917C27B32F5A294C8B741358DF1B4166920BB2B8460D8">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.2.0.0/Hivesong.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="7A71192B73CC3642EEB5E6845D718C13B60670D0BE71882D7EFE16612236E603">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.2.1.0/Hivesong.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -8873,6 +8873,10 @@ Enjoy!</Description>
         <Issues>
             <![CDATA[https://github.com/danielstegink/HollowKnight.Hivesong/issues]]>
         </Issues>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+            <Integration>ExaltationExpanded</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
