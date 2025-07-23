@@ -9387,14 +9387,15 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="724798987773A88D0E01D642FB4F5EAB1138F8006EB35C551A30CC404182351A">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.0.2.0/ExaltationExpanded.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="FC3061FAB41B922EAA8739BD32A5455B69649FAC9D1C357E54CCB2481E733F47">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.1.0.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
             <Dependency>HKMirror</Dependency>
             <Dependency>ItemChanger</Dependency>
+            <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
@@ -9403,6 +9404,9 @@ Enjoy!</Description>
         <Issues>
             <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/issues]]>
         </Issues>
+        <Integrations>
+            <Integration>Pale Court</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
