@@ -9037,8 +9037,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>GearSwitcher</Name>
         <Description>A modification that allows you to switch the prepared equipment patterns, as well as switch the charms at any time.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="375954BBEB7AC5D6C2A4EB8B6A52D94C44342E5D3AAF0C403FFD5AB19108D38E">
+        <Version>1.0.1.0</Version>
+        <Link SHA256="095398ff5fece0a6a0bf432deb07c74c3de131426ab6abe125d6c953a336da09">
             <![CDATA[https://github.com/MorozicH20/GearSwitcher/releases/download/v1.0.1.0/GearSwitcher.zip]]>
         </Link>
         <Dependencies>
@@ -9055,9 +9055,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>ReplayLogger</Name>
         <Description>ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="9b0cbb5ba0bf1c1c7f34daa6ec73710be31609b38281bd40f6b6e11be0bbac62">
-            <![CDATA[https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.0/ReplayLogger.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="178ccde13a0c4c33b908dc28f9bfe51a63830512a0785a165c798f0aa53937a2">
+            <![CDATA[https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.1/ReplayLogger.zip]]>
         </Link>
          <Dependencies />
         <Repository>
