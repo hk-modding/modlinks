@@ -9090,9 +9090,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DivineFury</Name>
         <Description>This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="FA20CB5B2D7FEA77283EB868A085CE326CA54032CF2ECB96378DDAF0C6C09F5A">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.1.0/DivineFury.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="A6CF1286DD3163BF3A422AA3A7211CA81F94DB394A0A554D38D8F65C7C87528F">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.2.0/DivineFury.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
