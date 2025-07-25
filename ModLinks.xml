@@ -9090,9 +9090,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DivineFury</Name>
         <Description>This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="FA20CB5B2D7FEA77283EB868A085CE326CA54032CF2ECB96378DDAF0C6C09F5A">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.1.0/DivineFury.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="A6CF1286DD3163BF3A422AA3A7211CA81F94DB394A0A554D38D8F65C7C87528F">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.2.0/DivineFury.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9338,9 +9338,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.</Description>
-        <Version>1.10.7.0</Version>
-        <Link SHA256="3013693786c3f3166abba6b5bd8dd20109baac23ac218ca9eb5b44296040d3a2">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.10.7.0/Architect.zip]]>
+        <Version>1.10.7.1</Version>
+        <Link SHA256="f60fe39ab698cc3be6f5d89e1770478c04431588e3a130efad15e89430e34d22">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.10.7.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9607,8 +9607,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>MetalOST</Name>
         <Description>Replaces all of Hallownest’s OST’s with custom metal variants made by RYS.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="b43d101085eedab519ab6ce43305c761168fbaa72a29dcd3f64d34de23836f87"><![CDATA[https://github.com/maskedcreeper10/MetalOST/releases/download/v1.0.0.1/MetalOST.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="ee1b027a6ac6b8c8a2c91733c4d26f011d989b7e352ccf7dc4fb3ccdb3746d31"><![CDATA[https://github.com/maskedcreeper10/MetalOST/releases/download/v1.1.0.0/MetalOST.zip]]></Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/maskedcreeper10/MetalOST]]>
