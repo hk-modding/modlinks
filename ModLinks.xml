@@ -9658,11 +9658,11 @@ Enjoy!</Description>
             <Author>kon4ino</Author>
         </Authors>
     </Manifest>
-  <Manifest>
+    <Manifest>
         <Name>Pale Court Charms</Name>
-        <Description>Adds charms from Pale Court.Made to allow compatibility with mods that don't work with the main Pale Court.Works with Randomizer.</Description>
+        <Description>Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer.</Description>
         <Version>1.0.0.0</Version>
-      <Link SHA256="DEE20D5D00966B73034D27FCAC84064097444872E90E0A896BA4F940F08E6C2B">
+        <Link SHA256="DEE20D5D00966B73034D27FCAC84064097444872E90E0A896BA4F940F08E6C2B">
             <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.0.0/PaleCourtCharms.zip]]>
         </Link>
         <Dependencies>
@@ -9674,7 +9674,7 @@ Enjoy!</Description>
         </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
-            <Integration>Rando Settings Manager</Integration>
+            <Integration>RandoSettingsManager</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
