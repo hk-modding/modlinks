@@ -9658,4 +9658,89 @@ Enjoy!</Description>
             <Author>kon4ino</Author>
         </Authors>
     </Manifest>
+  <Manifest>
+        <Name>Pale Court Charms</Name>
+        <Description>Adds charms from Pale Court.Made to allow compatibility with mods that don't work with the main Pale Court.Works with Randomizer.</Description>
+        <Version>1.0.0.0</Version>
+      <Link SHA256="DEE20D5D00966B73034D27FCAC84064097444872E90E0A896BA4F940F08E6C2B">
+            <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.0.0/PaleCourtCharms.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Roma-337/PaleCourtCharms]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+            <Integration>Rando Settings Manager</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Roma 337</Author>
+            <Author>MEBI</Author>
+            <Author>Zaliant</Author>
+            <Author>Saleh</Author>
+            <Author>HooKnows</Author>
+            <Author>RiverRobot</Author>
+            <Author>RedFrog</Author>
+            <Author>SFGrenade</Author>
+            <Author>Clazex</Author>
+            <Author>Jngo102</Author>
+            <Author>TheGreatGallus</Author>
+            <Author>56</Author>
+            <Author>Link459</Author>
+            <Author>Chaktis</Author>
+            <Author>KitsuneMedia</Author>
+            <Author>FoldingPapers</Author>
+            <Author>Gauthier</Author>
+            <Author>CarsonComposes</Author>
+            <Author>MAT</Author>
+            <Author>SovereignElise</Author>
+            <Author>Rotten Legacy</Author>
+            <Author>mossbag</Author>
+            <Author>Sarart</Author>
+            <Author>JoSeBach</Author>
+            <Author>RocketFire20</Author>
+            <Author>Manno Stone</Author>
+            <Author>HelenSB</Author>
+            <Author>Azerod</Author>
+            <Author>Whisky</Author>
+            <Author>Croissant</Author>
+            <Author>HuntHussle</Author>
+            <Author>General Milky</Author>
+            <Author>Knightmere</Author>
+            <Author>Erie</Author>
+            <Author>Spoonsei</Author>
+            <Author>Pan</Author>
+            <Author>DwarfWoot</Author>
+            <Author>Schy</Author>
+            <Author>Alprechim</Author>
+            <Author>ygsbzr</Author>
+            <Author>Yisrael</Author>
+            <Author>KamaKiller</Author>
+            <Author>Piquant Trobbio</Author>
+            <Author>WaxOcelot</Author>
+            <Author>Plush</Author>
+            <Author>ShadicD20</Author>
+            <Author>Chrome</Author>
+            <Author>Exempt-Medic</Author>
+            <Author>CrankyTemplar</Author>
+            <Author>MyPetCactus</Author>
+            <Author>Mulhima</Author>
+            <Author>Frunobulaxian</Author>
+            <Author>AshtinPeaks</Author>
+            <Author>PizzaBox</Author>
+            <Author>Bluevooid</Author>
+            <Author>TheBlueVirus</Author>
+            <Author>Dark_Prelate</Author>
+            <Author>Nerthul11</Author>
+            <Author>Hotspring</Author>
+            <Author>Lethal_Vessel</Author>
+            <Author>Risto The Chicken</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
