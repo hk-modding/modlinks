@@ -9743,4 +9743,18 @@ Enjoy!</Description>
             <Author>Risto The Chicken</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>HKMP.VoiceChat</Name>
+        <Description>An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="cfbc1e3d2bd1d1d9ebc3856e4ebabf6e9c7e896cec6a26982c710abf1e4424e5">
+            <![CDATA[https://github.com/Extremelyd1/HKMP.VoiceChat/releases/download/v0.1.0/HKMPVoiceChat.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Extremelyd1/HKMP.VoiceChat/]]>
+        </Repository>
+    </Manifest>
 </ModLinks>
