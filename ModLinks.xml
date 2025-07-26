@@ -293,6 +293,22 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>SkillCharms</Name>
+        <Description>Skills are now equippable charms</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="57FCDE3D3D26176F487B975F68FD758D3FDE39B75574C04F4FED307A5B6326D2"><![CDATA[https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.0.0/SkillCharms.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/SkillCharms/]]>
+        </Repository>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>VendorRando</Name>
         <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
         <Version>1.0.0.1</Version>
