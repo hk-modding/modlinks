@@ -300,6 +300,7 @@ Not recommended for use in new mods.</Description>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
+            <Dependency>MoreNotches</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/SkillCharms/]]>
@@ -3360,6 +3361,54 @@ All with an incredible new soundtrack!</Description>
         </Repository>
         <Issues>
             <![CDATA[https://github.com/SFGrenade/MoreMapMarkers/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>MoreMasks</Name>
+        <DisplayName>More Masks</DisplayName>
+        <Description>Makes more masks available to be displayed. Also works for lifeblood masks. By default it shows 28 masks per row. Can be adjusted by editing the globalsettings file of this mod.</Description>
+        <Version>1.5.0.1</Version>
+        <Link SHA256="90310FBD2D7FB735351CB4089552EB84ABF3AF80D95FA550C48CC88F32C6A8C0">
+            <![CDATA[https://github.com/SFGrenade/MoreMasks/releases/download/v1.5.0.1/MoreMasks.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/MoreMasks/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/MoreMasks/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>MoreNotches</Name>
+        <DisplayName>More Notches</DisplayName>
+        <Description>Makes more charm notches available to be displayed. Also works for overcharm and charm detail notches. By default it shows up to 50 equipped notches and 20 charm detail notches. Can be adjusted by editing the globalsettings file of this mod.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="92B7FA09D41CB35E85205A5E5E52ED02DA35014C3CC759058AD906E4FE09C30C">
+            <![CDATA[https://github.com/SFGrenade/MoreNotches/releases/download/v1.5.0.0/MoreNotches.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/MoreNotches/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/MoreNotches/issues/]]>
         </Issues>
         <Tags>
             <Tag>Utility</Tag>
