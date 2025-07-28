@@ -6162,9 +6162,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.9.0.0</Version>
-        <Link SHA256="000E9B193EE1383532F91C2D8DD6A021FA0592581D702A6D40B0102E470EBAFD">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.9.0/Archipelago.zip]]>
+        <Version>0.10.0.0</Version>
+        <Link SHA256="9FB5EC5204FC83BB93C1752440D554695DD2ECC20F1253D1F9584E338AEBA219">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.10.0/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -6179,9 +6179,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>3.1.1.0</Version>
-        <Link SHA256="65A6132209949B3B5F69D7233C117FC802CBEAA76C51CF684B97855D7462D481">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.1/Archipelago.Map.Mod.zip]]>
+        <Version>3.1.2.0</Version>
+        <Link SHA256="23419EE3A108FFA57C13BBBA23D22451CA6CA0469214E5E8E89EDD62CFAD16CE">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.2/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
