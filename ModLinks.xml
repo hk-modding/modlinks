@@ -9452,9 +9452,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="FC3061FAB41B922EAA8739BD32A5455B69649FAC9D1C357E54CCB2481E733F47">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.1.0.0/ExaltationExpanded.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="640E6DA1FCED1E1B6659DF5F7EB68BA73C2BA949C1E742403421B2F3C6585074">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.1.1.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
