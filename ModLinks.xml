@@ -9403,9 +9403,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.</Description>
-        <Version>1.11.0.3</Version>
-        <Link SHA256="39ec1e1032d556fbdb90e1e3e1596e455d351ade7a5e8bbeab2784915d606d33">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.11.0.3/Architect.zip]]>
+        <Version>1.11.0.4</Version>
+        <Link SHA256="c91cc0d6fd782d0157bd0c674de0b689759e866faaf8fa1a3ba385ec0695cafd">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.11.0.4/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
