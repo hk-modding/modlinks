@@ -9144,6 +9144,7 @@ Enjoy!</Description>
          <Dependencies>
              <Dependency>Osmi</Dependency>
              <Dependency>Satchel</Dependency>
+             <Dependency>Vasi</Dependency>
          </Dependencies>
         <Repository>
             <![CDATA[https://github.com/MorozicH20/SafeGodseekerQoL]]>
@@ -9153,7 +9154,6 @@ Enjoy!</Description>
             <Author>TheMulhima</Author>
             <Author>royitaqi</Author>
             <Author>flibber-hk</Author>
-            <Author>fifty-six</Author>
             <Author>Egir</Author>
         </Authors>
     </Manifest>
