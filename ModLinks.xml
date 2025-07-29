@@ -2863,10 +2863,10 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>Stories of a HK player - Chapter 2</Name>
-        <Description>Dummy mod. Install the dependency "" directly.</Description>
+        <Description>Dummy mod. Install the dependency "StoriesOfaHkPlayer-Ch2" directly.</Description>
         <Version>9.9.9.9</Version>
         <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency></Dependency></Dependencies>
+        <Dependencies><Dependency>StoriesOfaHkPlayer-Ch2</Dependency></Dependencies>
         <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
     </Manifest>
     <Manifest>
@@ -3717,7 +3717,7 @@ All with an incredible new soundtrack!</Description>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/issues/]]>
         </Issues>
         <Integrations>
-            <Integration></Integration>
+            <Integration>StoriesOfaHkPlayer-Ch2</Integration>
         </Integrations>
         <Tags>
             <Tag>Cosmetic</Tag>
