@@ -2863,10 +2863,10 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>Stories of a HK player - Chapter 2</Name>
-        <Description>Dummy mod. Install the dependency "StoriesOfaHkPlayer-Ch2" directly.</Description>
+        <Description>Dummy mod. Install the dependency "" directly.</Description>
         <Version>9.9.9.9</Version>
         <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>StoriesOfaHkPlayer-Ch2</Dependency></Dependencies>
+        <Dependencies><Dependency></Dependency></Dependencies>
         <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
     </Manifest>
     <Manifest>
@@ -3717,10 +3717,11 @@ All with an incredible new soundtrack!</Description>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/issues/]]>
         </Issues>
         <Integrations>
-            <Integration>StoriesOfaHkPlayer-Ch2</Integration>
+            <Integration></Integration>
         </Integrations>
         <Tags>
             <Tag>Cosmetic</Tag>
+            <Tag>Expansion</Tag>
         </Tags>
         <Authors>
             <Author>SFGrenade</Author>
@@ -3731,9 +3732,9 @@ All with an incredible new soundtrack!</Description>
         <DisplayName>Stories of a HK player - Chapter 2</DisplayName>
         <Description>The second iteration of a story of a Hollow Knight player and his personalized copy of the game.
 Warning for people streaming this mod: This mod displays your windows/mac/linux username.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="59693C7BA14E497AF191BA5FC67D16F9CCB7B7109C055533248887125BC17E47">
-            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/releases/download/v1.5.1/StoriesOfaHkPlayer_Ch2.zip]]>
+        <Version>1.5.2.1</Version>
+        <Link SHA256="9458E95F34C66943299A14CC247BA9C61A48ABFBA36AF2F8C1701D055D194D35">
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/releases/download/v1.5.2.1/StoriesOfaHkPlayer_Ch2.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -3744,6 +3745,9 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
         <Issues>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/issues/]]>
         </Issues>
+        <Integrations>
+            <Integration>StoriesOfaHkPlayer-Ch1</Integration>
+        </Integrations>
         <Tags>
             <Tag>Expansion</Tag>
             <Tag>Gameplay</Tag>
