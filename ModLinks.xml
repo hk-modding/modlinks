@@ -3703,9 +3703,9 @@ All with an incredible new soundtrack!</Description>
         <Name>StoriesOfaHkPlayer-Ch1</Name>
         <DisplayName>Stories of a HK player - Chapter 1</DisplayName>
         <Description>The start of a story of a Hollow Knight player and his personalized copy of the game.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="28FE1E34A8EB8F7C1AE73103603567061EB7580BE8BA724DE21AFD7317FBC6C6">
-            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/releases/download/v1.5/StoriesOfaHkPlayer_Ch1.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="F4F9EB8CDC264D5F57EAD6C0FA68428D137635B7D1E4228A4100FF4AAA776B07">
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/releases/download/v1.5.1.0/StoriesOfaHkPlayer_Ch1.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -3713,6 +3713,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/]]>
         </Repository>
+        <Integrations>
+            <Integration>StoriesOfaHkPlayer-Ch2</Integration>
+        </Integrations>
         <Issues>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/issues/]]>
         </Issues>
