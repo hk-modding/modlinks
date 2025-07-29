@@ -9135,6 +9135,29 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>SafeGodseekerQoL</Name>
+        <Description>This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="fe9e9faff6b24c124ec82a7bde9bb835a2a0b3d063188e886d77cf3215702d40">
+            <![CDATA[https://github.com/MorozicH20/SafeGodseekerQoL/releases/download/1.0.0.0/SafeGodseekerQoL.zip]]>
+        </Link>
+         <Dependencies>
+             <Dependency>Osmi</Dependency>
+             <Dependency>Satchel</Dependency>
+             <Dependency>Vasi</Dependency>
+         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/MorozicH20/SafeGodseekerQoL]]>
+        </Repository>
+        <Authors>
+            <Author>Clazex</Author>
+            <Author>TheMulhima</Author>
+            <Author>royitaqi</Author>
+            <Author>flibber-hk</Author>
+            <Author>Egir</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Fishing</Name>
         <Description>Adds a fishing minigame to the randomizer</Description>
         <Version>1.0.0.0</Version>
