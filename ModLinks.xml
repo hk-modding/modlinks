@@ -3713,12 +3713,12 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/]]>
         </Repository>
-        <Integrations>
-            <Integration>StoriesOfaHkPlayer-Ch2</Integration>
-        </Integrations>
         <Issues>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/issues/]]>
         </Issues>
+        <Integrations>
+            <Integration>StoriesOfaHkPlayer-Ch2</Integration>
+        </Integrations>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
