@@ -9829,4 +9829,24 @@ Enjoy!</Description>
             <![CDATA[https://github.com/Extremelyd1/HKMP.VoiceChat/]]>
         </Repository>
     </Manifest>
+    <Manifest>
+            <Name>MotionBlur</Name>
+            <Description>Adds motion blur.</Description>
+            <Version>1.0.0.0</Version>
+            <Link SHA256="3f1a55cb7da355a7f725910e3381aed9d54b478cf13fd658a8ea799c87ff4d36">
+            <![CDATA[https://github.com/Reinzer/MotionBlur/releases/download/1.0.0.0/MotionBlur.zip]]>
+            </Link>
+            <Dependencies>
+                <Dependency>Satchel</Dependency>
+            </Dependencies>
+            <Repository>
+                <![CDATA[https://github.com/Reinzer/MotionBlur]]>
+            </Repository>
+            <Tags>
+                <Tag>Gameplay</Tag>
+            </Tags>
+            <Authors>
+                <Author>Reinzer</Author>
+            </Authors>
+        </Manifest>
 </ModLinks>
