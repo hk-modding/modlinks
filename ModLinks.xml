@@ -295,8 +295,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>SkillCharms</Name>
         <Description>Skills are now equippable charms</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="BA153F8DBDC362FFA55A77CE9E7E80627634A01F1DB692A1CBCF81D31C55922D"><![CDATA[https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.1.0/SkillCharms.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="5991CF19D4F777AF6961375C4B48407845ED84DD14659A6F52EB95253792E737"><![CDATA[https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.2.0/SkillCharms.zip]]></Link>
         <Dependencies>
             <Dependency>MoreNotches</Dependency>
             <Dependency>Satchel</Dependency>
@@ -305,6 +305,9 @@ Not recommended for use in new mods.</Description>
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/SkillCharms/]]>
         </Repository>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+        </Integrations>
         <Authors>
             <Author>TheMathGeek_314</Author>
         </Authors>
@@ -9433,9 +9436,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.11.1.3</Version>
-        <Link SHA256="5a70e763e03a8f9ae5288c0fce4e8876b07e4ceb5a9033da9908d7851afc50b0">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.11.1.3/Architect.zip]]>
+        <Version>1.11.2.1</Version>
+        <Link SHA256="d75bd1da6af480b8ee310ef7f71f8a36c9f3dec33336c5d774b874f343bf4b40">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.11.2.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9840,10 +9843,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
             <Name>MotionBlur</Name>
-            <Description>Adds motion blur.</Description>
-            <Version>1.0.0.0</Version>
-            <Link SHA256="adbbf202643e0c5cf2be15b0afd74a92d0e571d3c47b35d692448bdcb98c080b">
-            <![CDATA[https://github.com/Reinzer/MotionBlur/releases/download/1.0.0.0/MotionBlur.zip]]>
+            <Description>Adds motion blur</Description>
+            <Version>1.0.1.0</Version>
+            <Link SHA256="62665946f9f27b41b9767e7f5e29db355c61851b6c42b608cab56d517335a185">
+            <![CDATA[https://github.com/Reinzer/MotionBlur/releases/download/1.0.1.0/MotionBlur.zip]]>
             </Link>
             <Dependencies>
                 <Dependency>Satchel</Dependency>
