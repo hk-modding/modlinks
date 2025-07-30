@@ -9674,14 +9674,15 @@ Enjoy!</Description>
     <Manifest>
         <Name>EnchantedMask</Name>
         <Description>Adds new powerups called Glyphs, which can be purchased from the Mask maker.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="4CA9F364FFB61592C3BD5F2629BABE0FE3FAE5679FA77552218A23D22C72FC38">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.0.1.0/EnchantedMask.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="DFB7969255F602E27150ED48F472F63883816D0748239C79B7F233555D594743">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.1.0.0/EnchantedMask.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
+            <Dependency>DebugMod</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask]]>
@@ -9690,7 +9691,8 @@ Enjoy!</Description>
             <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/issues]]>
         </Issues>
         <Integrations>
-            <Integration>DebugMod</Integration>
+            <Integration>Pale Court</Integration>
+            <Integration>Pale Court Charms</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
