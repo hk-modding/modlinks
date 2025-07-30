@@ -9840,10 +9840,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
             <Name>MotionBlur</Name>
-            <Description>Adds motion blur.</Description>
-            <Version>1.0.0.0</Version>
-            <Link SHA256="adbbf202643e0c5cf2be15b0afd74a92d0e571d3c47b35d692448bdcb98c080b">
-            <![CDATA[https://github.com/Reinzer/MotionBlur/releases/download/1.0.0.0/MotionBlur.zip]]>
+            <Description>Adds motion blur</Description>
+            <Version>1.0.1.0</Version>
+            <Link SHA256="62665946f9f27b41b9767e7f5e29db355c61851b6c42b608cab56d517335a185">
+            <![CDATA[https://github.com/Reinzer/MotionBlur/releases/download/1.0.1.0/MotionBlur.zip]]>
             </Link>
             <Dependencies>
                 <Dependency>Satchel</Dependency>
