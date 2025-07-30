@@ -295,8 +295,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>SkillCharms</Name>
         <Description>Skills are now equippable charms</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="BA153F8DBDC362FFA55A77CE9E7E80627634A01F1DB692A1CBCF81D31C55922D"><![CDATA[https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.1.0/SkillCharms.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="5991CF19D4F777AF6961375C4B48407845ED84DD14659A6F52EB95253792E737"><![CDATA[https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.2.0/SkillCharms.zip]]></Link>
         <Dependencies>
             <Dependency>MoreNotches</Dependency>
             <Dependency>Satchel</Dependency>
@@ -305,6 +305,9 @@ Not recommended for use in new mods.</Description>
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/SkillCharms/]]>
         </Repository>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+        </Integrations>
         <Authors>
             <Author>TheMathGeek_314</Author>
         </Authors>
