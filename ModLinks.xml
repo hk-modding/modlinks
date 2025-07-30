@@ -9088,9 +9088,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SpeedChanger</Name>
         <Description>Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.</Description>
-        <Version>1.1.3.0</Version>
-        <Link SHA256="3c3c2b2a5444b853208629f7137f256f52e3e1138029d1d764bc67ec1a2ec142">
-            <![CDATA[https://github.com/gGordey/SpeedChanger/releases/download/1.1.3/SpeedChanger.zip]]>
+        <Version>1.1.3.1</Version>
+        <Link SHA256="c389fd9929b0fd938aab6af5b8485601a8cf983be7b72219704ebab97ca22d92">
+            <![CDATA[https://github.com/gGordey/SpeedChanger/releases/download/1.0.4/SpeedChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
