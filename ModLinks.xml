@@ -3,6 +3,26 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>Faction Elimination</Name>
+        <Description>A custom gamemode for HKMP where teams collect upgrades and fight each other.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="544cd1e9b8228fa7b9dd551e75af554f070c3331378ed7469e670f71715970f1"><![CDATA[https://github.com/EmptyEagle/FactionElimination/releases/download/v0.1.0.0/FactionElimination.zip]]></Link>
+        <Dependencies>
+            <Dependency>Charm Changer</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>TheHuntIsOn</Dependency>
+            <Dependency>HkmpPouch</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EmptyEagle/FactionElimination]]>
+        </Repository>
+        <Authors>
+            <Author>EmptyEagle</Author>
+            <Author>Nimble102</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Wrong Gravity</Name>
         <Description>Hallownest? Hɐlloʍuǝsʇ!</Description>
         <Version>1.0.0.0</Version>
