@@ -9759,9 +9759,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Pale Court Charms</Name>
         <Description>Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="DEE20D5D00966B73034D27FCAC84064097444872E90E0A896BA4F940F08E6C2B">
-            <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.0.0/PaleCourtCharms.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="02A616D1556EA4C1AF31198E8913210C42D83CF4B6C317548F7F119130349F94">
+            <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.0.1/PaleCourtCharms.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
