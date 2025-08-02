@@ -9726,9 +9726,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>EnchantedMask</Name>
         <Description>Adds new powerups called Glyphs, which can be purchased from the Mask maker.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="DFB7969255F602E27150ED48F472F63883816D0748239C79B7F233555D594743">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.1.0.0/EnchantedMask.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="244B8716ED76A919B4ABF8D749B66C5D1D6B085EE5F7CD6B0CC0C3CEAB188842">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.1.1.0/EnchantedMask.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
