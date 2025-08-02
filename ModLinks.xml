@@ -2,6 +2,27 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+<Manifest>
+    <Name>Charm Editor</Name>
+    <Description>This mod allows you to change charm notches and dashmaster</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="7b8fa4f4327d8c441ff1885f3e5352b81414e2206ef70f2b9a3c9a877935d038"><![CDATA[https://github.com/Vitaxses/HKCharmEditor/releases/download/v1.0.0.0/CharmEditor.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/Vitaxses/HKCharmEditor]]>
+    </Repository>
+    <Issues>
+        <![CDATA[https://github.com/Vitaxses/HKCharmEditor/issues]]>
+    </Issues>
+    <Tags>
+        <Tag>Utility</Tag>
+    </Tags>
+    <Authors>
+        <Author>Vitaxses</Author>
+    </Authors>
+</Manifest>
+
     <Manifest>
         <Name>Faction Elimination</Name>
         <Description>A custom gamemode for HKMP where teams collect upgrades and fight each other.</Description>
