@@ -7172,9 +7172,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TreasureHunt</Name>
         <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>1.6.1.0</Version>
-        <Link SHA256="6A7922BD49A9BFB8C27BAB961C95BE34D3028DDDB24774C8FED055A5D8B68C32">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.6.1.0/TreasureHunt.zip]]>
+        <Version>1.6.3.0</Version>
+        <Link SHA256="9ADCF8B02CEED73DE2965C8F6328B4AB4FAB04D84180C7129EC6998847A95ADE">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.6.3.0/TreasureHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
