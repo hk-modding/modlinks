@@ -49,7 +49,7 @@
         <Version>1.0.0.0</Version>
         <Link SHA256="f2591becc928bc80c24b7802c8d59cf74ce8bb11d1d94b3e916bd9478c16dc6b"><![CDATA[https://github.com/Vitaxses/HKFrameLimiter/releases/download/v1.0.0.0/FrameLimiter.zip]]></Link>
         <Dependencies>
-            <Dependency>Satchel</Dependency
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Vitaxses/HKFrameLimiter/]]>
