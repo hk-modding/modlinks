@@ -6850,9 +6850,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.8.0.0</Version>
-        <Link SHA256="c2c067e7ceb7213e1211c616a95a13b831012fee9da940f3327d293b0d191ee0">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.8.0/ExtraRando.zip]]></Link>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="2c9e186c61137b1ea1a8de135d574a0a8a4426b2bc85ac2d356620e14ec4e943">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.9.0/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
