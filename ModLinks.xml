@@ -6792,9 +6792,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>KorzUtils</Name>
         <Description>Library mod that provide useful functions for other mods.</Description>
-        <Version>0.9.0.0</Version>
-        <Link SHA256="63d6c14c8bb547e565bc2849313da9e4ff28bcdad72633cdb77f2b4fd47c1a2e">
-            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.9.0/KorzUtils.zip]]></Link>
+        <Version>0.10.0.0</Version>
+        <Link SHA256="0d378a796e4e6bae5e2965ba5b136c210e806926d22d3d0ff59432161e6db6e6">
+            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.10.0/KorzUtils.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -6912,9 +6912,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Trial of Crusaders</Name>
         <Description>A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.</Description>
-        <Version>0.2.5.0</Version>
-        <Link SHA256="4b5aa40ab14c1d1ec979f81eadcc8fc2a22a5b6a8cf336cef3b2c3056161d4c5">
-            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.2.5/TrialOfCrusaders.zip]]></Link>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="14f268cda82621fbfc2d497eb3e67521b11c6fd420e531eab4e0d6bb24b97c26">
+            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.3.0/TrialOfCrusaders.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>KorzUtils</Dependency>
