@@ -6949,9 +6949,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.4.2.0</Version>
-        <Link SHA256="7bf2c3180dd5f429dc35438ca068bfb7d5115c0bf53168b605b16fe3ce47c3df">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.2/BugPrince.zip]]>
+        <Version>1.4.3.0</Version>
+        <Link SHA256="32716ab9f30b40a9bac0f76645f41aa1a3ca73421abfac1d5a30dbe0ac4976e5">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.3/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -9241,9 +9241,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>ReplayLogger</Name>
         <Description>ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="60587d06c271a22c5c2e00a00bf916ed04771364145a0f126902d03a02aeea26">
-            <![CDATA[https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.2/ReplayLogger.zip]]>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="65ca031fbb24ec8cd1997bfcfefaec1254dac988367cdc4ecd6adc080f0dc176">
+            <![CDATA[https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.3/ReplayLogger.zip]]>
         </Link>
          <Dependencies />
         <Repository>
