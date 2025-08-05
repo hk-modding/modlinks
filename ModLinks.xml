@@ -9995,4 +9995,24 @@ Enjoy!</Description>
                 <Author>Wangha</Author>
             </Authors>
         </Manifest>
+    <Manifest>
+            <Name>Galien Illusionist</Name>
+            <Description>Modboss. Now there will be two galiens in the arena, one of which is not real.</Description>
+            <Version>1.1.0.0</Version>
+            <Link SHA256="ad619e84568dda91ed25eb0a471ed1410e39b717b60a2f3a3c0728d88de5dbab">
+                <![CDATA[https://github.com/F1NS3N/GalienIllusionist/releases/download/GalienIllusionist-v1.1.0/Gallien_Illusionist.zip]]>
+            </Link>
+            <Dependencies>
+                <Dependency>Vasi</Dependency>
+            </Dependencies>
+            <Repository>
+                <![CDATA[https://github.com/F1NS3N/GalienIllusionist]]>
+            </Repository>
+            <Tags>
+                <Tag>Boss</Tag>
+            </Tags>
+            <Authors>
+                <Author>FIN</Author>
+            </Authors>
+        </Manifest>
 </ModLinks>
