@@ -9596,9 +9596,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="640E6DA1FCED1E1B6659DF5F7EB68BA73C2BA949C1E742403421B2F3C6585074">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.1.1.0/ExaltationExpanded.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="56DC6F034EFF766A2B581C98CF3E312560B95D593EE0379B6A243A04D29B4088">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.2.0.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
@@ -9606,6 +9606,7 @@ Enjoy!</Description>
             <Dependency>ItemChanger</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
+            <Dependency>DanielSteginkUtils</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded]]>
@@ -9788,15 +9789,16 @@ Enjoy!</Description>
     <Manifest>
         <Name>EnchantedMask</Name>
         <Description>Adds new powerups called Glyphs, which can be purchased from the Mask maker.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="244B8716ED76A919B4ABF8D749B66C5D1D6B085EE5F7CD6B0CC0C3CEAB188842">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.1.1.0/EnchantedMask.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="C8944B1BCFF5B7BB9946F551E97E0A5F7FD0739F3255B58305FB22997AE0B242">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.2.0.0/EnchantedMask.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
             <Dependency>DebugMod</Dependency>
+            <Dependency>DanielSteginkUtils</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask]]>
@@ -9804,10 +9806,6 @@ Enjoy!</Description>
         <Issues>
             <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/issues]]>
         </Issues>
-        <Integrations>
-            <Integration>Pale Court</Integration>
-            <Integration>Pale Court Charms</Integration>
-        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
