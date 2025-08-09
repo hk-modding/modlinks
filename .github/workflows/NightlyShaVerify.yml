@@ -1,0 +1,34 @@
+name: Verify-Sha (Nightly)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # nightly
+
+  workflow_dispatch:
+
+jobs:
+  validate:
+    uses: ./.github/workflows/XmlValidation.yml
+
+  verify:
+    needs: [validate]
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup ModLinksShaVerifier
+        run: |
+          wget https://github.com/hk-modding/ModLinksShaVerifier/releases/download/v3.0/linux.zip
+          unzip linux.zip
+      - name: Prepare empty xml file
+        run: |
+          echo '<?xml version="1.0"?>' >empty.xml
+          echo '<ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"' >>empty.xml
+          echo '    xmlns:xsd="http://www.w3.org/2001/XMLSchema"' >>empty.xml
+          echo '    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">' >>empty.xml
+          echo '</ModLinks>' >>empty.xml
+      - name: Verify APILinks SHAs
+        run: ./ModlinksShaVerifier empty.xml ApiLinks.xml
+      - name: Verify ModLinks.xml SHAs
+        run: ./ModlinksShaVerifier empty.xml ModLinks.xml
+
