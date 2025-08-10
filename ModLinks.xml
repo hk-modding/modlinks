@@ -9044,14 +9044,15 @@ Enjoy!</Description>
     <Manifest>
         <Name>Hivesong</Name>
         <Description>This mod adds a new charm, Hivesong, which increases the damage dealt by pets.</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="32A4F87FB4847A6CD6A6BA98834A705179E31387FF690C45C3D99907645D9764">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.2.1.0/Hivesong.zip]]>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="8746DAC75D8A2890F2AA816BD92F6A4403C54F382BABEC2FC579C8546F9533EC">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.3.0.0/Hivesong.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
+            <Dependency>DanielSteginkUtils</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.Hivesong]]>
@@ -9061,7 +9062,7 @@ Enjoy!</Description>
         </Issues>
         <Integrations>
             <Integration>DebugMod</Integration>
-            <Integration>ExaltationExpanded</Integration>
+            <Integration>Exaltation</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -9299,14 +9300,15 @@ Enjoy!</Description>
     <Manifest>
         <Name>DivineFury</Name>
         <Description>This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="A6CF1286DD3163BF3A422AA3A7211CA81F94DB394A0A554D38D8F65C7C87528F">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.2.0/DivineFury.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="3E56A380427AE13A1DAC48200C9FD936FD70E452CCAF5B9B05FAEA8BCDE27FCC">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.2.0.0/DivineFury.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
+            <Dependency>DanielSteginkUtils</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury]]>
@@ -9316,7 +9318,7 @@ Enjoy!</Description>
         </Issues>
         <Integrations>
             <Integration>DebugMod</Integration>
-            <Integration>ExaltationExpanded</Integration>
+            <Integration>Exaltation</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -9687,13 +9689,14 @@ Enjoy!</Description>
     <Manifest>
         <Name>WanderersWisdom</Name>
         <Description>A mod that adds 2 new charms: Wanderer's Wisdom and Wanderer's Guile.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="A52E9294178244CA2F64C82569F490D4C8E50B4111C7DC111CE5145029E853B9">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.0.1.0/WanderersWisdom.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="25D9D076116FE40423C9EDF4904F2CC3BBD08678F8D0B323B7D9A353B66B1F52">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.1.0.0/WanderersWisdom.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
+            <Dependency>DanielSteginkUtils</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom]]>
@@ -9701,6 +9704,9 @@ Enjoy!</Description>
         <Issues>
             <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom/issues]]>
         </Issues>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
