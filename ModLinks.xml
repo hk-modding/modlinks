@@ -220,6 +220,27 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>INFINITY</Name>
+        <Description>A pure vessel boss mod.</Description>
+        <Version>0.0.10.0</Version>
+        <Link SHA256="5af2567484c66feb9e3c1118bf6ee644bd321f6991190e48077e8f8a9db81074">
+            <![CDATA[https://github.com/ROTTEN108/INFINITY/releases/download/v0.0.10.0/INFINITY.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ROTTEN108/INFINITY]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>腐草ROT</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Floor is Lava</Name>
         <Description>Is a floor is lava mod for Hollow Knight. PLease read Read.me</Description>
         <Version>1.0.7.0</Version>
