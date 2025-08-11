@@ -9895,7 +9895,7 @@ Enjoy!</Description>
         <Integrations>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
-            <Integration>Transcendence/Integration>
+            <Integration>Transcendence</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
