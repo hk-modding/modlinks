@@ -302,17 +302,25 @@
     </Manifest>
     <Manifest>
         <Name>Sunset Samsara II</Name>
-        <Description>Modded Radiance. WARNING: Currently the mod's download is slightly special. Go to the mod's folder and move the .dll files one folder up.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="f9decc8c52c1f5731527ddb7010671e3cf751bcfd920a254b1019449bc12cde1">
-            <![CDATA[https://github.com/ROTTEN108/Sunset-Samsara-2/releases/download/v1.0.0.1/Sunset.Samsara.II.zip]]>
+        <Description>Dummy mod. Install the dependency "PURITY" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>PURITY</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>PURITY</Name>
+        <Description>New Version of "Sunset Samsara II". Modded Radiance.</Description>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="c1bd3c4c2e2afdea7a7ffa65127509a239737c1b43588121fb2208027ca9a3c9">
+            <![CDATA[https://github.com/ROTTEN108/PURITY/releases/download/v1.0.3.0/PURITY.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/ROTTEN108/Sunset-Samsara-2]]>
+            <![CDATA[https://github.com/ROTTEN108/PURITY]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
@@ -393,6 +401,32 @@ Not recommended for use in new mods.</Description>
         </Tags>
         <Authors>
             <Author>Kerr1291</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>YetAnotherRandoConnection</Name>
+        <Description>A Randomizer add-on with an assortment of additions</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="1384FBA54C9B11960B0AA559D2302151E521A8AE002C46B6399F6D2816577464"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.0.0.0/YetAnotherRandoConnection.zip]]></Link>
+        <Dependencies>
+            <Dependency>ConnectionMetadataInjector</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/]]>
+        </Repository>
+        <Integrations>
+            <Integration>CondensedSpoilerLogger</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+            <Author>nerthul11</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -1514,9 +1548,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>4.0.1.0</Version>
-        <Link SHA256="2EB9EDD026E240EADCB49216A67D3AE25141DAB0E7E22FB3106FC4686460DED2">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.1.0/BreakableWallRandomizer.zip]]>
+        <Version>4.0.1.1</Version>
+        <Link SHA256="553574B94871ACB8E350B4C5F9354FF35552B3A78B31981F53177B95B0D6C4D9">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.1.1/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -9570,9 +9604,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.16.3.0</Version>
-        <Link SHA256="3fe054be2039081937d11996728ba6bc44eed4e7de9a9f7e867d99ec13688d04">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.3.0/Architect.zip]]>
+        <Version>1.16.4.0</Version>
+        <Link SHA256="8322a7f2b1dab52606cbfe2e4d3601bfbc12dd7ba43dd4a4611036f5aa81880f">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.4.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
