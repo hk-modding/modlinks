@@ -301,6 +301,14 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Sunset Samsara II</Name>
+        <Description>Dummy mod. Install the dependency "PURITY" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>PURITY</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
         <Name>PURITY</Name>
         <Description>New Version of "Sunset Samsara II". Modded Radiance.</Description>
         <Version>1.0.3.0</Version>
