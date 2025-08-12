@@ -396,32 +396,6 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>YetAnotherRandoConnection</Name>
-        <Description>A Randomizer add-on with an assortment of additions</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="1384FBA54C9B11960B0AA559D2302151E521A8AE002C46B6399F6D2816577464"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.0.0.0/YetAnotherRandoConnection.zip]]></Link>
-        <Dependencies>
-            <Dependency>ConnectionMetadataInjector</Dependency>
-            <Dependency>ItemChanger</Dependency>
-            <Dependency>MenuChanger</Dependency>
-            <Dependency>Randomizer 4</Dependency>
-            <Dependency>RandomizerCore</Dependency>
-            <Dependency>RandomizerCore.Json</Dependency>
-            <Dependency>Satchel</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/]]>
-        </Repository>
-        <Integrations>
-            <Integration>CondensedSpoilerLogger</Integration>
-            <Integration>RandoSettingsManager</Integration>
-        </Integrations>
-        <Authors>
-            <Author>TheMathGeek_314</Author>
-            <Author>nerthul11</Author>
-        </Authors>
-    </Manifest>
-    <Manifest>
         <Name>BaldurRngConfig</Name>
         <Description>Configure various Elder Baldur settings</Description>
         <Version>1.0.0.0</Version>
@@ -9596,9 +9570,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.16.3.0</Version>
-        <Link SHA256="3fe054be2039081937d11996728ba6bc44eed4e7de9a9f7e867d99ec13688d04">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.3.0/Architect.zip]]>
+        <Version>1.16.4.0</Version>
+        <Link SHA256="8322a7f2b1dab52606cbfe2e4d3601bfbc12dd7ba43dd4a4611036f5aa81880f">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.4.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
