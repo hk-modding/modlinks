@@ -396,6 +396,32 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>YetAnotherRandoConnection</Name>
+        <Description>A Randomizer add-on with an assortment of additions</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="1384FBA54C9B11960B0AA559D2302151E521A8AE002C46B6399F6D2816577464"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.0.0.0/YetAnotherRandoConnection.zip]]></Link>
+        <Dependencies>
+            <Dependency>ConnectionMetadataInjector</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/]]>
+        </Repository>
+        <Integrations>
+            <Integration>CondensedSpoilerLogger</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+            <Author>nerthul11</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>BaldurRngConfig</Name>
         <Description>Configure various Elder Baldur settings</Description>
         <Version>1.0.0.0</Version>
@@ -1514,9 +1540,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>4.0.1.0</Version>
-        <Link SHA256="2EB9EDD026E240EADCB49216A67D3AE25141DAB0E7E22FB3106FC4686460DED2">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.1.0/BreakableWallRandomizer.zip]]>
+        <Version>4.0.1.1</Version>
+        <Link SHA256="553574B94871ACB8E350B4C5F9354FF35552B3A78B31981F53177B95B0D6C4D9">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.1.1/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
