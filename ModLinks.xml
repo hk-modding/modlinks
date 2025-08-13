@@ -9604,9 +9604,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.16.6.1</Version>
-        <Link SHA256="274b80fb1e4d1c2c5c978b0f4934bdacb8c7296059f676646b4008242279d2f7">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.6.1/Architect.zip]]>
+        <Version>1.16.6.2</Version>
+        <Link SHA256="5c3758778f04b87d9e63328c84991eb20ec6b153469aa80525b3c061efdd40d0">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.6.2/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
