@@ -6967,9 +6967,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Trial of Crusaders</Name>
         <Description>A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="14f268cda82621fbfc2d497eb3e67521b11c6fd420e531eab4e0d6bb24b97c26">
-            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.3.0/TrialOfCrusaders.zip]]></Link>
+        <Version>0.3.1.0</Version>
+        <Link SHA256="83630ff0a203601e907aeb60356174f5b77e3629b80ce928c1c51b18fe6a4559">
+            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.3.1/TrialOfCrusaders.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>KorzUtils</Dependency>
