@@ -6865,9 +6865,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>LoreCore</Name>
         <Description>Adds a bunch of lore related Item Changer locations and items.</Description>
-        <Version>0.6.3.0</Version>
-        <Link SHA256="e05f0611890c1e88d9a7cf6f37f16e1c825336ed45a8932f01ffa2acc326fe87">
-            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.6.3/LoreCore.zip]]></Link>
+        <Version>0.7.0.0</Version>
+        <Link SHA256="5b16a559751db99f069f1d9078488f9d6d074c543509fad5151a7be8f925f67f">
+            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.7.0/LoreCore.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -6885,9 +6885,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.3.3.0</Version>
-        <Link SHA256="62564a6f23082dcdd2faaae807d2131f016ff716b25b5a686cd12f25f4a9dd97">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.3/LoreRandomizer.zip]]></Link>
+        <Version>0.4.0.0</Version>
+        <Link SHA256="197e8db55b3668e62530b750271333bf97c6fccef35e0f92649c154d88de1be1">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.0/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
@@ -6905,9 +6905,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.11.0.0</Version>
-        <Link SHA256="da9c5a129839ea05662afa0bae895ae4aeacd954ce9c9a22236b0782cefa5be7">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.11.0/ExtraRando.zip]]></Link>
+        <Version>0.11.1.0</Version>
+        <Link SHA256="65b0919c937cc7931a04f530c11e3f0a731795a88b77311426102da1125f0009">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.11.1/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -7110,9 +7110,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>1.4.1.0</Version>
-        <Link SHA256="64e7543e5a03cff7b5cb795f84308133b8fdcf52f6a89fd2d72b8e114d8dc460">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.4.1.0/PurenailCore.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="6FF21B059DFEC194157C27EE4274B457775B03F5B1BBB852807D1DEC97E6B70A">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.5.0.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore.Json</Dependency>
