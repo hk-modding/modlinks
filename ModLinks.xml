@@ -6885,9 +6885,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.4.0.0</Version>
-        <Link SHA256="197e8db55b3668e62530b750271333bf97c6fccef35e0f92649c154d88de1be1">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.0/LoreRandomizer.zip]]></Link>
+        <Version>0.4.1.0</Version>
+        <Link SHA256="3a03a95a6d0158d42a2c17bf4a1791d45255a9fb2b40b4af96e084d11ca3e15e">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.1/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
