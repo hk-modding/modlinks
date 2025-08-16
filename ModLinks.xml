@@ -10104,7 +10104,7 @@ Enjoy!</Description>
         <Name>PantheonOfRegions</Name>
         <Description>Adds new Pantheon to fight bosses together</Description>
         <Version>1.0.0.3</Version>
-        <Link SHA256="713271332caa6f9d4f494f62065b706f9cf1f1b13f76ea4bed2a8edb6bfd7e5c"><![CDATA[https://github.com/EpsilonDown/PantheonOfRegions/releases/download/v1.3.0/Pantheon_of_Regions.zip]]></Link>
+        <Link SHA256="713271332caa6f9d4f494f62065b706f9cf1f1b13f76ea4bed2a8edb6bfd7e5c"><![CDATA[https://github.com/EpsilonDown/PantheonOfRegions/releases/download/v1.0.0.3/Pantheon_of_Regions.zip]]></Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>Osmi</Dependency>
