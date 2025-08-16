@@ -7005,7 +7005,7 @@ Enjoy!</Description>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
         <Version>1.4.4.0</Version>
-        <Link SHA256="32716ab9f30b40a9bac0f76645f41aa1a3ca73421abfac1d5a30dbe0ac4976e5">
+        <Link SHA256="da4d4d98932109ea441d0d9f76942a219b320488a84d37b7bcd6a44ae826a58b">
             <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.4/BugPrince.zip]]>
         </Link>
         <Dependencies>
