@@ -7004,9 +7004,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.4.3.0</Version>
-        <Link SHA256="32716ab9f30b40a9bac0f76645f41aa1a3ca73421abfac1d5a30dbe0ac4976e5">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.3/BugPrince.zip]]>
+        <Version>1.4.4.0</Version>
+        <Link SHA256="da4d4d98932109ea441d0d9f76942a219b320488a84d37b7bcd6a44ae826a58b">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.4/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -10098,6 +10098,23 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>PantheonOfRegions</Name>
+        <Description>Adds new Pantheon to fight bosses together</Description>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="713271332caa6f9d4f494f62065b706f9cf1f1b13f76ea4bed2a8edb6bfd7e5c"><![CDATA[https://github.com/EpsilonDown/PantheonOfRegions/releases/download/v1.0.0.3/Pantheon_of_Regions.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EpsilonDown/PantheonOfRegions]]>
+        </Repository>
+        <Authors>
+            <Author>EpsilonDown</Author>
         </Authors>
     </Manifest>
 </ModLinks>
