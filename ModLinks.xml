@@ -10100,4 +10100,21 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>PantheonOfRegions</Name>
+        <Description>Adds new Pantheon to fight bosses together</Description>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="713271332CAA6F9D4F494F62065B706F9CF1F1B13F76EA4BED2A8EDB6BFD7E5C"><![CDATA[https://github.com/EpsilonDown/PantheonOfRegions/releases/download/v1.3.0/Pantheon_of_Regions.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EpsilonDown/PantheonOfRegions]]>
+        </Repository>
+        <Authors>
+            <Author>EpsilonDown</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
