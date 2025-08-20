@@ -9655,9 +9655,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="e6f83362282634fbc5916fa1a295c4c3296c216ac07c6eaed906889a5d96a236">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.2.1.0/ExaltationExpanded.zip]]>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="3BE1CCD7E09481526F540CF45505C0BF4426D60046F9AC300F17E5C8A624A96B">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.3.0.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
@@ -9675,6 +9675,7 @@ Enjoy!</Description>
         </Issues>
         <Integrations>
             <Integration>Pale Court</Integration>
+            <Integration>MoreMasks</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
