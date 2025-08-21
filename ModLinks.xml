@@ -8235,7 +8235,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Steady Hands (automap)</Name>
-        <Description>Steadies the Knight's hands so they can draw while walking (updates map automatically without needing to rest at a bench)</Description>
+        <Description>Steadies the Knight's hands so they can draw while walking (updates map automatically without needing to rest at a bench). Not compatible with other map-altering mods like VanillaMapMod or RandoMapMod, which already do this.</Description>
         <Version>1.0.8669.11302</Version>
         <Link SHA256="B24105BC62CDF5541A846891F5746DFEA0ADAD137951DD488C78BBD66477768D"><![CDATA[https://github.com/AuthorX/SteadyHands/releases/download/v1.0.8669.11302/SteadyHands.zip]]></Link>
         <Dependencies>
