@@ -9130,9 +9130,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CharmPatch</Name>
         <Description>This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="ae738424224673342330611e458afec3ad28f62c8b9932663d91c36c6b05b8aa">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.5.0.0/CharmPatch.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="D523CA20678F69D5B2DF1C19DA6CC7CCCD65E235ECD6914498FD3E76F8176972">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.5.1.0/CharmPatch.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
@@ -9146,6 +9146,9 @@ Enjoy!</Description>
         <Issues>
             <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/issues]]>
         </Issues>
+        <Integrations>
+            <Integration>Charm Changer</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -9655,9 +9658,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.3.0.0</Version>
-        <Link SHA256="3BE1CCD7E09481526F540CF45505C0BF4426D60046F9AC300F17E5C8A624A96B">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.3.0.0/ExaltationExpanded.zip]]>
+        <Version>1.3.1.0</Version>
+        <Link SHA256="04E17F217786BE5BE784EC41739E0C76EBDE67936CA2D8FBEB2347C25BE24E44">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.3.1.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
@@ -10081,9 +10084,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>DanielSteginkUtils</Name>
         <Description>Custom library with calculations, logic and cross-mod helpers.</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="EAAB60339B41D6F3E98D8C2E8AB835984C5DF3C9A3DBCE317C934077F0EF55F0">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.2.1.0/DanielSteginkUtils.zip]]>
+        <Version>1.2.1.1</Version>
+        <Link SHA256="7898DAA105458735149AA95677E20D46E85FF064E840D6FEDC32A7C93F60451D">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.2.1.1/DanielSteginkUtils.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
