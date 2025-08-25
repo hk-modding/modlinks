@@ -10162,4 +10162,19 @@ Enjoy!</Description>
             <Author>EpsilonDown</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>PowerfulShadowDash</Name>
+        <Description>This mod set shadow dash cooltime to 0.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="2f1a54d72156d40e34ba4b936728112b776bf5eb19cc4997902671bc3a963036"><![CDATA[https://github.com/Null993/Powerful-Shadow-Dash/releases/download/Release/PowerfulShadowDash.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Null993/Powerful-Shadow-Dash/]]>
+        </Repository>
+        <Authors>
+            <Author>Null_993</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
