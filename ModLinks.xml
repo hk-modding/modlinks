@@ -10145,7 +10145,7 @@ Enjoy!</Description>
     <Manifest>
         <Name>PowerfulShadowDash</Name>
         <Description>This mod set shadow dash cooltime to 0.</Description>
-        <Version>1.0</Version>
+        <Version>1.0.0.0</Version>
         <Link SHA256="26fa366c494a7e696e2030ac0f9999c4a0148daeecdea2e8004fc2a5dd2ab499"><![CDATA[https://github.com/Null993/Powerful-Shadow-Dash/releases/download/Release/Powerful.Shadow.Dash-60-1-1731139999.zip]]></Link>
         <Dependencies>
         </Dependencies>
