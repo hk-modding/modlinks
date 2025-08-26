@@ -463,6 +463,7 @@ Not recommended for use in new mods.</Description>
         <Integrations>
             <Integration>CondensedSpoilerLogger</Integration>
             <Integration>RandoSettingsManager</Integration>
+            <Integration>FStats</Integration>
         </Integrations>
         <Authors>
             <Author>TheMathGeek_314</Author>
@@ -521,8 +522,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>VendorRando</Name>
         <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="18B6F935397753DC2272B179584FD89957927B7389581176DB1D07A344D9EA8E"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.1.0/VendorRando.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="2BBDCEE2A3DEFA158E1EA7883E320E87DE44762E7D5827B175F2FFD2920F2DEE"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.2.0/VendorRando.zip]]></Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
