@@ -6,7 +6,7 @@
         <Name>MyHK</Name>
         <Description>An assisting mod for HK that can improve the gaming experience significantly</Description>
         <Version>1.2.0.1</Version>
-        <Link SHA256="ac1057c2571139816c5e56b4f764b556988b564b5e293323bd27b9d7a0da7e46"><![CDATA[https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.1/MyHK-v1.2.0.1.zip]]></Link>
+        <Link SHA256="40adcd9bc85366f24633d936bf8b8f9eafcc232fa79d92bedfe51078bbcdab6c"><![CDATA[https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.1/MyHK-v1.2.0.1.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>HKTool</Dependency>
