@@ -3,6 +3,28 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>MyHK</Name>
+        <Description>An assisting mod for HK that can improve the gaming experience significantly</Description>
+        <Version>1.2.0.1</Version>
+        <Link SHA256="0187adc1a2e0c7ffa2674eec666f9b354d29e5a3d19070470a7aa56a949e9dba"><![CDATA[https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.1/MyHK-v1.2.0.1.rar]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/QiQi7-7/MyHK]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/QiQi7-7/MyHK/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Optimization</Tag>
+        </Tags>
+        <Authors>
+            <Author>QiQi7</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Charm Editor</Name>
         <Description>This mod allows you to change charm notches and dashmaster</Description>
         <Version>1.1.0.0</Version>
@@ -19,7 +41,7 @@
             <Tag>Utility</Tag>
         </Tags>
         <Authors>
-            <Author>Vitaxses</Author>
+            <Author>QiQi7</Author>
         </Authors>
     </Manifest>
     <Manifest>
