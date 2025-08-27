@@ -3,6 +3,26 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>U-tils</Name>
+        <Description>Utilities by and for U-tale</Description>
+        <Version>0.0.0.1</Version>
+        <Link SHA256="57d588c26feddd46e6089b853b57551e33b3193bac748feab9dc724b570d6ccd"><![CDATA[https://github.com/user-attachments/files/21999417/U_tils.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/U-tale/U-tils]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/U-tale/U-tils/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>U-tale</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>MyHK</Name>
         <Description>An assisting mod for HK that can improve the gaming experience significantly</Description>
         <Version>1.2.0.1</Version>
