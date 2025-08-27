@@ -3,6 +3,28 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>MyHK</Name>
+        <Description>An assisting mod for HK that can improve the gaming experience significantly</Description>
+        <Version>1.2.0.1</Version>
+        <Link SHA256="40adcd9bc85366f24633d936bf8b8f9eafcc232fa79d92bedfe51078bbcdab6c"><![CDATA[https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.1/MyHK-v1.2.0.1.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>HKTool</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/QiQi7-7/MyHK]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/QiQi7-7/MyHK/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Optimization</Tag>
+        </Tags>
+        <Authors>
+            <Author>QiQi7</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Charm Editor</Name>
         <Description>This mod allows you to change charm notches and dashmaster</Description>
         <Version>1.1.0.0</Version>
@@ -4033,6 +4055,28 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Author>Chrome</Author>
             <Author>Fireb0rn</Author>
             <Author>Astral Ruby</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>VoidHeartMenu</Name>
+        <DisplayName>Void HEart Menu</DisplayName>
+        <Description>Makes the Voidheart edition text appear on pc versions of the game.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="18768E89D677E64AAB3C95DBCAD37901EC03413F643F26E58F22524C4452CE79">
+            <![CDATA[https://github.com/SFGrenade/VoidHeartMenu/releases/download/v1.5.0.0/VoidHeartMenu.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/VoidHeartMenu/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/VoidHeartMenu/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -10176,6 +10220,19 @@ Enjoy!</Description>
         </Repository>
         <Authors>
             <Author>Null_993</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Custom Title</Name>
+        <Description>A Hollow Knight mod that allows players to use their custom title</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="bebb65f1f2c9dc5243f672d31ec16908ee44bc6674787a2c9760c4ec4806d87b"><![CDATA[https://github.com/hien-ngo29/CustomTitle/releases/download/v1.0.0.0/CustomTitle.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/hien-ngo29/CustomTitle]]>
+        </Repository>
+        <Authors>
+            <Author>Hien Ngo</Author>
         </Authors>
     </Manifest>
 </ModLinks>
