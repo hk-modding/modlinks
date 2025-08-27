@@ -4036,6 +4036,28 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>VoidHeartMenu</Name>
+        <DisplayName>Void HEart Menu</DisplayName>
+        <Description>Makes the Voidheart edition text appear on pc versions of the game.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="18768E89D677E64AAB3C95DBCAD37901EC03413F643F26E58F22524C4452CE79">
+            <![CDATA[https://github.com/SFGrenade/VoidHeartMenu/releases/download/v1.5.0.0/VoidHeartMenu.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/VoidHeartMenu/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/VoidHeartMenu/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>WideCamera</Name>
         <DisplayName>Wide Camera</DisplayName>
         <Description>Make ultrawide screens possible without black bars. Should also work for thinner/taller than 16:9. In theory.</Description>
