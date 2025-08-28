@@ -3985,9 +3985,9 @@ All with an incredible new soundtrack!</Description>
         <DisplayName>Stories of a HK player - Chapter 2</DisplayName>
         <Description>The second iteration of a story of a Hollow Knight player and his personalized copy of the game.
 Warning for people streaming this mod: This mod displays your windows/mac/linux username.</Description>
-        <Version>1.5.2.1</Version>
-        <Link SHA256="9458E95F34C66943299A14CC247BA9C61A48ABFBA36AF2F8C1701D055D194D35">
-            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/releases/download/v1.5.2.1/StoriesOfaHkPlayer_Ch2.zip]]>
+        <Version>1.5.2.2</Version>
+        <Link SHA256="C5E95E5D79E78737E32E22C0303DCBF3F24E1EB060C995382D7AA4E83735E29A">
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/releases/download/v1.5.2.2/StoriesOfaHkPlayer_Ch2.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
