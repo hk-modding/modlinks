@@ -5735,9 +5735,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Vanilla Map Mod</Name>
         <Description>Adds all items/locations to the existing map.</Description>
-        <Version>2.1.5.0</Version>
-        <Link SHA256="4243E9C4E50DA857300157A8964176097FA2A6FEB1226918E0081504FA17F1C8">
-            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.5/VanillaMapMod.zip]]>
+        <Version>2.1.6.0</Version>
+        <Link SHA256="213A5613D49E986642CD2378ECEDC57FA7B6188D14445BF3F51078646ECBC495">
+            <![CDATA[https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.6/VanillaMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -7391,9 +7391,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.3.9.0</Version>
-        <Link SHA256="4338862CD8ACA9C7FE04B7C7A718B160704E258BD97FF3006C99C44179B42B0D">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.9/MapChanger.zip]]>
+        <Version>1.3.10.0</Version>
+        <Link SHA256="FB49D6FD21E6B1B0440CDC8BFA977F71504F8B75B5F78E22E2E4F49F3F9EFE64">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.10/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -7417,9 +7417,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.6.7.0</Version>
-        <Link SHA256="0F3830F7E0729001904D3AFE1A62742D8F3AA20A4EDB6026D378DD101D3A490A">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.7/RandoMapMod.zip]]>
+        <Version>3.6.8.0</Version>
+        <Link SHA256="E373C31A35755608AC282934E1CB603D194E72BB23B4C39BC9EF0617C30573FA">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.8/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -9518,9 +9518,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapCore</Name>
         <Description>A library for RandoMapMod and ArchipelagoMapMod.</Description>
-        <Version>1.0.15.0</Version>
-        <Link SHA256="E786E8712D13F2E1B1BE045079F8868687DDB6F40A0DD8638D0C920378D2B617">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.15/RandoMapCore.zip]]>
+        <Version>1.0.16.0</Version>
+        <Link SHA256="BEFF106C3766D9C455EB702D4BB7215B8809C2C250A0ABC147127D5C610C7B7A">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.16/RandoMapCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
