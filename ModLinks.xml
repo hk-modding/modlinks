@@ -10230,6 +10230,14 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>PowerfulShadowDash</Name>
+        <Description>Dummy mod. Install the dependency "Powerful Shadow Dash" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>Powerful Shadow Dash</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Powerful Shadow Dash</Name>
         <Description>This mod set shadow dash cooltime to 0.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="2f1a54d72156d40e34ba4b936728112b776bf5eb19cc4997902671bc3a963036"><![CDATA[https://github.com/Null993/Powerful-Shadow-Dash/releases/download/Release/PowerfulShadowDash.zip]]></Link>
@@ -10254,6 +10262,21 @@ Enjoy!</Description>
         </Repository>
         <Authors>
             <Author>Hien Ngo</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Nail Destroy Bullet</Name>
+        <Description>Swinging the nail will destroy enemies' bullet.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="579274abbf9e1917b29f97f9427a83421b577613557007ad6f44a307fc258b1a"><![CDATA[https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Release/NailDestroyBullet.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Null993/Nail-Destroy-Bullet]]>
+        </Repository>
+        <Authors>
+            <Author>Null_993</Author>
         </Authors>
     </Manifest>
 </ModLinks>
