@@ -9043,12 +9043,13 @@ Enjoy!</Description>
     <Manifest>
         <Name>Rogue</Name>
         <Description>A rogue-like Pantheon of Hallownest mod</Description>
-        <Version>1.0.0.5</Version>
-        <Link SHA256="D51D6DE2935A36C198564A485CD9C442FE1741E84E860D81966E34AB7D3C2B89">
-            <![CDATA[https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V1.0.0.5/rogue.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="6276CD712DCA1C22AE56AF1400997D3B93E4F71107880D8EB48018973623BBB6">
+            <![CDATA[https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V2.0.0.0/rogue.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/MCXGK3/HollowKnight-rogue]]>
