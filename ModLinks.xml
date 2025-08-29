@@ -10229,6 +10229,14 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>PowerfulShadowDash</Name>
+        <Description>Dummy mod. Install the dependency "Powerful Shadow Dash" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>Powerful Shadow Dash</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
         <Name>Powerful Shadow Dash</Name>
         <Description>This mod set shadow dash cooltime to 0.</Description>
         <Version>1.0.0.0</Version>
