@@ -149,8 +149,8 @@
     <Manifest>
         <Name>Faction Elimination</Name>
         <Description>A custom gamemode for HKMP where teams collect upgrades and fight each other.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="544cd1e9b8228fa7b9dd551e75af554f070c3331378ed7469e670f71715970f1"><![CDATA[https://github.com/EmptyEagle/FactionElimination/releases/download/v0.1.0.0/FactionElimination.zip]]></Link>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="77c794c1889d9ddef02614012b279546ca757bbb9469af14110febd05f8a9306"><![CDATA[https://github.com/EmptyEagle/FactionElimination/releases/download/v0.1.1.0/FactionElimination.zip]]></Link>
         <Dependencies>
             <Dependency>Charm Changer</Dependency>
             <Dependency>MenuChanger</Dependency>
