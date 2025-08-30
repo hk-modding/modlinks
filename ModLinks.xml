@@ -10269,7 +10269,7 @@ Enjoy!</Description>
         <Name>Nail Destroy Bullet</Name>
         <Description>Swinging the nail will destroy enemies' bullet.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="579274abbf9e1917b29f97f9427a83421b577613557007ad6f44a307fc258b1a"><![CDATA[https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Release/NailDestroyBullet.zip]]></Link>
+        <Link SHA256="579274abbf9e1917b29f97f9427a83421b577613557007ad6f44a307fc258b1a"><![CDATA[https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Beta/NailDestoryBullet.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -10284,7 +10284,7 @@ Enjoy!</Description>
         <Name>Dash Slash Plus</Name>
         <Description>Removes the charge requirement for Dash Slash.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="ed0db828981d9227c20c861d2e2d3aaa4913d5fb81571a6701f253ab7e97d5c4"><![CDATA[https://github.com/Null993/Dash-Slash-Plus/releases/download/v1.0/DashSlashPlus-v1.0.zip]]></Link>
+        <Link SHA256="2d3981ec36d535bccd993ec8dc1cbb61f49c290c24ae3278392180ab406c1749"><![CDATA[https://github.com/Null993/Dash-Slash-Plus/releases/download/v1.0/DashSlashPlus.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
