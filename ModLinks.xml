@@ -5328,15 +5328,15 @@ Enjoy!</Description>
     <Manifest>
         <Name>HollowPoint</Name>
         <Description>Gives the player a gun, reworks charms and abilities to play around the concept of gun usage</Description>
-        <Version>1.4.0.1</Version>
-        <Link SHA256="8a4f8f8e08a00df4346def0434a1c6ec0ff5bb2f2ef43183e4445fc378234aff">
-            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/releases/download/1.4.0.1/HollowPoint.zip]]>
+        <Version>1.4.0.2</Version>
+        <Link SHA256="sha256:fe19d83dc4d5b62f1c4e2bbfb484649a38e2be9d081aa7bebc42fd354fc805b2">
+            <![CDATA[https://github.com/ZestyMace/Hollow-Point/releases/download/1.4.0.2/HollowPoint.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/]]>
+            <![CDATA[https://github.com/ZestyMace/Hollow-Point/]]>
         </Repository>
     </Manifest>
     <Manifest>
