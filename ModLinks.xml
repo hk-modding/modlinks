@@ -4081,7 +4081,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>VoidHeartMenu</Name>
-        <DisplayName>Void HEart Menu</DisplayName>
+        <DisplayName>Void Heart Menu</DisplayName>
         <Description>Makes the Voidheart edition text appear on pc versions of the game.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="18768E89D677E64AAB3C95DBCAD37901EC03413F643F26E58F22524C4452CE79">
