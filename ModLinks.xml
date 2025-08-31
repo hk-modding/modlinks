@@ -10268,8 +10268,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>Nail Destroy Bullet</Name>
         <Description>Swinging the nail will destroy enemies' bullet.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="579274abbf9e1917b29f97f9427a83421b577613557007ad6f44a307fc258b1a"><![CDATA[https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Beta/NailDestoryBullet.zip]]></Link>
+        <Version>1.2.3.0</Version>
+        <Link SHA256="6b7b6e53b287dfcf28c1fc8911a03f34e21030ef896b9458513b065bf231af8d"><![CDATA[https://github.com/Null993/Nail-Destroy-Bullet/releases/download/v1.2.3/NailDestroyBullet-v1.2.3.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
