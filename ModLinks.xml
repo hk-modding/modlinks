@@ -10295,4 +10295,24 @@ Enjoy!</Description>
             <Author>Null_993</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Shade Lord</Name>
+        <Description>Adds the Shade Lord as a boss in the Hall of Gods</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="55b3f96d609e139aad7952e7848cacc1e1f6b70b33211c55db4795a53192cd83"><![CDATA[https://github.com/OrusLiOx/ShadeLord/releases/download/v1.0.0.0/ShadeLord-v1.0.0.0.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/OrusLiOx/ShadeLord.git]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://forms.gle/y3eMAyfebwoViJ1z5]]>
+        </Issues>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>OrusLiOx</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
