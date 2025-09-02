@@ -9767,9 +9767,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.3.1.0</Version>
-        <Link SHA256="04E17F217786BE5BE784EC41739E0C76EBDE67936CA2D8FBEB2347C25BE24E44">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.3.1.0/ExaltationExpanded.zip]]>
+        <Version>1.4.0.0</Version>
+        <Link SHA256="0363E94613AC59E907A2D88C42C93B4E1C3744B7E89074107C19EB326027DC62">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.4.0.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
@@ -9788,6 +9788,8 @@ Enjoy!</Description>
         <Integrations>
             <Integration>Pale Court</Integration>
             <Integration>MoreMasks</Integration>
+            <Integration>CharmChanger</Integration>
+            <Integration>CarefreeGrimm</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
