@@ -10336,4 +10336,26 @@ Enjoy!</Description>
             <Author>Hien Ngo</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>More Charm Notches</Name>
+        <Description>Doubles the number of charm notches you have, so that you start wih 6 instead of 3, and every additional charm notch item you find will give you an extra 2 notches.</Description>
+        <Version>1.0.9377.28227</Version>
+        <Link SHA256="261e0511f743ebe4c4475861d0ad34bf31f0cda83e3e9b2f02fb5b67a9d15237"><![CDATA[https://github.com/meanwhile-labs/hk-more-charm-notches/releases/download/v1.0.9377.28227/HK_More_Charm_Notches.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/meanwhile-labs/hk-more-charm-notches]]>
+        </Repository>
+        <!-- Optional -->
+        <Issues>
+            <![CDATA[https://github.com/meanwhile-labs/hk-more-charm-notches/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Meanwhile</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
