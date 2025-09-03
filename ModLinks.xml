@@ -10319,4 +10319,21 @@ Enjoy!</Description>
             <Author>OrusLiOx</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Killable Dreamnail</Name>
+        <Description>Add a charm called "Serrated Dream" which allows you to deal damage with dream nail, the damage is depend on the essence you have</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="13b9c08222cc30dd0b1e74c31533861369bcebc57bda9f31c8da3a9039d02c79"><![CDATA[https://github.com/hien-ngo29/KillableDreamNail/releases/download/v1.0.0.0/SerratedDreams.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/hien-ngo29/KillableDreamNail]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Hien Ngo</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
