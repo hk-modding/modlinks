@@ -10359,4 +10359,19 @@ Enjoy!</Description>
             <Author>Meanwhile</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Uneated Grubs</Name>
+        <Description>Keeps the Grubs in Grubhome without Grubfather eating them.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="F04183D8E343C5AE8511C01D44CBDEFA8A372BCCF975BE1DC0C78AED504A66AE"><![CDATA[https://github.com/ZiggySaidGrub/UneatedGrubs/releases/download/v1.0.0.0/UneatedGrubs.zip]]></Link>
+        <Repository>
+            <![CDATA[https://github.com/ZiggySaidGrub/UneatedGrubs]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>Grub</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
