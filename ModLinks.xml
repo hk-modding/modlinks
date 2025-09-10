@@ -9616,12 +9616,13 @@ Enjoy!</Description>
     <Manifest>
         <Name>Silksong Healing</Name>
         <Description>Adds a charm called Soulburst, which allows players to instantly heal 3 masks when they have 99 soul, similar to Silksong</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256 ="B1C63D71B4D39758EB73CE74A9892B946E0F07519FF0ECC353099E1497E555BC">
-            <![CDATA[https://github.com/hien-ngo29/SilksongHealing/releases/download/v1.0.0/SilksongHealing.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256 ="F338DAA46908998A8125E0D48A7C0AE46AFABFF95C92DB0EE1D973E67713F880">
+            <![CDATA[https://github.com/hien-ngo29/SilksongHealing/releases/download/v1.1.0.0/SilksongHealing.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/hien-ngo29/SilksongHealing]]>
