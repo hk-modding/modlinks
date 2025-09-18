@@ -3143,9 +3143,9 @@ All with an incredible new soundtrack!</Description>
         <Name>AdditionalMaps</Name>
         <DisplayName>Additional Maps</DisplayName>
         <Description>Adds white palace and godhome maps. The white palace one is next to the bench in the big room. The godhome one is next to the bench above the pantheons.</Description>
-        <Version>1.5.4.1</Version>
-        <Link SHA256="78F34209CA461769F15705B73F1C2437BFCFD8894D3DB2201DD4F5B4E635957B">
-            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.4.1/AdditionalMaps.zip]]>
+        <Version>1.5.4.2</Version>
+        <Link SHA256="1A67509A9B9A7D92E43764DE076B6EAEA7B05B6D76E7125BEF04BA3F5E656907">
+            <![CDATA[https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.4.2/AdditionalMaps.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
