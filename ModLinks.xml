@@ -10394,4 +10394,31 @@ Enjoy!</Description>
             <Author>Hien Ngo</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>MarkothShield</Name>
+        <Description>This mod upgrades the Dreamshield into the Markoth Shield.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="1B6D86ADDE1F2156B2584713A31643E91AB659FA9D03457AB0ECEC97247A68DE">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MarkothShield/releases/download/1.0.0.0/MarkothShield.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>DanielSteginkUtils</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MarkothShield]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MarkothShield/issues]]>
+        </Issues>
+        <Integrations>
+            <Integration>ExaltationExpanded</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
