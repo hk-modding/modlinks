@@ -9770,14 +9770,13 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="3EF44B1FEFB68AFD1A05FBEF84DAED68081461100082B54AF66DBF8813AE8BA5">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.1.0/ExaltationExpanded.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="19E417AAC6BEB78A07B2CC6C73C900B28C6E4ACD0A9A00403F3C0781DA8E005B">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.2.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
             <Dependency>HKMirror</Dependency>
-            <Dependency>ItemChanger</Dependency>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
             <Dependency>DanielSteginkUtils</Dependency>
