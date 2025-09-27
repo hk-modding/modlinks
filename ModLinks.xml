@@ -24,6 +24,30 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Charm ReValance</Name>
+        <Description>Charm and ability overhaul and customization</Description>
+        <Version>1.25.09.24</Version>
+        <Link SHA256="0e7470a383903ff9079247013bb50a75784ba7c719c3b072912a2cbd3b9b0261"><![CDATA[https://github.com/ValancedBreakfast/CharmReValance/releases/download/1.25.09.24/CharmReValance.dll]]></Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ValancedBreakfast/CharmReValance]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ValancedBreakfast/CharmReValance/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Charm</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>ValancedBreakfast</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>MyHK</Name>
         <Description>An assisting mod for HK that can improve the gaming experience significantly</Description>
         <Version>1.2.0.3</Version>
