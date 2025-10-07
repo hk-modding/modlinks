@@ -51,7 +51,7 @@
         <Name>Damage Values Rewritten</Name>
         <Description>Display damage values when enemies suffer damage</Description>
         <Version>1.25.10.07</Version>
-        <Link SHA256="0b871bbe7ebda1584375d0514dd8c29710ff7665d8016f1c52a0910c6ad2b503"><![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten/releases/download/1.25.10.07/DamageValuesRewritten.dll]]></Link>
+        <Link SHA256="799c42143150387622d4ecd4597f2fefc17795d2e4682623857121f2e3d01a36"><![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten/releases/download/1.25.10.07/DamageValuesRewritten.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -1811,19 +1811,6 @@ All with an incredible new soundtrack!</Description>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
-        </Tags>
-    </Manifest>
-    <Manifest>
-        <Name>DamageValues</Name>
-        <Description>Shows damage numbers when striking an enemy.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="d9abf248b4c06df125cd9a6923c33bcbbe61ad4243a553ff6f1ab80059170927"><![CDATA[https://github.com/jngo102/DamageValues/releases/download/1.0.0.1/DamageValues.zip]]></Link>
-        <Dependencies />
-        <Repository>
-            <![CDATA[https://github.com/jngo102/DamageValues]]>
-        </Repository>
-        <Tags>
-            <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
     <Manifest>
