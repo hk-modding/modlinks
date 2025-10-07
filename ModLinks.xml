@@ -47,11 +47,19 @@
             <Author>ValancedBreakfast</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>DamageValues</Name>
+        <Description>Dummy mod. Install the dependency "Damage Values Rewritten" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>Damage Values Rewritten</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
 	<Manifest>
         <Name>Damage Values Rewritten</Name>
         <Description>Display damage values when enemies suffer damage</Description>
         <Version>1.25.10.07</Version>
-        <Link SHA256="0b871bbe7ebda1584375d0514dd8c29710ff7665d8016f1c52a0910c6ad2b503"><![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten/releases/download/1.25.10.07/DamageValuesRewritten.dll]]></Link>
+        <Link SHA256="799c42143150387622d4ecd4597f2fefc17795d2e4682623857121f2e3d01a36"><![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten/releases/download/1.25.10.07/DamageValuesRewritten.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -64,6 +72,7 @@
             <Tag>Utility</Tag>
         </Tags>
         <Authors>
+            <Author>jngo102</Author>
             <Author>ValancedBreakfast</Author>
         </Authors>
     </Manifest>
@@ -1811,19 +1820,6 @@ All with an incredible new soundtrack!</Description>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
-        </Tags>
-    </Manifest>
-    <Manifest>
-        <Name>DamageValues</Name>
-        <Description>Shows damage numbers when striking an enemy.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="d9abf248b4c06df125cd9a6923c33bcbbe61ad4243a553ff6f1ab80059170927"><![CDATA[https://github.com/jngo102/DamageValues/releases/download/1.0.0.1/DamageValues.zip]]></Link>
-        <Dependencies />
-        <Repository>
-            <![CDATA[https://github.com/jngo102/DamageValues]]>
-        </Repository>
-        <Tags>
-            <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
     <Manifest>
