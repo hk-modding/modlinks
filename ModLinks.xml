@@ -7322,15 +7322,16 @@ Enjoy!</Description>
     <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>1.2.3.0</Version>
-        <Link SHA256="8CEC3E515FC8919623A664B7DBBDF29D1076E2911F2F71B5C4556F8C41219D49">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.2.3.0/SpicyRando.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="BF35D745A65602565930FA6A36F52E95D2E2026BC3F10EF3B7F640C2F539183C">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.0.0.0/SpicyRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>PurenailCore</Dependency>
             <Dependency>RandomizerCore.Json</Dependency>
+            <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando]]>
