@@ -47,6 +47,14 @@
             <Author>ValancedBreakfast</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>DamageValues</Name>
+        <Description>Dummy mod. Install the dependency "Damage Values Rewritten" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>Damage Values Rewritten</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
 	<Manifest>
         <Name>Damage Values Rewritten</Name>
         <Description>Display damage values when enemies suffer damage</Description>
@@ -64,6 +72,7 @@
             <Tag>Utility</Tag>
         </Tags>
         <Authors>
+            <Author>jngo102</Author>
             <Author>ValancedBreakfast</Author>
         </Authors>
     </Manifest>
