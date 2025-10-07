@@ -47,6 +47,26 @@
             <Author>ValancedBreakfast</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>Damage Values Rewritten</Name>
+        <Description>Display damage values when enemies suffer damage</Description>
+        <Version>1.25.10.07</Version>
+        <Link SHA256="0b871bbe7ebda1584375d0514dd8c29710ff7665d8016f1c52a0910c6ad2b503"><![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten/releases/download/1.25.10.07/DamageValuesRewritten.dll]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>ValancedBreakfast</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
         <Name>MyHK</Name>
         <Description>An assisting mod for HK that can improve the gaming experience significantly</Description>
