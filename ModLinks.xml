@@ -24,10 +24,10 @@
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Charm ReValance</Name>
+        <Name>CharmReValance</Name>
         <Description>Charm and ability overhaul and customization</Description>
-        <Version>1.25.09.24</Version>
-        <Link SHA256="0e7470a383903ff9079247013bb50a75784ba7c719c3b072912a2cbd3b9b0261"><![CDATA[https://github.com/ValancedBreakfast/CharmReValance/releases/download/1.25.09.24/CharmReValance.dll]]></Link>
+        <Version>1.25.10.07</Version>
+        <Link SHA256="73e89cf5a0531a41411a8cb4459f085e554a3279404af441981e1296c462f667"><![CDATA[https://github.com/ValancedBreakfast/CharmReValance/releases/download/1.25.10.07/CharmReValance.dll]]></Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
             <Dependency>Satchel</Dependency>
@@ -56,7 +56,7 @@
         <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
     </Manifest>
 	<Manifest>
-        <Name>Damage Values Rewritten</Name>
+        <Name>DamageValuesRewritten</Name>
         <Description>Display damage values when enemies suffer damage</Description>
         <Version>1.25.10.07</Version>
         <Link SHA256="799c42143150387622d4ecd4597f2fefc17795d2e4682623857121f2e3d01a36"><![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten/releases/download/1.25.10.07/DamageValuesRewritten.zip]]></Link>
