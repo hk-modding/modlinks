@@ -10489,7 +10489,7 @@ Enjoy!</Description>
 		<DisplayName>Laugh Mod</DisplayName>
 		<Description>Plays laugh sound on specific events.</Description>
 		<Version>1.0.1.0</Version>
-		<Link SHA256="4ED7EA0F5A61F25C8659EC4DC31646E784B0E0177018649DF3D61FF969DDF9FB"><![CDATA[https://github.com/Dzhake/HK.LaughMod/releases/download/1.0.1/LaughMod.zip]]></Link>
+		<Link SHA256="F72AAFECB44D01C745A4CA0E23349AD97DF433A138955ECC6B1ABAEAE8677406"><![CDATA[https://github.com/Dzhake/HK.LaughMod/releases/download/1.0.1/LaughMod.zip]]></Link>
 		<Dependencies>
 			<Dependency>Satchel</Dependency>
 		</Dependencies>
