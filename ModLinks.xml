@@ -24,6 +24,14 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Charm ReValance</Name>
+        <Description>Dummy mod. Install the dependency "CharmReValance" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>CharmReValance</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
         <Name>CharmReValance</Name>
         <Description>Charm and ability overhaul and customization</Description>
         <Version>1.25.10.07</Version>
@@ -49,7 +57,15 @@
     </Manifest>
     <Manifest>
         <Name>DamageValues</Name>
-        <Description>Dummy mod. Install the dependency "Damage Values Rewritten" directly.</Description>
+        <Description>Dummy mod. Install the dependency "DamageValuesRewritten" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>DamageValuesRewritten</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Damage Values Rewritten</Name>
+        <Description>Dummy mod. Install the dependency "DamageValuesRewritten" directly.</Description>
         <Version>9.9.9.9</Version>
         <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
         <Dependencies><Dependency>DamageValuesRewritten</Dependency></Dependencies>
