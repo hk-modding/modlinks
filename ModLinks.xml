@@ -10082,6 +10082,7 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
+			<Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Roma-337/PaleCourtCharms]]>
