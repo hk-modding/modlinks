@@ -25,9 +25,17 @@
     </Manifest>
     <Manifest>
         <Name>Charm ReValance</Name>
+        <Description>Dummy mod. Install the dependency "CharmReValance" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>CharmReValance</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>CharmReValance</Name>
         <Description>Charm and ability overhaul and customization</Description>
-        <Version>1.25.09.24</Version>
-        <Link SHA256="0e7470a383903ff9079247013bb50a75784ba7c719c3b072912a2cbd3b9b0261"><![CDATA[https://github.com/ValancedBreakfast/CharmReValance/releases/download/1.25.09.24/CharmReValance.dll]]></Link>
+        <Version>1.25.10.07</Version>
+        <Link SHA256="73e89cf5a0531a41411a8cb4459f085e554a3279404af441981e1296c462f667"><![CDATA[https://github.com/ValancedBreakfast/CharmReValance/releases/download/1.25.10.07/CharmReValance.dll]]></Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
             <Dependency>Satchel</Dependency>
@@ -49,14 +57,22 @@
     </Manifest>
     <Manifest>
         <Name>DamageValues</Name>
-        <Description>Dummy mod. Install the dependency "Damage Values Rewritten" directly.</Description>
+        <Description>Dummy mod. Install the dependency "DamageValuesRewritten" directly.</Description>
         <Version>9.9.9.9</Version>
         <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>Damage Values Rewritten</Dependency></Dependencies>
+        <Dependencies><Dependency>DamageValuesRewritten</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Damage Values Rewritten</Name>
+        <Description>Dummy mod. Install the dependency "DamageValuesRewritten" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>DamageValuesRewritten</Dependency></Dependencies>
         <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
     </Manifest>
 	<Manifest>
-        <Name>Damage Values Rewritten</Name>
+        <Name>DamageValuesRewritten</Name>
         <Description>Display damage values when enemies suffer damage</Description>
         <Version>1.25.10.07</Version>
         <Link SHA256="799c42143150387622d4ecd4597f2fefc17795d2e4682623857121f2e3d01a36"><![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten/releases/download/1.25.10.07/DamageValuesRewritten.zip]]></Link>
