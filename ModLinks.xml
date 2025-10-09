@@ -10255,9 +10255,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>DanielSteginkUtils</Name>
         <Description>Custom library with calculations, logic and cross-mod helpers.</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="0cf64311af8cef1cd020437baf3529e7b5392297fb2981c0286bf4288421596e">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.0.0/DanielSteginkUtils.zip]]>
+        <Version>1.4.1.0</Version>
+        <Link SHA256="519b4edb02537ac21c6e1d248eb593a64455d4c4fe4aa935d74a0f4b59a13223">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.1.0/DanielSteginkUtils.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
