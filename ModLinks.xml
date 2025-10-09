@@ -7163,9 +7163,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.4.4.0</Version>
-        <Link SHA256="da4d4d98932109ea441d0d9f76942a219b320488a84d37b7bcd6a44ae826a58b">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.4/BugPrince.zip]]>
+        <Version>1.4.5.0</Version>
+        <Link SHA256="94d1112f5d35ba08602744c6d84ff2d697ab3c83cefe64d5d04cf36f3182528c">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.5/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -7338,9 +7338,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="BF35D745A65602565930FA6A36F52E95D2E2026BC3F10EF3B7F640C2F539183C">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.0.0.0/SpicyRando.zip]]>
+        <Version>2.0.1.0</Version>
+        <Link SHA256="FA04521D7E5DCAEAD71456F00854C6C5E5ABA71C01582B310F402036CAC6362C">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.0.1.0/SpicyRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
