@@ -5395,7 +5395,7 @@ Enjoy!</Description>
     <Manifest>
         <Name>Golden Godhome</Name>
         <Description>Reskins bosses in the Godhome to have more golden designs and details</Description>
-        <Version>0.1.1.0</Version>
+        <Version>1.1.0.0</Version>
         <Link SHA256="c3d2fe63c8dbde25f0d85b8ee780f4d2651e4992e5e59df52da8fc9efda8c031">
             <![CDATA[https://github.com/Fyremoth-project/GoldenGodhome/releases/download/1.1.0/GoldenGodhome.zip]]>
         </Link>
@@ -8982,7 +8982,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>RemoveLaggyObjects</Name>
-        <Description>Removes various objects from scenes where they can cause major lag.</Description>
+        <Description>Removes various objects from scenes where they can cause major lag. Also RLO</Description>
         <Version>1.0.4.0</Version>
         <Link SHA256="65fb671cc3fe1ded6c59a15bdc41647424ef8fb51e2114d58d3c833c7f8630f4"><![CDATA[https://github.com/thegodfriend/RemoveLaggyObjects/releases/download/v1.0.4/RemoveLaggyObjects.zip]]></Link>
         <Dependencies/>
@@ -8991,7 +8991,7 @@ Enjoy!</Description>
         </Repository>
         <Tags>
             <Tag>Cosmetic</Tag>
-            <Tag>Gameplay</Tag>
+            <Tag>Optimization</Tag>
         </Tags>
         <Authors>
             <Author>Godfriend</Author>
