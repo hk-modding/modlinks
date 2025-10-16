@@ -9825,9 +9825,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.5.3.0</Version>
-        <Link SHA256="F7100D53383A9FA98070A7D4EF0B30EF73DAAAC3E84566C404E80206DB6C7A4E">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.3.0/ExaltationExpanded.zip]]>
+        <Version>1.5.4.0</Version>
+        <Link SHA256="df7280d760e92159e4dd373355d500d6434844312c53f72d1498436d6fd25741">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.4.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
@@ -10255,9 +10255,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>DanielSteginkUtils</Name>
         <Description>Custom library with calculations, logic and cross-mod helpers.</Description>
-        <Version>1.4.1.0</Version>
-        <Link SHA256="519b4edb02537ac21c6e1d248eb593a64455d4c4fe4aa935d74a0f4b59a13223">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.1.0/DanielSteginkUtils.zip]]>
+        <Version>1.4.2.0</Version>
+        <Link SHA256="781510fc1e4cb841a27f327e465297b9011f69c7f92e25d42f7484d28fda5c1a">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.2.0/DanielSteginkUtils.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
