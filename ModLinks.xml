@@ -9291,9 +9291,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CharmPatch</Name>
         <Description>This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.</Description>
-        <Version>1.7.0.0</Version>
-        <Link SHA256="db6f78665e7a86f874228a9d3103d4617cea0e6ef253b101629c8d3e3ceba2b2">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.7.0.0/CharmPatch.zip]]>
+        <Version>1.7.0.1</Version>
+        <Link SHA256="8a0cd1a03fabf3619a9046f848fc761bbaa86c7b0ac4e406c9302a84d287a6a5">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.7.0.1/CharmPatch.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
@@ -10255,9 +10255,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>DanielSteginkUtils</Name>
         <Description>Custom library with calculations, logic and cross-mod helpers.</Description>
-        <Version>1.4.2.0</Version>
-        <Link SHA256="781510fc1e4cb841a27f327e465297b9011f69c7f92e25d42f7484d28fda5c1a">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.2.0/DanielSteginkUtils.zip]]>
+        <Version>1.4.2.1</Version>
+        <Link SHA256="46c122f60b698145b73f3ae2a1cacad96a386ed8ddd443c1d16dc6ce31fc6eeb">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.2.1/DanielSteginkUtils.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
