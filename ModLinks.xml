@@ -10522,4 +10522,26 @@ Enjoy!</Description>
 			<Author>Dzhake</Author>
 		</Authors>
 	</Manifest>
+	<Manifest>
+        <Name>Fast World</Name>
+        <Description>Making your Hallownest more challenging by changing speed of the entire world, except you!</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="cbf86d13f2d54215f5ec71ebec420519870340ca6a2d19ef67062ab1feb1bb43">
+            <![CDATA[https://github.com/hien-ngo29/FastWorld/releases/download/v1.0.0.0/FastWorld.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Sanic</Dependency>
+            <Dependency>Satchel</Dependency>
+			<Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/hien-ngo29/FastWorld]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Hien Ngo</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
