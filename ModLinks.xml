@@ -7103,9 +7103,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TheHuntIsOn</Name>
         <Description>A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="6f811047050d2b556080f2ca56446f74fb97737120713bab9058f2465e29c0ae">
-            <![CDATA[https://github.com/Korzer420/TheHuntIsOn/releases/download/v1.0.0/TheHuntIsOn.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="36acbb3f39727d5a78e04285174826fd9f338b2d3f8a776c6716b07e0f53c10e">
+            <![CDATA[https://github.com/dplochcoder/TheHuntIsOn/releases/download/v1.1.0/TheHuntIsOn.zip]]></Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -7121,6 +7121,7 @@ Enjoy!</Description>
             <Author>Korz</Author>
             <Author>Fireb0rn</Author>
             <Author>Extremelyd1</Author>
+			<Author>Purenail</Author>
         </Authors>
     </Manifest>
     <Manifest>
