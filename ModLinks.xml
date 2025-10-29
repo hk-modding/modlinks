@@ -10545,4 +10545,23 @@ Enjoy!</Description>
             <Author>Hien Ngo</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>GeoPots</Name>
+        <Description>Adds a chance for carts and barrels to drop geo when broken.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="194cc71f267e4bb7211513405e7ed40a163e90d6b8ea8f01287783ac7749dfd4">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.GeoPots/releases/download/1.0.0.0/GeoPots.zip]]>
+        </Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.GeoPots]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
