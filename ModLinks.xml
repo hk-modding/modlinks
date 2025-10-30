@@ -10564,4 +10564,25 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>GeoBundles</Name>
+        <Description>Store Geo in "bundles" to protect it from loss upon death, similar to rosary strings in silksong.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="5C3F38950D746FDB09CB012672F815E094181024E4AD290CEEB5AE526212E7BE">
+            <![CDATA[https://github.com/w-nityammm/GeoBundles/releases/download/v1.0.0.0/GeoBundles.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/w-nityammm/GeoBundles]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>w-nityammm</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
