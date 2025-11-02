@@ -10585,4 +10585,25 @@ Enjoy!</Description>
             <Author>w-nityammm</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>BetterCrystalHeart</Name>
+        <Description>Adds synergies and bonuses to Crystal Heart's damage and charge time.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="09b9ad04e7ce232b91c2e2992953950a7a89863158856bbe8fc5c775ab9a5055">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.0.0.0/BetterCrystalHeart.zip]]>
+        </Link>
+        <Dependencies>
+			<Dependency>DanielSteginkUtils</Dependency>
+			<Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
