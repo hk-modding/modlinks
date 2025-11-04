@@ -634,8 +634,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>VendorRando</Name>
         <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
-        <Version>1.0.2.1</Version>
-        <Link SHA256="D60CCEC162347B17E81DB91EE7A6DA06A5D03C1B36E9A7F1DA443D5984B6D9EE"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.2.1/VendorRando.zip]]></Link>
+        <Version>1.0.2.2</Version>
+        <Link SHA256="28783DF0AF34F2E6D5314CB864F60A2F05408A4F669E22695DF9987EB607D387"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.2.2/VendorRando.zip]]></Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
