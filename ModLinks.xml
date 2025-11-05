@@ -23,6 +23,26 @@
             <Author>U-tale</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>Harmony</Name>
+        <Description>A modding library</Description>
+        <Version>2.4.1.0</Version>
+        <Link><![CDATAhttps://github.com/pardeike/Harmony/releases/download/v2.4.1.0/Harmony-Fat.2.4.1.0.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/pardeike/Harmony]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/pardeike/Harmony/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>Andreas Pardeike</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
         <Name>Charm ReValance</Name>
         <Description>Dummy mod. Install the dependency "CharmReValance" directly.</Description>
