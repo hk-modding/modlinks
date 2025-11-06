@@ -27,7 +27,7 @@
         <Name>Harmony</Name>
         <Description>A modding library</Description>
         <Version>2.4.1.0</Version>
-        <Link SHA256="dbc3b5bdf5e2db3dc96be44beb162d47a2450141c198915181596bd5778e52ba"><![CDATAhttps://github.com/pardeike/Harmony/releases/download/v2.4.1.0/Harmony-Fat.2.4.1.0.zip]]></Link>
+        <Link SHA256="dbc3b5bdf5e2db3dc96be44beb162d47a2450141c198915181596bd5778e52ba"><![CDATA[https://github.com/pardeike/Harmony/releases/download/v2.4.1.0/Harmony-Fat.2.4.1.0.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
