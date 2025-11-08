@@ -10625,4 +10625,21 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>Restore NKG Title Card</Name>
+        <Description>Restore Godhome NKG Title Card</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="0980a46529098168b4fd927441e7bcd3287e0fa01dfcf84ecfca8de899800721">
+            <![CDATA[https://github.com/hien-ngo29/HKSimpleModCollection/releases/download/main/GodHomeNKGTitleCard.zip]]>
+        </Link>
+        <Dependencies>
+			<Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>Hien Ngo</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
