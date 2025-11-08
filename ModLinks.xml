@@ -10635,6 +10635,9 @@ Enjoy!</Description>
         <Dependencies>
 			<Dependency>Satchel</Dependency>
         </Dependencies>
+		<Repository>
+            <![CDATA[https://github.com/hien-ngo29/HKSimpleModCollection/tree/master/GodhomeNKGTitleCard]]>
+        </Repository>
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
