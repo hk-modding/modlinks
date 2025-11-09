@@ -10653,9 +10653,9 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
+        <Repository>https://github.com/dpinela/RandoSBRCO</Repository>
         <Integrations>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
-        <Repository>https://github.com/dpinela/RandoSBRCO</Repository>
     </Manifest>
 </ModLinks>
