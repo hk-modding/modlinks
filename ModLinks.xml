@@ -10645,4 +10645,17 @@ Enjoy!</Description>
             <Author>Hien Ngo</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>RandoSBRCO</Name>
+        <Description>Adds logic to the randomizer to ensure that a given charm order can be followed</Description>
+        <Version>1.1.3.0</Version>
+        <Link SHA256="f75d331816216863a7b8f476cfb26adee06a513bcaace2391baeb4cb02d05788">https://github.com/dpinela/RandoSBRCO/releases/download/v1.1.3/RandoSBRCO.zip</Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>https://github.com/dpinela/RandoSBRCO</Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+    </Manifest>
 </ModLinks>
