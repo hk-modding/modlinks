@@ -10662,12 +10662,12 @@ Enjoy!</Description>
         <Name>GodhomeGeo</Name>
         <Description>Removes the limitation that prevents geo from spawning in Godhome.</Description>
         <Version>1.0.0.0</Version>
-        <Repository>
-            <![CDATA[https://github.com/cometcake575/GodhomeGeo]]>
-        </Repository>
 		<Link SHA256="f57f30536a683060d9a802e99e2066c697bb2c530ac96a0a3272b451363f6b74">
             <![CDATA[https://github.com/cometcake575/GodhomeGeo/releases/download/1.0.0.0/GodhomeGeo.zip]]>
         </Link>
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/GodhomeGeo]]>
+        </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
