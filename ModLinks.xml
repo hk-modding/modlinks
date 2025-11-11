@@ -10665,6 +10665,8 @@ Enjoy!</Description>
 		<Link SHA256="f57f30536a683060d9a802e99e2066c697bb2c530ac96a0a3272b451363f6b74">
             <![CDATA[https://github.com/cometcake575/GodhomeGeo/releases/download/1.0.0.0/GodhomeGeo.zip]]>
         </Link>
+        <Dependencies>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/cometcake575/GodhomeGeo]]>
         </Repository>
