@@ -10663,7 +10663,7 @@ Enjoy!</Description>
     <Name>KonpanionDx</Name>
     <Description>Konpaniondx is a forked HKMPpouch mod that adds a little knight to keep you company (works with CustomKnight)</Description>
     <Version>0.2.1.0</Version>
-    <Link SHA256="dc1f0f4c92c192556cecb190c06a151f91c7d825bf26d18e693ce950e3b0396e"><![CDATA[https://github.com/kikweeisW2012/Konpaniondx/releases/download/0.2.1.0/Konpanion.0.2.1.0.zip]]></Link>
+    <Link sha256="8753950d4147c550aa4c5138b0513ad0a16bb5b42ca8365ec318eca00992debf"><![CDATA[https://github.com/kikweeisW2012/Konpaniondx/releases/download/0.2.1.0/KonpanionDx.zip]]></Link>
     <Dependencies>
         <Dependency>HKMPpouch</Dependency>
     </Dependencies>
