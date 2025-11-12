@@ -10704,6 +10704,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall/releases/download/1.0.0.0/GripWall.zip]]>
         </Link>
         <Dependencies>
+			<Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall]]>
