@@ -10677,4 +10677,23 @@ Enjoy!</Description>
             <Author>cometcake575</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>ShadeSnail</Name>
+        <Description>Spawns an immortal Shade that follows you constantly.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="DB3D6934A0AA0C34127B39FED1482F28BA3E0D7E62397AA86A28D00FDCCBECAF">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.0.0.0/ShadeSnail.zip]]>
+        </Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
