@@ -10588,9 +10588,9 @@ Enjoy!</Description>
 	<Manifest>
         <Name>BetterCrystalHeart</Name>
         <Description>Adds synergies and bonuses to Crystal Heart's damage and charge time.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="739f1f1d1a9a2fa5edaafe3a318d14485cbab6ff84ca1853a033c322f0d53d96">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.1.0.0/BetterCrystalHeart.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="f89f62156d4ff558d32fe7da8412ffd3767632c0eebbe92505abc2f40348913a">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.1.1.0/BetterCrystalHeart.zip]]>
         </Link>
         <Dependencies>
 			<Dependency>DanielSteginkUtils</Dependency>
@@ -10699,9 +10699,9 @@ Enjoy!</Description>
 	<Manifest>
         <Name>GripWall</Name>
         <Description>Reduces or eliminates gravity effect while clinging to a wall.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="06bf981a224aa83cedef19bc06eeeefac4107bf3cce1744a087ea07ec8ce3041">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall/releases/download/1.0.0.0/GripWall.zip]]>
+        <Version>1.0.1.1</Version>
+        <Link SHA256="45d7ff1fe0f85e5c4232a9519989094057f702d849b643b58438aa9b9702e6e2">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall/releases/download/1.0.1.1/GripWall.zip]]>
         </Link>
         <Dependencies>
 			<Dependency>HKMirror</Dependency>
