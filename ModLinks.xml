@@ -10699,9 +10699,9 @@ Enjoy!</Description>
 	<Manifest>
         <Name>GripWall</Name>
         <Description>Reduces or eliminates gravity effect while clinging to a wall.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="06bf981a224aa83cedef19bc06eeeefac4107bf3cce1744a087ea07ec8ce3041">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall/releases/download/1.0.0.0/GripWall.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="a909196c551cebbf164a7ca8fcf7e72c65d17b324295365af43c7484382b08c4">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall/releases/download/1.0.1.0/GripWall.zip]]>
         </Link>
         <Dependencies>
 			<Dependency>HKMirror</Dependency>
