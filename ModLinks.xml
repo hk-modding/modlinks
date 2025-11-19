@@ -9056,6 +9056,40 @@ Enjoy!</Description>
             <Author>Godfriend</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>DoodleBosses</Name>
+        <Description>The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!</Description>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="19a76f4bd224e06abf661f1c8a391c6467c14deac1a40b34beb91dcc39efcf3c"><![CDATA[https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.0/DoodleBosses.zip]]></Link>
+        <Dependencies></Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/thegodfriend/DoodleBosses]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>Godfriend</Author>
+            <Author>AceiestArtist</Author>
+            <Author>Akivaq</Author>
+            <Author>Chaktis</Author>
+            <Author>Dandy</Author>
+            <Author>DaveyTheDuck</Author>
+            <Author>FailedVessel</Author>
+            <Author>flame-shadow</Author>
+            <Author>HooKnows</Author>
+            <Author>Hotspring</Author>
+            <Author>ikea-ballpit</Author>
+            <Author>Jex111</Author>
+            <Author>KaziVuri</Author>
+            <Author>lime</Author>
+            <Author>MinishLink</Author>
+            <Author>MTmerm</Author>
+            <Author>RocketFire20</Author>
+            <Author>Torny</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
         <Name>CollectorGlitchRemover</Name>
         <Description>Prevents the "insta-grab" and "sticky feet" Collector glitches.</Description>
