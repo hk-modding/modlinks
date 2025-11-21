@@ -10751,4 +10751,24 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>AllGrubRewardsAtOnce</Name>
+        <Description>Grubfather gives all available rewards in one go.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="D54B915878B397AA1594894C0CD28FBFDB1E9C0F47DBDFC8BEB104575748544F">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.AllGrubRewardsAtOnce/releases/download/1.0.0.0/AllGrubRewardsAtOnce.zip]]>
+        </Link>
+        <Dependencies>
+			<Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.AllGrubRewardsAtOnce]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
