@@ -10774,7 +10774,7 @@ Enjoy!</Description>
 	<Manifest>
         <Name>Nosk Transformation</Name>
         <Description>Become Nosk at will—roar, spit, leap, and prank your friends in Hollow Knight, with stealth naming and HKMP support.</Description>
-        <Version>1.0.0</Version>
+        <Version>1.0.0.0</Version>
         <Link SHA256="27774edd53772107101264009255f0c6d440f0356e3edffc28471ca58da0ed78">
             <![CDATA[https://github.com/TwangyMoney/Nosk-Transformation/releases/download/1.0.0/Nosk_Transformation.zip]]>
         </Link>
