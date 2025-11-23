@@ -9059,8 +9059,8 @@ Enjoy!</Description>
 	<Manifest>
         <Name>DoodleBosses</Name>
         <Description>The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!</Description>
-        <Version>0.9.0.0</Version>
-        <Link SHA256="19a76f4bd224e06abf661f1c8a391c6467c14deac1a40b34beb91dcc39efcf3c"><![CDATA[https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.0/DoodleBosses.zip]]></Link>
+        <Version>0.9.1.0</Version>
+        <Link SHA256="5f6059ca26712fa6f139ca05bea0956bcf87049c36b5f0e9e47e7a0f285c15e4"><![CDATA[https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.1/DoodleBosses.zip]]></Link>
         <Dependencies></Dependencies>
         <Repository>
             <![CDATA[https://github.com/thegodfriend/DoodleBosses]]>
