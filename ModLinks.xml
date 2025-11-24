@@ -10791,4 +10791,24 @@ Enjoy!</Description>
             <Author>Twangy Money</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>NoMaps</Name>
+        <Description>Removes the map from the screen</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="400156d79ae0fd482ac0e95954f90e8b57088a06b8816f1469bd3e97c0227ad2">
+            <![CDATA[https://github.com/Nutellka1/NoMaps/releases/download/NoMaps-v1.1/NoMapUI.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Nutellka1/NoMaps]]>
+        </Repository>
+        <Tags>
+            <Tag>NoMaps</Tag>
+            <Tag>Nutellka1</Tag>
+        </Tags>
+        <Authors>
+            <Author>FIN</Author>
+        </Authors>
+    </Manifest>
+
 </ModLinks>
