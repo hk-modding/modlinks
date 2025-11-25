@@ -10809,5 +10809,24 @@ Enjoy!</Description>
             <Author>Nutellka1</Author>
         </Authors>
     </Manifest>
-
+	<Manifest>
+        <Name>FarewellSteelSoul</Name>
+		<DisplayName>Farewell Steel Soul</DisplayName>
+        <Description>Death in Steel Soul mode deserves a grand funeral.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="d25fc7b3f40d2861ffc4ba2350c1958ce4f8f0d34bea4531d7ac914141c41412">
+            <![CDATA[https://github.com/EchoLinger/Farewell-Steel-Soul/releases/download/v1.0.1/EchoLinger-FarewellSteelSoul-1.0.1.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/EchoLinger/Farewell-Steel-Soul]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>EchoLinger</Author>
+			<Author>HuangYunOCN</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
