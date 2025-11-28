@@ -9498,23 +9498,7 @@ Enjoy!</Description>
             <Author>Egir</Author>
         </Authors>
     </Manifest>
-     <Manifest>
-        <Name>ReplayLogger</Name>
-        <Description>ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.</Description>
-        <Version>1.0.0.5</Version>
-        <Link SHA256="d337b8b8ec8e400b9f452faf99e25fe413a8bb14f022191041d415445c05870a">
-            <![CDATA[https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.5/ReplayLogger.zip]]>
-        </Link>
-         <Dependencies />
-        <Repository>
-            <![CDATA[https://github.com/MorozicH20/ReplayLogger]]>
-        </Repository>
-        <Authors>
-            <Author>Egir</Author>
-            <Author>NightFuryo3o</Author>
-            <Author>mint</Author>
-        </Authors>
-    </Manifest>
+     
     <Manifest>
         <Name>SafeGodseekerQoL</Name>
         <Description>This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.</Description>
