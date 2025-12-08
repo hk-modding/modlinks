@@ -9073,9 +9073,9 @@ Enjoy!</Description>
     </Manifest>
 	<Manifest>
         <Name>DoodleBosses</Name>
-        <Description>The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!</Description>
-        <Version>0.9.1.0</Version>
-        <Link SHA256="364cc4238964fa3d48282d96cf5c1907a6b53d0d891006c9038989b7502374f1"><![CDATA[https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.2/DoodleBosses.zip]]></Link>
+        <Description>The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.</Description>
+        <Version>0.9.4.0</Version>
+        <Link SHA256="ceb7a506df5c0f888885b4bc9a024a71d5df64d97278047a45e79b4e9f99af02"><![CDATA[https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.4/DoodleBosses.zip]]></Link>
         <Dependencies></Dependencies>
         <Repository>
             <![CDATA[https://github.com/thegodfriend/DoodleBosses]]>
@@ -9086,23 +9086,6 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Godfriend</Author>
-            <Author>AceiestArtist</Author>
-            <Author>Akivaq</Author>
-            <Author>Chaktis</Author>
-            <Author>Dandy</Author>
-            <Author>DaveyTheDuck</Author>
-            <Author>FailedVessel</Author>
-            <Author>flame-shadow</Author>
-            <Author>HooKnows</Author>
-            <Author>ikea-ballpit</Author>
-            <Author>Jex111</Author>
-            <Author>KaziVuri</Author>
-            <Author>lime</Author>
-            <Author>MinishLink</Author>
-            <Author>MTmerm</Author>
-            <Author>RiverRobot</Author>
-            <Author>RocketFire20</Author>
-            <Author>Torny</Author>
         </Authors>
     </Manifest>
     <Manifest>
