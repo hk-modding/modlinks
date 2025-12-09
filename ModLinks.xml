@@ -2708,9 +2708,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Rope Rando</Name>
         <Description>Adds the rope / chandelier in the Watcher Knights boss room to Randomizer 4.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="6EB5239EBC99D71BA9648BB0228F30C20D10ED6FDC0CCF8431E828491B3C07BC">
-            <![CDATA[https://github.com/ManicJamie/HollowKnight.RopeRando/releases/download/v1.1/RopeRando.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="0FC5FC2B3FB9BB93E406BD18300942425A3D883AFB1609DFE5BE3E0CC98B6A5C">
+            <![CDATA[https://github.com/ManicJamie/HollowKnight.RopeRando/releases/download/v1.1.2/RopeRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
