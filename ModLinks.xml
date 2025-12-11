@@ -9517,9 +9517,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SafeGodseekerQoL</Name>
         <Description>This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.</Description>
-        <Version>1.0.0.3</Version>
-        <Link SHA256="908c3eef9fbb3cdad61eae2b068e8f36055cd8416d355fd94ef4ded246947eff">
-            <![CDATA[https://github.com/NightFuryoOo/SafeGodSeekerQoL/releases/download/v1.0.0.3/SafeGodseekerQoL.zip]]>
+        <Version>1.0.0.4</Version>
+        <Link SHA256="d509861e5803b81359e85fc381e326dd4455f699b6177dfc75ba1cc8f6792433">
+            <![CDATA[https://github.com/NightFuryoOo/SafeGodSeekerQoL/releases/download/v1.0.0.4/SafeGodseekerQoL.zip]]>
         </Link>
          <Dependencies>
              <Dependency>Osmi</Dependency>
