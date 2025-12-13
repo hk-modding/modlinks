@@ -10806,5 +10806,21 @@ Enjoy!</Description>
             <Author>Nutellka1</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>AnyRadianceLoader</Name>
+        <Description>A mod that allows you to load any of the three available AnyRadiance versions without manually replacing mod files. You only need to press a single button in the menu.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="ce180f7f08e32f3ae17027b85574dbbe78e9e9dd99eb0ee02a10dfecf3b3e5b8">
+            <![CDATA[https://github.com/NightFuryoOo/AnyRadianceLoader/releases/download/v1.0.0.0/AnyRadianceLoader.zip]]>
+        </Link>
+        <Repository>
+            <![CDATA[https://github.com/NightFuryoOo/AnyRadianceLoader]]>
+        </Repository>
+        <Authors>
+            <Author>NightFuryo3o</Author>
+            <Author>Jngo102</Author>
+			<Author>Early</Author>
+        </Authors>
+    </Manifest>
 
 </ModLinks>
