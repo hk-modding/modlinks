@@ -5027,7 +5027,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/PrashantMohta/Smolknight/]]>
         </Repository>
     </Manifest>
-     <Manifest>
+    <Manifest>
         <Name>All4Love</Name>
         <Description>Love 4 All.</Description>
         <Version>1.0.0.0</Version>
@@ -10122,69 +10122,69 @@ Enjoy!</Description>
         </Repository>
     </Manifest>
     <Manifest>
-            <Name>MotionBlur</Name>
-            <Description>Adds motion blur</Description>
-            <Version>1.0.2.0</Version>
-            <Link SHA256="f8bc8d130263d659654b5a92567c6d897c402c345bba49e2b6784f0edbe87656">
-            <![CDATA[https://github.com/Reinzer/MotionBlur/releases/download/1.0.2.0/MotionBlur.zip]]>
-            </Link>
-            <Dependencies>
-                <Dependency>Satchel</Dependency>
-            </Dependencies>
-            <Repository>
-                <![CDATA[https://github.com/Reinzer/MotionBlur]]>
-            </Repository>
-            <Tags>
-                <Tag>Gameplay</Tag>
-            </Tags>
-            <Authors>
-                <Author>Reinzer</Author>
-            </Authors>
-        </Manifest>
-        <Manifest>
-            <Name>Less Flashing Lights</Name>
-            <Description>Reduces the amount of flashing lights. Check the readme for more info</Description>
-            <Version>1.0.0.0</Version>
-            <Link SHA256="e022876e944ab6acf4560167b4a65058de5bab46d2c0250e5486224cee618d76">
-                <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.0/LessFlashingLights.zip]]>
-            </Link>
-            <Dependencies>
-                <Dependency>Satchel</Dependency>
-            </Dependencies>
-            <Repository>
-                <![CDATA[https://github.com/Arwangha/LessFlashingLights]]>
-            </Repository>
-            <Issues>
-                <![CDATA[https://github.com/Arwangha/LessFlashingLights/issues]]>
-            </Issues>
-            <Tags>
-                <Tag>Utility</Tag>
-            </Tags>
-            <Authors>
-                <Author>Wangha</Author>
-            </Authors>
-        </Manifest>
+        <Name>MotionBlur</Name>
+        <Description>Adds motion blur</Description>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="f8bc8d130263d659654b5a92567c6d897c402c345bba49e2b6784f0edbe87656">
+        <![CDATA[https://github.com/Reinzer/MotionBlur/releases/download/1.0.2.0/MotionBlur.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Reinzer/MotionBlur]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Reinzer</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
-            <Name>Galien Illusionist</Name>
-            <Description>Modboss. Now there will be two galiens in the arena, one of which is not real.</Description>
-            <Version>1.1.0.0</Version>
-            <Link SHA256="ad619e84568dda91ed25eb0a471ed1410e39b717b60a2f3a3c0728d88de5dbab">
-                <![CDATA[https://github.com/F1NS3N/GalienIllusionist/releases/download/GalienIllusionist-v1.1.0/Gallien_Illusionist.zip]]>
-            </Link>
-            <Dependencies>
-                <Dependency>Vasi</Dependency>
-            </Dependencies>
-            <Repository>
-                <![CDATA[https://github.com/F1NS3N/GalienIllusionist]]>
-            </Repository>
-            <Tags>
-                <Tag>Boss</Tag>
-            </Tags>
-            <Authors>
-                <Author>FIN</Author>
-            </Authors>
-        </Manifest>
-     <Manifest>
+        <Name>Less Flashing Lights</Name>
+        <Description>Reduces the amount of flashing lights. Check the readme for more info</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="e022876e944ab6acf4560167b4a65058de5bab46d2c0250e5486224cee618d76">
+            <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.0/LessFlashingLights.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Arwangha/LessFlashingLights]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Arwangha/LessFlashingLights/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Wangha</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Galien Illusionist</Name>
+        <Description>Modboss. Now there will be two galiens in the arena, one of which is not real.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="ad619e84568dda91ed25eb0a471ed1410e39b717b60a2f3a3c0728d88de5dbab">
+            <![CDATA[https://github.com/F1NS3N/GalienIllusionist/releases/download/GalienIllusionist-v1.1.0/Gallien_Illusionist.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/F1NS3N/GalienIllusionist]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>FIN</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>DanielSteginkUtils</Name>
         <Description>Custom library with calculations, logic and cross-mod helpers.</Description>
         <Version>1.4.2.1</Version>
