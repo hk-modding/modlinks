@@ -9516,10 +9516,18 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>SafeGodseekerQoL</Name>
+        <Description>Dummy mod. Install the dependency "GodhomeQoL" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>GodhomeQoL</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>GodhomeQoL</Name>
         <Description>This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.</Description>
-        <Version>1.0.0.4</Version>
-        <Link SHA256="d509861e5803b81359e85fc381e326dd4455f699b6177dfc75ba1cc8f6792433">
-            <![CDATA[https://github.com/NightFuryoOo/SafeGodSeekerQoL/releases/download/v1.0.0.4/SafeGodseekerQoL.zip]]>
+        <Version>1.0.0.5</Version>
+        <Link SHA256="6c79c0bee2e90d9fc6d5e4197b62d934b6def13af5aac126ed7fb6bdec85dc0e">
+            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.0.5/GodhomeQoL.zip]]>
         </Link>
          <Dependencies>
              <Dependency>Osmi</Dependency>
@@ -9528,7 +9536,7 @@ Enjoy!</Description>
 			 <Dependency>SFCore</Dependency>
          </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/NightFuryoOo/SafeGodSeekerQoL]]>
+            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL]]>
         </Repository>
         <Authors>
             <Author>NightFuryo3o</Author>
