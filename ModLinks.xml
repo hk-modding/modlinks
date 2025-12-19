@@ -24,14 +24,6 @@
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Charm ReValance</Name>
-        <Description>Dummy mod. Install the dependency "CharmReValance" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>CharmReValance</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <Manifest>
         <Name>CharmReValance</Name>
         <Description>Charm and ability overhaul and customization</Description>
         <Version>1.25.10.07</Version>
@@ -56,22 +48,6 @@
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>DamageValues</Name>
-        <Description>Dummy mod. Install the dependency "DamageValuesRewritten" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>DamageValuesRewritten</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <Manifest>
-        <Name>Damage Values Rewritten</Name>
-        <Description>Dummy mod. Install the dependency "DamageValuesRewritten" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>DamageValuesRewritten</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-	<Manifest>
         <Name>DamageValuesRewritten</Name>
         <Description>Display damage values when enemies suffer damage</Description>
         <Version>1.25.10.07</Version>
@@ -451,14 +427,6 @@
         <Authors>
             <Author>ROTTEN108</Author>
         </Authors>
-    </Manifest>
-    <Manifest>
-        <Name>Sunset Samsara II</Name>
-        <Description>Dummy mod. Install the dependency "PURITY" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>PURITY</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
     </Manifest>
     <Manifest>
         <Name>PURITY</Name>
@@ -3148,64 +3116,6 @@ All with an incredible new soundtrack!</Description>
             <![CDATA[https://github.com/homothetyhk/HollowKnight.LoadNormalizer/]]>
         </Repository>
     </Manifest>
-    <!-- SFGrenade placeholder manifests start -->
-    <Manifest>
-        <Name>Hollow Knight Achievement Manager</Name>
-        <Description>Dummy mod. Install the dependency "HollowKnightAchievementManager" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>HollowKnightAchievementManager</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <Manifest>
-        <Name>Peaking Peeking Peaks</Name>
-        <Description>Dummy mod. Install the dependency "PeakingPeekingPeaks" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>PeakingPeekingPeaks</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <Manifest>
-        <Name>PvP Arena</Name>
-        <Description>Dummy mod. Install the dependency "PvpArena" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>PvpArena</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <Manifest>
-        <Name>Stories of a HK player - Chapter 1</Name>
-        <Description>Dummy mod. Install the dependency "StoriesOfaHkPlayer-Ch1" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>StoriesOfaHkPlayer-Ch1</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <Manifest>
-        <Name>Stories of a HK player - Chapter 2</Name>
-        <Description>Dummy mod. Install the dependency "StoriesOfaHkPlayer-Ch2" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>StoriesOfaHkPlayer-Ch2</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <Manifest>
-        <Name>Test of Teamwork</Name>
-        <Description>Dummy mod. Install the dependency "TestOfTeamwork" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>TestOfTeamwork</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <Manifest>
-        <Name>Zaliants Surprise</Name>
-        <Description>Dummy mod. Install the dependency "ZaliantsSurprise" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>ZaliantsSurprise</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <!-- SFGrenade placeholder manifests end -->
     <Manifest>
         <Name>AdditionalMaps</Name>
         <DisplayName>Additional Maps</DisplayName>
@@ -5117,7 +5027,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/PrashantMohta/Smolknight/]]>
         </Repository>
     </Manifest>
-     <Manifest>
+    <Manifest>
         <Name>All4Love</Name>
         <Description>Love 4 All.</Description>
         <Version>1.0.0.0</Version>
@@ -7136,7 +7046,7 @@ Enjoy!</Description>
             <Author>Korz</Author>
             <Author>Fireb0rn</Author>
             <Author>Extremelyd1</Author>
-			<Author>Purenail</Author>
+            <Author>Purenail</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -9071,7 +8981,7 @@ Enjoy!</Description>
             <Author>Godfriend</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>DoodleBosses</Name>
         <Description>The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.</Description>
         <Version>0.9.4.0</Version>
@@ -9476,7 +9386,7 @@ Enjoy!</Description>
         <Authors>
             <Author>gGordey</Author>
             <Author>mint</Author>
-			<Author>NightFuryo3o</Author>
+            <Author>NightFuryo3o</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -9533,7 +9443,7 @@ Enjoy!</Description>
              <Dependency>Osmi</Dependency>
              <Dependency>Satchel</Dependency>
              <Dependency>Vasi</Dependency>
-			 <Dependency>SFCore</Dependency>
+             <Dependency>SFCore</Dependency>
          </Dependencies>
         <Repository>
             <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL]]>
@@ -9897,15 +9807,6 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <!-- i'll put SFGrenade's empty mod here just to have some download -->
-        <Name>CustomizableNailDamage</Name>
-        <Description>Dummy mod. Install the dependency "CustomizableAbilities" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>CustomizableAbilities</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <Manifest>
         <Name>CustomizableAbilities</Name>
         <Description>Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.</Description>
         <Version>1.3.4.1</Version>
@@ -9928,15 +9829,6 @@ Enjoy!</Description>
         <Authors>
             <Author>kon4ino</Author>
         </Authors>
-    </Manifest>
-    <Manifest>
-        <!-- i'll put SFGrenade's empty mod here just to have some download -->
-        <Name>HK_QoLTeleportKit</Name>
-        <Description>Dummy mod. Install the dependency "QoLTeleportKit" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>QoLTeleportKit</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
     </Manifest>
     <Manifest>
         <Name>QoLTeleportKit</Name>
@@ -10138,7 +10030,7 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
-			<Dependency>Vasi</Dependency>
+            <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Roma-337/PaleCourtCharms]]>
@@ -10230,69 +10122,69 @@ Enjoy!</Description>
         </Repository>
     </Manifest>
     <Manifest>
-            <Name>MotionBlur</Name>
-            <Description>Adds motion blur</Description>
-            <Version>1.0.2.0</Version>
-            <Link SHA256="f8bc8d130263d659654b5a92567c6d897c402c345bba49e2b6784f0edbe87656">
-            <![CDATA[https://github.com/Reinzer/MotionBlur/releases/download/1.0.2.0/MotionBlur.zip]]>
-            </Link>
-            <Dependencies>
-                <Dependency>Satchel</Dependency>
-            </Dependencies>
-            <Repository>
-                <![CDATA[https://github.com/Reinzer/MotionBlur]]>
-            </Repository>
-            <Tags>
-                <Tag>Gameplay</Tag>
-            </Tags>
-            <Authors>
-                <Author>Reinzer</Author>
-            </Authors>
-        </Manifest>
-        <Manifest>
-            <Name>Less Flashing Lights</Name>
-            <Description>Reduces the amount of flashing lights. Check the readme for more info</Description>
-            <Version>1.0.0.0</Version>
-            <Link SHA256="e022876e944ab6acf4560167b4a65058de5bab46d2c0250e5486224cee618d76">
-                <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.0/LessFlashingLights.zip]]>
-            </Link>
-            <Dependencies>
-                <Dependency>Satchel</Dependency>
-            </Dependencies>
-            <Repository>
-                <![CDATA[https://github.com/Arwangha/LessFlashingLights]]>
-            </Repository>
-            <Issues>
-                <![CDATA[https://github.com/Arwangha/LessFlashingLights/issues]]>
-            </Issues>
-            <Tags>
-                <Tag>Utility</Tag>
-            </Tags>
-            <Authors>
-                <Author>Wangha</Author>
-            </Authors>
-        </Manifest>
+        <Name>MotionBlur</Name>
+        <Description>Adds motion blur</Description>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="f8bc8d130263d659654b5a92567c6d897c402c345bba49e2b6784f0edbe87656">
+        <![CDATA[https://github.com/Reinzer/MotionBlur/releases/download/1.0.2.0/MotionBlur.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Reinzer/MotionBlur]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Reinzer</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
-            <Name>Galien Illusionist</Name>
-            <Description>Modboss. Now there will be two galiens in the arena, one of which is not real.</Description>
-            <Version>1.1.0.0</Version>
-            <Link SHA256="ad619e84568dda91ed25eb0a471ed1410e39b717b60a2f3a3c0728d88de5dbab">
-                <![CDATA[https://github.com/F1NS3N/GalienIllusionist/releases/download/GalienIllusionist-v1.1.0/Gallien_Illusionist.zip]]>
-            </Link>
-            <Dependencies>
-                <Dependency>Vasi</Dependency>
-            </Dependencies>
-            <Repository>
-                <![CDATA[https://github.com/F1NS3N/GalienIllusionist]]>
-            </Repository>
-            <Tags>
-                <Tag>Boss</Tag>
-            </Tags>
-            <Authors>
-                <Author>FIN</Author>
-            </Authors>
-        </Manifest>
-     <Manifest>
+        <Name>Less Flashing Lights</Name>
+        <Description>Reduces the amount of flashing lights. Check the readme for more info</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="e022876e944ab6acf4560167b4a65058de5bab46d2c0250e5486224cee618d76">
+            <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.0/LessFlashingLights.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Arwangha/LessFlashingLights]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Arwangha/LessFlashingLights/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Wangha</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Galien Illusionist</Name>
+        <Description>Modboss. Now there will be two galiens in the arena, one of which is not real.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="ad619e84568dda91ed25eb0a471ed1410e39b717b60a2f3a3c0728d88de5dbab">
+            <![CDATA[https://github.com/F1NS3N/GalienIllusionist/releases/download/GalienIllusionist-v1.1.0/Gallien_Illusionist.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/F1NS3N/GalienIllusionist]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>FIN</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>DanielSteginkUtils</Name>
         <Description>Custom library with calculations, logic and cross-mod helpers.</Description>
         <Version>1.4.2.1</Version>
@@ -10332,14 +10224,6 @@ Enjoy!</Description>
         <Authors>
             <Author>EpsilonDown</Author>
         </Authors>
-    </Manifest>
-    <Manifest>
-        <Name>PowerfulShadowDash</Name>
-        <Description>Dummy mod. Install the dependency "Powerful Shadow Dash" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>Powerful Shadow Dash</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
     </Manifest>
     <Manifest>
         <Name>Powerful Shadow Dash</Name>
@@ -10540,29 +10424,29 @@ Enjoy!</Description>
             <Author>Leuthil</Author>
         </Authors>
     </Manifest>
-	<Manifest>
-		<Name>LaughMod</Name>
-		<DisplayName>Laugh Mod</DisplayName>
-		<Description>Plays laugh sound on specific events.</Description>
-		<Version>1.0.1.0</Version>
-		<Link SHA256="F72AAFECB44D01C745A4CA0E23349AD97DF433A138955ECC6B1ABAEAE8677406"><![CDATA[https://github.com/Dzhake/HK.LaughMod/releases/download/1.0.1/LaughMod.zip]]></Link>
-		<Dependencies>
-			<Dependency>Satchel</Dependency>
-		</Dependencies>
-		<Repository>
-			<![CDATA[https://github.com/Dzhake/HK.LaughMod]]>
-		</Repository>
-		<Issues>
-			<![CDATA[https://github.com/Dzhake/HK.LaughMod/issues]]>
-		</Issues>
-		<Tags>
-			<Tag>Joke</Tag>
-		</Tags>
-		<Authors>
-			<Author>Dzhake</Author>
-		</Authors>
-	</Manifest>
-	<Manifest>
+    <Manifest>
+        <Name>LaughMod</Name>
+        <DisplayName>Laugh Mod</DisplayName>
+        <Description>Plays laugh sound on specific events.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="F72AAFECB44D01C745A4CA0E23349AD97DF433A138955ECC6B1ABAEAE8677406"><![CDATA[https://github.com/Dzhake/HK.LaughMod/releases/download/1.0.1/LaughMod.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Dzhake/HK.LaughMod]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Dzhake/HK.LaughMod/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Joke</Tag>
+        </Tags>
+        <Authors>
+            <Author>Dzhake</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Fast World</Name>
         <Description>Making your Hallownest more challenging by changing speed of the entire world, except you!</Description>
         <Version>1.0.0.0</Version>
@@ -10572,7 +10456,7 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>Sanic</Dependency>
             <Dependency>Satchel</Dependency>
-			<Dependency>HKMirror</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/hien-ngo29/FastWorld]]>
@@ -10584,7 +10468,7 @@ Enjoy!</Description>
             <Author>Hien Ngo</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>GeoPots</Name>
         <Description>Adds a chance for carts and barrels to drop geo when broken.</Description>
         <Version>1.1.0.0</Version>
@@ -10624,7 +10508,7 @@ Enjoy!</Description>
             <Author>w-nityammm</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>BetterCrystalHeart</Name>
         <Description>Adds synergies and bonuses to Crystal Heart's damage and charge time.</Description>
         <Version>1.1.1.0</Version>
@@ -10632,8 +10516,8 @@ Enjoy!</Description>
             <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.1.1.0/BetterCrystalHeart.zip]]>
         </Link>
         <Dependencies>
-			<Dependency>DanielSteginkUtils</Dependency>
-			<Dependency>Satchel</Dependency>
+            <Dependency>DanielSteginkUtils</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart]]>
@@ -10645,7 +10529,7 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>InfectedHallownest</Name>
         <Description>Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.</Description>
         <Version>1.0.0.0</Version>
@@ -10664,7 +10548,7 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>Restore NKG Title Card</Name>
         <Description>Restore Godhome NKG Title Card</Description>
         <Version>1.0.0.0</Version>
@@ -10672,9 +10556,9 @@ Enjoy!</Description>
             <![CDATA[https://github.com/hien-ngo29/HKSimpleModCollection/releases/download/main/GodHomeNKGTitleCard.zip]]>
         </Link>
         <Dependencies>
-			<Dependency>Satchel</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
-		<Repository>
+        <Repository>
             <![CDATA[https://github.com/hien-ngo29/HKSimpleModCollection/tree/master/GodhomeNKGTitleCard]]>
         </Repository>
         <Tags>
@@ -10701,7 +10585,7 @@ Enjoy!</Description>
         <Name>GodhomeGeo</Name>
         <Description>Removes the limitation that prevents geo from spawning in Godhome.</Description>
         <Version>1.0.0.0</Version>
-		<Link SHA256="f57f30536a683060d9a802e99e2066c697bb2c530ac96a0a3272b451363f6b74">
+        <Link SHA256="f57f30536a683060d9a802e99e2066c697bb2c530ac96a0a3272b451363f6b74">
             <![CDATA[https://github.com/cometcake575/GodhomeGeo/releases/download/1.0.0.0/GodhomeGeo.zip]]>
         </Link>
         <Dependencies>
@@ -10716,7 +10600,7 @@ Enjoy!</Description>
             <Author>cometcake575</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>ShadeSnail</Name>
         <Description>Spawns an immortal Shade that follows you constantly.</Description>
         <Version>1.2.0.0</Version>
@@ -10724,8 +10608,8 @@ Enjoy!</Description>
             <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.2.0.0/ShadeSnail.zip]]>
         </Link>
         <Dependencies>
-			<Dependency>Satchel</Dependency>
-		</Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail]]>
         </Repository>
@@ -10736,7 +10620,7 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>GripWall</Name>
         <Description>Reduces or eliminates gravity effect while clinging to a wall.</Description>
         <Version>1.0.1.1</Version>
@@ -10744,7 +10628,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall/releases/download/1.0.1.1/GripWall.zip]]>
         </Link>
         <Dependencies>
-			<Dependency>HKMirror</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall]]>
@@ -10756,7 +10640,7 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>AllGrubRewardsAtOnce</Name>
         <Description>Grubfather gives all available rewards in one go.</Description>
         <Version>1.0.0.0</Version>
@@ -10764,7 +10648,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/danielstegink/HollowKnight.AllGrubRewardsAtOnce/releases/download/1.0.0.0/AllGrubRewardsAtOnce.zip]]>
         </Link>
         <Dependencies>
-			<Dependency>Satchel</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.AllGrubRewardsAtOnce]]>
@@ -10776,7 +10660,7 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>Nosk Transformation</Name>
         <Description>Become Nosk at will—roar, spit, leap, and prank your friends in Hollow Knight, with stealth naming and HKMP support.</Description>
         <Version>1.0.0.0</Version>
@@ -10784,7 +10668,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/TwangyMoney/Nosk-Transformation/releases/download/1.0.0.0/Nosk_Transformation.zip]]>
         </Link>
         <Dependencies>
-			<Dependency>Satchel</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TwangyMoney/Nosk-Transformation]]>
@@ -10796,7 +10680,7 @@ Enjoy!</Description>
             <Author>Twangy Money</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>NoMaps</Name>
         <Description>Removes the map from the screen</Description>
         <Version>1.0.0.0</Version>
@@ -10834,7 +10718,7 @@ Enjoy!</Description>
             <Author>SirCabby</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>NoGlow</Name>
         <Description>Toggles the faint glow that follows the Knight around.</Description>
         <Version>1.0.0.0</Version>
@@ -10842,7 +10726,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/danielstegink/HollowKnight.NoGlow/releases/download/1.0.0.0/NoGlow.zip]]>
         </Link>
         <Dependencies>
-			<Dependency>Satchel</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.NoGlow]]>
