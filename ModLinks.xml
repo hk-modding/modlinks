@@ -10747,7 +10747,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/hien-ngo29/DrunkKnight/releases/download/v1.1.0.0/DrunkKnight.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>Vasi</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/hien-ngo29/DrunkKnight]]>
