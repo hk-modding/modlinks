@@ -6,8 +6,8 @@
     <Manifest>
     	<Name>Mythril Soul</Name>
     	<Description>Adds a new gamemode to Hollow Knight with permadeath expanded to dreams and pausing disabled at or below two masks (harder steel soul).</Description>
-    	<Version>1.0.0.0</Version>
-    	<Link SHA256="76a8094616fd67ed3760429407687409cf84b4a56f5d33ebe5c837316f5ae4d9"><![CDATA[https://github.com/gabeStuk/MythrilSoul/releases/download/1.0.0.0/MythrilSoul.zip]]></Link>
+    	<Version>1.0.0.1</Version>
+    	<Link SHA256="e54e07bd5f7f54238dea3e41decdc8cab263ecac2317a562e1610065f4b5e1a4"><![CDATA[https://github.com/gabeStuk/MythrilSoul/releases/download/1.0.0.1/MythrilSoul.zip]]></Link>
     	<Dependencies>
     		<Dependency>Satchel</Dependency>
     	</Dependencies>
