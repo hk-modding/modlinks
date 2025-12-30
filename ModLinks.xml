@@ -8827,9 +8827,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>AccessRandomizer</Name>
         <Description>A randomizer add-on for miscellaneous access checks.</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="BFB05845D394146F7004154221FB3F583D8EB89F9135C9F9AAF4C0590D81F5EF">
-            <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.0/AccessRandomizer.zip]]>
+        <Version>1.4.0.1</Version>
+        <Link SHA256="EDF1C12BF87246E977B9B87D5C7413A313D004D38A7DBE5943F8FA6CB5F4AECB">
+            <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.1/AccessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
