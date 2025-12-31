@@ -10786,9 +10786,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DistantGreens Charms</Name>
         <Description>Adds some custom Charms into the Hollow Knight.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="6018f711d5b6835cb50d6fda6846920172c1bbd82710ee9ae0d6368dabcf4f61">
-            <![CDATA[https://github.com/Simsblock/HollowKnight.DistantGreens.Charms/releases/download/Major_Release/DistantGreensCharms.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="81eebfd787470f81f726bf3576e88ff86d09685ba465bb23aa62e76972c0b56e">
+            <![CDATA[https://github.com/Simsblock/HollowKnight.DistantGreens.Charms/releases/download/Hot_fix/DistantGreensCharms.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
