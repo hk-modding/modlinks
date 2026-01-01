@@ -4,6 +4,28 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>HuKing</Name>
+        <DisplayName>HuKing Modboss</DisplayName>
+        <Description>A modboss of Elder Ghost Hu</Description>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="C313CBA81EFD0BFEE1B79376DA7DA76798C6859380CB202D760AB395DAC7E4E5"><![CDATA[https://github.com/windplusflower/HuKing/releases/download/2.0/HuKing.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/windplusflower/HuKing]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/windplusflower/HuKing/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Windflower</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
     	<Name>Mythril Soul</Name>
     	<Description>Adds a new gamemode to Hollow Knight with permadeath expanded to dreams and pausing disabled at or below two masks (harder steel soul).</Description>
     	<Version>1.0.0.1</Version>
