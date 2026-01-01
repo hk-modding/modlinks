@@ -7,7 +7,7 @@
         <Name>HuKing</Name>
         <DisplayName>HuKing Modboss</DisplayName>
         <Description>A modboss of Elder Ghost Hu</Description>
-        <Version>2.0</Version>
+        <Version>2.0.0.0</Version>
         <Link SHA256="C313CBA81EFD0BFEE1B79376DA7DA76798C6859380CB202D760AB395DAC7E4E5"><![CDATA[https://github.com/windplusflower/HuKing/releases/download/2.0/HuKing.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
