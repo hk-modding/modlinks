@@ -9472,14 +9472,6 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>SafeGodseekerQoL</Name>
-        <Description>Dummy mod. Install the dependency "GodhomeQoL" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>GodhomeQoL</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
-    </Manifest>
-    <Manifest>
         <Name>GodhomeQoL</Name>
         <Description>This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.</Description>
         <Version>1.0.0.6</Version>
