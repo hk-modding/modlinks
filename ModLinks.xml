@@ -9474,9 +9474,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodhomeQoL</Name>
         <Description>This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.</Description>
-        <Version>1.0.0.6</Version>
-        <Link SHA256="85ae5097fb30118787940474035883da4f0b92dfecd786b4c280153b3f547c37">
-            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.0.6/GodhomeQoL.zip]]>
+        <Version>1.0.0.7</Version>
+        <Link SHA256="df5cb78d4debd2910a6bab1c59e28f0d3fbf5fc6fa079f3f64de1e27683c92f4">
+            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.0.7/GodhomeQoL.zip]]>
         </Link>
          <Dependencies>
              <Dependency>Osmi</Dependency>
