@@ -395,7 +395,7 @@
         <Name>INFINITY</Name>
         <Description>A pure vessel boss mod.</Description>
         <Version>0.2.0.0</Version>
-        <Link SHA256="sha256:eaa73bd0136e1efb2dcd8adf32d98a4ea65621690f28a418c1443d313f7b0b76">
+        <Link SHA256="eaa73bd0136e1efb2dcd8adf32d98a4ea65621690f28a418c1443d313f7b0b76">
             <![CDATA[https://github.com/ROTTEN108/INFINITY/releases/download/v0.2.0.0/INFINITY.zip]]>
         </Link>
         <Dependencies>
