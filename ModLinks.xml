@@ -394,13 +394,15 @@
     <Manifest>
         <Name>INFINITY</Name>
         <Description>A pure vessel boss mod.</Description>
-        <Version>0.0.12.0</Version>
-        <Link SHA256="11f826cdaf79a33c445b3e22e6fb830355a8f07a004fa17bfd99ad3d9bbbd610">
-            <![CDATA[https://github.com/ROTTEN108/INFINITY/releases/download/v0.0.12.0/INFINITY.zip]]>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="sha256:eaa73bd0136e1efb2dcd8adf32d98a4ea65621690f28a418c1443d313f7b0b76">
+            <![CDATA[https://github.com/ROTTEN108/INFINITY/releases/download/v0.2.0.0/INFINITY.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>HKMirror</Dependency>
+            <Dependency>HKTool</Dependency>
+            <Dependency>Nosk God</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/ROTTEN108/INFINITY]]>
