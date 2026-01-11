@@ -2894,9 +2894,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Benchwarp</Name>
         <Description>Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.</Description>
-        <Version>3.2.6.0</Version>
-        <Link SHA256="135E041938CFB386D874B7E6DDDD0BEE7560942F05BEFCA0CC8F4897AC8C90CA">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.6.0/Benchwarp.zip]]>
+        <Version>3.2.6.1</Version>
+        <Link SHA256="1610837E5CC077AEC82B29A9E48E34125FB35B04CD9E4F03BC7BDF15208BB4ED">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.6.1/Benchwarp.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2906,9 +2906,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizer 4</Name>
         <Description>Mod for randomizing items and/or transitions, with numerous customization options.</Description>
-        <Version>4.1.5.0</Version>
-        <Link SHA256="d2de7d2d66b519413d70b4ffe68957a0ad7b587acbc329991283c4b4bd9204ad">
-            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.5%2B879/RandomizerMod.zip]]>
+        <Version>4.1.6.0</Version>
+        <Link SHA256="3E57698B63A4379FF8068A7467D401C9365071A94121DC7D06EDE8B472261059">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.6%2B987/RandomizerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -2925,9 +2925,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
-        <Version>2.1.5.0</Version>
-        <Link SHA256="a7290d949e33fd5d36dfd0ae281620257f759f0f68091386d82ec9c72d19ef4d">
-            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.5%2B512/ItemChanger.zip]]>
+        <Version>2.1.6.0</Version>
+        <Link SHA256="7D1C01EB5F5D5BA05713EC35EBF31D23096F8979578435B06F034ABB3B337D82">
+            <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.6%2B927/ItemChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2949,9 +2949,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>2.0.3.0</Version>
-        <Link SHA256="55703e19bbd4faa758d469621f5a7d9f35ad9cb1728e30e2978c325444ca1c96">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.3/RandomizerCore.zip]]>
+        <Version>2.1.1.0</Version>
+        <Link SHA256="D7C775EB784F46B75BBA9B68CFCF2DB23AD1DC75EE93A51E353A1DAAB3145ABA">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v2.1.1/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2961,9 +2961,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>RandomizerCore.Json</Name>
         <Description>A library which adds support for json-encoded logic data to RandomizerCore. </Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="3821DC60FA1C8D53E4AF3D2CB86B1615F169E5112B8656E7A1F9FCC5A0C7A1E5">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.0.1/RandomizerCore.Json.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="D830D06CE4BEDBFBD66894E25D89F56F17ACA5AEBCDFD1CC02F58827820B0704">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.1.1/RandomizerCore.Json.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -3059,9 +3059,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>BenchRando</Name>
         <Description>A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items.</Description>
-        <Version>1.0.5.0</Version>
-        <Link SHA256="084D4815FBA3262B99E8472C7011FE9F548A5A8E4352F207B15BCF2B12B626D4">
-            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.5/BenchRando.zip]]>
+        <Version>1.0.6.0</Version>
+        <Link SHA256="C2DB557040DAF02B915C097EFC35D26E6328F37069525608BAC79F2F8E6AAB40">
+            <![CDATA[https://github.com/homothetyhk/BenchRando/releases/download/v1.0.6/BenchRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
