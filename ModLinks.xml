@@ -7131,9 +7131,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.4.5.0</Version>
-        <Link SHA256="94d1112f5d35ba08602744c6d84ff2d697ab3c83cefe64d5d04cf36f3182528c">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.5/BugPrince.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.0.0/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -7160,9 +7160,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.4.8.2</Version>
-        <Link SHA256="6D89FA24A243F1AAE9637FC909F02CC2856EC8CF4CE27AF34827B32B9FF7D99E">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.8.2/DarknessRandomizer.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="051f8c55da2e417b9e6ab305187126a800c1ca183ce1fe0625021450c12f99c2">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.0.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -7208,9 +7208,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.2.1.0</Version>
-        <Link SHA256="E97810A0B82D4346E56DE65D5BA61052940038E4FE1946EDA8FCD6ED7140B63C">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.2.1.0/MoreDoors.zip]]>
+        <Version>3.3.0.0</Version>
+        <Link SHA256="1e47a40c80d842fbc6b0b461869d167e15d7e037922828066667f169d7f5c0be">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.0.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -7237,9 +7237,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="6FF21B059DFEC194157C27EE4274B457775B03F5B1BBB852807D1DEC97E6B70A">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.5.0.0/PurenailCore.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="b2cdceb66a526e3e10fa290f4a235e0432bbb79533bdbda65af485f093f41eec">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.0.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore.Json</Dependency>
@@ -7252,9 +7252,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Scattered and Lost</Name>
         <Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-        <Version>1.5.2.1</Version>
-        <Link SHA256="30b5328f003302f681af1bb30e3507d3e686b817e0316d6b198e3586e3e76bf2">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5.2.1/Scattered.and.Lost.zip]]>
+        <Version>1.6.0.0</Version>
+        <Link SHA256="88062a3cbccba267266bf7436d6188928a41426ef45084d7d20a99e8ced5a8e8">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.0.0/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -7306,9 +7306,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>2.0.1.0</Version>
-        <Link SHA256="FA04521D7E5DCAEAD71456F00854C6C5E5ABA71C01582B310F402036CAC6362C">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.0.1.0/SpicyRando.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="b1735bcc438ede566b17ea0607862433b9e2ba34f4964fbb0f958169ddba731e">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.1.0.0/SpicyRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -7386,9 +7386,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>UnRando</Name>
         <Description>A Rando 4 connection which fixes the order in which rando items are obtained.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="1CBE076892AE547EA1C1935B656C2B5E0E1E3A22948DAE5A01E4DBD724538F2B">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.UnRando/releases/download/v1.1.0.0/UnRando.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="996e6031b7af2fac5cc3cbfa7925c3e820bd32a23e08cf219bb5aa5a2c957fec">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.UnRando/releases/download/v1.2.0.0/UnRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
