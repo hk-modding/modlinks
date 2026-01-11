@@ -3079,17 +3079,13 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>ItemSync</Name>
         <Description>A RandomizerMod 4 add-on for sharing item pickups between players. The default IP no longer works. Please use `mw.hkmp.org` if you want to connect to the public server.</Description>
-        <Version>2.7.2.0</Version>
-        <Link SHA256="02D7E50982C2F824C5542F31649B1F6454EE7DF3FABFE6978A926BA6DEB97760">
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.7.2/ItemSync.zip]]>
-        </Link>
+        <Version>2.7.3.0</Version>
+        <Link SHA256="254e59b7d37b462893c340e55647a94f5d9b3154da390e94d2e563a1be8f72fb">https://github.com/dpinela/HollowKnight.MultiWorld/releases/download/itemsync-v2.7.3/ItemSyncMod.zip</Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>MultiWorldLib</Dependency>
         </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/Shadudev/HollowKnight.MultiWorld/]]>
-        </Repository>
+        <Repository>https://github.com/dpinela/HollowKnight.MultiWorld/</Repository>
     </Manifest>
     <Manifest>
         <Name>MultiWorld</Name>
