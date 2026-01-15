@@ -7160,9 +7160,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="051f8c55da2e417b9e6ab305187126a800c1ca183ce1fe0625021450c12f99c2">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.0.0/DarknessRandomizer.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="23fd3709688eb88803d0e98761eafe0551f69ff9c7445a177faec8792d2bfbae">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.1.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
