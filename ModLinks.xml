@@ -7209,7 +7209,7 @@ Enjoy!</Description>
         <Name>Knight of Nights</Name>
         <Description>A mod for the Holloween 2025 plando, with some rando integration.</Description>
         <Version>2.0.3.0</Version>
-        <Link SHA256="c555c6016aecf7b265b29d83c40fb1ab1dc8139e2ba8a5747b9fb7ce46771fd2">
+        <Link SHA256="251dc74403b07711f0cbca86731eb9e67b37566c1298c7ccb64c01a7edb6b6b8">
             <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.3.0/KnightOfNights.zip]]>
         </Link>
         <Dependencies>
