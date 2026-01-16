@@ -9425,6 +9425,24 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>GrubFriendlyRando</Name>
+        <Description>Changes the grub shop description to "a cute little wiggly friend!"</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="04BBEDA2057DC886B04A712DDA50953C79122DFBEE89DAB3FDDA244A61FFC286"><![CDATA[https://github.com/peekagrub/GrubFriendlyRando/releases/download/1.0.0.0/GrubFriendlyRando.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/peekagrub/GrubFriendlyRando]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>peekagrub</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>BossStatueFramework</Name>
         <Description>Library for adding custom boss statues to the Hall of Gods.</Description>
         <Version>1.1.0.0</Version>
