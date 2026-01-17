@@ -2949,9 +2949,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>RandomizerCore</Name>
         <Description>A library for randomizer logic and algorithms.</Description>
-        <Version>2.1.1.0</Version>
-        <Link SHA256="D7C775EB784F46B75BBA9B68CFCF2DB23AD1DC75EE93A51E353A1DAAB3145ABA">
-            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v2.1.1/RandomizerCore.zip]]>
+        <Version>2.1.2.0</Version>
+        <Link SHA256="sha256:f3e910628f7508c084a44422494ef94c929de349d3bfe8fad0b352d748acc82b">
+            <![CDATA[https://github.com/homothetyhk/RandomizerCore/releases/download/v2.1.2/RandomizerCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
