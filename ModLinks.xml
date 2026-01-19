@@ -10896,7 +10896,7 @@ Enjoy!</Description>
         <Name>ExtraNotchesForExtraCharms</Name>
         <Description>This mod adds extra charm notches based on how many mod charms you have installed.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="DFD19BAB16322584E8A39796689E65DF8ED1537C1CC00873DA72ED4FC9260F31">
+        <Link SHA256="815ee61e327f97364fe4e9574119990bd5df6a06d1b7ce10fae0f450e0f87274">
             <![CDATA[https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms/releases/download/1.0.0.0/ExtraNotchesForExtraCharms.zip]]>
         </Link>
         <Dependencies>
