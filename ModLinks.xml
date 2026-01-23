@@ -9663,13 +9663,14 @@ Enjoy!</Description>
     <Manifest>
         <Name>Pure Vessel Skills</Name>
         <Description>Allow you to use Pure Vessel's attacks</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256 ="BD85C7B92AAB4ADFE2E82FF144471714BA5026B2F7D977E5BB8C504E137F21AF">
-            <![CDATA[https://github.com/hien-ngo29/PureVesselSkills/releases/download/v1.0.0/PureVesselSkills.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256 ="346c3b8345c7a7502c8218b9cb79f9f99fc06a53b91412118d61e7701fbeea23">
+            <![CDATA[https://github.com/hien-ngo29/PureVesselSkills/releases/download/v1.0.1.0/PureVesselSkills.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>FrogCore</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/hien-ngo29/PureVesselSkills/]]>
@@ -10890,6 +10891,31 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Liparakis</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ExtraNotchesForExtraCharms</Name>
+        <Description>This mod adds extra charm notches based on how many mod charms you have installed.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="815ee61e327f97364fe4e9574119990bd5df6a06d1b7ce10fae0f450e0f87274">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms/releases/download/1.0.0.0/ExtraNotchesForExtraCharms.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>DanielSteginkUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
     <Manifest>
