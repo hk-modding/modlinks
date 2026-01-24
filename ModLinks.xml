@@ -1767,9 +1767,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>4.1.1.6</Version>
-        <Link SHA256="546435FE15E44162A0F247E9B8902614633B26130AD479851FD1AD26549DC514">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.6/BreakableWallRandomizer.zip]]>
+        <Version>4.1.1.7</Version>
+        <Link SHA256="384E0D9F647E3DCFF09CDB7381BB4E7FBF4F5CA8B90B694DC45FC823508869DA">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.7/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -8713,9 +8713,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodhomeRandomizer</Name>
         <Description>A Randomizer add-on for Godhome elements.</Description>
-        <Version>2.2.4.10</Version>
-        <Link SHA256="AB1C5BA49CE13D30B03D25A20891D751FD28C026052893E3CCDB722D332CDBBB">
-            <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.10/GodhomeRandomizer.zip]]>
+        <Version>2.2.4.11</Version>
+        <Link SHA256="B8F61FA20E77342F3C99BA082C61504AC0D281C9C3C2D10F46E7716D771D32E2">
+            <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.11/GodhomeRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
