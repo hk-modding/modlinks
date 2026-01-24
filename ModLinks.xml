@@ -8634,32 +8634,6 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>HallOfGodsRandomizer</Name>
-        <Description>DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.</Description>
-        <Version>1.1.2.1</Version>
-        <Link SHA256="2cf93185a74a911102618d3dbdc071bcfff1bc9773166f1564a28ec1cf8d3af1">
-            <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.2.1/HallOfGodsRandomizer.zip]]>
-        </Link>
-        <Dependencies>
-            <Dependency>ItemChanger</Dependency>
-            <Dependency>KorzUtils</Dependency>
-            <Dependency>MenuChanger</Dependency>
-            <Dependency>Randomizer 4</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer]]>
-        </Repository>
-        <Issues>
-            <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer/issues]]>
-        </Issues>
-        <Tags>
-            <Tag>Gameplay</Tag>
-        </Tags>
-        <Authors>
-            <Author>nerthul11</Author>
-        </Authors>
-    </Manifest>
-    <Manifest>
         <Name>CombatRandomizer</Name>
         <Description>A Randomizer add-on for a cursed combat experience.</Description>
         <Version>1.1.0.2</Version>
