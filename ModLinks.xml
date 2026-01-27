@@ -570,6 +570,21 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>RecentItemsDisplayNoOneEssence</Name>
+        <Description>Adds a togglable filter to remove 1 Essence checks from RecentItemsDisplay</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="46C8E67EB8EFDB78BD0E9F760D1374065FA6CC5D2B8D93CEF7E1E2BFB74539D3"><![CDATA[https://github.com/TheMathGeek314/RecentItemsDisplayNoOneEssence/releases/download/v1.0.0.0/RecentItemsDisplayNoOneEssence.zip]]></Link>
+        <Dependencies>
+            <Dependency>RecentItemsDisplay</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/RecentItemsDisplayNoOneEssence/]]>
+        </Repository>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>RecentItemsDisplayNoGeo</Name>
         <Description>Adds a togglable filter to remove GeoRando checks from RecentItemsDisplay</Description>
         <Version>1.0.0.0</Version>
