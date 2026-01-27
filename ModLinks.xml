@@ -602,8 +602,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>GeoRando</Name>
         <Description>A Randomizer connection for every individual piece of geo</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="A200BE90E9A2B41947DB4BE60A957CA2356746AA831BDEABAB6AF598035DA1D7"><![CDATA[https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.1.0/GeoRando.zip]]></Link>
+        <Version>1.0.1.1</Version>
+        <Link SHA256="B5B1B71762F7F01940327286A8FDF8915C39783026985AFC06F3C76C6AA918EB"><![CDATA[https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.1.1/GeoRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
