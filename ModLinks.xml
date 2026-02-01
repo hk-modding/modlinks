@@ -8,7 +8,7 @@
         <DisplayName>Pantheon Architect</DisplayName>
         <Description>Design and play custom Pantheon 5 lineups in Hollow Knight! Create your perfect boss gauntlet with any bosses in any order, then share your creations with friends using simple codes.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="c1aaf42ebce84e679c84941f9cda94d4cb9c8754cf7617fafdccd6fdbf290240"><![CDATA[https://github.com/ultranumbzz/pantheon-architect/releases/download/1.0.0/PantheonArchitect.zip]]></Link>
+        <Link SHA256="e9f40f8c99b19ada42bb26abdfe462cd8131c1d5f396a590b39df3bfaa681e59"><![CDATA[https://github.com/ultranumbzz/pantheon-architect/releases/download/1.0.0.0/PantheonArchitect.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
