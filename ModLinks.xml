@@ -10377,9 +10377,11 @@ Enjoy!</Description>
     <Manifest>
         <Name>Custom Title</Name>
         <Description>A Hollow Knight mod that allows players to use their custom title</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="be17348b2e5a3408cdb2b96de19f58ac69156e7626fcf2ae52be97cc66fd159a"><![CDATA[https://github.com/hien-ngo29/CustomTitle/releases/download/v1.1.0.0/CustomTitle.zip]]></Link>
-        <Dependencies />
+        <Version>1.1.0.1</Version>
+        <Link SHA256="a598bb4bfda22709ada3930e3b9a1b7b7d1c0bf17f6db6dffcfff117ba785448"><![CDATA[https://github.com/hien-ngo29/CustomTitle/releases/download/v1.1.0.1/CustomTitle.zip]]></Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/hien-ngo29/CustomTitle]]>
         </Repository>
