@@ -10321,9 +10321,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DanielSteginkUtils</Name>
         <Description>Custom library with calculations, logic and cross-mod helpers.</Description>
-        <Version>1.4.2.1</Version>
-        <Link SHA256="46c122f60b698145b73f3ae2a1cacad96a386ed8ddd443c1d16dc6ce31fc6eeb">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.2.1/DanielSteginkUtils.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="580C241D86096230A02698E18EACC22D855E25E4EA34801A174FD1176E73A626">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.5.0.0/DanielSteginkUtils.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -10959,6 +10959,31 @@ Enjoy!</Description>
         </Repository>
         <Issues>
             <![CDATA[https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>VoidAndSoul</Name>
+        <Description>This mod adds an RPG mechanic through the 0-notch charm Void &amp; Soul.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="67825176105CA7546E6CEEF80B519848A4CA2FF7658AE0C435F184C0D6B0B9F1">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.0.0/VoidAndSoul.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>DanielSteginkUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.VoidAndSoul]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.VoidAndSoul/issues]]>
         </Issues>
         <Tags>
             <Tag>Gameplay</Tag>
