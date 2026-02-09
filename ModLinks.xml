@@ -10992,4 +10992,27 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Double Bosses</Name>
+        <Description>A mod that (as the name suggests) doubles each bosses (actually, only bottom row in hall of gods + PV, NG, AR, WKs). "Enjoy" the mayhem and chaos this mod provides</Description>
+        <Version>0.34.0.0</Version>
+        <Link SHA256="a9c648fee6fd6ea698c7d1e192df6ae83e52d34492a541d914e42b9b0f7084e4">
+            <![CDATA[https://github.com/BaikalGit/DoubleBosses/releases/download/v0.34/DoubleBosses.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Osmi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BaikalGit/DoubleBosses]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/BaikalGit/DoubleBosses/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Baikal</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
