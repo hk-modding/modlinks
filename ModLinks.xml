@@ -8,7 +8,7 @@
         <DisplayName>Easier Geo Economy</DisplayName>
         <Description>Allows you to multiply the amount gotten per geo piece. Also includes an option to not lose geo upon death.</Description>
         <Version>0.1.0.0</Version>
-        <Link SHA256:B7A4BAD6485EDCDDF24B22F0F4FA2CB8B653691AE3E562F1737C54B216357367><![CDATA[https://github.com/Thommie0208/EasierGeoEconomy/releases/download/v0.1/EasierGeoEconomy.zip]]></Link>
+        <Link SHA256="B7A4BAD6485EDCDDF24B22F0F4FA2CB8B653691AE3E562F1737C54B216357367"><![CDATA[https://github.com/Thommie0208/EasierGeoEconomy/releases/download/v0.1/EasierGeoEconomy.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
