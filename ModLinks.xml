@@ -10838,7 +10838,7 @@ Enjoy!</Description>
         <Name>CabbyCodes</Name>
         <Description>A comprehensive cheat menu mod that provides control over player stats, inventory, and game state through an in-game interface</Description>
         <Version>1.4.2.0</Version>
-        <Link SHA256="9e83ef0a52fab8fc295582fcd0bd54f4682e72f33a292c93d2ef01c9ba7f5b10"><![CDATA[https://github.com/SirCabby/HKCabbyCodes/releases/download/v1.4.2/CabbyCodes_v1.4.2.zip]]></Link>
+        <Link SHA256="9e83ef0a52fab8fc295582fcd0bd54f4682e72f33a292c93d2ef01c9ba7f5b10"><![CDATA[https://github.com/SirCabby/HKCabbyCodes/releases/download/lumafly_v1.4.2/CabbyCodes_Lumafly_v1.4.2.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
