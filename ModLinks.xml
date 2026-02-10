@@ -11037,7 +11037,7 @@ Enjoy!</Description>
             <Author>Baikal</Author>
         </Authors>
     </Manifest>
-        <Manifest>
+    <Manifest>
         <Name>MuteBosses</Name>
         <Description>Silences bosses via toggles in the menu</Description>
         <Version>1.0.0.0</Version>
