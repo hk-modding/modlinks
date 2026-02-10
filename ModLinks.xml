@@ -1825,9 +1825,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>4.1.1.7</Version>
-        <Link SHA256="384E0D9F647E3DCFF09CDB7381BB4E7FBF4F5CA8B90B694DC45FC823508869DA">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.7/BreakableWallRandomizer.zip]]>
+        <Version>4.1.1.8</Version>
+        <Link SHA256="1002AF412636EFF5828EE83B03063D2686E72C7D9BBCDE812691129612E80794">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.8/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -8947,9 +8947,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>AccessRandomizer</Name>
         <Description>A randomizer add-on for miscellaneous access checks.</Description>
-        <Version>1.4.0.1</Version>
-        <Link SHA256="EDF1C12BF87246E977B9B87D5C7413A313D004D38A7DBE5943F8FA6CB5F4AECB">
-            <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.1/AccessRandomizer.zip]]>
+        <Version>1.4.0.2</Version>
+        <Link SHA256="2B1B202821A944126924730E28F490C32A237A16BBD0A62C821E0A46B6799A2E">
+            <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.2/AccessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
