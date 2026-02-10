@@ -10007,9 +10007,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>WanderersWisdom</Name>
         <Description>A mod that adds 2 new charms: Wanderer's Wisdom and Wanderer's Guile.</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="c7044644bb8728808ea5b5f1a280ea6b22e1d751dcfb29eab1f30a03e088791f">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.1.2.0/WanderersWisdom.zip]]>
+        <Version>1.1.3.0</Version>
+        <Link SHA256="F0F8F5E2F4362D647F9E7D80FC2B9E29F44F45A284F0BA9A9FCE3424C868F308">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.1.3.0/WanderersWisdom.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
