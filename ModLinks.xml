@@ -9570,9 +9570,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>ReplayLogger</Name>
         <Description>ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.</Description>
-        <Version>1.0.1.4</Version>
-        <Link SHA256="c05ddbcdee2df9e988bb708d5d519cf591c445ffff5b19d8b6dd7b1d042d9bdd">
-            <![CDATA[https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.0.1.4/ReplayLogger.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="5b9effbc3461c6720f7e4a588d5103bf9ab8440ea54ce8163d7223fd45b4a97b">
+            <![CDATA[https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.1.0.0/ReplayLogger.zip]]>
         </Link>
         <Dependencies>
              <Dependency>Satchel</Dependency>
