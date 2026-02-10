@@ -11037,4 +11037,26 @@ Enjoy!</Description>
             <Author>Baikal</Author>
         </Authors>
     </Manifest>
+        <Manifest>
+        <Name>MuteBosses</Name>
+        <Description>Silences bosses via toggles in the menu</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="8ACD6F2F2A51009976119B7FC14849EE1EB05BE16A47A73A6A205CA90DF1E813">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MuteBosses/releases/download/1.0.0.0/MuteBosses.zip]]>
+        </Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MuteBosses]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MuteBosses/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
