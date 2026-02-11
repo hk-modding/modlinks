@@ -2433,6 +2433,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/fifty-six/HollowKnight.Vasi/]]>
         </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>Hell Mod</Name>
