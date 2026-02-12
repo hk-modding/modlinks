@@ -2519,9 +2519,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CompassAlwaysOn</Name>
         <Description>Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="1c61505306092d651c360a60af1175a7ff8cd6f273ad7b3a0f9c1145e9001a2e">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2.1.0/CompassAlwaysOn.zip]]>
+        <Version>1.2.1.1</Version>
+        <Link SHA256="2600e46d3f6602666d1d6931c44cf7893abd0f48c81c016ff60e91bc774dcc7c">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2.1.1/CompassAlwaysOn.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2801,9 +2801,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.6.3</Version>
-        <Link SHA256="06fb142589e000866a4822604f7846d18eeedcf272b96d95136767ae489e0c2b">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.3/RandomizableLevers.zip]]>
+        <Version>1.2.6.4</Version>
+        <Link SHA256="2ee0fd6fdd9dafde405f768dcb8803c8563c86dea39ba725c9a72c25ba13b83d">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.4/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
