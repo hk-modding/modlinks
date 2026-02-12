@@ -11062,4 +11062,27 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>DreamNailRadiance</Name>
+        <Description>Enables you to use the Dream Nail against the Radiance (her legs, specifically)</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="A9AA56779039C029EA6D698C0E977DB6032A3D7971F655F0BE5A71378F0F69D4">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DreamNailRadiance/releases/download/1.0.0.0/DreamNailRadiance.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>DanielSteginkUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DreamNailRadiance]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DreamNailRadiance/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
