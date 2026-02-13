@@ -11108,4 +11108,28 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>FuryOfTheBallin</Name>
+        <Description>Charm spawns Marmu ally when you are at 1 Mask; must beat Marmu to unlock</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="F8F0BBCFE3FDD492A4E0C54F4EF98C3A2089371ABFE262844CA1B91334DF38B7">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.FuryOfTheBallin/releases/download/1.0.0.0/FuryOfTheBallin.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>DanielSteginkUtils</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.FuryOfTheBallin]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.FuryOfTheBallin/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
