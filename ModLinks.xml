@@ -615,8 +615,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>AlphabetRando</Name>
         <Description>A Randomizer connection for the letters in the UI of the game itself</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="A4841CFEED7A510EF9F96393A1100A7E4EA1BFCC24ED1230B2CD8D4253C0A623"><![CDATA[https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.0.0/AlphabetRando.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="C9F8C133C6F382A0FD37B5B63A286923E8CCE043CEB474C3895A3A39A0B50671"><![CDATA[https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.1.0/AlphabetRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
