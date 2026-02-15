@@ -4,6 +4,28 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>MossBeast</Name>
+        <DisplayName>MossBeast</DisplayName>
+        <Description>MossBeast is a complete port of The Beast boss fight from The Binding of Isaac to Hollow Knight.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="1dc785070163d3b9f073f9feae7d6cd7b0ea7be23bf1caa3a4080caf49e5b297"><![CDATA[https://github.com/windplusflower/MossBeast/releases/download/v1.0/MossBeast.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/windplusflower/MossBeast]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/windplusflower/MossBeast/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Windflower</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>EasierGeoEconomy</Name>
         <DisplayName>Easier Geo Economy</DisplayName>
         <Description>Allows you to multiply the amount gotten per geo piece. Also includes an option to not lose geo upon death.</Description>
