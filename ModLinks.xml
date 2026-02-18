@@ -7381,9 +7381,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.3.0.0</Version>
-        <Link SHA256="1e47a40c80d842fbc6b0b461869d167e15d7e037922828066667f169d7f5c0be">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.0.0/MoreDoors.zip]]>
+        <Version>3.3.0.1</Version>
+        <Link SHA256="3ef9b3e18ac2a981699ef84151e50c75502da9db7802c1b1e6728d8f9c3a0c92">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.0.1/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
