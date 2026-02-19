@@ -11039,9 +11039,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>VoidAndSoul</Name>
         <Description>This mod adds an RPG mechanic through the 0-notch charm Void &amp; Soul.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="67825176105CA7546E6CEEF80B519848A4CA2FF7658AE0C435F184C0D6B0B9F1">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.0.0/VoidAndSoul.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="7e6f86f4a878f1bb20d14a378f4f90ae7b73de26acb70a8f3e5bb2a288b50c5a">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.1.0/VoidAndSoul.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
