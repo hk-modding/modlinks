@@ -6803,13 +6803,13 @@ Enjoy!</Description>
         <Description>Rechecks for the held buttons on any Knight state change, so the action is triggered even if the button was pushed down before it was available, if the button is still held down. Based on Input Buffers mod by Phenomenol, but with completely different logic.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="53fe292171b257465764db06f083b8d9c86ab31f232b381bd9b3c38661455f50">
-            <![CDATA[https://github.com/chamie/HollowKnight.InputsReheck/releases/download/v1.0.0/InputsRecheck.zip]]>
+            <![CDATA[https://github.com/chamie/HollowKnight.InputsRecheck/releases/download/v1.0.0/InputsRecheck.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/chamie/HollowKnight.InputsReheck]]>
+            <![CDATA[https://github.com/chamie/HollowKnight.InputsRecheck]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
