@@ -635,6 +635,33 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>MoreStags</Name>
+        <Description>A Randomizer connection which adds new stag stations</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="A48A264F17CE5511551682EC2D71AC46A075CB422505110207B685A96459EBC7"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.0.0/MoreStags.zip]]></Link>
+        <Dependencies>
+            <Dependency>AlreadyEnoughPlayMaker</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/MoreStags/]]>
+        </Repository>
+        <Integrations>
+            <Integration>CondensedSpoilerLogger</Integration>
+            <Integration>DebugMod</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+            <Author>nerthul11</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>AlphabetRando</Name>
         <Description>A Randomizer connection for the letters in the UI of the game itself</Description>
         <Version>1.0.1.1</Version>
