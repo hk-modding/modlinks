@@ -643,7 +643,7 @@ Not recommended for use in new mods.</Description>
             <Dependency>AccessRandomizer</Dependency>
             <Dependency>AdditionalMaps</Dependency>
             <Dependency>Extra Rando</Dependency>
-            <Dependency>Fishing</Dependency>>
+            <Dependency>Fishing</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>ItemChangerDataLoader</Dependency>
             <Dependency>ItemSync</Dependency>
