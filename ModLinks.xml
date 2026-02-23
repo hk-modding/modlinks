@@ -322,6 +322,25 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Shared Health</Name>
+        <Description>A HKMP addon to synchronize damage and healing across teams.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="455186880E2D2BBE12A818A5BBA8C18DA74081F7E667763C37AEEB958A74A559"><![CDATA[https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.0.0/SharedHealth.zip]]></Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+            <Dependency>HkmpPouch</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Charcoal2000/SharedHealth]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Charcoal2000</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Wrong Gravity</Name>
         <Description>Hallownest? Hɐlloʍuǝsʇ!</Description>
         <Version>1.0.0.0</Version>
@@ -635,10 +654,74 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>NetworkingPlando</Name>
+        <Description>A supplemental mod for the Networking plando</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="62153A8EEAEEF969D7BC2464D5457BBEDD6C0B08623244669142395AF0E71838"><![CDATA[https://github.com/TheMathGeek314/NetworkingPlando/releases/download/v1.0.0.0/NetworkingPlando.zip]]></Link>
+        <Dependencies>
+            <Dependency>AccessRandomizer</Dependency>
+            <Dependency>AdditionalMaps</Dependency>
+            <Dependency>Extra Rando</Dependency>
+            <Dependency>Fishing</Dependency>
+            <Dependency>HKTool</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>ItemChangerDataLoader</Dependency>
+            <Dependency>ItemSync</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>MoreDoors</Dependency>
+            <Dependency>MoreStags</Dependency>
+            <Dependency>RandoMapMod</Dependency>
+            <Dependency>Randomizable Levers</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandoPlus</Dependency>
+            <Dependency>Rope Rando</Dependency>
+            <Dependency>Scatternest</Dependency>
+            <Dependency>TheGloryOfBeingAFoolRandomizer</Dependency>
+            <Dependency>TheRealJournalRando</Dependency>
+            <Dependency>VendorRando</Dependency>
+            <Dependency>YetAnotherRandoConnection</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/NetworkingPlando/]]>
+        </Repository>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+            <Author>nerthul11</Author>
+            <Author>Purenail</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>MoreStags</Name>
+        <Description>A Randomizer connection which adds new stag stations</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="A48A264F17CE5511551682EC2D71AC46A075CB422505110207B685A96459EBC7"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.0.0/MoreStags.zip]]></Link>
+        <Dependencies>
+            <Dependency>AlreadyEnoughPlayMaker</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/MoreStags/]]>
+        </Repository>
+        <Integrations>
+            <Integration>CondensedSpoilerLogger</Integration>
+            <Integration>DebugMod</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+            <Author>nerthul11</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>AlphabetRando</Name>
         <Description>A Randomizer connection for the letters in the UI of the game itself</Description>
-        <Version>1.0.1.1</Version>
-        <Link SHA256="8A2B56A6D6C67CDD8F015380930FE139A570C427918DDF85F22458EF3C501ACC"><![CDATA[https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.1.1/AlphabetRando.zip]]></Link>
+        <Version>1.0.1.2</Version>
+        <Link SHA256="3823014D8D2A5EDA12240221CB8D5E01555E74A27A9DE629E3AE3BAFCF620DFA"><![CDATA[https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.1.2/AlphabetRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -3145,9 +3228,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CustomPoolInjector</Name>
         <Description>A Randomizer 4 add-on for providing user-defined item pools for randomizing different item combinations.</Description>
-        <Version>1.1.3.0</Version>
-        <Link SHA256="6742EBD9664897D4404E06610B69DA177243B031006FC489229F01C9CF8557D5">
-            <![CDATA[https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.1.3/CustomPoolInjector.zip]]>
+        <Version>1.1.4.0</Version>
+        <Link SHA256="19c8a0fcc6aaa42a65f20d87d46f4a4225ca27cc1c1491999872afdd01aa4cba">
+            <![CDATA[https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.1.4/CustomPoolInjector.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -6799,6 +6882,26 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Inputs Recheck</Name>
+        <Description>Rechecks for the held buttons on any Knight state change, so the action is triggered even if the button was pushed down before it was available, if the button is still held down. Based on Input Buffers mod by Phenomenol, but with completely different logic.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="53fe292171b257465764db06f083b8d9c86ab31f232b381bd9b3c38661455f50">
+            <![CDATA[https://github.com/chamie/HollowKnight.InputsRecheck/releases/download/v1.0.0/InputsRecheck.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/chamie/HollowKnight.InputsRecheck]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Chamie</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Input Buffers</Name>
         <Description>Allows for buffering inputs for every knight action.</Description>
         <Version>1.0.4.0</Version>
@@ -7381,9 +7484,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.3.0.0</Version>
-        <Link SHA256="1e47a40c80d842fbc6b0b461869d167e15d7e037922828066667f169d7f5c0be">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.0.0/MoreDoors.zip]]>
+        <Version>3.3.0.1</Version>
+        <Link SHA256="3ef9b3e18ac2a981699ef84151e50c75502da9db7802c1b1e6728d8f9c3a0c92">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.0.1/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -9637,7 +9740,7 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodhomeQoL</Name>
         <Description>This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.</Description>
-        <Version>1.0.0.8</Version>
+        <Version>1.0.0.9</Version>
         <Link SHA256="025b319c15551cd3a3e1359a9b235c00a89e6354ce3f61899a9ef25d46d70539">
             <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.0.9/GodhomeQoL.zip]]>
         </Link>
@@ -9653,6 +9756,8 @@ Enjoy!</Description>
         <Authors>
             <Author>NightFuryo3o</Author>
             <Author>Egir</Author>
+            <Author>Prtsscout</Author>
+            <Author>mint</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -9847,9 +9952,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Mask Remover</Name>
         <Description>Removes masks from the HUD. Useful for radiant fights.</Description>
-        <Version>1.0.3.0</Version>
-        <Link SHA256="8D62311DDFA627332A388B85E2CED04DB0F798E7DE6F949B0EC53540D2627976">
-            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.MaskRemover/releases/download/v1.0.3/MaskRemover.dll]]>
+        <Version>1.0.4.0</Version>
+        <Link SHA256="1E2A2817407D39B2BDDF0F1A2004EF6B25CD1B2AB7FA1DA4A809421F502495C8">
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.MaskRemover/releases/download/v1.0.4/MaskRemover.dll]]>
         </Link>
         <Dependencies></Dependencies>
         <Repository>
@@ -9865,9 +9970,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Geo Remover</Name>
         <Description>Removes geo icons from the HUD.</Description>
-        <Version>1.0.3.0</Version>
-        <Link SHA256="E90909768FBE2AA5D241FCF96F9F7E52B7CE5D2DC5CAF829E523D16E79268224">
-            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.GeoRemover/releases/download/v1.0.3/GeoRemover.dll]]>
+        <Version>1.0.4.0</Version>
+        <Link SHA256="71308609C8548CADE7884C08BAA123DB90C0742D1036E937A0F12DAABED61079">
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.GeoRemover/releases/download/v1.0.4/GeoRemover.dll]]>
         </Link>
         <Dependencies></Dependencies>
         <Repository>
@@ -9883,9 +9988,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Invulnerability Indicator</Name>
         <Description>Adds a visual indicator when the player character is invulnerable outside of screen transitions, invincibility, and invulnerability that is already visually indicated.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="12C80DBB252C8D39E1FCD5EA39D20576F691008E454B4C2BD6EBB0E097F46B28">
-            <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator/releases/download/v1.0.1/InvulnerabilityIndicator.dll]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="E4587C1F7AE3C95C343964B7C7BE42699F0940DDD8EA704D67268927E01C1F1B">
+            <![CDATA[https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator/releases/download/v1.0.2/InvulnerabilityIndicator.dll]]>
         </Link>
         <Dependencies></Dependencies>
         <Repository>
@@ -9900,10 +10005,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Collision Glitch Remover</Name>
-        <Description>Removes collision-based glitches such as the Gruz mother wall bounce and Collector "sticky feet" glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="B14AAC4CBC3F51A747A10CD5E53880DBF49B959789FC3FE56ECA47BF5C9024AF">
-            <![CDATA[https://github.com/EarlyHemisphere/HK.CollisionGlitchRemover/releases/download/v1.0.0/CollisionGlitchRemover.dll]]>
+        <Description>Removes collision-based glitches such as the Gruz mother wall bounce and Collector "sticky feet" glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be added along with CollectorGlitchRemover or instead of CollectorGlitchRemover.</Description>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="B9A473432FE432990BA58CBD52E7012EB7EF65146EA4B1A1D1A5E9080C3EA0A5">
+            <![CDATA[https://github.com/EarlyHemisphere/HK.CollisionGlitchRemover/releases/download/v1.0.2/CollisionGlitchRemover.dll]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -10226,9 +10331,9 @@ Enjoy!</Description>
         <Name>Pale Court Charms</Name>
         <Description>Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer and Transcendence.
         Do not use with Pale Court,as both mods add the same charms.</Description>
-        <Version>1.3.5.0</Version>
-        <Link SHA256="4730CBC09B9D7D4FF43A868957A82A6BE091A0137AC5E75E4D9F20A5D20F9567">
-            <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.3.5/PaleCourtCharms.zip]]>
+        <Version>1.3.6.0</Version>
+        <Link SHA256="F2FF35068BD7B9311082BBDA42D65B80D8E82C67AC0C28C78A4BDF2DA9F93623">
+            <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.3.6/PaleCourtCharms.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -10716,17 +10821,21 @@ Enjoy!</Description>
     <Manifest>
         <Name>BetterCrystalHeart</Name>
         <Description>Adds synergies and bonuses to Crystal Heart's damage and charge time.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="f89f62156d4ff558d32fe7da8412ffd3767632c0eebbe92505abc2f40348913a">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.1.1.0/BetterCrystalHeart.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="01efd14fa36121e0ddaf1aafdcb5b5a4dcc638ec78649ec790f30f61dc367f5c">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.2.0.0/BetterCrystalHeart.zip]]>
         </Link>
         <Dependencies>
             <Dependency>DanielSteginkUtils</Dependency>
             <Dependency>Satchel</Dependency>
+            <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart]]>
         </Repository>
+        <Integrations>
+            <Integration>DynamicCrystalDash</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -11039,9 +11148,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>VoidAndSoul</Name>
         <Description>This mod adds an RPG mechanic through the 0-notch charm Void &amp; Soul.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="67825176105CA7546E6CEEF80B519848A4CA2FF7658AE0C435F184C0D6B0B9F1">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.0.0/VoidAndSoul.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="7e6f86f4a878f1bb20d14a378f4f90ae7b73de26acb70a8f3e5bb2a288b50c5a">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.1.0/VoidAndSoul.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
