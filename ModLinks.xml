@@ -322,6 +322,25 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Shared Health</Name>
+        <Description>A HKMP addon to synchronize damage and healing across teams.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="455186880E2D2BBE12A818A5BBA8C18DA74081F7E667763C37AEEB958A74A559"><![CDATA[https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.0.0/SharedHealth.zip]]></Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+            <Dependency>HkmpPouch</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Charcoal2000/SharedHealth]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Charcoal2000</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Wrong Gravity</Name>
         <Description>Hallownest? Hɐlloʍuǝsʇ!</Description>
         <Version>1.0.0.0</Version>
