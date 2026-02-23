@@ -7513,9 +7513,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>2.0.0.1</Version>
-        <Link SHA256="8775f5f059271c99b7628ca1aeca2ece8223b3cd14616815c82dc84fb70b64cf">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.0.1/PurenailCore.zip]]>
+        <Version>2.0.0.2</Version>
+        <Link SHA256="475db51958869f4a8c84db0c5c7102d4e41fa041acd417293a32eb0c4ec32b3a">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.0.2/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore.Json</Dependency>
