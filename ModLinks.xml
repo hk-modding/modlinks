@@ -678,8 +678,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>NetworkingPlando</Name>
         <Description>A supplemental mod for the Networking plando</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="62153A8EEAEEF969D7BC2464D5457BBEDD6C0B08623244669142395AF0E71838"><![CDATA[https://github.com/TheMathGeek314/NetworkingPlando/releases/download/v1.0.0.0/NetworkingPlando.zip]]></Link>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="45F5EB45AD14F03CC487840290E6FBACC86B77AA78849052F57222361AD58809"><![CDATA[https://github.com/TheMathGeek314/NetworkingPlando/releases/download/v1.0.0.1/NetworkingPlando.zip]]></Link>
         <Dependencies>
             <Dependency>AccessRandomizer</Dependency>
             <Dependency>AdditionalMaps</Dependency>
@@ -689,7 +689,6 @@ Not recommended for use in new mods.</Description>
             <Dependency>ItemChanger</Dependency>
             <Dependency>ItemChangerDataLoader</Dependency>
             <Dependency>ItemSync</Dependency>
-            <Dependency>MenuChanger</Dependency>
             <Dependency>MoreDoors</Dependency>
             <Dependency>MoreStags</Dependency>
             <Dependency>RandoMapMod</Dependency>
@@ -715,8 +714,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="A48A264F17CE5511551682EC2D71AC46A075CB422505110207B685A96459EBC7"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.0.0/MoreStags.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="B64373B4FD7FDA6C2194FFA481E766068766507F4F0A465BE92D7ABF3376E186"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.1.0/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
