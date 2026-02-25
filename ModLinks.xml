@@ -28,9 +28,9 @@
     <Manifest>
         <Name>StartingNotches</Name>
         <DisplayName>Starting Notches</DisplayName>
-        <Description>Lets you play with an adjustable amount of extra Charm Notches (0-20), default starts at 2.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="f42debe58944113534a7582d410b0254c2d809abc1e63c7aebd1ed893e3ae6e5"><![CDATA[https://github.com/PointZero86/StartingNotches/releases/download/v1.0.0/StartingNotches.zip]]></Link>
+        <Description>Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="a0c45bf48e668146821d4e79777cf8a10bf0c99b8ebe810ed77dfdd1bcb5985c"><![CDATA[https://github.com/PointZero86/StartingNotches/releases/download/v1.0.1.0/StartingNotches.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
