@@ -8985,6 +8985,27 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>MurderRando</Name>
+        <Description>Another rando connection for those who despise the innocent.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="F5EC211A3C61AA12F2AB58CD03EAAAEB2852C65E37BE0A54DE99B2EE87DD0CC7">
+            <![CDATA[https://github.com/nerthul11/MurderRando/releases/download/1.0.0.0/MurderRando.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/nerthul11/MurderRando]]>
+        </Repository>
+        <Integrations>
+            <Integration>CondensedSpoilerLogger</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>nerthul11</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>CelesteDash</Name>
         <Description>Bring a Celeste-like dash system into Hollow Knight</Description>
         <Version>1.2.3.0</Version>
