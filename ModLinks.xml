@@ -9003,9 +9003,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>FlowerRandomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for flower quest lovers.</Description>
-        <Version>1.0.0.3</Version>
-        <Link SHA256="98DD7D2F5EE8608F0EF4F6B07D407936446217FE984A7EC4328A3D032F261403">
-            <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.3/FlowerRandomizer.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="CDF4617BC601B5B9E56246EFF250AC693BCFB961A3855E98B910D2E19BC4BBBE">
+            <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.1.0/FlowerRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -9080,13 +9080,15 @@ Enjoy!</Description>
         <Link SHA256="F5EC211A3C61AA12F2AB58CD03EAAAEB2852C65E37BE0A54DE99B2EE87DD0CC7">
             <![CDATA[https://github.com/nerthul11/MurderRando/releases/download/1.0.0.0/MurderRando.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/nerthul11/MurderRando]]>
         </Repository>
-        <Integrations>
-            <Integration>CondensedSpoilerLogger</Integration>
-        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
