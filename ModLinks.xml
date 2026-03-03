@@ -10347,12 +10347,12 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask]]>
         </Repository>
-        <Integrations>
-            <Integration>Pale Court</Integration>
-        </Integrations>
         <Issues>
             <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/issues]]>
         </Issues>
+        <Integrations>
+            <Integration>Pale Court</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
