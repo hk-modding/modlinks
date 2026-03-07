@@ -93,6 +93,27 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>StubbornKnight</Name>
+        <Description>StubbornKnight is a stubborn knight mod. The Knight's mind is always fixated on one direction; you can only attack in the direction it desires.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="d3c10a60a264f34ce70b244d711947b672b682d7f376f605f398cff87963ccbe"><![CDATA[https://github.com/windplusflower/StubbornKnight/releases/download/v1.0/StubbornKnight.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/windplusflower/StubbornKnight]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/windplusflower/StubbornKnight/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Windflower</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>MossBeast</Name>
         <DisplayName>MossBeast</DisplayName>
         <Description>MossBeast is a complete port of The Beast boss fight from The Binding of Isaac to Hollow Knight.</Description>
