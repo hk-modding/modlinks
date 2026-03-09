@@ -812,6 +812,27 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>RegretRecoveryRestoration</Name>
+        <Description>A Randomizer connection which restores the ability to recover your shade when egg shop removes it</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="B10C9628FCCFE469BB887183C6EC64A27CBC65E2A01105E7F12FC34DF3F6E8F4"><![CDATA[https://github.com/TheMathGeek314/RegretRecoveryRestoration/releases/download/v1.0.0.0/RegretRecoveryRestoration.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/RegretRecoveryRestoration/]]>
+        </Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>TheRealTransitionRando</Name>
         <Description>A Randomizer connection that puts transitions into the same pool as the other items</Description>
         <Version>1.0.0.0</Version>
