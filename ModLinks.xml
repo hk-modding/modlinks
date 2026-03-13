@@ -732,8 +732,6 @@ Not recommended for use in new mods.</Description>
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/]]>
         </Repository>
-        <Integrations>
-        </Integrations>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
