@@ -742,8 +742,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>RegretRecoveryRestoration</Name>
         <Description>A Randomizer connection which restores the ability to recover your shade when egg shop removes it</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="B10C9628FCCFE469BB887183C6EC64A27CBC65E2A01105E7F12FC34DF3F6E8F4"><![CDATA[https://github.com/TheMathGeek314/RegretRecoveryRestoration/releases/download/v1.0.0.0/RegretRecoveryRestoration.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="8F15B957E5FCF1038146F939C6ADFC617152843D18B0159A049383964A7A2696"><![CDATA[https://github.com/TheMathGeek314/RegretRecoveryRestoration/releases/download/v1.0.1.0/RegretRecoveryRestoration.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -763,8 +763,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>TheRealTransitionRando</Name>
         <Description>A Randomizer connection that puts transitions into the same pool as the other items</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="1A9F059046BFAA1A8143435FE4404BFE4CD6ED4B1CA7DE557C4C09EEE51D974A"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.0.2/TheRealTransitionRando.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="C4626DC52DCF64E0B3DE35E1533A44B913E83001307D6CE27139DD030D045285"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.1.0/TheRealTransitionRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -790,8 +790,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>CorpseDreamRando</Name>
         <Description>A Randomizer connection that adds dream nail dialogue for background corpses</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="90E8D4897C33D26BFEDDD3FD6E4D825126BDB44C2E1296504B2F96E5B00DE0DC"><![CDATA[https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.0.2/CorpseDreamRando.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="625D9CD723CB51D87F9661530AA855463B14A19228B0AC5A813D18C49EC7E9A9"><![CDATA[https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.1.0/CorpseDreamRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -849,8 +849,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.0.1.2</Version>
-        <Link SHA256="87D693528D479C470F65F52F0D27B106258A47583723F34C2DE57CE87A94C2D1"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.1.2/MoreStags.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="F5D817B5ACFE68FDCA951A4D7B28D7F9CB3656C0900F3D95703D51A5AFF2DC36"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.2.0/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -876,8 +876,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>AlphabetRando</Name>
         <Description>A Randomizer connection for the letters in the UI of the game itself</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="693891505B7DD831BFDB4D3B43BBF39C80EC81CC40FC0A7C1B91B8F99BA487C0"><![CDATA[https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.1.0.0/AlphabetRando.zip]]></Link>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="F6DDF13CCF0C58AB3FAB2016AAA6E68ABE80968B05BCE6B7253191C50A765A9D"><![CDATA[https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.1.1.0/AlphabetRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -929,8 +929,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>GeoRando</Name>
         <Description>A Randomizer connection for every individual piece of geo</Description>
-        <Version>1.0.1.2</Version>
-        <Link SHA256="AAFEE02968475C281B7EE94DED8E5D057FAB013CC5774B003E62DE433C79E5D1"><![CDATA[https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.1.2/GeoRando.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="6E05241709A513AEC7531647563CD9CAC2914628A2712303956582BFB01B4CA1"><![CDATA[https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.2.0/GeoRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -966,10 +966,9 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>YetAnotherRandoConnection</Name>
         <Description>A Randomizer add-on with an assortment of additions</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="686CD067879E768F0CBBC7388708373B3E08BC7A37952DB048B3C0AE4CB47DDD"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.0.0/YetAnotherRandoConnection.zip]]></Link>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="5C199995AA6D0F5406D2FD79BF97CD21CCA541FA0E94795F9B025853F30F8708"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.1.0/YetAnotherRandoConnection.zip]]></Link>
         <Dependencies>
-            <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>Randomizer 4</Dependency>
@@ -1042,10 +1041,9 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>VendorRando</Name>
         <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
-        <Version>1.1.1.4</Version>
-        <Link SHA256="5284E9227AB15586AC37F5BB75FC399919B235455E9E46ED2FD50995B8E20DB9"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.1.4/VendorRando.zip]]></Link>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="54BACEA1A7A9D4687C81B7FF5FC58E1E1F121CEA342F6124E77EDA3BF093115D"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.2.0/VendorRando.zip]]></Link>
         <Dependencies>
-            <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>Randomizer 4</Dependency>
