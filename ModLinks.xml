@@ -11555,4 +11555,27 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+        <Manifest>
+        <Name>SyncDreamShield</Name>
+        <Description>Syncs your Dream Shield with other players in HKMP</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="B58857802574414137AF9D29FCDE3692F7DC6D30EF55063BAFF00DE853B22D15">
+            <![CDATA[https://github.com/BobbyTheCatfish/HKMP.SyncDreamShield/releases/download/0.1.0/SyncDreamShield.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BobbyTheCatfish/HKMP.SyncDreamShield]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/BobbyTheCatfish/HKMP.SyncDreamShield/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>BobbyTheCatfish</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
