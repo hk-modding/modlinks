@@ -5184,9 +5184,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TheRealJournalRando</Name>
         <Description>Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.</Description>
-        <Version>2.4.9164.32616</Version>
-        <Link SHA256="54C92DAF9520E51CB63050CD44CD5F8D7870A46D8E414BD902F09BC8CB992AD9">
-            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.4.9164.32616/TheRealJournalRando.zip]]>
+        <Version>2.5.9570.6197</Version>
+        <Link SHA256="6f894256c3e85e5ad6026c01418e9af83a78ba1b32237b62ae00292313f3fe8c">
+            <![CDATA[https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.5.9570.6197/TheRealJournalRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
