@@ -11599,4 +11599,27 @@ Enjoy!</Description>
             <Author>BobbyTheCatfish</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>MendBreakables</Name>
+        <Description>Repairs certain breakable objects</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="87d1abed4c3d9f033dd71534182dbff2bb828780f370a790e76dfe6f0c03fc90">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MendBreakables/releases/download/1.0.0.0/MendBreakables.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MendBreakables]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MendBreakables/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
