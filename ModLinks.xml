@@ -9725,9 +9725,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CharmPatch</Name>
         <Description>This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.</Description>
-        <Version>1.7.0.1</Version>
-        <Link SHA256="8a0cd1a03fabf3619a9046f848fc761bbaa86c7b0ac4e406c9302a84d287a6a5">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.7.0.1/CharmPatch.zip]]>
+        <Version>1.8.0.0</Version>
+        <Link SHA256="fc72056d0505a30e4a2ea51c10e07681baba8e99cddf868146cba3ea3a572db0">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.8.0.0/CharmPatch.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
