@@ -25,6 +25,28 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>ReplayTimerMod</Name>
+        <DisplayName>Replay Timer Mod</DisplayName>
+        <Description>Records your best time through each room and plays it back as a ghost on your next attempt.</Description>
+        <Version>0.2.0</Version>
+        <Link SHA256="sha256:1522422376b1e55f897085efc60281cb4e04513a905a7c200ee6b43c9c533d63"><![CDATA[https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.2.0/ReplayTimerModHK.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/AdiPrk/ReplayTimerMod]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/AdiPrk/ReplayTimerMod/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>AdiPrk</Author>
+            <Author>Shichien</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>StubbornKnight</Name>
         <Description>StubbornKnight is a stubborn knight mod. The Knight's mind is always fixated on one direction; you can only attack in the direction it desires.</Description>
         <Version>1.0.0.0</Version>
