@@ -4419,9 +4419,9 @@ All with an incredible new soundtrack!</Description>
         <Name>SFCore</Name>
         <DisplayName>SFCore</DisplayName>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.16.0</Version>
-        <Link SHA256="FFA6CD611963BFBD68338F6723747B964A0EB89DDC4C53E86E8693D9644B7077">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.16.0/SFCore.zip]]>
+        <Version>1.5.16.1</Version>
+        <Link SHA256="1BDAA9AF5234DE82A778C5633678EF7DCB44132A3FB8B3F6D814B7E314BF457E">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.16.1/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
