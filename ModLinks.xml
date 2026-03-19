@@ -11572,4 +11572,28 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>AuraRad</Name>
+        <DisplayName>Aura Radiance</DisplayName>
+        <Description>Absolute Radiance Mod Boss</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="F819CAF98D0DBD057D385D35CA0D23B4C0CB820A29B30C131BCAA07D44764BB3"><![CDATA[https://github.com/OsHK00/AuraRad/releases/download/2/AuraRadaiance.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ModCommon</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/OsHK00/AuraRad]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/OsHK00/AuraRad/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>OscarHK</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
