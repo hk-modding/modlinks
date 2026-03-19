@@ -768,8 +768,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>EverySceneUtil</Name>
         <Description>A developer tool for running code on every scene in the game</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="B20961645A06CB8A571BD221CA6CB0DF626E3F5E1162DED8F54B1FA91A50B4E8"><![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/releases/download/v1.0.0.0/EverySceneUtil.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="FFCDB527284F87954870F3F7D7C9578A7D22C2F8475056FBDDB9E7F99CC267B7"><![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/releases/download/v1.1.0.0/EverySceneUtil.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -806,8 +806,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>TheRealTransitionRando</Name>
         <Description>A Randomizer connection that puts transitions into the same pool as the other items</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="C4626DC52DCF64E0B3DE35E1533A44B913E83001307D6CE27139DD030D045285"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.1.0/TheRealTransitionRando.zip]]></Link>
+        <Version>1.0.1.1</Version>
+        <Link SHA256="75E56DEFCA2D38503006FB37E08EDB2D8BDE25AA5208B7F77D6CEC5020CC3C1F"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.1.1/TheRealTransitionRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
