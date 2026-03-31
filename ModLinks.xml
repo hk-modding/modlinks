@@ -10694,9 +10694,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Less Flashing Lights</Name>
         <Description>Reduces the amount of flashing lights. Check the readme for more info</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="05f556c63f8ca32558492a415316a5df823e83af7fc011fde56389432d843f7d">
-            <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.1/LessFlashingLights.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="daf4e927ed4dfc004b5bcf5ed8baa4554ffed7e8d8c7e7a1f80347651820b133">
+            <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.2/LessFlashingLights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
