@@ -29,7 +29,7 @@
         <DisplayName>Replay Timer Mod</DisplayName>
         <Description>Records your best times through each room and plays it back as a ghost on your next attempt.</Description>
         <Version>0.3.0.0</Version>
-        <Link SHA256="sha256:b5bdf86243b9b8b5f324c8efb07b078ee384994086886666db2b8416a3a5e1e5"><![CDATA[https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.3.0/ReplayModHK1578.zip]]></Link>
+        <Link SHA256="b5bdf86243b9b8b5f324c8efb07b078ee384994086886666db2b8416a3a5e1e5"><![CDATA[https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.3.0/ReplayModHK1578.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -768,8 +768,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>EverySceneUtil</Name>
         <Description>A developer tool for running code on every scene in the game</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="B20961645A06CB8A571BD221CA6CB0DF626E3F5E1162DED8F54B1FA91A50B4E8"><![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/releases/download/v1.0.0.0/EverySceneUtil.zip]]></Link>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="FB530E8CB9680258D87D24C3B41E75D9B47344BE70D382FEBFAF2D56C9F830A2"><![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/releases/download/v1.2.0.0/EverySceneUtil.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -806,8 +806,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>TheRealTransitionRando</Name>
         <Description>A Randomizer connection that puts transitions into the same pool as the other items</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="C4626DC52DCF64E0B3DE35E1533A44B913E83001307D6CE27139DD030D045285"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.1.0/TheRealTransitionRando.zip]]></Link>
+        <Version>1.0.1.1</Version>
+        <Link SHA256="75E56DEFCA2D38503006FB37E08EDB2D8BDE25AA5208B7F77D6CEC5020CC3C1F"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.1.1/TheRealTransitionRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -892,8 +892,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="F5D817B5ACFE68FDCA951A4D7B28D7F9CB3656C0900F3D95703D51A5AFF2DC36"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.2.0/MoreStags.zip]]></Link>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="335D403F43F2796F89C4A94502BAAB7268C6258D3C64C2BAD5217900A5DC47F2"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.3.0/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -919,13 +919,14 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>AlphabetRando</Name>
         <Description>A Randomizer connection for the letters in the UI of the game itself</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="F6DDF13CCF0C58AB3FAB2016AAA6E68ABE80968B05BCE6B7253191C50A765A9D"><![CDATA[https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.1.1.0/AlphabetRando.zip]]></Link>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="F5D055061038DAAA3F61200F3165ED8C5D21E5CF1FBA4A85F30362F3995FE631"><![CDATA[https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.2.0.0/AlphabetRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>RandomizerCore</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/AlphabetRando/]]>
@@ -2048,9 +2049,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Core.FsmUtil</Name>
         <Description>A library mod for fsm editing.</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="AC4B2CCF21E3CBDD998F8F069460F18CDF2DAF8D0F64177D50D9328A6FD04691">
-            <![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.2/Core_FsmUtil.zip]]>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="272EC79378D91431623FFFB3D0FA93E3CFC2C35A5C4454CE826856484950861E">
+            <![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.3.0.0/Core_FsmUtil.zip]]>
         </Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil]]></Repository>
@@ -4330,9 +4331,9 @@ All with an incredible new soundtrack!</Description>
         <Name>SFCore</Name>
         <DisplayName>SFCore</DisplayName>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.14.16</Version>
-        <Link SHA256="E8882F764AF1E90A1574D0D87A8687995D786FC36965B7D0F053AE7F52755FA0">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.16/SFCore.zip]]>
+        <Version>1.5.16.2</Version>
+        <Link SHA256="F2B90438437AC3EE17DEC4C4359ABAF662C25B34DB1439F92826DD11575586B2">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.16.2/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -10693,9 +10694,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Less Flashing Lights</Name>
         <Description>Reduces the amount of flashing lights. Check the readme for more info</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="05f556c63f8ca32558492a415316a5df823e83af7fc011fde56389432d843f7d">
-            <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.1/LessFlashingLights.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="daf4e927ed4dfc004b5bcf5ed8baa4554ffed7e8d8c7e7a1f80347651820b133">
+            <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.2/LessFlashingLights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -10736,9 +10737,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DanielSteginkUtils</Name>
         <Description>Custom library with calculations, logic and cross-mod helpers.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="580C241D86096230A02698E18EACC22D855E25E4EA34801A174FD1176E73A626">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.5.0.0/DanielSteginkUtils.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="435de99bbd72589b48556222ca6aca685c8ab93a8ea269ff3d68174ca9e6ee50">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.5.1.0/DanielSteginkUtils.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -11570,6 +11571,30 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>AuraRad</Name>
+        <DisplayName>Aura Radiance</DisplayName>
+        <Description>Absolute Radiance Mod Boss</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="F819CAF98D0DBD057D385D35CA0D23B4C0CB820A29B30C131BCAA07D44764BB3"><![CDATA[https://github.com/OsHK00/AuraRad/releases/download/2/AuraRadaiance.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ModCommon</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/OsHK00/AuraRad]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/OsHK00/AuraRad/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>OscarHK</Author>
         </Authors>
     </Manifest>
 </ModLinks>
