@@ -535,6 +535,25 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Uumuu Hack</Name>
+        <Description>This mod would make Uumuu only attack for once before Quirrel pops its shield from the second cycle on.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="6D2B5AB8370B6A11BCEDB95A747CB10B061A87281B04C28AD01D09EA66933B59"><![CDATA[https://github.com/FrogBishop/HollowKnight.UumuuHack/releases/download/1.0.0.0/UumuuHack.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/FrogBishop/HollowKnight.UumuuHack]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>FrogBishop</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Quasar Radiance</Name>
         <Description>A version of Any Radiance 3.0 that's heavily modified to be more fun and enjoyable by casual players while still providing some level of challenge. Very unique fight that's not impossibly hard like the real thing. The mod is meant to be played with a 300 FPS cap so if you play on lower or higher it's gonna be harder or easier than intended.</Description>
         <Version>1.0.0.0</Version>
