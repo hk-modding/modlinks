@@ -11178,9 +11178,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ShadeSnail</Name>
         <Description>Spawns an immortal Shade that follows you constantly.</Description>
-        <Version>1.3.0.0</Version>
-        <Link SHA256="606434ca4840ff8d16da06e4d1ea7ed2d975ab85292b7cbb730cecf434a307cc">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.3.0.0/ShadeSnail.zip]]>
+        <Version>1.3.0.1</Version>
+        <Link SHA256="b91e1268e33f4ff79775752268c3f2ce0fa3c30b37a0fc5bad6b27aca6831814">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.3.0.1/ShadeSnail.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
