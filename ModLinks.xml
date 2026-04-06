@@ -9,9 +9,7 @@
         <Description>Plays Ado's scream when the Knight dies.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="4DBDD7554BE042CC2D7074574EEA8CA37C0EFF96CB70A384E4FD49E21C9F9D52"><![CDATA[https://github.com/SaigoNoTanuki/Ado-Death-Scream/releases/download/1.0.0.0/Ado_Death_Scream.zip]]></Link>
-        <Dependencies>
-            <Dependency>Modding API</Dependency>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/SaigoNoTanuki/Ado-Death-Scream]]>
         </Repository>
