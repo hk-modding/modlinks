@@ -4,6 +4,26 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>Ado Death Scream</Name>
+        <DisplayName>Ado Death Scream</DisplayName>
+        <Description>Plays Ado's scream when the Knight dies.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="4DBDD7554BE042CC2D7074574EEA8CA37C0EFF96CB70A384E4FD49E21C9F9D52"><![CDATA[https://github.com/SaigoNoTanuki/Ado-Death-Scream/releases/download/1.0.0.0/Ado_Death_Scream.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SaigoNoTanuki/Ado-Death-Scream]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SaigoNoTanuki/Ado-Death-Scream/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>SaigoNoTanuki</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>DeVect</Name>
         <Description>DeVect, titled 骨杖寂骑人 in Chinese, is a Hollow Knight mod that brings Defect-style orb gameplay from Slay the Spire into the Knight's moveset.</Description>
         <Version>1.0.0.0</Version>
