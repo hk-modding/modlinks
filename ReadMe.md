@@ -33,6 +33,9 @@ Maintainers of ModLinks look for the following before merging the manifest of a 
 - The mod is not malware
   - Kind of self-explanatory
 - The mod is for the same age groups as Hollow Knight itself also is
+- The mod is not of another person
+  - it needs more than minimal modifications
+  - unless a good faith attempt has been made to contact the original author
 
 ## Example manifest
 
