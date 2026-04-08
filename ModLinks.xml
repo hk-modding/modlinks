@@ -6,8 +6,8 @@
     <Manifest>
         <Name>Enemy Randomizer Reinfected</Name>
         <Description>A remaster of the legendary Enemy Randomizer mod.</Description>
-        <Version>26.4.0-RC1</Version>
-        <Link SHA256="b2bb89608dac24bd5ed8cde8617696a073dd02b1ca9d280fceaca036c8935c3f"><![CDATA[https://github.com/golddemon1973/EnemyRandomizerReinfected/releases/download/ReleaseCandidate/HKEnemyRandoReinfected.zip]]></Link>
+        <Version>26.4.0.0</Version>
+        <Link SHA256="B2BB89608DAC24BD5ED8CDE8617696A073DD02B1CA9D280FCEACA036C8935C3F"><![CDATA[https://github.com/golddemon1973/EnemyRandomizerReinfected/releases/download/ReleaseCandidate/HKEnemyRandoReinfected.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
