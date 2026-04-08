@@ -2,6 +2,10 @@
 
 This is the repository that holds information on every public mod that should be accessible via mod installers.
 
+## What ModLinks is for
+
+ModLinks is for mods of the game Hollow Knight (2017) by Team Cherry.
+
 ## How to add/update a mod to ModLinks
 
 ### Easy/Recommended Approach
@@ -20,6 +24,15 @@ If you are familiar with common Git and GitHub workflows, this approach may be m
 1. Make the changes and commit them
 1. Push to your branch on your fork
 1. Create a pull request to upstream
+
+### What maintainers look for in order to merge
+
+Maintainers of ModLinks look for the following before merging the manifest of a new mod into ModLinks:
+- Source Code available in a git repository
+  - Not necessarily hosted on github.com
+- The mod is not malware
+  - Kind of self-explanatory
+- The mod is for the same age groups as Hollow Knight itself also is
 
 ## Example manifest
 
