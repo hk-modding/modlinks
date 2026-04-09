@@ -4,6 +4,26 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>BlueSR_OST</Name>
+        <DisplayName>BlueSR_OST</DisplayName>
+        <Description>Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR's version.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="BF4FE7924B557D19639650ED69AF26F35B707BA7C7DA2118747D4082C4E2CACB"><![CDATA[https://github.com/SaigoNoTanuki/BlueSR-OST/releases/download/1.0.0/BlueSR_OST.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SaigoNoTanuki/BlueSR-OST]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SaigoNoTanuki/BlueSR-OST/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>SaigoNoTanuki.</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Ado Death Scream</Name>
         <DisplayName>Ado Death Scream</DisplayName>
         <Description>Plays Ado's scream when the Knight dies.</Description>
