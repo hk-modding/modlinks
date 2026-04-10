@@ -11658,7 +11658,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>ResurrectionMod</Name>
-        <Description>Adds a downed state instead of death, allowing teammates to revive you in HKMP. Features smart hazard handling to prevent getting stuck in spikes, and a configurable Force Respawn key.</Description>
+        <Description>Adds a downed state instead of death, allowing teammates to revive you in HKMP. Features a configurable Force Respawn key.</Description>
         <Version>2.5.0.0</Version>
         <Link SHA256="E87597FA43A8A596FC900F3AB1F987AFDE8E1B96AC9338BF763DA88B24DEA60A"><![CDATA[https://github.com/RaspyGray/HKMP-Resurrection-Mod/releases/download/2.5.0/ResurrectionMod.zip]]></Link>
         <Dependencies>
@@ -11670,7 +11670,7 @@ Enjoy!</Description>
             <Tag>Utility</Tag>
         </Tags>
         <Authors>
-            <Author>Tony</Author>
+            <Author>Raspy</Author>
         </Authors>
     </Manifest>
 </ModLinks>
