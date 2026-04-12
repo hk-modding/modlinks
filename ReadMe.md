@@ -64,7 +64,7 @@ Maintainers of ModLinks look for the following before merging the manifest of a 
         <Integration>Another mod's name, like the dependency list, but not a hard dependency, but extra stuff when it is installed alongside</Integration>
     </Integrations>
     <Tags>
-        <Tag>Either of: 'Accessibility', 'Boss', 'Charm', 'Cosmetic', 'Expansion', 'Gameplay', 'Joke', 'Library', 'Optimization', 'Utility'</Tag>
+        <Tag>Either of: Accessibility/Boss/Charm/Cosmetic/Expansion/Gameplay/Joke/Library/Optimization/Utility</Tag>
     </Tags>
     <Authors>
         <Author>An author's name. Has no specific format.</Author>
