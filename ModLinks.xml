@@ -4,6 +4,27 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>Vampire Knight</Name>
+        <Description>A.. BLOODSUCKING will!</Description>
+        <Version>26.4.0.0</Version>
+        <Link SHA256="9B5398225132BB1D1FD9D9509F26BB8B9F3BB104A67B0E1298C306BDC0718AAF"><![CDATA[https://github.com/golddemon1973/VampireKnight/releases/download/v26.4.0.0/VampireKnight.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/golddemon1973/VampireKnight]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/golddemon1973/VampireKnight/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>'Gameplay'</Tag>
+        </Tags>
+        <Authors>
+            <Author>ivory</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>BlueSR_OST</Name>
         <DisplayName>BlueSR_OST</DisplayName>
         <Description>Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR's version.</Description>
