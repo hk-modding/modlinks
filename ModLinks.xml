@@ -6,8 +6,8 @@
     <Manifest>
         <Name>Vampire Knight</Name>
         <Description>A.. BLOODSUCKING will!</Description>
-        <Version>26.4.0.0</Version>
-        <Link SHA256="9B5398225132BB1D1FD9D9509F26BB8B9F3BB104A67B0E1298C306BDC0718AAF"><![CDATA[https://github.com/golddemon1973/VampireKnight/releases/download/v26.4.0.0/VampireKnight.zip]]></Link>
+        <Version>26.04.2.0</Version>
+        <Link SHA256="5413DB3E93E3BF9E4074751B3B67967181AD3F3AFFC685E94D06F86B120F5BCC"><![CDATA[https://github.com/golddemon1973/VampireKnight/releases/download/v1.2.0.36/VampireKnight.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
