@@ -11710,4 +11710,24 @@ Enjoy!</Description>
             <Author>Hien Ngo</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>SpriteToggler</Name>
+        <Description>Toggles sprites on objects defined in the settings (single "OC Backboard" by default) on F10 (configurable). You can find object names using Unity Explorer</Description>
+        <Version>1.1</Version>
+        <Link SHA256="0D10CC08B75FDC8BDC2C837EF66A26559F09AC4D1D0F1D20F5B6A98D64B345E9"><![CDATA[https://github.com/RunninglVlan/SpriteToggler/releases/download/1.1/SpriteToggler.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/RunninglVlan/SpriteToggler]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/RunninglVlan/SpriteToggler/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>RunninglVlan</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
