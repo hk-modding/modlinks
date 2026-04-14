@@ -935,6 +935,24 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>LoadRandomizer</Name>
+        <Description>Randomizes load times from 0 to 10, weighted towards lower values.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="11ba6dbadf929810be2025e2c94d105310b242686ca15a2300980e2def448b1b">
+            <![CDATA[https://github.com/notahumanhand/LoadRandomizer/releases/download/1.0/LoadRandomizer.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>LoadNormalizer</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/notahumanhand/LoadRandomizer]]>
+        </Repository>
+        <Authors>
+            <Author>spleen</Author>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>EverySceneUtil</Name>
         <Description>A developer tool for running code on every scene in the game</Description>
         <Version>1.2.0.0</Version>
