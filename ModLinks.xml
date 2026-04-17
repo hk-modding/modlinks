@@ -9613,8 +9613,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>DoodleBosses</Name>
         <Description>The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.</Description>
-        <Version>0.9.4.0</Version>
-        <Link SHA256="ceb7a506df5c0f888885b4bc9a024a71d5df64d97278047a45e79b4e9f99af02"><![CDATA[https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.4/DoodleBosses.zip]]></Link>
+        <Version>0.9.6.0</Version>
+        <Link SHA256="8b5f24b6812b93cd304ea3a069da3bd66cd6a6065a6a653f82a4417bc0dd9f73"><![CDATA[https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.6/DoodleBosses.zip]]></Link>
         <Dependencies></Dependencies>
         <Repository>
             <![CDATA[https://github.com/thegodfriend/DoodleBosses]]>
