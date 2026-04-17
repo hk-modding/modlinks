@@ -931,8 +931,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>CorpseDreamRando</Name>
         <Description>A Randomizer connection that adds dream nail dialogue for background corpses</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="625D9CD723CB51D87F9661530AA855463B14A19228B0AC5A813D18C49EC7E9A9"><![CDATA[https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.1.0/CorpseDreamRando.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="0F223707215F33614B1BD8E7BB5A41D242C12BE2A7D6678CC5418700BCDF0ED0"><![CDATA[https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.2.0/CorpseDreamRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
