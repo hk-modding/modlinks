@@ -11835,4 +11835,26 @@ Enjoy!</Description>
             <Author>RunninglVlan</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>EdgeDetection</Name>
+		<DisplayName>Edge Detection</DisplayName>
+        <Description>An accessibility mod that adds customizable edge detection to things that are important for gameplay.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="4b3804543ed4371eccb815a1f3f20832b724ea38b12cd86916e23f7742547897"><![CDATA[https://github.com/kaycodes13/HollowKnight.EdgeDetection/releases/download/v1.0.0.0/EdgeDetection.zip]]></Link>
+		<Dependencies>
+			<Dependency>Satchel</Dependency>
+		</Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/kaycodes13/HollowKnight.EdgeDetection]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/kaycodes13/HollowKnight.EdgeDetection/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Accessibility</Tag>
+        </Tags>
+        <Authors>
+            <Author>kaycodes13</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
