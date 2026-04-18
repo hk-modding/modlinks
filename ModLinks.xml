@@ -4072,9 +4072,9 @@ All with an incredible new soundtrack!</Description>
         <Name>LanguageSupport</Name>
         <DisplayName>Language Support</DisplayName>
         <Description>Allows additional languages to be supported. Doesn't allow for some characters of other languages yet.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="F1C9853EFF0361019DCAEE19CE652EB972127C08711701E71D5C79C679F99609">
-            <![CDATA[https://github.com/SFGrenade/LanguageSupport/releases/download/v1.5.1/LanguageSupport.zip]]>
+        <Version>1.5.1.6</Version>
+        <Link SHA256="96130F5639ED953C495DFBA4D6D3FE56049427A973BE9B74988B119C802A5940">
+            <![CDATA[https://github.com/SFGrenade/LanguageSupport/releases/download/v1.5.1.6/LanguageSupport.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
