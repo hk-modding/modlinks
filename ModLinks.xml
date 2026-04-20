@@ -11301,7 +11301,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/danielstegink/HollowKnight.AllGrubRewardsAtOnce/releases/download/1.0.0.0/AllGrubRewardsAtOnce.zip]]>
         </Link>
         <Dependencies>
-            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.AllGrubRewardsAtOnce]]>
