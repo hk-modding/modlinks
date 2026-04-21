@@ -864,6 +864,27 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>NotBackgroundObjectRando</Name>
+        <Description>What no Silksong does to a community</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="39D36B4EC2781B070A9477E6D2C00CD39BF16540685FA217972D7C65B1612377"><![CDATA[https://github.com/TheMathGeek314/NotBackgroundObjectRando/releases/download/v1.0.0.0/NotBackgroundObjectRando.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/NotBackgroundObjectRando/]]>
+        </Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>EverySceneUtil</Name>
         <Description>A developer tool for running code on every scene in the game</Description>
         <Version>1.2.0.0</Version>
