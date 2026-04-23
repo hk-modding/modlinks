@@ -8766,9 +8766,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BingoAdvancedCustomGeneration</Name>
         <Description>A mod allowing for more complex board generation using BingoSync</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="F429C0E72CE33B265432661870573088536C1CC55C76751916522ADC803C0507">
-            <![CDATA[https://github.com/TheRealAlph4/HollowKnight.BingoAdvancedCustomGeneration/releases/download/v1.1.0.0/BingoAdvancedCustomGeneration.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="F3E197241B3D885AA6A661A90CCE323498819D80698191C6EB991846840090A7">
+            <![CDATA[https://github.com/TheRealAlph4/HollowKnight.BingoAdvancedCustomGeneration/releases/download/v1.1.1.0/BingoAdvancedCustomGeneration.zip]]>
         </Link>
         <Dependencies>
             <Dependency>BingoSync</Dependency>
