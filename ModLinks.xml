@@ -876,9 +876,9 @@
     <Manifest>
         <Name>BingoBoardReplay</Name>
         <Description>A mod for bingo tournament organizers to help restream the board when the players have stream delay. See GitHub readme for usage. </Description>
-        <Version>1.3.1.0</Version>
-        <Link SHA256="AB07D2CE74E7F2112082B96199116A35B679D6EE3FEF703A17A92D02AF503AD3">
-            <![CDATA[https://github.com/TheRealAlph4/HollowKnight.BingoBoardReplay/releases/download/v1.3.1.0/BingoBoardReplay.zip]]>
+        <Version>1.3.4.4</Version>
+        <Link SHA256="BC9794AB1F0317CED53436CAA18C035A83AD9ACB5A0F6117753DC684CF58E213">
+            <![CDATA[https://github.com/TheRealAlph4/HollowKnight.BingoBoardReplay/releases/download/v1.3.4.4/BingoBoardReplay.zip]]>
         </Link>
         <Dependencies>
             <Dependency>BingoSync</Dependency>
@@ -8746,9 +8746,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BingoSync</Name>
         <Description>A Hollow Knight mod that automatically marks squares on bingosync.com</Description>
-        <Version>1.4.4.5</Version>
-        <Link SHA256="C867E8058A4467695FA9DBA6766DF201E89D4C7CE161B1C275130E75510646DE">
-            <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.4.4.5/BingoSync.zip]]>
+        <Version>1.4.5.5</Version>
+        <Link SHA256="4E9B6228EEA32181C176FC1A131496BD54D247E1ED3A8CCC8466392CAE3ED332">
+            <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.4.5.5/BingoSync.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
