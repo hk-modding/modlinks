@@ -863,6 +863,26 @@ Not recommended for use in new mods.</Description>
             <Author>TheMathGeek_314</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>BingoGoalPackSpleengy</Name>
+        <Description>An alternate bingo goalpack designed for the lockout format</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="1ba9f902ce26971bdd23b73eb4cc5397a2c6d02952d063bf3ac411fdfaf13589">
+            <![CDATA[https://github.com/notahumanhand/BingoGoalPackSpleengy/releases/tag/1.0/BingoGoalPackSpleengy.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>BingoAdvancedCustomGeneration</Dependency>
+            <Dependency>BingoSync</Dependency>
+            <Dependency>BingoGoalPack1</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/notahumanhand/BingoGoalPackSpleengy]]>
+        </Repository>
+        <Authors>
+            <Author>spleen</Author>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
         <Name>NotBackgroundObjectRando</Name>
         <Description>What no Silksong does to a community</Description>
