@@ -471,8 +471,8 @@
     <Manifest>
         <Name>Shared Health</Name>
         <Description>A HKMP addon to synchronize damage and healing across teams.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="064264ED357AD1E885AFC27ADA2D8A3575285E318FF06290B702CFF06948BE6D"><![CDATA[https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.1.0/SharedHealth.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="DE4E3FD5942EE10010DC7258B1B898DF78AF00F4FAEC4E52F3C24B703CEFBE8A"><![CDATA[https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.2.0/SharedHealth.zip]]></Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
             <Dependency>HkmpPouch</Dependency>
