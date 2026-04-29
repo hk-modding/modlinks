@@ -886,13 +886,14 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>NotBackgroundObjectRando</Name>
         <Description>What no Silksong does to a community</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="39D36B4EC2781B070A9477E6D2C00CD39BF16540685FA217972D7C65B1612377"><![CDATA[https://github.com/TheMathGeek314/NotBackgroundObjectRando/releases/download/v1.0.0.0/NotBackgroundObjectRando.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="4EB3B48686AC0BF19F5BD48C5B9F563EA8CD3BAC09C7E9D0DF9DA045ACBB42B9"><![CDATA[https://github.com/TheMathGeek314/NotBackgroundObjectRando/releases/download/v1.0.1.0/NotBackgroundObjectRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/NotBackgroundObjectRando/]]>
