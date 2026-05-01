@@ -1017,6 +1017,29 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>DeathSync</Name>
+        <Description>An ItemSync/MultiWorld extension to link your deaths</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="01F7294B226FCF35DBB90FECD9988C23CE05551D36FB1EEA1FA0CC8A965BE177"><![CDATA[https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.0.0/DeathSync.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>KorzUtils</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>MultiWorldLib</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/DeathSync/]]>
+        </Repository>
+        <Integrations>
+            <Integration>ItemSync</Integration>
+            <Integration>MultiWorld</Integration>
+        </Integrations>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>NotBackgroundObjectRando</Name>
         <Description>What no Silksong does to a community</Description>
         <Version>1.0.1.0</Version>
