@@ -11792,9 +11792,9 @@ Enjoy!</Description>
         <Name>EdgeDetection</Name>
 		<DisplayName>Edge Detection</DisplayName>
         <Description>An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="e41b615dee57be32f86efccc27a740e248a05e147cfb45a5552d842bbe374894">
-			<![CDATA[https://github.com/kaycodes13/HollowKnight.EdgeDetection/releases/download/v1.0.1.0/EdgeDetection.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="0e6fd51f2d106b59e2b75d97efde3b1a15bc69e1c33103653f5d451baf504945">
+			<![CDATA[https://github.com/kaycodes13/HollowKnight.EdgeDetection/releases/download/v1.0.2.0/EdgeDetection.zip]]>
 		</Link>
 		<Dependencies>
 			<Dependency>Satchel</Dependency>
