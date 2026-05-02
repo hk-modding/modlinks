@@ -111,8 +111,8 @@
         <Name>ReplayTimerMod</Name>
         <DisplayName>Replay Timer Mod</DisplayName>
         <Description>Records your best times through each room and plays it back as a ghost on your next attempt.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="b5bdf86243b9b8b5f324c8efb07b078ee384994086886666db2b8416a3a5e1e5"><![CDATA[https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.3.0/ReplayModHK1578.zip]]></Link>
+        <Version>0.4.0.0</Version>
+        <Link SHA256="sha256:7b7087843d9cd2ecadf9aa07bbfdeb66531a6dd471ec8693a9228dc5cda30f0f"><![CDATA[https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.4.0/ReplayModHK1578.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -127,6 +127,8 @@
         <Authors>
             <Author>AdiPrk</Author>
             <Author>Shichien</Author>
+            <Author>olvior</Author>
+            <Author>cxyfer</Author>
         </Authors>
     </Manifest>
     <Manifest>
