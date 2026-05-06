@@ -858,8 +858,6 @@ Not recommended for use in new mods.</Description>
         <Repository>
             <![CDATA[https://github.com/Pengwizard/RngCounters/]]>
         </Repository>
-        <Integrations>
-        </Integrations>
         <Authors>
             <Author>Nopre</Author>
         </Authors>
