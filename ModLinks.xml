@@ -4,6 +4,28 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 	<Manifest>
+		<Name>Master</Name>
+		<Description>Challenge mod based of a terraria mod of the same name</Description>
+		<Version>1.0.0.0</Version>
+		<Link SHA256="220A3A09B3C2583935AF0A3F5F9E4485D845A71EE9D306F4CB662D01C19693C1"><![CDATA[https://github.com/Bluescratch7545/Master/releases/download/1.0.0.0/Master.zip]]></Link>
+		<Dependencies>
+			<Dependency>MenuChanger</Dependency>
+			<Dependency>ItemChanger</Dependency>
+		</Dependencies>
+		<Repository>
+			<![CDATA[https://github.com/Bluescratch7545/Master]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/Bluescratch7545/Master/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Gameplay</Tag>
+		</Tags>
+		<Authors>
+			<Author>Bluescratch</Author>
+		</Authors>
+	</Manifest>
+	<Manifest>
 		<Name>Broken Nail</Name>
 		<Description>Adds a new save mode to hk for the Broken Nail challenge</Description>
 		<Version>1.0.0.0</Version>
