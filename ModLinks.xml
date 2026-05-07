@@ -4,6 +4,30 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 	<Manifest>
+		<Name>Lifeblood</Name>
+		<Description>Simple lightweight library mod</Description>
+		<Version>0.0.0.2</Version>
+		<Link SHA256="589F1E6D7F7A6ACF34CFED11B3913D4483BD66B113BAE6FD3AC35E0D2B816C89"><![CDATA[https://github.com/golddemon1973/Lifeblood/releases/download/v0.0.0.2/Lifeblood.zip]]></Link>
+		<Dependencies>
+			<Dependency>HKMirror</Dependency>
+		</Dependencies>
+		<Repository>
+			<![CDATA[https://github.com/golddemon1973/Lifeblood]]>
+		</Repository>
+		<Integrations>
+            <Integration>MoreMasks</Integration>
+        </Integrations>
+		<Issues>
+			<![CDATA[https://github.com/golddemon1973/Lifeblood/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Utility</Tag>
+		</Tags>
+		<Authors>
+			<Author>ivory</Author>
+		</Authors>
+	</Manifest>
+	<Manifest>
 		<Name>Master</Name>
 		<Description>Challenge mod based of a terraria mod of the same name</Description>
 		<Version>1.0.0.0</Version>
