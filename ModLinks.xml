@@ -14,12 +14,12 @@
 		<Repository>
 			<![CDATA[https://github.com/golddemon1973/Lifeblood]]>
 		</Repository>
-		<Integrations>
-            <Integration>MoreMasks</Integration>
-        </Integrations>
 		<Issues>
 			<![CDATA[https://github.com/golddemon1973/Lifeblood/issues]]>
 		</Issues>
+		<Integrations>
+            <Integration>MoreMasks</Integration>
+        </Integrations>
 		<Tags>
 			<Tag>Utility</Tag>
 		</Tags>
