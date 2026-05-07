@@ -70,8 +70,8 @@
         <Name>Ado Death Scream</Name>
         <DisplayName>Ado Death Scream</DisplayName>
         <Description>Plays Ado's scream when the Knight dies.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="4DBDD7554BE042CC2D7074574EEA8CA37C0EFF96CB70A384E4FD49E21C9F9D52"><![CDATA[https://github.com/SaigoNoTanuki/Ado-Death-Scream/releases/download/1.0.0.0/Ado_Death_Scream.zip]]></Link>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="494E3D137F4E9D61B927BBB68EF35DC706F86E5D4783C9375AAF859635956C36"><![CDATA[https://github.com/SaigoNoTanuki/Ado-Death-Scream/releases/download/1.2.0/Ado_Death_Scream.zip]]></Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/SaigoNoTanuki/Ado-Death-Scream]]>
@@ -89,13 +89,13 @@
     <Manifest>
         <Name>DeVect</Name>
         <Description>DeVect, titled 骨杖寂骑人 in Chinese, is a Hollow Knight mod that brings Defect-style orb gameplay from Slay the Spire into the Knight's moveset.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="062cd3d4ac19972ddcd68e12e206949a4edb91b8ad33bd7ddab041789832c73d"><![CDATA[https://github.com/windplusflower/DeVect/releases/download/v1.0/DeVect.zip]]></Link>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="63e83651ca6e8aa860ebdb83dab5b7b18f9dd81b5b0bb00e4f88a7eab7dc4d87"><![CDATA[https://github.com/windplusflower/DeVect/releases/download/v2.0/DeVect.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/windplusflower/DeVect]]>
+            <![CDATA[https://github.com/windplusflower/DeVect/tree/devect2.0]]>
         </Repository>
         <Issues>
             <![CDATA[https://github.com/windplusflower/DeVect/issues]]>
@@ -111,8 +111,8 @@
         <Name>ReplayTimerMod</Name>
         <DisplayName>Replay Timer Mod</DisplayName>
         <Description>Records your best times through each room and plays it back as a ghost on your next attempt.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="b5bdf86243b9b8b5f324c8efb07b078ee384994086886666db2b8416a3a5e1e5"><![CDATA[https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.3.0/ReplayModHK1578.zip]]></Link>
+        <Version>0.4.0.0</Version>
+        <Link SHA256="7b7087843d9cd2ecadf9aa07bbfdeb66531a6dd471ec8693a9228dc5cda30f0f"><![CDATA[https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.4.0/ReplayModHK1578.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -127,6 +127,8 @@
         <Authors>
             <Author>AdiPrk</Author>
             <Author>Shichien</Author>
+            <Author>olvior</Author>
+            <Author>cxyfer</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -843,6 +845,25 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>RngCounters</Name>
+        <Description>A Hollow Knight mod that counts RNG in annoying spots.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="16044f9b5f13d307960a1301c9039ef6f5ee5a44b5ab32ed6dc39c4ff34d2ba6">
+            <![CDATA[https://github.com/Pengwizard/RngCounters/releases/download/v1.1.0/RngCounters.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>Satchel</Dependency>
+			<Dependency>MenuChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Pengwizard/RngCounters/]]>
+        </Repository>
+        <Authors>
+            <Author>Nopre</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>RgbRando</Name>
         <Description>A Randomizer connection that allows randomization of RGB values for the shader.</Description>
         <Version>1.1.0.0</Version>
@@ -902,6 +923,29 @@ Not recommended for use in new mods.</Description>
         </Repository>
         <Authors>
             <Author>spleen</Author>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>DeathSync</Name>
+        <Description>An ItemSync/MultiWorld extension to link your deaths</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="01F7294B226FCF35DBB90FECD9988C23CE05551D36FB1EEA1FA0CC8A965BE177"><![CDATA[https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.0.0/DeathSync.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>KorzUtils</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>MultiWorldLib</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/DeathSync/]]>
+        </Repository>
+        <Integrations>
+            <Integration>ItemSync</Integration>
+            <Integration>MultiWorld</Integration>
+        </Integrations>
+        <Authors>
             <Author>TheMathGeek_314</Author>
         </Authors>
     </Manifest>
@@ -3289,9 +3333,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.6.4</Version>
-        <Link SHA256="2ee0fd6fdd9dafde405f768dcb8803c8563c86dea39ba725c9a72c25ba13b83d">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.4/RandomizableLevers.zip]]>
+        <Version>1.2.6.5</Version>
+        <Link SHA256="b45cae7b939141a26177d1fe8deb3b97304f5b629bbe3c1a641b08ce2d735a20">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.5/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -10821,9 +10865,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.VoiceChat</Name>
         <Description>An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="cfbc1e3d2bd1d1d9ebc3856e4ebabf6e9c7e896cec6a26982c710abf1e4424e5">
-            <![CDATA[https://github.com/Extremelyd1/HKMP.VoiceChat/releases/download/v0.1.0/HKMPVoiceChat.zip]]>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="6171d4bd47d7c329192de61daa7eb4f303e77cb19b0ba5782a5fe71d5078afd4">
+            <![CDATA[https://github.com/Extremelyd1/HKMP.VoiceChat/releases/download/v0.2.0/HKMPVoiceChat.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
