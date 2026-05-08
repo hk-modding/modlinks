@@ -893,9 +893,9 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>RngCounters</Name>
         <Description>A Hollow Knight mod that counts RNG in annoying spots.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="16044f9b5f13d307960a1301c9039ef6f5ee5a44b5ab32ed6dc39c4ff34d2ba6">
-            <![CDATA[https://github.com/Pengwizard/RngCounters/releases/download/v1.1.0/RngCounters.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="22eab7852d24445692cd3330a8b273c1e67e97507a3996ebd5abc4fd047e362b">
+            <![CDATA[https://github.com/Pengwizard/RngCounters/releases/download/v1.2.0/RngCounters.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
