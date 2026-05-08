@@ -11944,4 +11944,25 @@ Enjoy!</Description>
             <Author>CompTech21</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>PathOfPureVessel</Name>
+        <Description>Adds a Path of Pure Vessel boss fight in White Palace. Prepare to Die.</Description>
+        <Version>1.5.1</Version>
+        <Link SHA256="27CF55B1844D75BEF1CEBC525D4EFADF137C82151278BD5A8BFE77F49C4FDCFA">
+            <![CDATA[https://github.com/overabstractor/PathOfPureVessel/releases/download/v1.5.1/PVPoP.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/overabstractor/PathOfPureVessel.git]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+            <Tag>Expansion</Tag>
+        </Tags>
+        <Authors>
+            <Author>overabstractor</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
