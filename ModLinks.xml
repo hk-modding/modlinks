@@ -8,16 +8,13 @@
 		<Description>A library mod that allows you to set n' get tags and attributes</Description>
 		<Version>26.5.0.0</Version>
 		<Link SHA256="C0D985593D7F12E7AAEB87063EB52385016AF590DFEF003755A21E3097632E32"><![CDATA[https://github.com/golddemon1973/Lifeblood/releases/download/v26.5.0.0/HKTags.zip]]></Link>
-		<Dependencies>
-		</Dependencies>
+		<Dependencies />
 		<Repository>
 			<![CDATA[https://github.com/golddemon1973/HKTags]]>
 		</Repository>
 		<Issues>
 			<![CDATA[https://github.com/golddemon1973/HKTags/issues]]>
 		</Issues>
-		<Integrations>
-        </Integrations>
 		<Tags>
 			<Tag>Utility</Tag>
 		</Tags>
