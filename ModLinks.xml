@@ -4,7 +4,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 	<Manifest>
-		<Name>Hollow Knight: ACTS</Name>
+		<Name>Hollow Knight ACTS</Name>
+		<DisplayName>Hollow Knight: ACTS</DisplayName>
 		<Description>A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.</Description>
 		<Version>1.0.0.0</Version>
 		<Link SHA256="7FDE323BFBA8CB6430F4F5D7882D443C92ACD17F4980193653D6AD567CE0A335"><![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.0-yup-i-forgor-to-chage-dis/Hollow.knight.ACTS.zip]]></Link>
