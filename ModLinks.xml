@@ -11,6 +11,7 @@
 		<Link SHA256="7FDE323BFBA8CB6430F4F5D7882D443C92ACD17F4980193653D6AD567CE0A335"><![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.0-yup-i-forgor-to-chage-dis/Hollow.knight.ACTS.zip]]></Link>
 		<Dependencies>
 			<Dependency>SFCore</Dependency>
+			<Dependency>WavLib</Dependency>
 		</Dependencies>
 		<Repository>
 			<![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS]]>
