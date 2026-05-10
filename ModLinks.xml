@@ -1078,8 +1078,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>TheRealTransitionRando</Name>
         <Description>A Randomizer connection that puts transitions into the same pool as the other items</Description>
-        <Version>1.0.1.1</Version>
-        <Link SHA256="75E56DEFCA2D38503006FB37E08EDB2D8BDE25AA5208B7F77D6CEC5020CC3C1F"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.1.1/TheRealTransitionRando.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="712318B3D4D23139F4689909F18366CA75B1EBE9916617C310826D65A965960E"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.0.0/TheRealTransitionRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
