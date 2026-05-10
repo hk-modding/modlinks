@@ -11,6 +11,7 @@
 		<Link SHA256="7FDE323BFBA8CB6430F4F5D7882D443C92ACD17F4980193653D6AD567CE0A335"><![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.0-yup-i-forgor-to-chage-dis/Hollow.knight.ACTS.zip]]></Link>
 		<Dependencies>
 			<Dependency>SFCore</Dependency>
+			<Dependency>WavLib</Dependency>
 		</Dependencies>
 		<Repository>
 			<![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS]]>
@@ -766,6 +767,7 @@
             <Dependency>HKMirror</Dependency>
             <Dependency>HKTool</Dependency>
             <Dependency>Nosk God</Dependency>
+            <Dependency>WavLib</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/ROTTEN108/INFINITY]]>
@@ -2742,6 +2744,7 @@ All with an incredible new soundtrack!</Description>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+            <Dependency>WavLib</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/nQvTgLrp/HollowKnight.Nailgod/]]>
@@ -4030,7 +4033,9 @@ All with an incredible new soundtrack!</Description>
         <Link SHA256="99E357CC7049FA686990A455764EB7BABE582BCA7F19010415B6C3C70B2FD26B">
             <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.5.1/CustomBgm.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>WavLib</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/CustomBgm/]]>
         </Repository>
@@ -4629,7 +4634,9 @@ All with an incredible new soundtrack!</Description>
         <Link SHA256="F2B90438437AC3EE17DEC4C4359ABAF662C25B34DB1439F92826DD11575586B2">
             <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.16.2/SFCore.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>WavLib</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/SFGrenade/SFCore/]]>
         </Repository>
@@ -4833,6 +4840,28 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Issues>
         <Tags>
             <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>WavLib</Name>
+        <DisplayName>WavLib</DisplayName>
+        <Description>A library to read and write WAV files.</Description>
+        <Version>1.1.9.0</Version>
+        <Link SHA256="A06B433F7B8D8DAE61F4B4205F1A414A5A12BA35866174B27885E7D0AE27F31F">
+            <![CDATA[https://github.com/SFGrenade/WavLib/releases/download/v1.1.9/WavLib.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/WavLib/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/SFGrenade/WavLib/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Library</Tag>
         </Tags>
         <Authors>
             <Author>SFGrenade</Author>
@@ -7119,7 +7148,9 @@ Enjoy!</Description>
         <Link SHA256="F54FF6C6A92F9CB89F6D61D93C158E2FD9ADA6EA571607D7AD50344A5F4616A1">
             <![CDATA[https://github.com/ygsbzr/HKCustomAudio/releases/download/v1.4.1/CustomAudio.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>WavLib</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/ygsbzr/HKCustomAudio/]]>
         </Repository>
@@ -9225,6 +9256,7 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
+            <Dependency>WavLib</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/MCXGK3/ImmortalLight]]>
