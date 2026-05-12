@@ -8,7 +8,7 @@
 		<DisplayName>LieButton</DisplayName>
 		<Description>A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.</Description>
 		<Version>1.0.0.0</Version>
-		<Link SHA256="C42D09E67AB7B61499132FC94006BEF4E4C7D1891D6D31F4D22AA3A0F335F40D"><![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod/releases/download/Release/LieButton.zip]]></Link>
+		<Link SHA256="0fe37ee678a0c25cd93ac0307a326ff1cd9349a91675da979f403e6c152ebfcf"><![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod/releases/download/Release/LieButton.zip]]></Link>
 		<Dependencies>
 			<Dependency>Satchel</Dependency>
 		</Dependencies>
