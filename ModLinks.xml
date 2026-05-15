@@ -12078,4 +12078,24 @@ Enjoy!</Description>
             <Author>Olvior</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+	    <Name>CharmRebalanced</Name>
+	    <DisplayName>Charm Rebalanced Mod</DisplayName>
+	    <Description>A mod for Hollow Knight that balances and reworks almost all charms!</Description>
+	    <Version>1.0.6.0</Version>
+	    <Link SHA256="c8a1df2099b968a2ef4594e5907b815a6ed4c2d7714f4ffe99a2fb7918e71bcd"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.6/CharmRebalanced.zip]]></Link>
+		<Dependencies />
+	    <Repository>
+	        <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]>
+	    </Repository>
+	    <Issues>
+	        <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/issues]]>
+	    </Issues>
+	    <Tags>
+	        <Tag>Charm</Tag>
+	    </Tags>
+	    <Authors>
+	        <Author>TuyenTuyenTuyen(GyVn87)</Author>
+	    </Authors>
+	</Manifest>
 </ModLinks>
