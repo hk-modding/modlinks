@@ -4,6 +4,30 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 	<Manifest>
+		<Name>Lego Power Bricks</Name>
+		<DisplayName>Lego Power Bricks</DisplayName>
+		<Description>Adds various of the iconic Red Lego Power Bricks to Hollow Knight, in the form of free charms. Currently requires Debug to give yourself the charms.</Description>
+		<Version>1.0.0.0</Version>
+		<Link SHA256="28063c11d769260b6ba134cded83d384f2545c084529042704b4171fb3f0e867"><![CDATA[https://github.com/Thommie0208/LegoBricks/releases/download/v1.0.0/Lego_Power_Bricks.zip]]></Link>
+		<Dependencies>
+			<Dependency>Satchel</Dependency>
+			<Dependency>MagicUI</Dependency>
+			<Dependency>SFCore</Dependency>
+		</Dependencies>
+		<Repository>
+			<![CDATA[https://github.com/Thommie0208/LegoBricks]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/Thommie0208/LegoBricks/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Charm</Tag>
+		</Tags>
+		<Authors>
+			<Author>Thommie</Author>
+		</Authors>
+	</Manifest>
+	<Manifest>
 		<Name>LieButton</Name>
 		<DisplayName>LieButton</DisplayName>
 		<Description>A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.</Description>
