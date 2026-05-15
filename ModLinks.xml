@@ -12078,6 +12078,14 @@ Enjoy!</Description>
             <Author>Olvior</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>CharmRebalanced</Name>
+        <Description>Dummy mod. Install the dependency "Charm Rebalanced" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>Charm Rebalanced</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]></Repository>
+    </Manifest>
 	<Manifest>
 	    <Name>Charm Rebalanced</Name>
 	    <DisplayName>Charm Rebalanced Mod</DisplayName>
