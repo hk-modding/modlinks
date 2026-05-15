@@ -4,6 +4,52 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 	<Manifest>
+		<Name>Lego Power Bricks</Name>
+		<DisplayName>Lego Power Bricks</DisplayName>
+		<Description>Adds various of the iconic Red Lego Power Bricks to Hollow Knight, in the form of free charms. Currently requires Debug to give yourself the charms.</Description>
+		<Version>1.0.0.0</Version>
+		<Link SHA256="28063c11d769260b6ba134cded83d384f2545c084529042704b4171fb3f0e867"><![CDATA[https://github.com/Thommie0208/LegoBricks/releases/download/v1.0.0/Lego_Power_Bricks.zip]]></Link>
+		<Dependencies>
+			<Dependency>Satchel</Dependency>
+			<Dependency>MagicUI</Dependency>
+			<Dependency>SFCore</Dependency>
+		</Dependencies>
+		<Repository>
+			<![CDATA[https://github.com/Thommie0208/LegoBricks]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/Thommie0208/LegoBricks/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Charm</Tag>
+		</Tags>
+		<Authors>
+			<Author>Thommie</Author>
+		</Authors>
+	</Manifest>
+	<Manifest>
+		<Name>LieButton</Name>
+		<DisplayName>LieButton</DisplayName>
+		<Description>A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.</Description>
+		<Version>1.0.0.0</Version>
+		<Link SHA256="0fe37ee678a0c25cd93ac0307a326ff1cd9349a91675da979f403e6c152ebfcf"><![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod/releases/download/Release/LieButton.zip]]></Link>
+		<Dependencies>
+			<Dependency>Satchel</Dependency>
+		</Dependencies>
+		<Repository>
+			<![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Cosmetic</Tag>
+		</Tags>
+		<Authors>
+			<Author>AntSkarr</Author>
+		</Authors>
+	</Manifest>
+	<Manifest>
 		<Name>Hollow Knight ACTS</Name>
 		<DisplayName>Hollow Knight: ACTS</DisplayName>
 		<Description>A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.</Description>
@@ -1042,8 +1088,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>NotBackgroundObjectRando</Name>
         <Description>What no Silksong does to a community</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="4EB3B48686AC0BF19F5BD48C5B9F563EA8CD3BAC09C7E9D0DF9DA045ACBB42B9"><![CDATA[https://github.com/TheMathGeek314/NotBackgroundObjectRando/releases/download/v1.0.1.0/NotBackgroundObjectRando.zip]]></Link>
+        <Version>1.0.1.1</Version>
+        <Link SHA256="4DBA22A8D72192371434ADC422396D8722DA7B0A1A471264E6C9B5D1CDA9D720"><![CDATA[https://github.com/TheMathGeek314/NotBackgroundObjectRando/releases/download/v1.0.1.1/NotBackgroundObjectRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -12021,8 +12067,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>RngSync</Name>
         <Description>A Hollow Knight mod that makes a lot of RNG deterministic</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="d5cdfdc0e5d96700001d309ae8d39c96b351e2f31a25f27f0efef86e23e36a8d"><![CDATA[https://github.com/olvior/RngSync/releases/download/v0.3.0/RngSync.zip]]></Link>
+        <Version>0.3.1.0</Version>
+        <Link SHA256="e3cb1bb062650c1a2b1b25141b4cfccd360499b76b1e174e1ba929eec55e3644"><![CDATA[https://github.com/olvior/RngSync/releases/download/v0.3.1/RngSync.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -12032,4 +12078,24 @@ Enjoy!</Description>
             <Author>Olvior</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+	    <Name>CharmRebalanced</Name>
+	    <DisplayName>Charm Rebalanced Mod</DisplayName>
+	    <Description>A mod for Hollow Knight that balances and reworks almost all charms!</Description>
+	    <Version>1.0.6.0</Version>
+	    <Link SHA256="c8a1df2099b968a2ef4594e5907b815a6ed4c2d7714f4ffe99a2fb7918e71bcd"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.6/CharmRebalanced.zip]]></Link>
+		<Dependencies />
+	    <Repository>
+	        <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]>
+	    </Repository>
+	    <Issues>
+	        <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/issues]]>
+	    </Issues>
+	    <Tags>
+	        <Tag>Charm</Tag>
+	    </Tags>
+	    <Authors>
+	        <Author>TuyenTuyenTuyen(GyVn87)</Author>
+	    </Authors>
+	</Manifest>
 </ModLinks>
