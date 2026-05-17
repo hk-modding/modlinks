@@ -12078,20 +12078,12 @@ Enjoy!</Description>
             <Author>Olvior</Author>
         </Authors>
     </Manifest>
-    <Manifest>
-        <Name>CharmRebalanced</Name>
-        <Description>Dummy mod. Install the dependency "Charm Rebalanced" directly.</Description>
-        <Version>9.9.9.9</Version>
-        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>Charm Rebalanced</Dependency></Dependencies>
-        <Repository><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]></Repository>
-    </Manifest>
 	<Manifest>
 	    <Name>Charm Rebalanced</Name>
 	    <DisplayName>Charm Rebalanced Mod</DisplayName>
-	    <Description>A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.</Description>
-	    <Version>1.0.7.0</Version>
-	    <Link SHA256="2785944a687db67dd37383df1b814cf48a5fd3292d8d31fd617f7bfd59c6bc3c"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.7.0/CharmRebalanced.zip]]></Link>
+	    <Description>A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help more people discover the mod!</Description>
+	    <Version>1.0.8.0</Version>
+	    <Link SHA256="89cff2b4147330af23aa79178dbd75a3107de225d075cb225cc0ef35b31f7902"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.8.0/CharmRebalanced.zip]]></Link>
 		<Dependencies />
 	    <Repository>
 	        <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]>
