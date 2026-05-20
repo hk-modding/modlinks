@@ -10724,6 +10724,7 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/cometcake575/FSMSeer-HK]]>
         </Repository>
+		<Dependencies />
         <Issues>
             <![CDATA[https://github.com/cometcake575/FSMSeer-HK/issues]]>
         </Issues>
