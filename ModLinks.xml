@@ -12109,9 +12109,9 @@ Enjoy!</Description>
 	<Manifest>
 	    <Name>Charm Rebalanced</Name>
 	    <DisplayName>Charm Rebalanced Mod</DisplayName>
-	    <Description>A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help more people discover the mod!</Description>
-	    <Version>1.0.8.0</Version>
-	    <Link SHA256="89cff2b4147330af23aa79178dbd75a3107de225d075cb225cc0ef35b31f7902"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.8.0/CharmRebalanced.zip]]></Link>
+	    <Description>Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help spread the mod to more people!</Description>
+	    <Version>1.0.9.0</Version>
+	    <Link SHA256="f2388c44d3c42ba14227854e4b441b642007e501e321ddae930e83bea4d5f119"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.9.0/CharmRebalanced.zip]]></Link>
 		<Dependencies />
 	    <Repository>
 	        <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]>
