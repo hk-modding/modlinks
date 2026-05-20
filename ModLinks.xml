@@ -8120,7 +8120,7 @@ Enjoy!</Description>
             <Integration>DecorationMaster</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
-            <Integration>Architect</Integration>
+            <Integration>ArchitectLegacy</Integration>
         </Integrations>
         <Authors>
             <Author>Purenail</Author>
@@ -10642,8 +10642,8 @@ Enjoy!</Description>
         <Repository>https://github.com/dpinela/RainbowShinies</Repository>
     </Manifest>
     <Manifest>
-        <Name>Architect</Name>
-        <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
+        <Name>ArchitectLegacy</Name>
+        <Description>The old version of Architect, a Hollow Knight level editor.</Description>
         <Version>1.18.0.6</Version>
         <Link SHA256="46d33ba0a4d2e180022838650c64f99dc2aad93eec2ff917c6a3415ec50b11b7">
             <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.18.0.6/Architect.zip]]>
@@ -10662,6 +10662,34 @@ Enjoy!</Description>
         <Integrations>
             <Integration>HKMP</Integration>
             <Integration>Scattered and Lost</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Architect</Name>
+        <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
+        <Version>3.28.0.2</Version>
+        <Link SHA256="4aa4c37550f465ba05711f95ffbb60cae9f2640125a5fae5334410f8aeb5c750">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.2/Architect.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/Architect-HK]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/Architect-HK/issues]]>
+        </Issues>
+        <Integrations>
+            <Integration>HKMP</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
