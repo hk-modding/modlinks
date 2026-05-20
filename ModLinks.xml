@@ -10721,10 +10721,10 @@ Enjoy!</Description>
         <Link SHA256="fcda0931c03573f2438dcf75c672b6561d4be820ab2dbb7397114b74396f362e">
             <![CDATA[https://github.com/cometcake575/FSMSeer-HK/releases/download/1.0.0.0/FSMSeer.zip]]>
         </Link>
+		<Dependencies />
         <Repository>
             <![CDATA[https://github.com/cometcake575/FSMSeer-HK]]>
         </Repository>
-		<Dependencies />
         <Issues>
             <![CDATA[https://github.com/cometcake575/FSMSeer-HK/issues]]>
         </Issues>
