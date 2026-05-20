@@ -10273,6 +10273,22 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>TextMasher</Name>
+        <Description>Auto mashes through textboxes if you are holding Nail, Jump or Focus.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="F2E62C8AA67542D86CD1630CDEF83B12FCCC18ACAF9CDD9B9228DF251A08C677"><![CDATA[https://github.com/peekagrub/TextMasher/releases/download/1.0.0.0/TextMasher.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/peekagrub/TextMasher]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>peekagrub</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>BossStatueFramework</Name>
         <Description>Library for adding custom boss statues to the Hall of Gods.</Description>
         <Version>1.1.0.0</Version>
