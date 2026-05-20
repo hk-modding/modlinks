@@ -10714,6 +10714,23 @@ Enjoy!</Description>
             <Author>cometcake575</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>FsmSeer</Name>
+        <Description>Shows active FSM names and states above objects when F3 is pressed.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="fcda0931c03573f2438dcf75c672b6561d4be820ab2dbb7397114b74396f362e">
+            <![CDATA[https://github.com/cometcake575/FSMSeer-HK/releases/download/1.0.0.0/FSMSeer.zip]]>
+        </Link>
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/FSMSeer-HK]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/FSMSeer-HK/issues]]>
+        </Issues>
+        <Authors>
+            <Author>cometcake575</Author>
+        </Authors>
+    </Manifest>
       <Manifest>
         <Name>ConfigurableMaskDamage</Name>
         <Description>Changes the amount of damage dealt to the knight</Description>
