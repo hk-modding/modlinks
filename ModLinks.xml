@@ -8120,7 +8120,7 @@ Enjoy!</Description>
             <Integration>DecorationMaster</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
-            <Integration>Architect</Integration>
+            <Integration>ArchitectLegacy</Integration>
         </Integrations>
         <Authors>
             <Author>Purenail</Author>
@@ -10273,6 +10273,22 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>TextMasher</Name>
+        <Description>Auto mashes through textboxes if you are holding Nail, Jump or Focus.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="F2E62C8AA67542D86CD1630CDEF83B12FCCC18ACAF9CDD9B9228DF251A08C677"><![CDATA[https://github.com/peekagrub/TextMasher/releases/download/1.0.0.0/TextMasher.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/peekagrub/TextMasher]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>peekagrub</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>BossStatueFramework</Name>
         <Description>Library for adding custom boss statues to the Hall of Gods.</Description>
         <Version>1.1.0.0</Version>
@@ -10642,8 +10658,8 @@ Enjoy!</Description>
         <Repository>https://github.com/dpinela/RainbowShinies</Repository>
     </Manifest>
     <Manifest>
-        <Name>Architect</Name>
-        <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
+        <Name>ArchitectLegacy</Name>
+        <Description>The old version of Architect, a Hollow Knight level editor.</Description>
         <Version>1.18.0.6</Version>
         <Link SHA256="46d33ba0a4d2e180022838650c64f99dc2aad93eec2ff917c6a3415ec50b11b7">
             <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.18.0.6/Architect.zip]]>
@@ -10663,6 +10679,79 @@ Enjoy!</Description>
             <Integration>HKMP</Integration>
             <Integration>Scattered and Lost</Integration>
         </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Architect</Name>
+        <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
+        <Version>3.28.0.7</Version>
+        <Link SHA256="a1a5e08a18153d5894396420572418754ce904956eceaf289856ec6b61969f3c">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.7/Architect.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/Architect-HK]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/Architect-HK/issues]]>
+        </Issues>
+        <Integrations>
+            <Integration>HKMP</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>FsmSeer</Name>
+        <Description>Shows active FSM names and states above objects when F3 is pressed.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="fcda0931c03573f2438dcf75c672b6561d4be820ab2dbb7397114b74396f362e">
+            <![CDATA[https://github.com/cometcake575/FSMSeer-HK/releases/download/1.0.0.0/FSMSeer.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/FSMSeer-HK]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/FSMSeer-HK/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>UltimateChickenKnight</Name>
+        <Description>Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.</Description>
+        <Version>4.0.10.0</Version>
+        <Link SHA256="096c337ee5442f2bb29cd6a5e5f9db3fd296e93f60623b4d9c2bbb15d10fab39">
+            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.10.0/UltimateChickenKnight.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Architect</Dependency>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/issues]]>
+        </Issues>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -12067,8 +12156,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>RngSync</Name>
         <Description>A Hollow Knight mod that makes a lot of RNG deterministic</Description>
-        <Version>0.3.1.0</Version>
-        <Link SHA256="e3cb1bb062650c1a2b1b25141b4cfccd360499b76b1e174e1ba929eec55e3644"><![CDATA[https://github.com/olvior/RngSync/releases/download/v0.3.1/RngSync.zip]]></Link>
+        <Version>0.3.2.0</Version>
+        <Link SHA256="520b3764272abdf030b92495a7a66e7e3f7a6737c918739f0a9c6bf08f91491d"><![CDATA[https://github.com/olvior/RngSync/releases/download/v0.3.2/RngSync.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
