@@ -10726,13 +10726,14 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.28.0.9</Version>
-        <Link SHA256="f1aefd781f0d1857b8c403447b43a294e0979aeb7caae487a589fd4ec7366c18">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.9/Architect.zip]]>
+        <Version>3.28.0.10</Version>
+        <Link SHA256="34a3b52f67d7ec8d5dce8fd6e9ccbd5338f4df7f88e9a3e7a4e0e324622ce4f9">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.10/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>ItemChanger</Dependency>
+            <Dependency>ItemCreator</Dependency>
             <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
@@ -10746,6 +10747,29 @@ Enjoy!</Description>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ItemCreator</Name>
+        <Description>Library used to create custom items that show up in the inventory.</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="2059c905a2de76c8db1eebe90f60adfb3690f96ded57af40fb7cd3385fe1dc53">
+            <![CDATA[https://github.com/cometcake575/ItemCreator-HK/releases/download/1.0.0.1/ItemCreator.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/ItemCreator-HK]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/ItemCreator-HK/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Library</Tag>
         </Tags>
         <Authors>
             <Author>cometcake575</Author>
