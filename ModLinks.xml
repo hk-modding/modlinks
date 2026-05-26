@@ -1185,8 +1185,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>TheRealTransitionRando</Name>
         <Description>A Randomizer connection that puts transitions into the same pool as the other items</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="712318B3D4D23139F4689909F18366CA75B1EBE9916617C310826D65A965960E"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.0.0/TheRealTransitionRando.zip]]></Link>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="14AFEEBA32A19AFC172B8CCEC1E46E9104DCE3B1AC0777FB35C1302307672162"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.0.1/TheRealTransitionRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -10726,9 +10726,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.28.0.7</Version>
-        <Link SHA256="a1a5e08a18153d5894396420572418754ce904956eceaf289856ec6b61969f3c">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.7/Architect.zip]]>
+        <Version>3.28.0.9</Version>
+        <Link SHA256="f1aefd781f0d1857b8c403447b43a294e0979aeb7caae487a589fd4ec7366c18">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.9/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
