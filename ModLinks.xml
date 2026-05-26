@@ -650,8 +650,8 @@
 	<Manifest>
 		<Name>SkinBenchRoulette</Name>
 		<Description>Randomizes your Custom Knight skin every time you sit on a bench! Automatically detects your downloaded skins.</Description>
-		<Version>1.1.0</Version>
-		<Link><![CDATA[https://github.com/gabgio5311-jpg/SkinBenchRoulette/releases/download/v1.1.0/SkinBenchRoulette.dll]]></Link>
+		<Version>1.1.0.0</Version>
+		<Link SHA256="7b28c4cf709bfc51fe066e4ddc9e1983ae7c70f4d2acb5f16299e4b62fd215e1"><![CDATA[https://github.com/gabgio5311-jpg/SkinBenchRoulette/releases/download/v1.1.0/SkinBenchRoulette.dll]]></Link>
 		<Dependencies>
 			<Dependency>CustomKnight</Dependency>
 		</Dependencies>
