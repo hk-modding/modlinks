@@ -1164,8 +1164,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>TheRealTransitionRando</Name>
         <Description>A Randomizer connection that puts transitions into the same pool as the other items</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="712318B3D4D23139F4689909F18366CA75B1EBE9916617C310826D65A965960E"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.0.0/TheRealTransitionRando.zip]]></Link>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="14AFEEBA32A19AFC172B8CCEC1E46E9104DCE3B1AC0777FB35C1302307672162"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.0.1/TheRealTransitionRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -1368,8 +1368,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>YetAnotherRandoConnection</Name>
         <Description>A Randomizer add-on with an assortment of additions</Description>
-        <Version>1.2.2.1</Version>
-        <Link SHA256="8DB8209B883D027C1B0B414457A93C0A7A37E4EFA9CA8182A1CC24D34753F2B9"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.1/YetAnotherRandoConnection.zip]]></Link>
+        <Version>1.2.2.2</Version>
+        <Link SHA256="D896B00CCD32A9EADD5E88153BE435AFB136FBB954122BA0438BFECD8EF16EEC"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.2/YetAnotherRandoConnection.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
