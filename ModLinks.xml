@@ -807,7 +807,7 @@
         <Description>Homemade Pure Vessel boss mod.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="7e6647f1c0aad339149db1e109c1d49d3b4e4d232779af95f6a5f83a94716ded">
-            <![CDATA[https://github.com/HK-Modding-Preservation/ChineseMods/releases/download/pale-shadow/Pale.Shadow.zip]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/ModsWithoutSources/raw/master/Pale%20Shadow.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
