@@ -10755,9 +10755,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ItemCreator</Name>
         <Description>Library used to create custom items that show up in the inventory.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="2059c905a2de76c8db1eebe90f60adfb3690f96ded57af40fb7cd3385fe1dc53">
-            <![CDATA[https://github.com/cometcake575/ItemCreator-HK/releases/download/1.0.0.1/ItemCreator.zip]]>
+        <Version>1.0.0.2</Version>
+        <Link SHA256="814001b92f868ad8d0e53a747c86bfeff677b1bf8f4e95885dab8f57ca0da025">
+            <![CDATA[https://github.com/cometcake575/ItemCreator-HK/releases/download/1.0.0.2/ItemCreator.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
