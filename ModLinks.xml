@@ -826,8 +826,8 @@
         <Name>Pale Shadow</Name>
         <Description>Homemade Pure Vessel boss mod.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="7e6647f1c0aad339149db1e109c1d49d3b4e4d232779af95f6a5f83a94716ded">
-            <![CDATA[https://github.com/HK-Modding-Preservation/ChineseMods/releases/download/pale-shadow/Pale.Shadow.zip]]>
+        <Link SHA256="A4677DEB155F9151968D7E655EE5B0B226AFD7A78BC1AFCD62C792003E4218E8">
+            <![CDATA[https://github.com/HK-Modding-Preservation/ModsWithoutSources/raw/master/Pale%20Shadow.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -1008,7 +1008,7 @@
 Not recommended for use in new mods.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="a4959501676033bb66136b466597f266794ef3627c92c4455c94b2a6450b69aa">
-            <![CDATA[https://github.com/HK-Modding-Preservation/ModCommon/releases/download/v1/ModCommon_1.5.dll]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/ModsWithoutSources/raw/master/ModCommon_1.5.dll]]>
         </Link>
         <Dependencies/>
         <Repository>
