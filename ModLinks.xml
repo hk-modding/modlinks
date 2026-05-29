@@ -4,6 +4,30 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>EnemiesFightingEachOther</Name>
+        <Description>Allows the player to spawn in Gruz Mother and Hive Knight and have them fight each other</Description>
+        <Version>0.1.1.5</Version>
+        <Link SHA256="E80DA57E1DDA26BF214E2963951D757DB1EF67A692849626BA70B9A45F534B29">
+            <![CDATA[https://github.com/jnmcallister/EnemiesFightingEachOther/releases/download/0.1.1.5/EnemiesFightingEachOther.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Core.FsmUtil</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/jnmcallister/EnemiesFightingEachOther]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/jnmcallister/EnemiesFightingEachOther/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Foxyrobo</Author>
+        </Authors>
+    </Manifest>
+	<Manifest>
 		<Name>BossLib</Name>
 		<Description>Makes creating bosses easier. Does nothing on its own.</Description>
 		<Version>0.1.0.0</Version>
