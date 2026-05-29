@@ -3,6 +3,26 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+    <Manifest>
+		<Name>BossLib</Name>
+		<Description>Makes creating bosses easier. Does nothing on its own.</Description>
+		<Version>0.1.0.0</Version>
+		<Link SHA256="20E43799E4618FDCDDC6F6977328D327EB8F71871B40CB38E813D1EBAF69ACAD"><![CDATA[https://github.com/Bluescratch7545/BossLib/releases/download/0.1.0.0/BossLib.zip]]></Link>
+		<Dependencies />
+		<Repository>
+			<![CDATA[https://github.com/Bluescratch7545/BossLib]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/Bluescratch7545/BossLib/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Library</Tag>
+			<Tag>Utility</Tag>
+		</Tags>
+		<Authors>
+			<Author>Bluescratch</Author>
+		</Authors>
+	</Manifest>
 	<Manifest>
 		<Name>Lego Power Bricks</Name>
 		<DisplayName>Lego Power Bricks</DisplayName>
@@ -56,7 +76,7 @@
 		<Version>1.0.0.0</Version>
 		<Link SHA256="7FDE323BFBA8CB6430F4F5D7882D443C92ACD17F4980193653D6AD567CE0A335"><![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.0-yup-i-forgor-to-chage-dis/Hollow.knight.ACTS.zip]]></Link>
 		<Dependencies>
-			<Dependency>SFCore</Dependency>
+			<Dependency>MagicUI</Dependency>
 			<Dependency>WavLib</Dependency>
 		</Dependencies>
 		<Repository>
@@ -806,8 +826,8 @@
         <Name>Pale Shadow</Name>
         <Description>Homemade Pure Vessel boss mod.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="7e6647f1c0aad339149db1e109c1d49d3b4e4d232779af95f6a5f83a94716ded">
-            <![CDATA[https://github.com/HK-Modding-Preservation/ChineseMods/releases/download/pale-shadow/Pale.Shadow.zip]]>
+        <Link SHA256="A4677DEB155F9151968D7E655EE5B0B226AFD7A78BC1AFCD62C792003E4218E8">
+            <![CDATA[https://github.com/HK-Modding-Preservation/ModsWithoutSources/raw/master/Pale%20Shadow.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -988,7 +1008,7 @@
 Not recommended for use in new mods.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="a4959501676033bb66136b466597f266794ef3627c92c4455c94b2a6450b69aa">
-            <![CDATA[https://github.com/HK-Modding-Preservation/ModCommon/releases/download/v1/ModCommon_1.5.dll]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/ModsWithoutSources/raw/master/ModCommon_1.5.dll]]>
         </Link>
         <Dependencies/>
         <Repository>
