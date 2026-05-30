@@ -2,8 +2,29 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+    xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">  
     <Manifest>
+        <Name>VengeflyBombardiert</Name>
+        <Description>VengeflyBombardier is a Hollow Knight mod that turns the Vengefly King into a much more aggressive boss encounter.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="89cf33a0f94df2f38021d06b3ba2dddeef9acf7c1ebc88fe4b05fc305074db8e"><![CDATA[https://github.com/windplusflower/VengeflyBombardier/releases/download/v1.0/VengeflyBombardier.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/windplusflower/VengeflyBombardier]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/windplusflower/VengeflyBombardier/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Windflower</Author>
+        </Authors>
+    </Manifest>
+	<Manifest>
 		<Name>BossLib</Name>
 		<Description>Makes creating bosses easier. Does nothing on its own.</Description>
 		<Version>0.1.0.0</Version>
