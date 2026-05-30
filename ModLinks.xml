@@ -27,182 +27,203 @@
             <Author>Foxyrobo</Author>
         </Authors>
     </Manifest>
-	<Manifest>
-		<Name>BossLib</Name>
-		<Description>Makes creating bosses easier. Does nothing on its own.</Description>
-		<Version>0.1.0.0</Version>
-		<Link SHA256="20E43799E4618FDCDDC6F6977328D327EB8F71871B40CB38E813D1EBAF69ACAD"><![CDATA[https://github.com/Bluescratch7545/BossLib/releases/download/0.1.0.0/BossLib.zip]]></Link>
-		<Dependencies />
-		<Repository>
-			<![CDATA[https://github.com/Bluescratch7545/BossLib]]>
-		</Repository>
-		<Issues>
-			<![CDATA[https://github.com/Bluescratch7545/BossLib/issues]]>
-		</Issues>
-		<Tags>
-			<Tag>Library</Tag>
-			<Tag>Utility</Tag>
-		</Tags>
-		<Authors>
-			<Author>Bluescratch</Author>
-		</Authors>
-	</Manifest>
-	<Manifest>
-		<Name>Lego Power Bricks</Name>
-		<DisplayName>Lego Power Bricks</DisplayName>
-		<Description>Adds various of the iconic Red Lego Power Bricks to Hollow Knight, in the form of free charms. Currently requires Debug to give yourself the charms.</Description>
-		<Version>1.0.0.0</Version>
-		<Link SHA256="28063c11d769260b6ba134cded83d384f2545c084529042704b4171fb3f0e867"><![CDATA[https://github.com/Thommie0208/LegoBricks/releases/download/v1.0.0/Lego_Power_Bricks.zip]]></Link>
-		<Dependencies>
-			<Dependency>Satchel</Dependency>
-			<Dependency>MagicUI</Dependency>
-			<Dependency>SFCore</Dependency>
-		</Dependencies>
-		<Repository>
-			<![CDATA[https://github.com/Thommie0208/LegoBricks]]>
-		</Repository>
-		<Issues>
-			<![CDATA[https://github.com/Thommie0208/LegoBricks/issues]]>
-		</Issues>
-		<Tags>
-			<Tag>Charm</Tag>
-		</Tags>
-		<Authors>
-			<Author>Thommie</Author>
-		</Authors>
-	</Manifest>
-	<Manifest>
-		<Name>LieButton</Name>
-		<DisplayName>LieButton</DisplayName>
-		<Description>A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.</Description>
-		<Version>1.0.0.0</Version>
-		<Link SHA256="0fe37ee678a0c25cd93ac0307a326ff1cd9349a91675da979f403e6c152ebfcf"><![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod/releases/download/Release/LieButton.zip]]></Link>
-		<Dependencies>
-			<Dependency>Satchel</Dependency>
-		</Dependencies>
-		<Repository>
-			<![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod]]>
-		</Repository>
-		<Issues>
-			<![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod/issues]]>
-		</Issues>
-		<Tags>
-			<Tag>Cosmetic</Tag>
-		</Tags>
-		<Authors>
-			<Author>AntSkarr</Author>
-		</Authors>
-	</Manifest>
-	<Manifest>
-		<Name>Hollow Knight ACTS</Name>
-		<DisplayName>Hollow Knight: ACTS</DisplayName>
-		<Description>A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.</Description>
-		<Version>1.0.0.0</Version>
-		<Link SHA256="7FDE323BFBA8CB6430F4F5D7882D443C92ACD17F4980193653D6AD567CE0A335"><![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.0-yup-i-forgor-to-chage-dis/Hollow.knight.ACTS.zip]]></Link>
-		<Dependencies>
-			<Dependency>MagicUI</Dependency>
-			<Dependency>WavLib</Dependency>
-		</Dependencies>
-		<Repository>
-			<![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS]]>
-		</Repository>
-		<Issues>
-			<![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/issues]]>
-		</Issues>
-		<Tags>
-			<Tag>Gameplay</Tag>
-		</Tags>
-		<Authors>
-			<Author>Bluescratch</Author>
-		</Authors>
-	</Manifest>
-	<Manifest>
-		<Name>HKTags</Name>
-		<Description>A library mod that allows you to set n' get tags and attributes</Description>
-		<Version>26.5.0.0</Version>
-		<Link SHA256="C0D985593D7F12E7AAEB87063EB52385016AF590DFEF003755A21E3097632E32"><![CDATA[https://github.com/golddemon1973/HKTags/releases/download/v26.5.0.0/HKTags.zip]]></Link>
-		<Dependencies />
-		<Repository>
-			<![CDATA[https://github.com/golddemon1973/HKTags]]>
-		</Repository>
-		<Issues>
-			<![CDATA[https://github.com/golddemon1973/HKTags/issues]]>
-		</Issues>
-		<Tags>
-			<Tag>Utility</Tag>
-		</Tags>
-		<Authors>
-			<Author>ivory</Author>
-		</Authors>
-	</Manifest>
-	<Manifest>
-		<Name>Lifeblood</Name>
-		<Description>Simple lightweight library mod</Description>
-		<Version>0.0.1.3</Version>
-		<Link SHA256="3A291B7804F36DA65234335DDD70A28AA6D4CC2BE052E79D946E729FF80F6A49"><![CDATA[https://github.com/golddemon1973/Lifeblood/releases/download/v0.0.1.3/Lifeblood.zip]]></Link>
-		<Dependencies>
-			<Dependency>HKMirror</Dependency>
-		</Dependencies>
-		<Repository>
-			<![CDATA[https://github.com/golddemon1973/Lifeblood]]>
-		</Repository>
-		<Issues>
-			<![CDATA[https://github.com/golddemon1973/Lifeblood/issues]]>
-		</Issues>
-		<Integrations>
+    <Manifest>
+        <Name>VengeflyBombardier</Name>
+        <Description>VengeflyBombardier is a Hollow Knight mod that turns the Vengefly King into a much more aggressive boss encounter.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="89cf33a0f94df2f38021d06b3ba2dddeef9acf7c1ebc88fe4b05fc305074db8e"><![CDATA[https://github.com/windplusflower/VengeflyBombardier/releases/download/v1.0/VengeflyBombardier.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/windplusflower/VengeflyBombardier]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/windplusflower/VengeflyBombardier/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Windflower</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>BossLib</Name>
+        <Description>Makes creating bosses easier. Does nothing on its own.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="20E43799E4618FDCDDC6F6977328D327EB8F71871B40CB38E813D1EBAF69ACAD"><![CDATA[https://github.com/Bluescratch7545/BossLib/releases/download/0.1.0.0/BossLib.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Bluescratch7545/BossLib]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Bluescratch7545/BossLib/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Library</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Bluescratch</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Lego Power Bricks</Name>
+        <DisplayName>Lego Power Bricks</DisplayName>
+        <Description>Adds various of the iconic Red Lego Power Bricks to Hollow Knight, in the form of free charms. Currently requires Debug to give yourself the charms.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="28063c11d769260b6ba134cded83d384f2545c084529042704b4171fb3f0e867"><![CDATA[https://github.com/Thommie0208/LegoBricks/releases/download/v1.0.0/Lego_Power_Bricks.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Thommie0208/LegoBricks]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Thommie0208/LegoBricks/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Charm</Tag>
+        </Tags>
+        <Authors>
+            <Author>Thommie</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>LieButton</Name>
+        <DisplayName>LieButton</DisplayName>
+        <Description>A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="0fe37ee678a0c25cd93ac0307a326ff1cd9349a91675da979f403e6c152ebfcf"><![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod/releases/download/Release/LieButton.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>AntSkarr</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Hollow Knight ACTS</Name>
+        <DisplayName>Hollow Knight: ACTS</DisplayName>
+        <Description>A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="7FDE323BFBA8CB6430F4F5D7882D443C92ACD17F4980193653D6AD567CE0A335"><![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.0-yup-i-forgor-to-chage-dis/Hollow.knight.ACTS.zip]]></Link>
+        <Dependencies>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>WavLib</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Bluescratch</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>HKTags</Name>
+        <Description>A library mod that allows you to set n' get tags and attributes</Description>
+        <Version>26.5.0.0</Version>
+        <Link SHA256="C0D985593D7F12E7AAEB87063EB52385016AF590DFEF003755A21E3097632E32"><![CDATA[https://github.com/golddemon1973/HKTags/releases/download/v26.5.0.0/HKTags.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/golddemon1973/HKTags]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/golddemon1973/HKTags/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>ivory</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Lifeblood</Name>
+        <Description>Simple lightweight library mod</Description>
+        <Version>0.0.1.3</Version>
+        <Link SHA256="3A291B7804F36DA65234335DDD70A28AA6D4CC2BE052E79D946E729FF80F6A49"><![CDATA[https://github.com/golddemon1973/Lifeblood/releases/download/v0.0.1.3/Lifeblood.zip]]></Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/golddemon1973/Lifeblood]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/golddemon1973/Lifeblood/issues]]>
+        </Issues>
+        <Integrations>
             <Integration>MoreMasks</Integration>
         </Integrations>
-		<Tags>
-			<Tag>Utility</Tag>
-		</Tags>
-		<Authors>
-			<Author>ivory</Author>
-		</Authors>
-	</Manifest>
-	<Manifest>
-		<Name>Master</Name>
-		<Description>Challenge mod based of a terraria mod of the same name</Description>
-		<Version>1.0.0.0</Version>
-		<Link SHA256="220A3A09B3C2583935AF0A3F5F9E4485D845A71EE9D306F4CB662D01C19693C1"><![CDATA[https://github.com/Bluescratch7545/Master/releases/download/1.0.0.0/Master.zip]]></Link>
-		<Dependencies>
-			<Dependency>MenuChanger</Dependency>
-			<Dependency>ItemChanger</Dependency>
-		</Dependencies>
-		<Repository>
-			<![CDATA[https://github.com/Bluescratch7545/Master]]>
-		</Repository>
-		<Issues>
-			<![CDATA[https://github.com/Bluescratch7545/Master/issues]]>
-		</Issues>
-		<Tags>
-			<Tag>Gameplay</Tag>
-		</Tags>
-		<Authors>
-			<Author>Bluescratch</Author>
-		</Authors>
-	</Manifest>
-	<Manifest>
-		<Name>Broken Nail</Name>
-		<Description>Adds a new save mode to hk for the Broken Nail challenge</Description>
-		<Version>1.0.0.0</Version>
-		<Link SHA256="4DC72DDB597D70F7158EE7DF3DE23E5DCFA77E87AC1F519C5F5F3E773AF4B8BC"><![CDATA[https://github.com/Bluescratch7545/Broken-Nail/releases/download/1.0.0.0/Broken_Nail.zip]]></Link>
-		<Dependencies>
-			<Dependency>MenuChanger</Dependency>
-			<Dependency>ItemChanger</Dependency>
-		</Dependencies>
-		<Repository>
-			<![CDATA[https://github.com/Bluescratch7545/Broken-Nail]]>
-		</Repository>
-		<Issues>
-			<![CDATA[https://github.com/Bluescratch7545/Broken-Nail/issues]]>
-		</Issues>
-		<Tags>
-			<Tag>Gameplay</Tag>
-		</Tags>
-		<Authors>
-			<Author>Bluescratch</Author>
-		</Authors>
-	</Manifest>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>ivory</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Master</Name>
+        <Description>Challenge mod based of a terraria mod of the same name</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="220A3A09B3C2583935AF0A3F5F9E4485D845A71EE9D306F4CB662D01C19693C1"><![CDATA[https://github.com/Bluescratch7545/Master/releases/download/1.0.0.0/Master.zip]]></Link>
+        <Dependencies>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Bluescratch7545/Master]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Bluescratch7545/Master/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Bluescratch</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Broken Nail</Name>
+        <Description>Adds a new save mode to hk for the Broken Nail challenge</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="4DC72DDB597D70F7158EE7DF3DE23E5DCFA77E87AC1F519C5F5F3E773AF4B8BC"><![CDATA[https://github.com/Bluescratch7545/Broken-Nail/releases/download/1.0.0.0/Broken_Nail.zip]]></Link>
+        <Dependencies>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Bluescratch7545/Broken-Nail]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Bluescratch7545/Broken-Nail/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Bluescratch</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
         <Name>Vampire Knight</Name>
         <Description>A.. BLOODSUCKING will!</Description>
@@ -210,7 +231,7 @@
         <Link SHA256="AA4B98EE40096D5DC9BF21FED3BF00431AD48E0A431F712DA71D29652AC8F72B"><![CDATA[https://github.com/golddemon1973/VampireKnight/releases/download/v26.5.0.1/VampireKnight.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
-			<Dependency>Lifeblood</Dependency>
+            <Dependency>Lifeblood</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/golddemon1973/VampireKnight]]>
@@ -441,26 +462,26 @@
         </Authors>
     </Manifest>
     <Manifest>
-    	<Name>Mythril Soul</Name>
-    	<Description>Adds a new gamemode to Hollow Knight with permadeath expanded to dreams and pausing disabled at or below two masks (harder steel soul).</Description>
-    	<Version>1.0.0.1</Version>
-    	<Link SHA256="e54e07bd5f7f54238dea3e41decdc8cab263ecac2317a562e1610065f4b5e1a4"><![CDATA[https://github.com/gabeStuk/MythrilSoul/releases/download/1.0.0.1/MythrilSoul.zip]]></Link>
-    	<Dependencies>
-    		<Dependency>Satchel</Dependency>
-    	</Dependencies>
-    	<Repository>
-    		<![CDATA[https://github.com/gabeStuk/MythrilSoul]]>
-    	</Repository>
-    	<Issues>
-    		<![CDATA[https://github.com/gabeStuk/MythrilSoul/issues]]>
-    	</Issues>
-    	<Tags>
-    		<Tag>Expansion</Tag>
-    		<Tag>Gameplay</Tag>
-    	</Tags>
-    	<Authors>
-    		<Author>Sponge2</Author>
-    	</Authors>
+        <Name>Mythril Soul</Name>
+        <Description>Adds a new gamemode to Hollow Knight with permadeath expanded to dreams and pausing disabled at or below two masks (harder steel soul).</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="e54e07bd5f7f54238dea3e41decdc8cab263ecac2317a562e1610065f4b5e1a4"><![CDATA[https://github.com/gabeStuk/MythrilSoul/releases/download/1.0.0.1/MythrilSoul.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/gabeStuk/MythrilSoul]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/gabeStuk/MythrilSoul/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Expansion</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Sponge2</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>U-tils</Name>
@@ -691,27 +712,27 @@
             <Author>Charcoal2000</Author>
         </Authors>
     </Manifest>
-	<Manifest>
-		<Name>SkinBenchRoulette</Name>
-		<Description>Randomizes your Custom Knight skin every time you sit on a bench! Automatically detects your downloaded skins.</Description>
-		<Version>1.1.0.0</Version>
-		<Link SHA256="7b28c4cf709bfc51fe066e4ddc9e1983ae7c70f4d2acb5f16299e4b62fd215e1"><![CDATA[https://github.com/gabgio5311-jpg/SkinBenchRoulette/releases/download/v1.1.0/SkinBenchRoulette.dll]]></Link>
-		<Dependencies>
-			<Dependency>Custom Knight</Dependency>
-		</Dependencies>
-		<Repository>
-			<![CDATA[https://github.com/gabgio5311-jpg/SkinBenchRoulette]]>
-		</Repository>
-		<Issues>
-			<![CDATA[https://github.com/gabgio5311-jpg/SkinBenchRoulette/issues]]>
-		</Issues>
-		<Tags>
-			<Tag>Cosmetic</Tag>
-		</Tags>
-		<Authors>
-			<Author>gabgio5311-jpg</Author>
-		</Authors>
-	</Manifest>
+    <Manifest>
+        <Name>SkinBenchRoulette</Name>
+        <Description>Randomizes your Custom Knight skin every time you sit on a bench! Automatically detects your downloaded skins.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="7b28c4cf709bfc51fe066e4ddc9e1983ae7c70f4d2acb5f16299e4b62fd215e1"><![CDATA[https://github.com/gabgio5311-jpg/SkinBenchRoulette/releases/download/v1.1.0/SkinBenchRoulette.dll]]></Link>
+        <Dependencies>
+            <Dependency>Custom Knight</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/gabgio5311-jpg/SkinBenchRoulette]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/gabgio5311-jpg/SkinBenchRoulette/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>gabgio5311-jpg</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
         <Name>Wrong Gravity</Name>
         <Description>Hallownest? Hɐlloʍuǝsʇ!</Description>
@@ -1055,7 +1076,7 @@ Not recommended for use in new mods.</Description>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
             <Dependency>Satchel</Dependency>
-			<Dependency>MenuChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Pengwizard/RngCounters/]]>
@@ -1107,7 +1128,7 @@ Not recommended for use in new mods.</Description>
             <Author>TheMathGeek_314</Author>
         </Authors>
     </Manifest>
-	<Manifest>
+    <Manifest>
         <Name>BingoGoalPackSpleengy</Name>
         <Description>An alternate bingo goalpack designed for the lockout format</Description>
         <Version>1.0.0.0</Version>
@@ -12216,15 +12237,15 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>EdgeDetection</Name>
-		<DisplayName>Edge Detection</DisplayName>
+        <DisplayName>Edge Detection</DisplayName>
         <Description>An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.</Description>
         <Version>1.0.2.0</Version>
         <Link SHA256="0e6fd51f2d106b59e2b75d97efde3b1a15bc69e1c33103653f5d451baf504945">
-			<![CDATA[https://github.com/kaycodes13/HollowKnight.EdgeDetection/releases/download/v1.0.2.0/EdgeDetection.zip]]>
-		</Link>
-		<Dependencies>
-			<Dependency>Satchel</Dependency>
-		</Dependencies>
+            <![CDATA[https://github.com/kaycodes13/HollowKnight.EdgeDetection/releases/download/v1.0.2.0/EdgeDetection.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/kaycodes13/HollowKnight.EdgeDetection]]>
         </Repository>
@@ -12272,26 +12293,26 @@ Enjoy!</Description>
             <Author>Olvior</Author>
         </Authors>
     </Manifest>
-	<Manifest>
-	    <Name>Charm Rebalanced</Name>
-	    <DisplayName>Charm Rebalanced Mod</DisplayName>
-	    <Description>Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!</Description>
-	    <Version>1.1.4.0</Version>
-	    <Link SHA256="4307c439a149381066401aee1ab95eabd6541f775a672a3e418fba96c29b8c52"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.1.4.0/CharmRebalanced.zip]]></Link>
-		<Dependencies>
+    <Manifest>
+        <Name>Charm Rebalanced</Name>
+        <DisplayName>Charm Rebalanced Mod</DisplayName>
+        <Description>Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!</Description>
+        <Version>1.1.6.0</Version>
+        <Link SHA256="91288a31ecab44bd7dc87eef568a08f01ee26eb46db755589f461c2ad9596e3d"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.1.6.0/CharmRebalanced.zip]]></Link>
+        <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
-	    <Repository>
-	        <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]>
-	    </Repository>
-	    <Issues>
-	        <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/issues]]>
-	    </Issues>
-	    <Tags>
-	        <Tag>Charm</Tag>
-	    </Tags>
-	    <Authors>
-	        <Author>TuyenTuyenTuyen(GyVn87)</Author>
-	    </Authors>
-	</Manifest>
+        <Repository>
+            <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Charm</Tag>
+        </Tags>
+        <Authors>
+            <Author>TuyenTuyenTuyen(GyVn87)</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
