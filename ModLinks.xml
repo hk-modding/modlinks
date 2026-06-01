@@ -1454,8 +1454,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>YetAnotherRandoConnection</Name>
         <Description>A Randomizer add-on with an assortment of additions</Description>
-        <Version>1.2.2.2</Version>
-        <Link SHA256="51C5237C8D519E35DF3CD0498118F1032D7141126FF20707C3FF7684AB146CA7"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.2/YetAnotherRandoConnection.zip]]></Link>
+        <Version>1.2.2.3</Version>
+        <Link SHA256="76B959C6C5FD72C2314E1BCAB3FBBC24CC239014EE0D2D462546A73098F71005"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.3/YetAnotherRandoConnection.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
