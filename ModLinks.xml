@@ -12315,4 +12315,90 @@ Enjoy!</Description>
             <Author>TuyenTuyenTuyen(GyVn87)</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Noclip Accuracy</Name>
+        <Description>A lightweight mod that tracks how many spike damage hits you take during noclip / practice runs</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="d0a7d7996880251af339437d863a46582214c4159c9d9ed044e155b52fa47ed4">
+            <![CDATA[https://github.com/Ishmael-GameDev/Noclip-Accuracy/releases/download/v1/Noclip.Accuracy.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Noclip-Accuracy]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Ghost Macro</Name>
+        <Description>Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="7ab6653de492767c8b9807607ce0afa93fde3f83fd21df31fb8dbf8f5ccd71fd">
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v1/Ghost.Macro.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>DebugMod</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Spell Counter</Name>
+        <Description>Spell counter mod with many modes: Spells, Casual and Chain Shorogos</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="6e6494db03b174f403d5f57ff7a01be42d81501378641fd999e5545b46ad909b">
+            <![CDATA[https://github.com/Ishmael-GameDev/Spell-ounter/releases/download/v1/Spell.ounter.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>ModCommon</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Spell-ounter]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>RespawnPoint Manager</Name>
+        <Description>Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="9a01fadfa00a291784d426831ecb546f80af9c51e1a466e2e33a9d9027ec2bd1">
+            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v1/RespawnPointManager.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
