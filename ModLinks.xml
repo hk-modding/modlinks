@@ -1454,8 +1454,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>YetAnotherRandoConnection</Name>
         <Description>A Randomizer add-on with an assortment of additions</Description>
-        <Version>1.2.2.2</Version>
-        <Link SHA256="51C5237C8D519E35DF3CD0498118F1032D7141126FF20707C3FF7684AB146CA7"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.2/YetAnotherRandoConnection.zip]]></Link>
+        <Version>1.2.2.3</Version>
+        <Link SHA256="76B959C6C5FD72C2314E1BCAB3FBBC24CC239014EE0D2D462546A73098F71005"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.3/YetAnotherRandoConnection.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -12313,6 +12313,115 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>TuyenTuyenTuyen(GyVn87)</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Noclip Accuracy</Name>
+        <Description>A lightweight mod that tracks how many spike damage hits you take during noclip / practice runs</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="d0a7d7996880251af339437d863a46582214c4159c9d9ed044e155b52fa47ed4">
+            <![CDATA[https://github.com/Ishmael-GameDev/Noclip-Accuracy/releases/download/v1/Noclip.Accuracy.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Noclip-Accuracy]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Ghost Macro</Name>
+        <Description>Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="7ab6653de492767c8b9807607ce0afa93fde3f83fd21df31fb8dbf8f5ccd71fd">
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v1/Ghost.Macro.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>DebugMod</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Spell Counter</Name>
+        <Description>Spell counter mod with many modes: Spells, Casual and Chain Shorogos</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="6e6494db03b174f403d5f57ff7a01be42d81501378641fd999e5545b46ad909b">
+            <![CDATA[https://github.com/Ishmael-GameDev/Spell-ounter/releases/download/v1/Spell.ounter.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>ModCommon</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Spell-ounter]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>RespawnPoint Manager</Name>
+        <Description>Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="9a01fadfa00a291784d426831ecb546f80af9c51e1a466e2e33a9d9027ec2bd1">
+            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v1/RespawnPointManager.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Hallowest</Name>
+        <DisplayName>Hallowest</DisplayName>
+        <Description>Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.</Description>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="3f397eef3810c7e05706b34e5cffe384dbda7936f482ea2dcbda8a43eb0ce2b8"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.2/Hallowest.dll]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Phant0m21/Hallowest]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Phant0m21/Hallowest/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Expansion</Tag>
+        </Tags>
+        <Authors>
+            <Author>Phant0m21</Author>
         </Authors>
     </Manifest>
 </ModLinks>
