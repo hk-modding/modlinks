@@ -12405,8 +12405,8 @@ Enjoy!</Description>
         <Name>Hallowest</Name>
         <DisplayName>Hallowest</DisplayName>
         <Description>Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="3f397eef3810c7e05706b34e5cffe384dbda7936f482ea2dcbda8a43eb0ce2b8"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.2/Hallowest.dll]]></Link>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="0a4fa3ebe36a6f90c92d813caf85285fd33519e620b808be68783a0c38ec05c7"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.3/Hallowest.dll]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
