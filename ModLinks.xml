@@ -1336,8 +1336,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.0.3</Version>
-        <Link SHA256="C614CD35804610320530F9E66E2E36EFD5157FAEE16B7A7DA738F24489A46BAC"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.0.3/MoreStags.zip]]></Link>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="6D48DF8459A172B49D6A9EB2E342E0337D922DAE07F36D0D2258B1F4007E2EEF"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.1.0/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -10791,9 +10791,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.28.0.12</Version>
-        <Link SHA256="b083c5f14647602a0b310a689222667cf445e27d5c335d7e012efbb9ebd37b5e">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.12/Architect.zip]]>
+        <Version>3.28.1.0</Version>
+        <Link SHA256="bcb87f6e7eaa64d8ca8300f5951ecf1e16fab7f35b66f8a9a9603a2b94c9dbbc">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.28.1.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12405,8 +12405,8 @@ Enjoy!</Description>
         <Name>Hallowest</Name>
         <DisplayName>Hallowest</DisplayName>
         <Description>Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="3f397eef3810c7e05706b34e5cffe384dbda7936f482ea2dcbda8a43eb0ce2b8"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.2/Hallowest.dll]]></Link>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="6fc4b5cfa83d8950d6f3580c04274e40347eba3ce5dd25b2b5e4f03453a9d8f2"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.3/Hallowest.dll]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
