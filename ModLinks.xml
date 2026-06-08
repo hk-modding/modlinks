@@ -12203,8 +12203,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>Vietnamese Lang</Name>
         <Description>Add Vietnamese Language. Hollow Knight Việt Hoá</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="c1bd3fdb06ba86977dc23174e4e4f32a37b9827bb9827b8a70679662354b4290"><![CDATA[https://codeberg.org/hien-ngo29/HollowKnightVietnameseLangMod/releases/download/v1.0.0.0/HKVietHoa.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="83c6c677c27c60173b384422e47ca8cd40a2dc7349aa0e65975f8bcc49d2c3fe"><![CDATA[https://codeberg.org/hien-ngo29/HollowKnightVietnameseLangMod/releases/download/v1.0.1.0/HKVietHoa.zip]]></Link>
         <Dependencies>
             <Dependency>LanguageSupport</Dependency>
         </Dependencies>
