@@ -10798,9 +10798,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.28.1.0</Version>
-        <Link SHA256="bcb87f6e7eaa64d8ca8300f5951ecf1e16fab7f35b66f8a9a9603a2b94c9dbbc">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.28.1.0/Architect.zip]]>
+        <Version>3.29.0.0</Version>
+        <Link SHA256="5f1e5b2b5c703e7bc115d789c0f7b08b0d9e889ccf056aa975e371fb7088b417">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.29.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -10871,9 +10871,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>UltimateChickenKnight</Name>
         <Description>Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.</Description>
-        <Version>4.0.10.0</Version>
-        <Link SHA256="096c337ee5442f2bb29cd6a5e5f9db3fd296e93f60623b4d9c2bbb15d10fab39">
-            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.10.0/UltimateChickenKnight.zip]]>
+        <Version>4.0.12.0</Version>
+        <Link SHA256="aea1283e48d030d541786e0dbac0d7799c80b457d66bfdf72850e738c5da0441">
+            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.0/UltimateChickenKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Architect</Dependency>
