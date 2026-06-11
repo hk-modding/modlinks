@@ -6182,19 +6182,26 @@ Enjoy!</Description>
     <Manifest>
         <Name>Gatling Aspid</Name>
         <Description>Makes primal aspids wield gatling miniguns; configuration options available.</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="c9686e82bca1ef891ce6c0c1e88c06f46f289807ffe955a5e604dc93fd4147e8">
-            <![CDATA[https://github.com/jngo102/GatlingAspid/releases/download/e64c80a09b934a081534/GatlingAspid.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="F9DF9EFB8899749ABD25347D068E4E8BF4840DA706452F2BDE49B346D7CC70EE">
+            <![CDATA[https://github.com/Ballaii/GatlingAspidExtended/releases/download/v1.1.1.0/GatlingAspid-v1.1.1.0.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/jngo102/GatlingAspid/]]>
+            <![CDATA[https://github.com/Ballaii/GatlingAspidExtended]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Ballaii/GatlingAspidExtended/issues]]>
+        </Issues>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+        <Authors>
+            <Author>jngo102</Author>
+            <Author>Ballaii</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Aspid Queen</Name>
@@ -8048,9 +8055,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.5.0.1</Version>
-        <Link SHA256="ca7db41a385b5101bbb310053d64737bfdb24fee83d9d0397c28299ae7e87e9b">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.0.1/BugPrince.zip]]>
+        <Version>1.5.1.1</Version>
+        <Link SHA256="8e96b35921f859711ff523ba2d28361fd83546ee2ccdfd479fb98569ce5d6d15">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.1.1/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -10377,8 +10384,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>TextMasher</Name>
         <Description>Auto mashes through textboxes if you are holding Nail, Jump or Focus.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="F2E62C8AA67542D86CD1630CDEF83B12FCCC18ACAF9CDD9B9228DF251A08C677"><![CDATA[https://github.com/peekagrub/TextMasher/releases/download/1.0.0.0/TextMasher.zip]]></Link>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="1EBD77617768D4151BF85C80E10639F4007EC7BA5AF97E1EF96C4358929D954F"><![CDATA[https://github.com/peekagrub/TextMasher/releases/download/1.0.0.1/TextMasher.zip]]></Link>
         <Dependencies/>
         <Repository>
             <![CDATA[https://github.com/peekagrub/TextMasher]]>
@@ -10791,9 +10798,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.28.1.0</Version>
-        <Link SHA256="bcb87f6e7eaa64d8ca8300f5951ecf1e16fab7f35b66f8a9a9603a2b94c9dbbc">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.28.1.0/Architect.zip]]>
+        <Version>3.29.2.0</Version>
+        <Link SHA256="334971484876140ee762e32e3307be08918f759193434487ac6a0086cc27d65b">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.29.2.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -10864,9 +10871,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>UltimateChickenKnight</Name>
         <Description>Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.</Description>
-        <Version>4.0.10.0</Version>
-        <Link SHA256="096c337ee5442f2bb29cd6a5e5f9db3fd296e93f60623b4d9c2bbb15d10fab39">
-            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.10.0/UltimateChickenKnight.zip]]>
+        <Version>4.0.12.0</Version>
+        <Link SHA256="aea1283e48d030d541786e0dbac0d7799c80b457d66bfdf72850e738c5da0441">
+            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.0/UltimateChickenKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Architect</Dependency>
@@ -12203,8 +12210,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>Vietnamese Lang</Name>
         <Description>Add Vietnamese Language. Hollow Knight Việt Hoá</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="c1bd3fdb06ba86977dc23174e4e4f32a37b9827bb9827b8a70679662354b4290"><![CDATA[https://codeberg.org/hien-ngo29/HollowKnightVietnameseLangMod/releases/download/v1.0.0.0/HKVietHoa.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="83c6c677c27c60173b384422e47ca8cd40a2dc7349aa0e65975f8bcc49d2c3fe"><![CDATA[https://codeberg.org/hien-ngo29/HollowKnightVietnameseLangMod/releases/download/v1.0.1.0/HKVietHoa.zip]]></Link>
         <Dependencies>
             <Dependency>LanguageSupport</Dependency>
         </Dependencies>
@@ -12405,10 +12412,11 @@ Enjoy!</Description>
         <Name>Hallowest</Name>
         <DisplayName>Hallowest</DisplayName>
         <Description>Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.</Description>
-        <Version>1.0.3.0</Version>
-        <Link SHA256="6fc4b5cfa83d8950d6f3580c04274e40347eba3ce5dd25b2b5e4f03453a9d8f2"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.3/Hallowest.dll]]></Link>
+        <Version>1.0.6.0</Version>
+        <Link SHA256="7f3b289ff8fac4ff8336e38244e785f5fb5410ca4644c70e2dc4bebebcdc0e31"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.6/Hallowest.dll]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+            <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Phant0m21/Hallowest]]>
