@@ -4,6 +4,23 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>No More Shards</Name>
+        <Description>A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.</Description>
+        <Version>1.0</Version>
+        <Link SHA256="CD814E323970CB44BDADCC1663D22A35D0E44499DFF627506150386CB2F1745F">
+            <![CDATA[https://github.com/Genio250/No-more-shards/releases/download/1.0/Nomoreshards.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Genio250/No-more-shards]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Genio250/No-more-shards/issues]]>
+        </Issues>
+        <Authors>
+            <Author>Genio250</Author>
+        </Authors>
+    <Manifest>
         <Name>EnemiesFightingEachOther</Name>
         <Description>Allows the player to spawn in Gruz Mother and Hive Knight and have them fight each other</Description>
         <Version>0.1.1.5</Version>
