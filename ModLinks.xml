@@ -6,7 +6,7 @@
     <Manifest>
         <Name>No More Shards</Name>
         <Description>A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.</Description>
-        <Version>1.0</Version>
+        <Version>1.0.0.0</Version>
         <Link SHA256="CD814E323970CB44BDADCC1663D22A35D0E44499DFF627506150386CB2F1745F">
             <![CDATA[https://github.com/Genio250/No-more-shards/releases/download/1.0/Nomoreshards.zip]]>
         </Link>
