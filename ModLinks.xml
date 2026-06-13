@@ -9053,6 +9053,25 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>BingoGoalPackGrubDay</Name>
+        <Description>A goal pack that adds automarking for 6 new goals for the 2026 Grub Day bingy events</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="AC654D9A52FF366842103B2687936672A7615C8203A6F32EFC4351BFFCDBADE2">
+            <![CDATA[https://github.com/TheRealAlph4/HollowKnight.BingoGoalPackGrubDay/releases/download/v1.0.0.0/BingoGoalPackGrubDay.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>BingoSync</Dependency>
+            <Dependency>BingoGoalPack1</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheRealAlph4/HollowKnight.BingoGoalPackGrubDay]]>
+        </Repository>
+        <Authors>
+            <Author>Alph4</Author>
+            <Author>Wand</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Soul Paladin</Name>
         <Description>A mod that speeds up the Soul Warrior fight and modifies it's attacks.</Description>
         <Version>0.0.0.3</Version>
@@ -10798,9 +10817,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.29.2.0</Version>
-        <Link SHA256="334971484876140ee762e32e3307be08918f759193434487ac6a0086cc27d65b">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.29.2.0/Architect.zip]]>
+        <Version>3.29.3.1</Version>
+        <Link SHA256="3e6acb930be7eeabe98e8bd976e123a11c724df6ae8a816075412bcbcea78786">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.29.3.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
