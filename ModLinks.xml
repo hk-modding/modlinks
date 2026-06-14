@@ -1085,6 +1085,25 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>PedroSoulOrb</Name>
+        <Description>A Hollow Knight mod that renders a friend when you have full soul.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="6a916b4a110fdef3a12646c86f4daca0f171d141c084672428a6e0a0d297a1e8">
+            <![CDATA[https://github.com/Pengwizard/PedroSoulOrb/releases/download/v1.0.0/PedroSoulVessel.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MenuChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Pengwizard/PedroSoulOrb/]]>
+        </Repository>
+        <Authors>
+            <Author>Nopre</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>RngCounters</Name>
         <Description>A Hollow Knight mod that counts RNG in annoying spots.</Description>
         <Version>1.2.0.0</Version>
