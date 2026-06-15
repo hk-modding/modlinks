@@ -1089,7 +1089,7 @@ Not recommended for use in new mods.</Description>
         <Description>A Hollow Knight mod that renders a friend when you have full soul</Description>
         <Version>1.1.0.0</Version>
         <Link SHA256="33c77d2d7b75d87c0e2039972bf3dcaca2a469d7a90b356f275314623ccfc807">
-            <![CDATA[https://github.com/Pengwizard/PedroSoulOrb/releases/download/v1.1.0/PedroSoulVessel.zip]]>
+            <![CDATA[https://github.com/Pengwizard/PedroSoulOrb/releases/download/v1.1.0/PedroSoulOrb.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
