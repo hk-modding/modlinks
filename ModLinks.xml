@@ -1085,6 +1085,40 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>GrubDay2026Plando</Name>
+        <Description>Companion Mod for the 2026 grubday plando</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="7590cab869a1a9298731e09d9d1bc2c48392d64f71cc641876881c86bb350486">
+            <![CDATA[https://github.com/Pengwizard/GrubDay2026Plando/releases/download/v1.0.0/GrubDay2026Plando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ArchitectLegacy</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>Benchwarp</Dependency>
+            <Dependency>BenchWarpFix</Dependency>
+            <Dependency>BingoUI</Dependency>
+            <Dependency>DeathCounter</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>QoL</Dependency>
+            <Dependency>RandoMapMod</Dependency>
+            <Dependency>RandoSettingsManager</Dependency>
+            <Dependency>ItemChangerDataLoader</Dependency>
+            <Dependency>ItemSync</Dependency>
+            <Dependency>RandoStats</Dependency>
+            <Dependency>RecentItemsDisplay</Dependency>
+            <Dependency>HKTool</Dependency>
+            <Dependency>Scatternest</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Pengwizard/GrubDay2026Plando/]]>
+        </Repository>
+        <Authors>
+            <Author>Nopre & Kamakiller</Author>
+        </Authors>
+    </Manifest>    
+    <Manifest>
         <Name>PedroSoulOrb</Name>
         <Description>A Hollow Knight mod that renders a friend when you have full soul</Description>
         <Version>1.1.0.0</Version>
