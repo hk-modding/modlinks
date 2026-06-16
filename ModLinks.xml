@@ -1239,8 +1239,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>DeathSync</Name>
         <Description>An ItemSync/MultiWorld extension to link your deaths</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="99CA72BF84ECBF8B9E741FEFCCA1057A9C109386718A46D2810D788143B44DA9"><![CDATA[https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.0.1/DeathSync.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="3D0CF0774739340D1F65A243FD123A09DAEBFDEAE662FA16B0F57CFB011962F4"><![CDATA[https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.1.0/DeathSync.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>KorzUtils</Dependency>
