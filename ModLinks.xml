@@ -902,7 +902,7 @@
             <Tag>Boss</Tag>
         </Tags>
         <Authors>
-            <Author>腐草ROT</Author>
+            <Author>Rotaelis</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -910,7 +910,7 @@
         <Description>A pure vessel boss mod.</Description>
         <Version>0.2.0.0</Version>
         <Link SHA256="eaa73bd0136e1efb2dcd8adf32d98a4ea65621690f28a418c1443d313f7b0b76">
-            <![CDATA[https://github.com/ROTTEN108/INFINITY/releases/download/v0.2.0.0/INFINITY.zip]]>
+            <![CDATA[https://github.com/Rotaelis/INFINITY/releases/download/v0.2.0.0/INFINITY.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -920,13 +920,13 @@
             <Dependency>WavLib</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/ROTTEN108/INFINITY]]>
+            <![CDATA[https://github.com/Rotaelis/INFINITY]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
         <Authors>
-            <Author>ROTTEN108</Author>
+            <Author>Rotaelis</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -973,20 +973,20 @@
         <Description>Modded Radiance</Description>
         <Version>1.0.0.1</Version>
         <Link SHA256="e723866e1f2ee2e023a7901f423cdda437a537acc8faf9e84ef7c0fc150b1bb9">
-            <![CDATA[https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.1/SUNSET.Rad.dll]]>
+            <![CDATA[https://github.com/Rotaelis/Sunset-Rad/releases/download/1.0.0.1/SUNSET.Rad.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/ROTTEN108/SunSet-Rad]]>
+            <![CDATA[https://github.com/Rotaelis/SunSet-Rad]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
         <Authors>
-            <Author>ROTTEN108</Author>
+            <Author>Rotaelis</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -994,20 +994,20 @@
         <Description>New Version of "Sunset Samsara II". Modded Radiance.</Description>
         <Version>1.0.3.0</Version>
         <Link SHA256="c1bd3c4c2e2afdea7a7ffa65127509a239737c1b43588121fb2208027ca9a3c9">
-            <![CDATA[https://github.com/ROTTEN108/PURITY/releases/download/v1.0.3.0/PURITY.zip]]>
+            <![CDATA[https://github.com/Rotaelis/PURITY/releases/download/v1.0.3.0/PURITY.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/ROTTEN108/PURITY]]>
+            <![CDATA[https://github.com/Rotaelis/PURITY]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
         <Authors>
-            <Author>ROTTEN108</Author>
+            <Author>Rotaelis</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -1015,20 +1015,20 @@
         <Description>Changes the player's spell and nail arts, players can use skills similar to pure containers, such as blocking counterattacks.</Description>
         <Version>1.0.0.1</Version>
         <Link SHA256="ff396b617d64033f1926822ec49426638df1e91993c6aeb7b046f4b862da4abe">
-            <![CDATA[https://github.com/ROTTEN108/Pure-Shape/releases/download/0.0.1.0/Pure.Shape.dll]]>
+            <![CDATA[https://github.com/Rotaelis/Pure-Shape/releases/download/0.0.1.0/Pure.Shape.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/ROTTEN108/Pure-Shape]]>
+            <![CDATA[https://github.com/Rotaelis/Pure-Shape]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
         <Authors>
-            <Author>ROTTEN108</Author>
+            <Author>Rotaelis</Author>
         </Authors>
     </Manifest>
     <Manifest>
