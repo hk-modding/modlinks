@@ -12523,4 +12523,22 @@ Enjoy!</Description>
             <Author>Phant0m21</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>DynamicRenderScale</Name>
+        <Description>Dynamically adjusts render scale based on performance.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="AAD903C7DDF84B5ACC3F4FDE9F5C2F5235089CA364736150A381C2ABE045AE04">
+            <![CDATA[https://github.com/Bready29/DynamicRenderScale/releases/download/1.0.0/DynamicRenderScale.dll]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Bready29/DynamicRenderScale]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Bready29/DynamicRenderScale/issues]]>
+        </Issues>
+        <Authors>
+            <Author>Bready29</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
