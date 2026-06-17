@@ -4,6 +4,24 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>No More Shards</Name>
+        <Description>A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="CD814E323970CB44BDADCC1663D22A35D0E44499DFF627506150386CB2F1745F">
+            <![CDATA[https://github.com/Genio250/No-more-shards/releases/download/1.0/Nomoreshards.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Genio250/No-more-shards]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Genio250/No-more-shards/issues]]>
+        </Issues>
+        <Authors>
+            <Author>Genio250</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>EnemiesFightingEachOther</Name>
         <Description>Allows the player to spawn in Gruz Mother and Hive Knight and have them fight each other</Description>
         <Version>0.1.1.5</Version>
@@ -884,7 +902,7 @@
             <Tag>Boss</Tag>
         </Tags>
         <Authors>
-            <Author>腐草ROT</Author>
+            <Author>Rotaelis</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -892,7 +910,7 @@
         <Description>A pure vessel boss mod.</Description>
         <Version>0.2.0.0</Version>
         <Link SHA256="eaa73bd0136e1efb2dcd8adf32d98a4ea65621690f28a418c1443d313f7b0b76">
-            <![CDATA[https://github.com/ROTTEN108/INFINITY/releases/download/v0.2.0.0/INFINITY.zip]]>
+            <![CDATA[https://github.com/Rotaelis/INFINITY/releases/download/v0.2.0.0/INFINITY.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -902,13 +920,13 @@
             <Dependency>WavLib</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/ROTTEN108/INFINITY]]>
+            <![CDATA[https://github.com/Rotaelis/INFINITY]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
         <Authors>
-            <Author>ROTTEN108</Author>
+            <Author>Rotaelis</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -955,20 +973,20 @@
         <Description>Modded Radiance</Description>
         <Version>1.0.0.1</Version>
         <Link SHA256="e723866e1f2ee2e023a7901f423cdda437a537acc8faf9e84ef7c0fc150b1bb9">
-            <![CDATA[https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.1/SUNSET.Rad.dll]]>
+            <![CDATA[https://github.com/Rotaelis/Sunset-Rad/releases/download/1.0.0.1/SUNSET.Rad.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/ROTTEN108/SunSet-Rad]]>
+            <![CDATA[https://github.com/Rotaelis/SunSet-Rad]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
         <Authors>
-            <Author>ROTTEN108</Author>
+            <Author>Rotaelis</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -976,20 +994,20 @@
         <Description>New Version of "Sunset Samsara II". Modded Radiance.</Description>
         <Version>1.0.3.0</Version>
         <Link SHA256="c1bd3c4c2e2afdea7a7ffa65127509a239737c1b43588121fb2208027ca9a3c9">
-            <![CDATA[https://github.com/ROTTEN108/PURITY/releases/download/v1.0.3.0/PURITY.zip]]>
+            <![CDATA[https://github.com/Rotaelis/PURITY/releases/download/v1.0.3.0/PURITY.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/ROTTEN108/PURITY]]>
+            <![CDATA[https://github.com/Rotaelis/PURITY]]>
         </Repository>
         <Tags>
             <Tag>Boss</Tag>
         </Tags>
         <Authors>
-            <Author>ROTTEN108</Author>
+            <Author>Rotaelis</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -997,20 +1015,20 @@
         <Description>Changes the player's spell and nail arts, players can use skills similar to pure containers, such as blocking counterattacks.</Description>
         <Version>1.0.0.1</Version>
         <Link SHA256="ff396b617d64033f1926822ec49426638df1e91993c6aeb7b046f4b862da4abe">
-            <![CDATA[https://github.com/ROTTEN108/Pure-Shape/releases/download/0.0.1.0/Pure.Shape.dll]]>
+            <![CDATA[https://github.com/Rotaelis/Pure-Shape/releases/download/0.0.1.0/Pure.Shape.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>HKMirror</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/ROTTEN108/Pure-Shape]]>
+            <![CDATA[https://github.com/Rotaelis/Pure-Shape]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
         <Authors>
-            <Author>ROTTEN108</Author>
+            <Author>Rotaelis</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -1064,6 +1082,60 @@ Not recommended for use in new mods.</Description>
         </Tags>
         <Authors>
             <Author>Kerr1291</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>GrubDay2026Plando</Name>
+        <Description>Companion Mod for the 2026 grubday plando</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="7590cab869a1a9298731e09d9d1bc2c48392d64f71cc641876881c86bb350486">
+            <![CDATA[https://github.com/Pengwizard/GrubDay2026Plando/releases/download/v1.0.0/GrubDay2026Plando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ArchitectLegacy</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>Benchwarp</Dependency>
+            <Dependency>BenchWarpFix</Dependency>
+            <Dependency>BingoUI</Dependency>
+            <Dependency>DeathCounter</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>QoL</Dependency>
+            <Dependency>RandoMapMod</Dependency>
+            <Dependency>RandoSettingsManager</Dependency>
+            <Dependency>ItemChangerDataLoader</Dependency>
+            <Dependency>ItemSync</Dependency>
+            <Dependency>RandoStats</Dependency>
+            <Dependency>RecentItemsDisplay</Dependency>
+            <Dependency>HKTool</Dependency>
+            <Dependency>Scatternest</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Pengwizard/GrubDay2026Plando/]]>
+        </Repository>
+        <Authors>
+            <Author>Nopre</Author>
+            <Author>Kamakiller</Author>
+        </Authors>
+    </Manifest>    
+    <Manifest>
+        <Name>PedroSoulOrb</Name>
+        <Description>A Hollow Knight mod that renders a friend when you have full soul</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="33c77d2d7b75d87c0e2039972bf3dcaca2a469d7a90b356f275314623ccfc807">
+            <![CDATA[https://github.com/Pengwizard/PedroSoulOrb/releases/download/v1.1.0/PedroSoulOrb.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MenuChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Pengwizard/PedroSoulOrb/]]>
+        </Repository>
+        <Authors>
+            <Author>Nopre</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -1167,8 +1239,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>DeathSync</Name>
         <Description>An ItemSync/MultiWorld extension to link your deaths</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="01F7294B226FCF35DBB90FECD9988C23CE05551D36FB1EEA1FA0CC8A965BE177"><![CDATA[https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.0.0/DeathSync.zip]]></Link>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="99CA72BF84ECBF8B9E741FEFCCA1057A9C109386718A46D2810D788143B44DA9"><![CDATA[https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.0.1/DeathSync.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -10817,9 +10889,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.29.3.1</Version>
-        <Link SHA256="3e6acb930be7eeabe98e8bd976e123a11c724df6ae8a816075412bcbcea78786">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.29.3.1/Architect.zip]]>
+        <Version>3.29.3.3</Version>
+        <Link SHA256="f38e936a83b55313e3fa6fb0e9e0497cf92cd35d871e93099190992d6b47e636">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.29.3.3/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12431,8 +12503,8 @@ Enjoy!</Description>
         <Name>Hallowest</Name>
         <DisplayName>Hallowest</DisplayName>
         <Description>Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.</Description>
-        <Version>1.0.6.0</Version>
-        <Link SHA256="7f3b289ff8fac4ff8336e38244e785f5fb5410ca4644c70e2dc4bebebcdc0e31"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.6/Hallowest.dll]]></Link>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="5e8c976edcb275e93c51d9225159200df346637c52a91e4a3836c15482f76617"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.1.0.1/Hallowest.dll]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>Vasi</Dependency>
@@ -12449,6 +12521,24 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Phant0m21</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>DynamicRenderScale</Name>
+        <Description>Dynamically adjusts render scale based on performance.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="AAD903C7DDF84B5ACC3F4FDE9F5C2F5235089CA364736150A381C2ABE045AE04">
+            <![CDATA[https://github.com/Bready29/DynamicRenderScale/releases/download/1.0.0/DynamicRenderScale.dll]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Bready29/DynamicRenderScale]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Bready29/DynamicRenderScale/issues]]>
+        </Issues>
+        <Authors>
+            <Author>Bready29</Author>
         </Authors>
     </Manifest>
 </ModLinks>
