@@ -4,6 +4,24 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>Keep lifeblood on bench</Name>
+        <Description>Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="FB2DF91D8351C4FB00D79F132C676166A0FA83E77C2F87118B07714BF823D098">
+            <![CDATA[https://github.com/Genio250/Keep-Lifeblood-On-Bench/releases/download/qol/Keep.Lifeblood.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Genio250/Keep-Lifeblood-On-Bench]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Genio250/Keep-Lifeblood-On-Bench/issues]]>
+        </Issues>
+        <Authors>
+            <Author>Genio250</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>No More Shards</Name>
         <Description>A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.</Description>
         <Version>1.0.0.0</Version>
