@@ -12279,8 +12279,8 @@ Enjoy!</Description>
         <Name>AuraRad</Name>
         <DisplayName>Aura Radiance</DisplayName>
         <Description>Absolute Radiance Mod Boss</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="F819CAF98D0DBD057D385D35CA0D23B4C0CB820A29B30C131BCAA07D44764BB3"><![CDATA[https://github.com/OsHK00/AuraRad/releases/download/2/AuraRadaiance.zip]]></Link>
+        <Version>1.0.0.2</Version>
+        <Link SHA256="1f81e3551f6368e7639eca2385a2709b9ab37bb728bfffdc5c1d2ce4198f3e87"><![CDATA[https://github.com/OsHK00/AuraRad/releases/download/3/AuraRadiance.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>ModCommon</Dependency>
