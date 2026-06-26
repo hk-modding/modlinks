@@ -12398,8 +12398,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>RngSync</Name>
         <Description>A Hollow Knight mod that makes a lot of RNG deterministic</Description>
-        <Version>0.3.2.0</Version>
-        <Link SHA256="520b3764272abdf030b92495a7a66e7e3f7a6737c918739f0a9c6bf08f91491d"><![CDATA[https://github.com/olvior/RngSync/releases/download/v0.3.2/RngSync.zip]]></Link>
+        <Version>0.3.3.0</Version>
+        <Link SHA256="9e1f895cca284e1a50fadfd0ff20c68bc42f80c366a655d8eadb8cdc442575fd"><![CDATA[https://github.com/olvior/RngSync/releases/download/v0.3.3/RngSync.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
