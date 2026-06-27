@@ -10626,6 +10626,24 @@ Enjoy!</Description>
             <Author>mint</Author>
         </Authors>
     </Manifest>
+     <Manifest>
+        <Name>HKBattle</Name>
+        <Description>HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="1ca0a6fdc111d305dfcd4f3267083f5d5e32e6d41578171de369ac1e84a9a961">
+            <![CDATA[https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.0/HKBattle.zip]]>
+        </Link>
+         <Dependencies>
+         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/NightFuryoOo/HKBattle]]>
+        </Repository>
+        <Authors>
+            <Author>NightFuryo3o</Author>
+            <Author>Prtsscout</Author>
+            <Author>mint</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
         <Name>Fishing</Name>
         <Description>Adds a fishing minigame to the randomizer</Description>
