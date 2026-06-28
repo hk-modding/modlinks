@@ -4,6 +4,28 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>Double Enemies</Name>
+        <Description>Duplicates most enemies in the game, and shares hp between duplicate bosses.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="771e8cb3717f69928b8dc8d62c6cea29cb7374ed7f4c101d7562aaabb092ce7d">
+            <![CDATA[https://github.com/Genio250/Double-Enemies/releases/download/v1.0/Double.Enemies.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Invincibility Monitor</Dependency>
+            <Dependency>DoubleRadiance</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Genio250/Double-Enemies]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Genio250/Double-Enemies/issues]]>
+        </Issues>
+        <Authors>
+            <Author>Genio250</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Keep lifeblood on bench</Name>
         <Description>Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.</Description>
         <Version>1.0.0.0</Version>
@@ -153,11 +175,11 @@
     <Manifest>
         <Name>Hollow Knight ACTS</Name>
         <DisplayName>Hollow Knight: ACTS</DisplayName>
-        <Description>A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="7FDE323BFBA8CB6430F4F5D7882D443C92ACD17F4980193653D6AD567CE0A335"><![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.0-yup-i-forgor-to-chage-dis/Hollow.knight.ACTS.zip]]></Link>
+        <Description>A mod which adds SilkSongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="4273E11AE046B989DF0431B691B2E83BAA51831078BBBDC70AB4512C7B720ECE"><![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.1/Hollow.knight.ACTS.zip]]></Link>
         <Dependencies>
-            <Dependency>MagicUI</Dependency>
+            <Dependency>SFCore</Dependency>
             <Dependency>WavLib</Dependency>
         </Dependencies>
         <Repository>
@@ -1426,8 +1448,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="6D48DF8459A172B49D6A9EB2E342E0337D922DAE07F36D0D2258B1F4007E2EEF"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.1.0/MoreStags.zip]]></Link>
+        <Version>1.1.1.1</Version>
+        <Link SHA256="AC50EF815B4CADD04359096084CF6377A62D9CEE16F22AA1414BF0F268409D8F"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.1.1/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -8282,9 +8304,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>2.0.0.2</Version>
-        <Link SHA256="475db51958869f4a8c84db0c5c7102d4e41fa041acd417293a32eb0c4ec32b3a">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.0.2/PurenailCore.zip]]>
+        <Version>2.0.2.0</Version>
+        <Link SHA256="90afa07b95e52c7c51c23370a82eab1e4b30bfa458eecb48574eaaa92c7ef4a5">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.2.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore.Json</Dependency>
@@ -8401,9 +8423,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TreasureHunt</Name>
         <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>1.7.1.0</Version>
-        <Link SHA256="02583c30368e01fb2922f320f8fb76580f635ab54044b459a3cb3ed58d7e3ad6">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.1.0/TreasureHunt.zip]]>
+        <Version>1.7.2.0</Version>
+        <Link SHA256="967bf2faf061114163b56818a9179a08e6546eff799241d58007c667baf2ea30">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.2.0/TreasureHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -9926,9 +9948,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>AccessRandomizer</Name>
         <Description>A randomizer add-on for miscellaneous access checks.</Description>
-        <Version>1.4.0.2</Version>
-        <Link SHA256="2B1B202821A944126924730E28F490C32A237A16BBD0A62C821E0A46B6799A2E">
-            <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.2/AccessRandomizer.zip]]>
+        <Version>1.4.1.0</Version>
+        <Link SHA256="F9ECA8C850F658F212AEB462B5F52A937542A86A70A78D59E14DB4BA17E9C447">
+            <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.1.0/AccessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -10585,9 +10607,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodhomeQoL</Name>
         <Description>This mod is a large collection of tools designed to help challenge runners with their tasks.</Description>
-        <Version>1.0.1.2</Version>
-        <Link SHA256="b072267cfb4f6403eb91519e1584876f7774add5df2bda659d69428a7fa71a76">
-            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.1.2/GodhomeQoL.zip]]>
+        <Version>1.0.1.3</Version>
+        <Link SHA256="a5fc55e3987251b66eec364bfb053be34826b4ab1801b98b1cace4e1a9fdab45">
+            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.1.3/GodhomeQoL.zip]]>
         </Link>
          <Dependencies>
              <Dependency>Osmi</Dependency>
@@ -10600,6 +10622,24 @@ Enjoy!</Description>
         <Authors>
             <Author>NightFuryo3o</Author>
             <Author>Egir</Author>
+            <Author>Prtsscout</Author>
+            <Author>mint</Author>
+        </Authors>
+    </Manifest>
+     <Manifest>
+        <Name>HKBattle</Name>
+        <Description>HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="1ca0a6fdc111d305dfcd4f3267083f5d5e32e6d41578171de369ac1e84a9a961">
+            <![CDATA[https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.0/HKBattle.zip]]>
+        </Link>
+         <Dependencies>
+         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/NightFuryoOo/HKBattle]]>
+        </Repository>
+        <Authors>
+            <Author>NightFuryo3o</Author>
             <Author>Prtsscout</Author>
             <Author>mint</Author>
         </Authors>
@@ -10907,9 +10947,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.29.3.3</Version>
-        <Link SHA256="f38e936a83b55313e3fa6fb0e9e0497cf92cd35d871e93099190992d6b47e636">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.29.3.3/Architect.zip]]>
+        <Version>3.31.0.1</Version>
+        <Link SHA256="f5feaa472f31fa17b2b51be1fec28f25158ed10af2b0068dfe5cc68806b52b16">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.31.0.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -11396,9 +11436,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Less Flashing Lights</Name>
         <Description>Reduces the amount of flashing lights. Check the readme for more info</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="daf4e927ed4dfc004b5bcf5ed8baa4554ffed7e8d8c7e7a1f80347651820b133">
-            <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.2/LessFlashingLights.zip]]>
+        <Version>1.0.2.1</Version>
+        <Link SHA256="9ebdc544de2c3095aec9868f1e3d465d808d99bc6d9747aa2b0be10b4508ed9f">
+            <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.2.1/LessFlashingLights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12398,8 +12438,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>RngSync</Name>
         <Description>A Hollow Knight mod that makes a lot of RNG deterministic</Description>
-        <Version>0.3.2.0</Version>
-        <Link SHA256="520b3764272abdf030b92495a7a66e7e3f7a6737c918739f0a9c6bf08f91491d"><![CDATA[https://github.com/olvior/RngSync/releases/download/v0.3.2/RngSync.zip]]></Link>
+        <Version>0.3.3.0</Version>
+        <Link SHA256="9e1f895cca284e1a50fadfd0ff20c68bc42f80c366a655d8eadb8cdc442575fd"><![CDATA[https://github.com/olvior/RngSync/releases/download/v0.3.3/RngSync.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -12557,6 +12597,26 @@ Enjoy!</Description>
         </Issues>
         <Authors>
             <Author>Bready29</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>HarderAPSettings</Name>
+        <Description>Adds Settings to make APs harder, like take extra damage, do less nail damage, and replaces Radiance with AbsRad. Works in non Archipelago saves too.</Description>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="d05e2b6931472672247cb7ccf5bff6c6f76f2d776e3205a5d00da45e8e99f1ef">
+            <![CDATA[https://github.com/Bluepinkdragon/HarderAPSettings/releases/download/v1.1.0.1/HarderAPSettings.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Bluepinkdragon/HarderAPSettings]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Bluepinkdragon/HarderAPSettings/issues]]>
+        </Issues>
+        <Authors>
+            <Author>Bluepinkdragon</Author>
         </Authors>
     </Manifest>
 </ModLinks>
