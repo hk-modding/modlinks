@@ -12453,8 +12453,8 @@ Enjoy!</Description>
         <Name>Charm Rebalanced</Name>
         <DisplayName>Charm Rebalanced Mod</DisplayName>
         <Description>Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!</Description>
-        <Version>3.0.3.0</Version>
-        <Link SHA256="9d386a1641c4db9fa533ded38acf71838e6b39409981cc686a78e959b4f050ed"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.3.0/CharmRebalanced.zip]]></Link>
+        <Version>3.0.4.0</Version>
+        <Link SHA256="39ac23c83b43d6c45531a317d9a40012d7741f7725fb1997f7b77a0934facb37"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.4.0/CharmRebalanced.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
