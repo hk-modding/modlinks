@@ -41,30 +41,46 @@ Maintainers of ModLinks look for the following before merging the manifest of a 
 
 ```xml
 <Manifest>
-    <Name>Test Name</Name>
-    <DisplayName>Test Name that is used for display, where &lt;Name&gt; can be used as a sort of ID</DisplayName>
+    <!-- REQUIRED: this will be used as the foldername the mod is stored in, inside the game files -->
+    <Name>TestName</Name>
+    <!-- OPTIONAL: Name that is used for display, like in mod installers, where <Name> can be used as a sort of ID -->
+    <DisplayName>Test Name</DisplayName>
+    <!-- REQUIRED: Used in mod installers -->
     <Description>Test description</Description>
+    <!-- REQUIRED: Used for update checks -->
     <Version>0.0.0.0</Version>
-    <!-- Either `Links` OR `Link`, not both, not neither -->
+    <!-- REQUIRED: Either `Links` OR `Link`, not both, not neither. SHA256 is the sha256 of the actual file that is downloaded -->
     <Links>
         <Linux SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://linux.link]]></Linux>
         <Mac SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://mac.link]]></Mac>
         <Windows SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://windows.link]]></Windows>
     </Links>
     <Link SHA256="0000000000000000000000000000000000000000000000000000000000000000"><![CDATA[https://multiplatform.link]]></Link>
+    <!-- REQUIRED: at minimum `<Dependencies />`, but if needed with one or more mod's names in it. Here are some Library mods as examples -->
     <Dependencies>
-        <Dependency>Another mod's name that this mod depends on</Dependency>
+        <Dependency>FrogCore</Dependency>
+        <Dependency>HKMirror</Dependency>
+        <Dependency>MagicUI</Dependency>
+        <Dependency>Osmi</Dependency>
+        <Dependency>Satchel</Dependency>
+        <Dependency>SFCore</Dependency>
+        <Dependency>Vasi</Dependency>
+        <Dependency>WeaverCore</Dependency>
     </Dependencies>
+    <!-- REQUIRED: where can the code for the mod be found? -->
     <Repository>
         <![CDATA[https://github.com/user/repo]]>
     </Repository>
+    <!-- OPTIONAL: where should issues with the mod be reported? -->
     <Issues>
         <![CDATA[https://website/for/bug_reports]]>
     </Issues>
+    <!-- OPTIONAL: Optional dependencies can be listed here. Things, where extra stuff happens when it is installed alongside. -->
     <Integrations>
-        <Integration>Another mod's name, like the dependency list, but not a hard dependency, but extra stuff when it is installed alongside</Integration>
+        <Integration>Randomizer 4</Integration>
     </Integrations>
-    <Tags><!-- Any combination of the following: -->
+    <!-- OPTIONAL: How would the mod be described with a set of Tags? Any combination of the following: -->
+    <Tags>
         <Tag>Accessibility</Tag>
         <Tag>Boss</Tag>
         <Tag>Charm</Tag>
@@ -76,8 +92,10 @@ Maintainers of ModLinks look for the following before merging the manifest of a 
         <Tag>Optimization</Tag>
         <Tag>Utility</Tag>
     </Tags>
+    <!-- OPTIONAL: Who made the mod or was part in creating it? -->
     <Authors>
         <Author>An author's name. Has no specific format.</Author>
+        <Author>Second person</Author>
     </Authors>
 </Manifest>
 ```
