@@ -25,17 +25,17 @@ If you are familiar with common Git and GitHub workflows, this approach may be m
 1. Push to your branch on your fork
 1. Create a pull request to upstream
 
-### What maintainers look for in order to merge
+### What maintainers look for in order to merge a new mod
 
-Maintainers of ModLinks look for the following before merging the manifest of a new mod into ModLinks:
 - Source Code available in a git repository
   - Not necessarily hosted on github.com
 - The mod is not malware
   - Kind of self-explanatory
-- The mod is for the same age groups as Hollow Knight itself also is
-- The mod is not of another person
-  - it needs more than minimal modifications
-  - unless a good faith attempt has been made to contact the original author
+- The mod is for the same age group as Hollow Knight was intended for
+  - Hollow Knight itself is currently rated `Pegi 7` and `ESRB E 10+`
+- The mod does not belong to another person
+  - If your mod is an enhancement of another mod, you should ask for your changes to be merged to the original
+  - If updating another person's mod, you should make a good-faith attempt to contact the original author before updating their mod
 
 ## Example manifest
 
@@ -43,7 +43,7 @@ Maintainers of ModLinks look for the following before merging the manifest of a 
 <Manifest>
     <!-- REQUIRED: this will be used as the foldername the mod is stored in, inside the game files -->
     <Name>TestName</Name>
-    <!-- OPTIONAL: Name that is used for display, like in mod installers, where <Name> can be used as a sort of ID -->
+    <!-- OPTIONAL: SO FAR UNUSED: Name that could be used for display, like in mod installers, where <Name> can be used as a sort of ID -->
     <DisplayName>Test Name</DisplayName>
     <!-- REQUIRED: Used in mod installers -->
     <Description>Test description</Description>
@@ -75,8 +75,10 @@ Maintainers of ModLinks look for the following before merging the manifest of a 
     <Issues>
         <![CDATA[https://website/for/bug_reports]]>
     </Issues>
-    <!-- OPTIONAL: Optional dependencies can be listed here. Things, where extra stuff happens when it is installed alongside. -->
+    <!-- OPTIONAL: Optional dependencies can be listed here. For when the mod has special interactions with other mods. Here are some examples -->
     <Integrations>
+        <Integration>DebugMod</Integration>
+        <Integration>MultiWorld</Integration>
         <Integration>Randomizer 4</Integration>
     </Integrations>
     <!-- OPTIONAL: How would the mod be described with a set of Tags? Any combination of the following: -->
@@ -94,7 +96,7 @@ Maintainers of ModLinks look for the following before merging the manifest of a 
     </Tags>
     <!-- OPTIONAL: Who made the mod or was part in creating it? -->
     <Authors>
-        <Author>An author's name. Has no specific format.</Author>
+        <Author>Main author</Author>
         <Author>Second person</Author>
     </Authors>
 </Manifest>
