@@ -41,7 +41,7 @@ If you are familiar with common Git and GitHub workflows, this approach may be m
 
 ```xml
 <Manifest>
-    <!-- REQUIRED: this will be used as the foldername the mod is stored in, inside the game files -->
+    <!-- REQUIRED: Current mod installers use this as the foldername the mod is stored in, inside the game files -->
     <Name>TestName</Name>
     <!-- OPTIONAL: SO FAR UNUSED: Name that could be used for display, like in mod installers, where <Name> can be used as a sort of ID -->
     <DisplayName>Test Name</DisplayName>
