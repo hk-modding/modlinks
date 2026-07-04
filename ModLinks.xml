@@ -12619,4 +12619,22 @@ Enjoy!</Description>
             <Author>Bluepinkdragon</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>WhatTheMoth</Name>
+        <Description>A Simon Says-inspired Hollow Knight mod where obeying Judge Radiance sends you straight to the Radiance arena, MOD IS IN SPANISH BY THE WAY.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="74802B1297F9109ABCE5947ACB40EAE3F38BCECBD7E85DA1316101D396175AC8">
+            <![CDATA[https://github.com/iamsosigma/-WhatTheMoth-/releases/download/beta/WhatTheMoth.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/iamsosigma/-WhatTheMoth-]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/iamsosigma/-WhatTheMoth-/issues]]>
+        </Issues>
+        <Authors>
+            <Author>PifferNL</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
