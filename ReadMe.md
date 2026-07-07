@@ -1,12 +1,12 @@
-# ModLinks
+# Modlinks
 
 This is the repository that holds information on every public mod that should be accessible via mod installers.
 
-## What ModLinks is for
+## What Modlinks is for
 
-ModLinks is for mods of the game Hollow Knight (2017) by Team Cherry.
+Modlinks is for mods of the game Hollow Knight (2017) by Team Cherry.
 
-## How to add/update a mod to ModLinks
+## How to add/update a mod to Modlinks
 
 ### Easy/Recommended Approach
 1. Go to https://github.com/hk-modding/modlinks/blob/main/ModLinks.xml
