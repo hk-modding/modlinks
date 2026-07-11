@@ -6,9 +6,9 @@
     <Manifest>
         <Name>Double Enemies</Name>
         <Description>Duplicates most enemies in the game, and shares hp between duplicate bosses.</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="adb6cc7c5eea295a062d4b0e73b301348aa8e79fe9eba1a66b3948b07e02d2ee">
-            <![CDATA[https://github.com/Genio250/Double-Enemies/releases/download/v1.1.2/Double.Enemies.zip]]>
+        <Version>1.1.3.0</Version>
+        <Link SHA256="80e470a013b5f826ef06fd06e843882dcb128299fb998a028212728e2c74d402">
+            <![CDATA[https://github.com/Genio250/Double-Enemies/releases/download/v1.1.3/Double.Enemies.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
