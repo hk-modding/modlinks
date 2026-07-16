@@ -12639,7 +12639,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Another Location</Name>
-        <Description>Adds one location to the Randomizer.Terms and Conditions may apply</Description>
+        <Description>Adds one location to the Randomizer. Terms and Conditions may apply</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256 ="c0e58d784014e470fc3a93f89bfe61a2ec1ce0d85c9d2ada46f2cb68143398c2">
             <![CDATA[https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.0/AnotherLocation.zip]]>
