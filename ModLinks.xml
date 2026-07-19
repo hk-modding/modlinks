@@ -2707,9 +2707,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>4.1.1.8</Version>
-        <Link SHA256="1002AF412636EFF5828EE83B03063D2686E72C7D9BBCDE812691129612E80794">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.8/BreakableWallRandomizer.zip]]>
+        <Version>4.1.2.0</Version>
+        <Link SHA256="9A1692BAC71437775D86574C0CB16B5BFFE2B93A79B98564F443A31D7E84F502">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.2.0/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -8027,9 +8027,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>LoreCore</Name>
         <Description>Adds a bunch of lore related Item Changer locations and items.</Description>
-        <Version>0.7.0.0</Version>
-        <Link SHA256="5b16a559751db99f069f1d9078488f9d6d074c543509fad5151a7be8f925f67f">
-            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.7.0/LoreCore.zip]]></Link>
+        <Version>0.7.1.0</Version>
+        <Link SHA256="ad6aad338ee9c3677377daf17334bf4d2a6a1457343cf97c9dde9d64ed5715e0">
+            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.7.1/LoreCore.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -8047,9 +8047,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.4.1.0</Version>
-        <Link SHA256="3a03a95a6d0158d42a2c17bf4a1791d45255a9fb2b40b4af96e084d11ca3e15e">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.1/LoreRandomizer.zip]]></Link>
+        <Version>0.4.2.0</Version>
+        <Link SHA256="219d69221dc5dd6bef72c54cbd4fcd97a9035e830db8d1e506d51606769e35e8">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.2/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
@@ -10947,9 +10947,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.31.3.3</Version>
-        <Link SHA256="b59e31fd476946bf4174566050be26ea1c64b45a3feecd888c6aba58aee03f2c">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.31.3.3/Architect.zip]]>
+        <Version>3.31.4.1</Version>
+        <Link SHA256="3fe37049beeb63f2ce5b5943e2c115143f5084fde102fb94b4966d2d444a034a">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.31.4.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12635,6 +12635,26 @@ Enjoy!</Description>
         </Issues>
         <Authors>
             <Author>PifferNL</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Another Location</Name>
+        <Description>Adds one location to the Randomizer. Terms and Conditions may apply</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256 ="c0e58d784014e470fc3a93f89bfe61a2ec1ce0d85c9d2ada46f2cb68143398c2">
+            <![CDATA[https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.0/AnotherLocation.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Roma-337/AnotherLocation]]>
+        </Repository>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>Roma 337</Author>
         </Authors>
     </Manifest>
 </ModLinks>
