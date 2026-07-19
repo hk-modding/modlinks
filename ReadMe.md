@@ -71,9 +71,13 @@ If you are familiar with common Git and GitHub workflows, this approach may be m
     <Repository>
         <![CDATA[https://github.com/user/repo]]>
     </Repository>
+    <!-- OPTIONAL: where can the contents of the readme be directly read from? -->
+    <ReadMe>
+        <![CDATA[https://github.com/user/repo/raw/refs/heads/main/ReadMe.md]]>
+    </ReadMe>
     <!-- OPTIONAL: where should issues with the mod be reported? -->
     <Issues>
-        <![CDATA[https://website/for/bug_reports]]>
+        <![CDATA[https://github.com/user/repo/issues]]>
     </Issues>
     <!-- OPTIONAL: Optional dependencies can be listed here. For when the mod has special interactions with other mods. Here are some examples -->
     <Integrations>
