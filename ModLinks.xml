@@ -12671,6 +12671,9 @@ Enjoy!</Description>
         <Issues>
             <![CDATA[https://github.com/ConstructiveCynicism/FsmMaster/issues]]>
         </Issues>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+        </Integrations>
         <Authors>
             <Author>ConstructiveCynicism</Author>
         </Authors>
