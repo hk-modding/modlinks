@@ -12458,11 +12458,40 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
+        <Integrations>
+            <Integration>Charmforging</Integration>
+        </Integrations>
         <Repository>
             <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]>
         </Repository>
         <Issues>
             <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Charm</Tag>
+        </Tags>
+        <Authors>
+            <Author>TuyenTuyenTuyen(GyVn87)</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Charmforging</Name>
+        <DisplayName>Charmforging</DisplayName>
+        <Description>Add even more interesting charms to Hollow Knight world</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="87279485c1b904be133fdbc96b611c34627a9ddc6691bc3ea3f89568ef68c2d5"><![CDATA[https://github.com/GyVn87/Charmforging/releases/download/v1.0.0.0/Charmforging.zip]]></Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Integrations>
+            <Integration>Charm Rebalanced</Integration>
+        </Integrations>
+        <Repository>
+            <![CDATA[https://github.com/GyVn87/Charmforging/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/GyVn87/Charmforging/issues]]>
         </Issues>
         <Tags>
             <Tag>Charm</Tag>
