@@ -12458,15 +12458,15 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
-        <Integrations>
-            <Integration>Charmforging</Integration>
-        </Integrations>
         <Repository>
             <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]>
         </Repository>
         <Issues>
             <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/issues]]>
         </Issues>
+        <Integrations>
+            <Integration>Charmforging</Integration>
+        </Integrations>
         <Tags>
             <Tag>Charm</Tag>
         </Tags>
@@ -12484,15 +12484,15 @@ Enjoy!</Description>
             <Dependency>SFCore</Dependency>
             <Dependency>ItemChanger</Dependency>
         </Dependencies>
-        <Integrations>
-            <Integration>Charm Rebalanced</Integration>
-        </Integrations>
         <Repository>
             <![CDATA[https://github.com/GyVn87/Charmforging/]]>
         </Repository>
         <Issues>
             <![CDATA[https://github.com/GyVn87/Charmforging/issues]]>
         </Issues>
+        <Integrations>
+            <Integration>Charm Rebalanced</Integration>
+        </Integrations>
         <Tags>
             <Tag>Charm</Tag>
         </Tags>
