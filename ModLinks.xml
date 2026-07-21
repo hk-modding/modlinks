@@ -12657,4 +12657,22 @@ Enjoy!</Description>
             <Author>Roma 337</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>FsmMaster</Name>
+        <Description>Visual FSM graph inspection and live editing for PlayMaker FSMs</Description>
+        <Version>0.3.5</Version>
+        <Link SHA256="da193ccf33b3ff65572c9ce0bd703090521c3649b43152b9685732c6ef2f08fb">
+            <![CDATA[https://github.com/ConstructiveCynicism/FsmMaster/releases/download/v0.3.5/FsmMaster-hk1578.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ConstructiveCynicism/FsmMaster]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ConstructiveCynicism/FsmMaster/issues]]>
+        </Issues>
+        <Authors>
+            <Author>ConstructiveCynicism</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
