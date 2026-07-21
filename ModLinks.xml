@@ -1551,8 +1551,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>Wingy</Name>
         <Description>Supplemental mod for the clawless bingy community</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="1EB9CBC9D980437A66FFCA278E159FB518D2C6D446CFC20AFF90ECA8C2753AE2"><![CDATA[https://github.com/TheMathGeek314/Wingy/releases/download/v1.0.0.0/Wingy.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="2E1C478137FA9C5B56F971D4C73976E53B3AC0F7AD413DF952EDD0E5B5964714"><![CDATA[https://github.com/TheMathGeek314/Wingy/releases/download/v1.1.0.0/Wingy.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
