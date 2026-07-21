@@ -10953,6 +10953,7 @@ Enjoy!</Description>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+            <Dependency>FsmMaster</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>ItemCreator</Dependency>
             <Dependency>SFCore</Dependency>
