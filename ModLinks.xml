@@ -1551,8 +1551,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>Wingy</Name>
         <Description>Supplemental mod for the clawless bingy community</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="1EB9CBC9D980437A66FFCA278E159FB518D2C6D446CFC20AFF90ECA8C2753AE2"><![CDATA[https://github.com/TheMathGeek314/Wingy/releases/download/v1.0.0.0/Wingy.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="2E1C478137FA9C5B56F971D4C73976E53B3AC0F7AD413DF952EDD0E5B5964714"><![CDATA[https://github.com/TheMathGeek314/Wingy/releases/download/v1.1.0.0/Wingy.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -12465,6 +12465,35 @@ Enjoy!</Description>
         <Issues>
             <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/issues]]>
         </Issues>
+        <Integrations>
+            <Integration>Charmforging</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Charm</Tag>
+        </Tags>
+        <Authors>
+            <Author>TuyenTuyenTuyen(GyVn87)</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Charmforging</Name>
+        <DisplayName>Charmforging</DisplayName>
+        <Description>Add even more interesting charms to Hollow Knight world</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="87279485c1b904be133fdbc96b611c34627a9ddc6691bc3ea3f89568ef68c2d5"><![CDATA[https://github.com/GyVn87/Charmforging/releases/download/v1.0.0.0/Charmforging.zip]]></Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/GyVn87/Charmforging/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/GyVn87/Charmforging/issues]]>
+        </Issues>
+        <Integrations>
+            <Integration>Charm Rebalanced</Integration>
+        </Integrations>
         <Tags>
             <Tag>Charm</Tag>
         </Tags>
@@ -12656,6 +12685,27 @@ Enjoy!</Description>
         </Integrations>
         <Authors>
             <Author>Roma 337</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>FsmMaster</Name>
+        <Description>Visual FSM graph inspection and live editing for PlayMaker FSMs</Description>
+        <Version>0.3.6.0</Version>
+        <Link SHA256="e08b78f2a6f42d5292cdd57b6e62a0103a1ef371fa10107e33dcb6ce34de1b6c">
+            <![CDATA[https://github.com/ConstructiveCynicism/FsmMaster/releases/download/v0.3.6/FsmMaster-hk1578.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ConstructiveCynicism/FsmMaster]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ConstructiveCynicism/FsmMaster/issues]]>
+        </Issues>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+        </Integrations>
+        <Authors>
+            <Author>ConstructiveCynicism</Author>
         </Authors>
     </Manifest>
 </ModLinks>
