@@ -10947,12 +10947,13 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.31.4.2</Version>
-        <Link SHA256="11a969bf36a20c5fdb7622761b823f0b746c5a0ba28947f233760b651b50994c">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.31.4.2/Architect.zip]]>
+        <Version>3.32.1.0</Version>
+        <Link SHA256="8fd74e89d7607030901080c49c9e16185e75e9ee51e110ff49b86189055fa7db">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.32.1.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
+            <Dependency>FsmMaster</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>ItemCreator</Dependency>
             <Dependency>SFCore</Dependency>
