@@ -12689,7 +12689,7 @@ Enjoy!</Description>
     <Manifest>
         <Name>FsmMaster</Name>
         <Description>Visual FSM graph inspection and live editing for PlayMaker FSMs</Description>
-        <Version>0.3.6</Version>
+        <Version>0.3.6.0</Version>
         <Link SHA256="e08b78f2a6f42d5292cdd57b6e62a0103a1ef371fa10107e33dcb6ce34de1b6c">
             <![CDATA[https://github.com/ConstructiveCynicism/FsmMaster/releases/download/v0.3.6/FsmMaster-hk1578.zip]]>
         </Link>
