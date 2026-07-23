@@ -609,8 +609,8 @@
     <Manifest>
         <Name>MyHK</Name>
         <Description>An assisting mod for HK that can improve the gaming experience significantly</Description>
-        <Version>1.2.0.5</Version>
-        <Link SHA256="da1385b43ccf91d50b39de34150db00418cdc4235c8c87377a72fa3bcc543580"><![CDATA[https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.5/MyHK-v1.2.0.5.zip]]></Link>
+        <Version>1.2.0.6</Version>
+        <Link SHA256="93d098ede5e33832a714b39c3e75b68c59ef9dbdebfd7ca5085b69d018cce7b2"><![CDATA[https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.6/MyHK-v1.2.0.6.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>HKTool</Dependency>
@@ -10947,9 +10947,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.32.1.0</Version>
-        <Link SHA256="8fd74e89d7607030901080c49c9e16185e75e9ee51e110ff49b86189055fa7db">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.32.1.0/Architect.zip]]>
+        <Version>3.32.2.0</Version>
+        <Link SHA256="8f3fe1ece88a8f0f705bc8dccc022eb4f216989c60bf4f10c959e0e446b35eb2">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.32.2.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
