@@ -12740,4 +12740,24 @@ Enjoy!</Description>
             <Author>Roma 337</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Quick Save States</Name>
+        <Description>Save and instantly reload an in-game state with two customizable hotkeys</Description>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="0e67eada35cd14a8d5368c832020affafe020cf3c533ec156b501770e3e045e8">
+            <![CDATA[https://github.com/Ishmael-GameDev/QuickSaveStates/releases/download/v0.2.0/QuickSaveStates.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/QuickSaveStates]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
