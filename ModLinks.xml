@@ -8182,9 +8182,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.5.1.1</Version>
-        <Link SHA256="8e96b35921f859711ff523ba2d28361fd83546ee2ccdfd479fb98569ce5d6d15">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.1.1/BugPrince.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="43f908ee02ea6875f1635162ae9d3c733af0993e7cc14f89188f253bdad278ab">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.2/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -8259,9 +8259,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Knight of Nights</Name>
         <Description>A mod for the Holloween 2025 plando, with some rando integration.</Description>
-        <Version>2.0.5.0</Version>
-        <Link SHA256="e8b1d8a3046eb282e48c28cc1eaf8634b3b41a2a3613fcc030bbc8df60b05dbb">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.5.0/KnightOfNights.zip]]>
+        <Version>2.0.6.0</Version>
+        <Link SHA256="84c3535e55017d9299d01e6884510572cc2a38817abcd88b981aff7c522659da">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.6.0/KnightOfNights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -8319,9 +8319,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>2.0.2.0</Version>
-        <Link SHA256="90afa07b95e52c7c51c23370a82eab1e4b30bfa458eecb48574eaaa92c7ef4a5">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.2.0/PurenailCore.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="d6da873325ff9aca4a03cfe894d5a21ef090d60fe7cd1cc5ad71c5382a1c686d">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.1.0.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore.Json</Dependency>
@@ -8334,9 +8334,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Scattered and Lost</Name>
         <Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-        <Version>1.6.3.0</Version>
-        <Link SHA256="5f63fa44046cde0085063caaced4ac5182264fb56dd1784122b4d8c561c2701d">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.3.0/Scattered.and.Lost.zip]]>
+        <Version>1.6.4.0</Version>
+        <Link SHA256="e6d8b62a53126ef0ec22c1e5ba1072fddda5952e9b1764a172c21c679605b62c">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.4.0/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
