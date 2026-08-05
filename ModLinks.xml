@@ -9987,6 +9987,30 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>ConnectionSettingsRando</Name>
+        <Description>A Hollow Knight rando addon for Hollow Knight rando addons.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="9E3249B9C5927030A06A2542AA310298FA8DFED4B7F1336F47AFAC976A541FC0">
+            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.0.0.0/ConnectionSettingsRando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>nerthul11</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Moonside</Name>
         <Description>Yes is No and No is Yes. It makes perfect sense in Moonside.</Description>
         <Version>1.1.0.1</Version>
