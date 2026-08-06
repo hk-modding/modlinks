@@ -8235,7 +8235,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer]]>
         </Repository>
         <Integrations>
-            <Integration>ConnectionSettingsRandomizer</Integration>
+            <Integration>ConnectionSettingsRando</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoPlus</Integration>
         </Integrations>
@@ -8287,7 +8287,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights]]>
         </Repository>
         <Integrations>
-            <Integration>ConnectionSettingsRandomizer</Integration>
+            <Integration>ConnectionSettingsRando</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
