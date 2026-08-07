@@ -8220,9 +8220,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="23fd3709688eb88803d0e98761eafe0551f69ff9c7445a177faec8792d2bfbae">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.1.0/DarknessRandomizer.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="cb39db950dfb7760511cf88a9c06fa2329e43339e18353656ca37e308c7f4c5a">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.2.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8235,6 +8235,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer]]>
         </Repository>
         <Integrations>
+            <Integration>ConnectionSettingsRando</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoPlus</Integration>
         </Integrations>
@@ -8268,9 +8269,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Knight of Nights</Name>
         <Description>A mod for the Holloween 2025 plando, with some rando integration.</Description>
-        <Version>2.0.6.0</Version>
-        <Link SHA256="84c3535e55017d9299d01e6884510572cc2a38817abcd88b981aff7c522659da">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.6.0/KnightOfNights.zip]]>
+        <Version>2.0.7.0</Version>
+        <Link SHA256="4c1aa8b22b4b8b62d4123b67d8ebee9a32bc62544d154f21ecfee6309496c61d">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.7.0/KnightOfNights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -8286,6 +8287,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights]]>
         </Repository>
         <Integrations>
+            <Integration>ConnectionSettingsRando</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
