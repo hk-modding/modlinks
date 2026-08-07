@@ -9698,9 +9698,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CombatRandomizer</Name>
         <Description>A Randomizer add-on for a cursed combat experience.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="9C401F02F18C9452B472134ECE757EE1F31F54B7F8A6BC8F1C905F8A5FBA2FB4">
-            <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.1.0/CombatRandomizer.zip]]>
+        <Version>1.1.1.1</Version>
+        <Link SHA256="017CAD6B138488A15ABAA8FD75BAC775820250A82C9AA7DD2B212C471F9C9E71">
+            <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.1.1/CombatRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -10000,9 +10000,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ConnectionSettingsRando</Name>
         <Description>A Hollow Knight rando addon for Hollow Knight rando addons.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="9E3249B9C5927030A06A2542AA310298FA8DFED4B7F1336F47AFAC976A541FC0">
-            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.0.0.0/ConnectionSettingsRando.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="2CB067A503F06CE014C91B106000B8349BB3C0BE4D4DB23F5365FC5092722C06">
+            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.1.0.0/ConnectionSettingsRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MenuChanger</Dependency>
