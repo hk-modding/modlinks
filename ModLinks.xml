@@ -8051,9 +8051,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>LoreCore</Name>
         <Description>Adds a bunch of lore related Item Changer locations and items.</Description>
-        <Version>0.7.1.0</Version>
-        <Link SHA256="ad6aad338ee9c3677377daf17334bf4d2a6a1457343cf97c9dde9d64ed5715e0">
-            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.7.1/LoreCore.zip]]></Link>
+        <Version>0.7.2.0</Version>
+        <Link SHA256="e68327db4e7fd4a2cf2f8a53cfc9d0b4b4bc0401c7f0a4719769b051f8ad53ab">
+            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.7.2/LoreCore.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -8071,9 +8071,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.4.2.0</Version>
-        <Link SHA256="219d69221dc5dd6bef72c54cbd4fcd97a9035e830db8d1e506d51606769e35e8">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.2/LoreRandomizer.zip]]></Link>
+        <Version>0.4.3.0</Version>
+        <Link SHA256="944f072adc4888849c4ec65a98cb3631f2795061506b979eeb87383027a6cf65">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.3/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
