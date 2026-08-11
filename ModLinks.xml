@@ -12831,4 +12831,26 @@ Enjoy!</Description>
             <Author>Ishmael</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Withered Foxy 1 in 10000</Name>
+        <Description>Inspired by the Terraria mod 1 in 10000 Chance for Withered Foxy Jumpscare</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="d5505d130ddc6507f0b3b040f5f54e3430b8fcc8346042cd947a8c7828bd0197">
+            <![CDATA[https://github.com/Nitefurie/HK1in10000/releases/download/1.0.0.0/HK1in10000.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Nitefurie/HK1in10000]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Nitefurie/HK1in10000/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+            <Tag>Joke</Tag>
+        </Tags>
+        <Authors>
+            <Author>Nitefury</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
