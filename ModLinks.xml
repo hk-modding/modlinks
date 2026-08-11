@@ -9723,9 +9723,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>FlowerRandomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for flower quest lovers.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="C2FD0382119D44BB988A5AFA1641116CC4A9ED1B9FC05E1B9522E9D7162DB772">
-            <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.2.0/FlowerRandomizer.zip]]>
+        <Version>1.0.2.1</Version>
+        <Link SHA256="69E13CF2AC591FD05115ED9D30E8796DE86E3C8E78F12270368FF8197D291E67">
+            <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.2.1/FlowerRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -10000,9 +10000,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ConnectionSettingsRando</Name>
         <Description>A Hollow Knight rando addon for Hollow Knight rando addons.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="2CB067A503F06CE014C91B106000B8349BB3C0BE4D4DB23F5365FC5092722C06">
-            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.1.0.0/ConnectionSettingsRando.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="EDD6B25608DF2661D96AE638CC7E099D1836317BD0B8BF6B6D2EB8549606EDF1">
+            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.2.0.0/ConnectionSettingsRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MenuChanger</Dependency>
