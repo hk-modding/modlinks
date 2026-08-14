@@ -8636,9 +8636,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Curse Randomizer</Name>
         <Description>Randomizer 4 connection that adds additional cursed options.</Description>
-        <Version>5.1.6.0</Version>
-        <Link SHA256="acc94d31c8a76ec8c64c6062d30308af9a6c6bcba4e8a7d6b73805e991b6e023">
-            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.6/CurseRandomizer.zip]]></Link>
+        <Version>6.0.0.0</Version>
+        <Link SHA256="11653286f637c97e47a37490b7f09ddcfca4ab957c13296d5bd378b3d717292f">
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v6.0.0/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
