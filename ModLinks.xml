@@ -12698,9 +12698,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HarderAPSettings</Name>
         <Description>Adds Settings to make APs harder, like take extra damage, do less nail damage, and replaces Radiance with AbsRad. Works in non Archipelago saves too.</Description>
-        <Version>1.1.0.1</Version>
-        <Link SHA256="d05e2b6931472672247cb7ccf5bff6c6f76f2d776e3205a5d00da45e8e99f1ef">
-            <![CDATA[https://github.com/Bluepinkdragon/HarderAPSettings/releases/download/v1.1.0.1/HarderAPSettings.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="b0e0a37c42f7ff61aaee76544afa20555110284d4d84cbc26e9c14e6e4ee2596">
+            <![CDATA[https://github.com/Bluepinkdragon/HarderAPSettings/releases/download/v1.2.0.0/HarderAPSettings.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
