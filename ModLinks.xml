@@ -12853,4 +12853,31 @@ Enjoy!</Description>
             <Author>Nitefury</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Teleport Master</Name>
+        <Description>Click anywhere on the map to instantly teleport there — with optional Full Map mode, always-on compass, and Architect/DecorationMaster room highlighting</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="a10839d448bd032b29f1f103f6a0d419b25b4a7d3e81b05eef1f18231b69ea7b">
+            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/1.0.0.0/TeleportMaster.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MapChanger</Dependency>
+            <Dependency>AdditionalMaps</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master]]>
+        </Repository>
+        <Tags>
+            <Tag>Accessibility</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Integrations>
+            <Integration>DecorationMaster</Integration>
+            <Integration>ArchitectLegacy</Integration>
+            <Integration>Architect</Integration>
+        </Integrations>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
