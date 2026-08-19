@@ -12638,10 +12638,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>RespawnPoint Manager</Name>
-        <Description>Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="9a01fadfa00a291784d426831ecb546f80af9c51e1a466e2e33a9d9027ec2bd1">
-            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v1/RespawnPointManager.dll]]>
+        <Description>Spawnpoint manager that tracks, saves, and switches player checkpoints across scenes with quick reset, preset system and custom spawn control</Description>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="864a542659fa5a3ae179214bb949f7eaf7abda430575bfc7e66d6d35f2e2d86c">
+            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v2/RespawnPointManager.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12651,7 +12651,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager]]>
         </Repository>
         <Tags>
-            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
         </Tags>
         <Authors>
             <Author>Ishmael</Author>
