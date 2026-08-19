@@ -1767,13 +1767,13 @@ Not recommended for use in new mods.</Description>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/ShuffledCharmEffects/]]>
+        </Repository>
         <Integrations>
             <Integration>Randomizer 4</Integration>
             <Integration>SFCore</Integration>
         </Integrations>
-        <Repository>
-            <![CDATA[https://github.com/TheMathGeek314/ShuffledCharmEffects/]]>
-        </Repository>
         <Authors>
             <Author>TheMathGeek_314</Author>
         </Authors>
