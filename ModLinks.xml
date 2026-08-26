@@ -26,6 +26,28 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>GodSeeker112</Name>
+        <Description>Configures Godseeker Plus' Add Soul option to have customisable values for each boss</Description>
+        <Version>0.0.0.0</Version>
+        <Link SHA256="3F9EF44A3FD94E7813D3C18B3ABA983608309B16F2E6C09A6F39C016405CFEDF">
+            <![CDATA[https://github.com/Regulus297/Godseeker112/releases/download/v0.0.0.1/GodSeeker112.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>GodSeekerPlus</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Regulus297/Godseeker112]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Lenore</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Keep lifeblood on bench</Name>
         <Description>Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.</Description>
         <Version>1.0.0.0</Version>
