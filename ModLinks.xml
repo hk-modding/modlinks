@@ -12907,4 +12907,28 @@ Enjoy!</Description>
             <Author>Ishmael</Author>
         </Authors>
     </Manifest>
+        <Manifest>
+        <Name>GlobalList Atlas</Name>
+        <Description>Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="da5861f2361c1b051a98d2e0cfe4551b6d7774aac8fe077441864bbac46ff7b8">
+            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1/GlobalListAtlas.dll]]>
+        </Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas]]>
+        </Repository>
+        <Integrations>
+            <Integration>DecorationMaster</Integration>
+            <Integration>ArchitectLegacy</Integration>
+            <Integration>Architect</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
