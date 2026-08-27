@@ -12907,4 +12907,30 @@ Enjoy!</Description>
             <Author>Ishmael</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>HalallowKnight</Name>
+        <DisplayName>Halallow Knight</DisplayName>
+        <Description>Rewords the game's religious and supernatural framing - gods, worship, magic, souls, charms, dreams and the dead - into neutral alternatives. Text only: no gameplay, scenes or game files are touched.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="0761AB7CA9F1BDCFD2BD5EB087BE5ABE03B6AFD6D1B8626AAA109F66A78C8247">
+            <![CDATA[https://github.com/akhihaani/Halallow-Knight/releases/download/v1.0.0/HalallowKnight-1.0.0.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/akhihaani/Halallow-Knight]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/akhihaani/Halallow-Knight/raw/refs/heads/main/README.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/akhihaani/Halallow-Knight/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+            <Tag>LLM-Assisted</Tag>
+        </Tags>
+        <Authors>
+            <Author>akhihaani</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
