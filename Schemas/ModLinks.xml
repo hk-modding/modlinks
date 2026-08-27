@@ -113,6 +113,7 @@
       <xs:enumeration value="Gameplay" />
       <xs:enumeration value="Joke" />
       <xs:enumeration value="Library" />
+      <xs:enumeration value="LLM-Assisted" />
       <xs:enumeration value="Optimization" />
       <xs:enumeration value="Utility" />
     </xs:restriction>
