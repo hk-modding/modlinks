@@ -12962,28 +12962,23 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-  <Name>NoShirkHK</Name>
-  <Description>Replaces selected religious-language terms in Hollow Knight.</Description>
-  <Version>1.0.1.0</Version>
-
-  <Link SHA256="7EFA5990680B808DA5133C338FB9B969F5CCE0358E20FEC707E25CED0E1933BD "><![CDATA[
-https://github.com/MahdiRahman4/NoShirkHollowKnight/releases/download/v1.0.1/NoShirkHollowKnight.dll
-  ]]></Link>
-
-  <Repository><![CDATA[
-https://github.com/MahdiRahman4/NoShirkHollowKnight
-  ]]></Repository>
-
-  <Issues><![CDATA[
-https://github.com/MahdiRahman4/NoShirkHollowKnight/issues
-  ]]></Issues>
-
-  <Tags>
-    <Tag>Cosmetic</Tag>
-  </Tags>
-
-  <Authors>
-    <Author>MahdiRahman4</Author>
-  </Authors>
-</Manifest>
+        <Name>NoShirkHK</Name>
+        <Description>Replaces selected religious-language terms in Hollow Knight.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="7EFA5990680B808DA5133C338FB9B969F5CCE0358E20FEC707E25CED0E1933BD">
+            <![CDATA[https://github.com/MahdiRahman4/NoShirkHollowKnight/releases/download/v1.0.1/NoShirkHollowKnight.dll]]>
+        </Link>
+        <Repository>
+            <![CDATA[https://github.com/MahdiRahman4/NoShirkHollowKnight]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/MahdiRahman4/NoShirkHollowKnight/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>MahdiRahman4</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
