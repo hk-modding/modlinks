@@ -8217,9 +8217,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.5.2.0</Version>
-        <Link SHA256="43f908ee02ea6875f1635162ae9d3c733af0993e7cc14f89188f253bdad278ab">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.2/BugPrince.zip]]>
+        <Version>1.5.3.0</Version>
+        <Link SHA256="a7ca29532294cd054a91908c657a0e8826fbc0ff915ccf5e9c853768d15e1906">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.3.0/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -8234,6 +8234,8 @@ Enjoy!</Description>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince]]>
         </Repository>
         <Integrations>
+            <Integration>ConnectionSettingsRando</Integration>
+            <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
         <Tags>
@@ -8327,9 +8329,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.3.2.0</Version>
-        <Link SHA256="e864855a7909a0b39c1ede5b06b6f10a3ba44231ffa1b52bc1246ab77d488aac">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.2.0/MoreDoors.zip]]>
+        <Version>3.4.1.0</Version>
+        <Link SHA256="8aee6fe43da4f13ed9bbc77f423f55a90175489f336bb5e207240e4f4b7a708e">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.1.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8342,6 +8344,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors]]>
         </Repository>
         <Integrations>
+            <Integration>ConnectionSettingsRando</Integration>
             <Integration>Extra Rando</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
@@ -8371,9 +8374,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Scattered and Lost</Name>
         <Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-        <Version>1.6.4.0</Version>
-        <Link SHA256="e6d8b62a53126ef0ec22c1e5ba1072fddda5952e9b1764a172c21c679605b62c">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.4.0/Scattered.and.Lost.zip]]>
+        <Version>1.6.5.0</Version>
+        <Link SHA256="581850f3a7eca9e272e183efbdc60f176a3ddd81c12977913ed10e7cf50a0430">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.5.0/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8389,6 +8392,7 @@ Enjoy!</Description>
         <Integrations>
             <Integration>BugPrince</Integration>
             <Integration>CondensedSpoilerLogger</Integration>
+            <Integration>ConnectionSettingsRando</Integration>
             <Integration>DebugMod</Integration>
             <Integration>DecorationMaster</Integration>
             <Integration>Randomizer 4</Integration>
@@ -8425,9 +8429,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>2.1.1.0</Version>
-        <Link SHA256="379b9fdc1c78e16af5ff37b0d2d43a61e60482d9640c4312c7795bde9c8deac4">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.1.1.0/SpicyRando.zip]]>
+        <Version>2.1.2.0</Version>
+        <Link SHA256="88242c910d79a1f475f10a24219ed41f9b2a96a52ee4acdb63e8890eace9400d">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.1.2.0/SpicyRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8440,6 +8444,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando]]>
         </Repository>
         <Integrations>
+            <Integration>ConnectionSettingsRando</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
@@ -8475,9 +8480,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TreasureHunt</Name>
         <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>1.7.2.0</Version>
-        <Link SHA256="967bf2faf061114163b56818a9179a08e6546eff799241d58007c667baf2ea30">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.2.0/TreasureHunt.zip]]>
+        <Version>1.7.3.0</Version>
+        <Link SHA256="4015ee3c26d8f9c459a0dac078b9f4cede7542a89c6c6906b7eedc8ee7e2fc63">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.3.0/TreasureHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
