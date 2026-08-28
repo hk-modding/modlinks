@@ -7018,7 +7018,7 @@ Enjoy!</Description>
     <Manifest>
         <Name>DecorationMaster</Name>
         <Description>An older level editor for Hollow Knight used for platforming maps</Description>
-        <Version>1.0.1.0</Version>
+        <Version>1.0.1.1</Version>
         <Link SHA256="0c7fee165753e383fe56c0f13f8fda508c822577a7915fd824bc3986e5936627">
             <![CDATA[https://github.com/ygsbzr/HollowKnight.Decoration/releases/download/1.0.1.1/DecorationMaster.zip]]>
         </Link>
