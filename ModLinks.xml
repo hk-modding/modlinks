@@ -7017,10 +7017,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>DecorationMaster</Name>
-        <Description>A mod for making area harder by adding spike and saw</Description>
+        <Description>An older level editor for Hollow Knight used for platforming maps</Description>
         <Version>1.0.1.0</Version>
-        <Link SHA256="6090db10c6b36a8a1661834299bef620f47ef48612bdb1c1b3449f0edddcff8a">
-            <![CDATA[https://github.com/ygsbzr/HollowKnight.Decoration/releases/download/0.42/Decoration.zip]]>
+        <Link SHA256="0c7fee165753e383fe56c0f13f8fda508c822577a7915fd824bc3986e5936627">
+            <![CDATA[https://github.com/ygsbzr/HollowKnight.Decoration/releases/download/1.0.1.1/DecorationMaster.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -11010,9 +11010,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ArchitectLegacy</Name>
         <Description>The old version of Architect, a Hollow Knight level editor.</Description>
-        <Version>1.18.0.6</Version>
-        <Link SHA256="46d33ba0a4d2e180022838650c64f99dc2aad93eec2ff917c6a3415ec50b11b7">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.18.0.6/Architect.zip]]>
+        <Version>1.19.0.0</Version>
+        <Link SHA256="40c95d29501e35880077291f87cbc9104f8df6334b8176cd258d819b5b6e1c23">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.19.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
