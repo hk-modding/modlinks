@@ -12987,4 +12987,29 @@ Enjoy!</Description>
             <Author>srryabouthemess</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>RadianceSkin</Name>
+        <DisplayName>RadianceSkin</DisplayName>
+        <Description>A mod that customizes Absolute Radiance with selectable skins, music, visual effects, backgrounds, and animations.</Description>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="C4E7CD1012B51409D960D2A5CF98990911A5AD0D28AF2FFF0B8F37D9669E3EE4">
+            <![CDATA[https://github.com/MCXGK3/RadianceSkin/releases/download/0.1.1.0/RadianceSkin.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>WavLib</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/MCXGK3/RadianceSkin]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/MCXGK3/RadianceSkin/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>MCXGK3</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
