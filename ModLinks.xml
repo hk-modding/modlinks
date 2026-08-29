@@ -12961,4 +12961,30 @@ Enjoy!</Description>
             <Author>akhihaani</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>HallownestWayfinder</Name>
+        <DisplayName>Hallownest Wayfinder</DisplayName>
+        <Description>An in-game route guide and navigation assistant with guided 112%, five-hour speedrun and save-completion routes, a progress checklist, and save-aware pathfinding.</Description>
+        <Version>0.12.0.0</Version>
+        <Link SHA256="2317F463320A053CC4EFD380002C41BCBA7E2098D9E83C5CAB97FFA0F14A722B">
+            <![CDATA[https://github.com/srryabouthemess/hallownest-wayfinder/releases/download/v0.12.0/HallownestWayfinder.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/srryabouthemess/hallownest-wayfinder]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/srryabouthemess/hallownest-wayfinder/raw/refs/heads/main/README.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/srryabouthemess/hallownest-wayfinder/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+            <Tag>LLM-Assisted</Tag>
+        </Tags>
+        <Authors>
+            <Author>srryabouthemess</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
