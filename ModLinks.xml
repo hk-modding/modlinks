@@ -7018,9 +7018,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DecorationMaster</Name>
         <Description>An older level editor for Hollow Knight used for platforming maps</Description>
-        <Version>1.0.1.1</Version>
-        <Link SHA256="0c7fee165753e383fe56c0f13f8fda508c822577a7915fd824bc3986e5936627">
-            <![CDATA[https://github.com/cometcake575/HollowKnight.Decoration/releases/download/1.0.1.1/DecorationMaster.zip]]>
+        <Version>1.0.1.2</Version>
+        <Link SHA256="48dd8037a11923e664d7459ca7ce63d2759ca82cc82dc1ce93c90f8ac6d57ff9">
+            <![CDATA[https://github.com/cometcake575/HollowKnight.Decoration/releases/download/1.0.1.2/DecorationMaster.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -11015,9 +11015,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ArchitectLegacy</Name>
         <Description>The old version of Architect, a Hollow Knight level editor.</Description>
-        <Version>1.19.0.0</Version>
-        <Link SHA256="40c95d29501e35880077291f87cbc9104f8df6334b8176cd258d819b5b6e1c23">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.19.0.0/Architect.zip]]>
+        <Version>1.19.0.1</Version>
+        <Link SHA256="fc49a304cf590c71cd0ae2862cd96ccacc41753b3e96982fc0f09a23f4a74e99">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.19.0.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -11044,9 +11044,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.34.0.0</Version>
-        <Link SHA256="99d7f5d222ca6256c820d1dd34504da3e0991938b35cd026cf141c17afb29aa8">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.34.0.0/Architect.zip]]>
+        <Version>3.34.0.1</Version>
+        <Link SHA256="4a185a715649fa0726f98e37365e7666159fd3205eef7a42982e530e67562e6c">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.34.0.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
