@@ -4,6 +4,29 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>Input Display</Name>
+        <Description>Shows an input display in the bottom right corner. Compatible with both controller and mouse/keyboard.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="98883D82405F6148FA0F7C0097BBABDFE83861E2A1224431527BF08BD905F402">
+            <![CDATA[https://github.com/hoverAdev/HollowKnight.InputDisplay/releases/download/1.0.0/InputDisplay.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/hoverAdev/HollowKnight.InputDisplay]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/hoverAdev/HollowKnight.InputDisplay/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>hoverAdev</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Double Enemies</Name>
         <Description>Duplicates most enemies in the game, and shares hp between duplicate bosses.</Description>
         <Version>1.2.1.1</Version>
