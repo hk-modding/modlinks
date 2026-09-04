@@ -9166,7 +9166,7 @@ Enjoy!</Description>
         <Name>Grass Randomizer</Name>
         <Description>Randomizer 4 connection that adds grass to the pool of randomized items and locations.</Description>
         <Version>1.1.3.0</Version>
-        <Link SHA256="215DD8EF382521BF37CD34C44B0A80C418361BCD898D3F32106580826D4B1FD4"><![CDATA[https://github.com/ManicJamie/HollowKnightGrassRando/releases/download/v1.1.3.0/GrassRandoV2.zip]]></Link>
+        <Link SHA256="9A327BDAC3C76AF5D9307136990EE26AFEC4BF0D28880CBF3F3EE8D17168A267"><![CDATA[https://github.com/ManicJamie/HollowKnightGrassRando/releases/download/v1.1.3.0/GrassRandoV2.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>GrassCore</Dependency>
@@ -9179,6 +9179,7 @@ Enjoy!</Description>
         </Issues>
         <Integrations>
             <Integration>RandoSettingsManager</Integration>
+            <Integration>ConnectionSettingsRando</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
