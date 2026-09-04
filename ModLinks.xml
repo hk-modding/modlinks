@@ -9804,9 +9804,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodhomeRandomizer</Name>
         <Description>A Randomizer add-on for Godhome elements.</Description>
-        <Version>2.2.5.0</Version>
-        <Link SHA256="9BF7E487F6F160008F0A9731E5C1F428972596405B88ACFD0350F03EFFD9D166">
-            <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.5.0/GodhomeRandomizer.zip]]>
+        <Version>2.2.5.1</Version>
+        <Link SHA256="E043B6DCABEFCE9702E79B09F25EA846076AAD92DAE7FA8FA918317FA37EE5F9">
+            <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.5.1/GodhomeRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
