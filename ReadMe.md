@@ -6,10 +6,21 @@ This is the repository that holds information on every public mod that should be
 
 Modlinks is for mods of the game Hollow Knight (2017) by Team Cherry.
 
+## Which Hollow Knight versions are supported?
+
+Historically modlinks only supported the most up-to-date game version, up until 1.5.78.
+With the latest 1.5.12620 release after Silksong, modlinks has been split into the [1.5.78](https://github.com/hk-modding/modlinks/tree/1.5.78) branch, and the [main](https://github.com/hk-modding/modlinks/tree/main) branch tracking 1.5.12620.
+
+Since there are various changes in the latest version, mods that are not updated may either fail to load entirely, have specific features broken, work completely out of the box, or work only when using with a helper mod like `HK.NewAPIMigrator`. 
+
+Mod authors wanting to support both versions can make changes to the `ModLinks.xml` of both branches.
+
 ## How to add/update a mod to Modlinks
 
 ### Easy/Recommended Approach
-1. Go to https://github.com/hk-modding/modlinks/blob/main/ModLinks.xml
+1. Go to `ModLinks.xml`
+  - `1.5.78`: https://github.com/hk-modding/modlinks/blob/1.5.78/ModLinks.xml
+  - `1.5.12620`: https://github.com/hk-modding/modlinks/blob/main/ModLinks.xml
 1. Click the pencil at the top right corner
 1. Make the changes, scroll to the top and click "Commit Changes"
 1. Fill out the commit info and click the button that says "Propose Changes."
