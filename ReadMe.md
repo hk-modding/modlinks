@@ -11,9 +11,10 @@ Modlinks is for mods of the game Hollow Knight (2017) by Team Cherry.
 ### Easy/Recommended Approach
 1. Go to https://github.com/hk-modding/modlinks/blob/main/ModLinks.xml
 1. Click the pencil at the top right corner
+1. Click on "Fork this repository"
 1. Make the changes, scroll to the top and click "Commit Changes"
 1. Fill out the commit info and click the button that says "Propose Changes."
-1. Allow GitHub to create a fork, branch, and pull request for you.
+1. Click the "Create pull request" button
 
 ### Traditional Approach
 
