@@ -416,8 +416,7 @@
         <Description>Records your best times through each room and plays it back as a ghost on your next attempt.</Description>
         <Version>0.4.0.0</Version>
         <Link SHA256="7b7087843d9cd2ecadf9aa07bbfdeb66531a6dd471ec8693a9228dc5cda30f0f"><![CDATA[https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.4.0/ReplayModHK1578.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/AdiPrk/ReplayTimerMod]]>
         </Repository>
@@ -527,8 +526,7 @@
         <Description>Design and play custom Pantheon 5 lineups in Hollow Knight! Create your perfect boss gauntlet with any bosses in any order, then share your creations with friends using simple codes.</Description>
         <Version>1.0.0.4</Version>
         <Link SHA256="e7d10561faef728dd1798a2a692ef30adfc525b4548b81c6b57538dfc62b1fd8"><![CDATA[https://github.com/ultranumbzz/pantheon-architect/releases/download/1.0.0.4/PantheonArchitect.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/ultranumbzz/pantheon-architect]]>
         </Repository>
@@ -591,8 +589,7 @@
         <Description>Utilities by and for U-tale</Description>
         <Version>0.0.0.1</Version>
         <Link SHA256="470288d1496e4ee588e8dc2c30347685257ee956f1c7aaaae1e99c3d8cbe7a76"><![CDATA[https://github.com/U-tale/U-tils/releases/download/v2/U_tils.2.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/U-tale/U-tils]]>
         </Repository>
@@ -635,8 +632,7 @@
         <Description>Display damage values when enemies suffer damage</Description>
         <Version>1.25.10.07</Version>
         <Link SHA256="799c42143150387622d4ecd4597f2fefc17795d2e4682623857121f2e3d01a36"><![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten/releases/download/1.25.10.07/DamageValuesRewritten.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten]]>
         </Repository>
@@ -678,8 +674,7 @@
         <Description>This mod allows you to change charm notches and dashmaster</Description>
         <Version>1.1.0.0</Version>
         <Link SHA256="7cb8e378626c1c35d4939951591b15b1e3c8ef9b589a0e598ab12de91c4dc309"><![CDATA[https://github.com/Vitaxses/HKCharmEditor/releases/download/v1.1.0.0/CharmEditor.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Vitaxses/HKCharmEditor]]>
         </Repository>
@@ -698,8 +693,7 @@
         <Description>Create none endless limitations</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="44805472b62dfde5354c2dffaf9fdfcebbf8d78a5be91271d7c7cd6fc0df3f27"><![CDATA[https://github.com/Vitaxses/HKLimitations/releases/download/v1.0.0.0/Limitations.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Vitaxses/HKLimitations]]>
         </Repository>
@@ -718,8 +712,7 @@
         <Description>OnlyBosses is an alternative to TheHuntIsOn enemy module (which removes basic enemies), but since it got removed this mod is here.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="173ed5f0a307177d4abe9bc3231e500f8b3b1973b9de82b94c6fc7e8891a035c"><![CDATA[https://github.com/Vitaxses/HKOnlyBosses/releases/download/v1.0.0.0/OnlyBosses.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Vitaxses/HKOnlyBosses/]]>
         </Repository>
@@ -739,8 +732,7 @@
         <Description>This mod allows you config spawning of Zotelings.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="0e21f499fbd7366aa29aa55eabe665fd343cbd497cb50d0bb08adce601b8427b"><![CDATA[https://github.com/Vitaxses/HKGPZPractice/releases/download/v1.0.0.0/GPZPractice.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Vitaxses/HKGPZPractice/]]>
         </Repository>
@@ -1386,8 +1378,7 @@ Not recommended for use in new mods.</Description>
         <Description>A developer tool for running code on every scene in the game</Description>
         <Version>1.2.0.0</Version>
         <Link SHA256="FB530E8CB9680258D87D24C3B41E75D9B47344BE70D382FEBFAF2D56C9F830A2"><![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/releases/download/v1.2.0.0/EverySceneUtil.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/]]>
         </Repository>
@@ -1676,8 +1667,7 @@ Not recommended for use in new mods.</Description>
         <Description>Use Gathering Swarm as a weapon</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="D08C2C3FF3781C9AC1363FFD66F7D6D5D1E2AC9E5CE1489ABF7DF5C4699AC344"><![CDATA[https://github.com/TheMathGeek314/WrathOfTheSwarm/releases/download/v1.0.0.0/WrathOfTheSwarm.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/WrathOfTheSwarm/]]>
         </Repository>
@@ -1736,8 +1726,7 @@ Not recommended for use in new mods.</Description>
         <Description>The flukes are rainbow!</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="E19A3341130D773D68A870BFA3F249985193F63EF1D9AF3780AC99CD0D7838FA"><![CDATA[https://github.com/TheMathGeek314/RainbowFlukes/releases/download/v1.0.0.0/RainbowFlukes.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/RainbowFlukes/]]>
         </Repository>
@@ -1750,8 +1739,7 @@ Not recommended for use in new mods.</Description>
         <Description>Flukes don't disappear</Description>
         <Version>1.0.0.1</Version>
         <Link SHA256="3020D1FA51044C467CF1713DAC57510BFFD410FEDA4AD97F7B38C0E042BCEBF6"><![CDATA[https://github.com/TheMathGeek314/PermaFlukes/releases/download/v1.0.0.1/PermaFlukes.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/PermaFlukes/]]>
         </Repository>
@@ -1874,8 +1862,7 @@ Not recommended for use in new mods.</Description>
         <Description>Pogo anything</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="AE2BA5148647F09A267D901CA6BC4CE245D1BE972A7DF793BA72286AB333513A"><![CDATA[https://github.com/TheMathGeek314/Pogonest/releases/download/v1.0.0.0/Pogonest.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/Pogonest/]]>
         </Repository>
@@ -1888,8 +1875,7 @@ Not recommended for use in new mods.</Description>
         <Description>Shade Cloak can go through just about anything</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="A8C51F3A6713589B16DBD53C1BC29A21E77FD50DF0DD190D41C0981D82774CAC"><![CDATA[https://github.com/TheMathGeek314/IntangibleShadow/releases/download/v1.0.0.0/IntangibleShadow.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/IntangibleShadow/]]>
         </Repository>
@@ -1917,8 +1903,7 @@ Not recommended for use in new mods.</Description>
         <Description>Why stop at 6 of each map marker</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="C281FD26100E2D7151C2D5A6312D2B87D63E5CCC0484993B4B8A337A399911DE"><![CDATA[https://github.com/TheMathGeek314/InfiniteMapMarkers/releases/download/v1.0.0.0/InfiniteMapMarkers.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/InfiniteMapMarkers/]]>
         </Repository>
@@ -1961,8 +1946,7 @@ Not recommended for use in new mods.</Description>
         <Description>The knight can rotate freely</Description>
         <Version>1.1.0.0</Version>
         <Link SHA256="6CF0CF48DA24E8A8DD2824611ECB832C6991DDB59C7DCC4824A418CE615B8912"><![CDATA[https://github.com/TheMathGeek314/UnconstrainedRotation/releases/download/v1.1.0.0/UnconstrainedRotation.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/UnconstrainedRotation/]]>
         </Repository>
@@ -2006,8 +1990,7 @@ Not recommended for use in new mods.</Description>
         <Description>Something is amiss in Teacher's Archives</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="75044378EFBE675639056A87A5A54D50947B7E11E50B7C084E04037F8AFB3F62"><![CDATA[https://github.com/TheMathGeek314/Archiv/releases/download/v1.0.0.0/Archiv.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/Archiv/]]>
         </Repository>
@@ -2020,8 +2003,7 @@ Not recommended for use in new mods.</Description>
         <Description>Grants World Sense immediately</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="60A19A1DB9B053EBC3C40DB5B61F71FDCC509D2DEA3778568E9C869F08FEF418"><![CDATA[https://github.com/TheMathGeek314/AlwaysWorldSense/releases/download/v1.0.0.0/AlwaysWorldSense.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/AlwaysWorldSense/]]>
         </Repository>
@@ -2114,8 +2096,7 @@ Not recommended for use in new mods.</Description>
         <Description>You can pogo off your flukenest casts</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="740D549CA7F3177A68A4F28010E9C7231AB7C82F20FCAAE87D145411E63780BA"><![CDATA[https://github.com/TheMathGeek314/PogoableFlukes/releases/download/v1.0.0.0/PogoableFlukes.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/PogoableFlukes/]]>
         </Repository>
@@ -2227,8 +2208,7 @@ Not recommended for use in new mods.</Description>
         <Description>INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info</Description>
         <Version>0.9.3.0</Version>
         <Link SHA256="CC3937184C716B9196C54E3675784A57D5D99E06DA335B0AF60F59E8D63459B8"><![CDATA[https://github.com/TheMathGeek314/NoTransitions/releases/download/v0.9.3.0/NoTransitions.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/NoTransitions/]]>
         </Repository>
@@ -2241,8 +2221,7 @@ Not recommended for use in new mods.</Description>
         <Description>Steady Body now has a more consistent effect</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="2D4B4B71EC83D04CBB5E5DDC1FDF104B5DC859CB52A2B65F70F4F8B45D0504C9"><![CDATA[https://github.com/TheMathGeek314/WorseSteadyBody/releases/download/v1.0.0.0/WorseSteadyBody.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/WorseSteadyBody/]]>
         </Repository>
@@ -2338,8 +2317,7 @@ Not recommended for use in new mods.</Description>
         <Description>Removes platforms from the lighthouse climb.</Description>
         <Version>1.2.2.2</Version>
         <Link SHA256="9B01DB9E928032539654F1D462DFC2A10D25C1B9A04D01F9E645E5E1EC4722DA"><![CDATA[https://github.com/TheMathGeek314/SiblingClimb/releases/download/v1.2.2.2/SiblingClimb.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/SiblingClimb/]]>
         </Repository>
@@ -8085,8 +8063,7 @@ Enjoy!</Description>
         <Version>0.10.0.0</Version>
         <Link SHA256="0d378a796e4e6bae5e2965ba5b136c210e806926d22d3d0ff59432161e6db6e6">
             <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.10.0/KorzUtils.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Korzer420/KorzUtils]]>
         </Repository>
@@ -10083,8 +10060,7 @@ Enjoy!</Description>
         <Link SHA256="94F456AEEE84B465ED69D898577B855A47AAB775F9A05D6096ED050012A0CD56">
             <![CDATA[https://github.com/nerthul11/Moonside/releases/download/1.1.0.1/Moonside.zip]]>
         </Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/nerthul11/Moonside]]>
         </Repository>
@@ -10754,8 +10730,7 @@ Enjoy!</Description>
         <Link SHA256="cd361771daaacb00f6cbc8744298a76015f78349ea9ac2b2effde25531ded0c6">
             <![CDATA[https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.3/HKBattle.zip]]>
         </Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/NightFuryoOo/HKBattle]]>
         </Repository>
@@ -11704,8 +11679,7 @@ Enjoy!</Description>
         <Description>Adds the Shade Lord as a boss in the Hall of Gods</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="0913e3d0dbe8f6f3f008db8bbfbba2e17e8e96352dee17a282bdd178fbb3c951"><![CDATA[https://github.com/OrusLiOx/ShadeLord/releases/download/v1.0.0.1/v1.0.0.1.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/OrusLiOx/ShadeLord.git]]>
         </Repository>
@@ -11724,8 +11698,7 @@ Enjoy!</Description>
         <Description>Add a charm called "Serrated Dream" which allows you to deal damage with dream nail, the damage is depend on the essence you have</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="13b9c08222cc30dd0b1e74c31533861369bcebc57bda9f31c8da3a9039d02c79"><![CDATA[https://github.com/hien-ngo29/KillableDreamNail/releases/download/v1.0.0.0/SerratedDreams.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/hien-ngo29/KillableDreamNail]]>
         </Repository>
@@ -11741,8 +11714,7 @@ Enjoy!</Description>
         <Description>Doubles the number of charm notches you have, so that you start wih 6 instead of 3, and every additional charm notch item you find will give you an extra 2 notches.</Description>
         <Version>1.0.9377.28227</Version>
         <Link SHA256="261e0511f743ebe4c4475861d0ad34bf31f0cda83e3e9b2f02fb5b67a9d15237"><![CDATA[https://github.com/meanwhile-labs/hk-more-charm-notches/releases/download/v1.0.9377.28227/HK_More_Charm_Notches.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/meanwhile-labs/hk-more-charm-notches]]>
         </Repository>
@@ -11763,8 +11735,7 @@ Enjoy!</Description>
         <Description>Keeps the Grubs in Grubhome without Grubfather eating them.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="F04183D8E343C5AE8511C01D44CBDEFA8A372BCCF975BE1DC0C78AED504A66AE"><![CDATA[https://github.com/ZiggySaidGrub/UneatedGrubs/releases/download/v1.0.0.0/UneatedGrubs.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/ZiggySaidGrub/UneatedGrubs]]>
         </Repository>
@@ -11780,8 +11751,7 @@ Enjoy!</Description>
         <Description>Toggle dialog text's visibility by pressing F3. May remove in the future as it is porting to DebugMod</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="d8c1a0b2cba89b277e646b0c2a259ee79c2d0c98811ce37b927940ba91ccc6ba"><![CDATA[https://github.com/hien-ngo29/HideDialogText/releases/download/v1.0.0.0/HideDialogText.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/hien-ngo29/HideDialogText]]>
         </Repository>
@@ -11825,8 +11795,7 @@ Enjoy!</Description>
         <Description>Always respawn at hazard respawn locations after death.</Description>
         <Version>0.2.0.0</Version>
         <Link SHA256="63abb812c5816d06b19f4f36a4baca9c993b1dc47f48a25b4c6f81e313f44c2c"><![CDATA[https://github.com/Leuthil/HollowKnight.AlwaysHazardRespawn/releases/download/0.2.0.0/AlwaysHazardRespawn-0.2.0.0.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Leuthil/HollowKnight.AlwaysHazardRespawn]]>
         </Repository>
@@ -11891,8 +11860,7 @@ Enjoy!</Description>
         <Link SHA256="75311034d5c13d3540b6abd534bc232ecd25b88596994e623f8ba36bbcbddcb9">
             <![CDATA[https://github.com/danielstegink/HollowKnight.GeoPots/releases/download/1.1.0.0/GeoPots.zip]]>
         </Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.GeoPots]]>
         </Repository>
@@ -11956,8 +11924,7 @@ Enjoy!</Description>
         <Link SHA256="2c3e77b07122d99e4c8d19139598cc3207615ed61454d39219faaa86215308eb">
             <![CDATA[https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.2.0/InfectedHallownest.zip]]>
         </Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.InfectedHallownest]]>
         </Repository>
@@ -12008,8 +11975,7 @@ Enjoy!</Description>
         <Link SHA256="28cdb130bab606ec4eb7be4dbfdc5bbec7eeb7d6ed85d17e4891e63c25d3a7fa">
             <![CDATA[https://github.com/cometcake575/GodhomeGeo/releases/download/1.1.0.0/GodhomeGeo.zip]]>
         </Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/cometcake575/GodhomeGeo]]>
         </Repository>
@@ -12123,8 +12089,7 @@ Enjoy!</Description>
         <Description>A comprehensive cheat menu mod that provides control over player stats, inventory, and game state through an in-game interface</Description>
         <Version>1.4.2.0</Version>
         <Link SHA256="9e83ef0a52fab8fc295582fcd0bd54f4682e72f33a292c93d2ef01c9ba7f5b10"><![CDATA[https://github.com/SirCabby/HKCabbyCodes/releases/download/lumafly_v1.4.2/CabbyCodes_Lumafly_v1.4.2.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/SirCabby/HKCabbyCodes]]>
         </Repository>
@@ -12306,8 +12271,7 @@ Enjoy!</Description>
         <Link SHA256="8ACD6F2F2A51009976119B7FC14849EE1EB05BE16A47A73A6A205CA90DF1E813">
             <![CDATA[https://github.com/danielstegink/HollowKnight.MuteBosses/releases/download/1.0.0.0/MuteBosses.zip]]>
         </Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.MuteBosses]]>
         </Repository>
@@ -12562,8 +12526,7 @@ Enjoy!</Description>
         <Description>A Hollow Knight mod that makes a lot of RNG deterministic</Description>
         <Version>0.3.3.0</Version>
         <Link SHA256="9e1f895cca284e1a50fadfd0ff20c68bc42f80c366a655d8eadb8cdc442575fd"><![CDATA[https://github.com/olvior/RngSync/releases/download/v0.3.3/RngSync.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/olvior/RngSync/]]>
         </Repository>
