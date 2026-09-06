@@ -10705,7 +10705,7 @@ Enjoy!</Description>
             <Author>Egir</Author>
         </Authors>
     </Manifest>
-     <Manifest>
+    <Manifest>
         <Name>ReplayLogger</Name>
         <Description>ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.</Description>
         <Version>1.1.0.6</Version>
@@ -10713,8 +10713,8 @@ Enjoy!</Description>
             <![CDATA[https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.1.0.6/ReplayLogger.zip]]>
         </Link>
         <Dependencies>
-             <Dependency>Satchel</Dependency>
-         </Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/NightFuryoOo/ReplayLogger]]>
         </Repository>
@@ -10732,11 +10732,11 @@ Enjoy!</Description>
         <Link SHA256="a5fc55e3987251b66eec364bfb053be34826b4ab1801b98b1cace4e1a9fdab45">
             <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.1.3/GodhomeQoL.zip]]>
         </Link>
-         <Dependencies>
-             <Dependency>Osmi</Dependency>
-             <Dependency>Satchel</Dependency>
-             <Dependency>Vasi</Dependency>
-         </Dependencies>
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL]]>
         </Repository>
@@ -10747,15 +10747,15 @@ Enjoy!</Description>
             <Author>mint</Author>
         </Authors>
     </Manifest>
-     <Manifest>
+    <Manifest>
         <Name>HKBattle</Name>
         <Description>HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.</Description>
         <Version>1.0.0.3</Version>
         <Link SHA256="cd361771daaacb00f6cbc8744298a76015f78349ea9ac2b2effde25531ded0c6">
             <![CDATA[https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.3/HKBattle.zip]]>
         </Link>
-         <Dependencies>
-         </Dependencies>
+        <Dependencies>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/NightFuryoOo/HKBattle]]>
         </Repository>
