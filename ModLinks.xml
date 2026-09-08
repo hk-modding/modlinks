@@ -11068,9 +11068,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.34.1.0</Version>
-        <Link SHA256="fbd93aa6a0d610e11b2b1ad8f04ab6c891cdba8aa8ee0fe4e5072467561890df">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.34.1.0/Architect.zip]]>
+        <Version>3.35.0.0</Version>
+        <Link SHA256="ad473ae2b6621d8053f56cfd3eec7a881e643ad1208064b63d554170b8f02e87">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.35.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -13022,6 +13022,26 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>MCXGK3</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>SOCD Cleaner</Name>
+        <Description>Simultaneous Opposite Cardinal Directions</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="a6971ae2f0225f86d4f7e7d90254593bea72f27903a6cd1d5a1de992d1fd75b8">
+            <![CDATA[https://github.com/Ishmael-GameDev/SOCD-Cleaner/releases/download/v1/SOCD_Cleaner.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/SOCD-Cleaner]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
         </Authors>
     </Manifest>
     <Manifest>
