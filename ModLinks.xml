@@ -13064,4 +13064,26 @@ Enjoy!</Description>
             <Author>Ishmael</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+    <Name>OneShot PvP</Name>
+    <Description>A fast-paced Hollow Knight PvP mod where players fight with 1 HP and limited spell casts.</Description>
+    <Version>1.0.0</Version>
+    <Link SHA256="sha256:2122ad610ed9b9c41b3cfc2630503698fac835087dd2383a004588c2c5d7b89d">
+        <![CDATA[https://github.com/aristocrat27/OneShot-PvP/releases/download/Release/OneShot_PvP.zip]]>
+    </Link>
+    <Dependencies>
+        <Dependency>HKMP</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/aristocrat27/OneShot-PvP]]>
+    </Repository>
+    <Tags>
+        <Tag>Gameplay</Tag>
+        <Tag>Utility</Tag>
+    </Tags>
+    <Authors>
+        <Author>Aristocrat</Author>
+        <Author>Bobry Cola</Author>
+    </Authors>
+</Manifest>
 </ModLinks>
