@@ -13024,4 +13024,24 @@ Enjoy!</Description>
             <Author>MCXGK3</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Instawings Helper</Name>
+        <Description>Assign a spare key to fully imitate one of your existing binds. 3 bindable pairs. Helpful for instawings!</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="306f1a0434d30afe8cda2f822a205b7128225e8b64f22b3d6445b3ddb77820c4">
+            <![CDATA[https://github.com/Ishmael-GameDev/Instawings-Helper/releases/download/v1/Instawings_Helper.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Instawings-Helper]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
