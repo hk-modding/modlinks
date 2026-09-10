@@ -11434,6 +11434,33 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>DpsCounter</Name>
+        <DisplayName>DPS Counter</DisplayName>
+        <Description>Shows the player's rolling damage per second (DPS) on screen, plus the peak DPS of the current burst. Damage can be counted per single target or across all targets hit.</Description>
+        <Version>0.3.2.0</Version>
+        <Link SHA256="E970BA08FDA8FDFD8E11045851E929DB85B8225147D2F33E6B7480D6A0474B76">
+            <![CDATA[https://github.com/CrystalOfTheSky/Hollow-Knight-DpsCounter/releases/download/v0.3.2/DpsCounter-v0.3.2.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/CrystalOfTheSky/Hollow-Knight-DpsCounter]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://raw.githubusercontent.com/CrystalOfTheSky/Hollow-Knight-DpsCounter/main/README.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/CrystalOfTheSky/Hollow-Knight-DpsCounter/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>LLM-Assisted</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>CrystalOfTheSky</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Pale Court Charms</Name>
         <Description>Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer and Transcendence.
         Do not use with Pale Court,as both mods add the same charms.</Description>
