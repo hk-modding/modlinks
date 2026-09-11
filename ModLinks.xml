@@ -12613,9 +12613,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Noclip Accuracy</Name>
         <Description>A lightweight mod that tracks how many spike damage hits you take during noclip / practice runs</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="d0a7d7996880251af339437d863a46582214c4159c9d9ed044e155b52fa47ed4">
-            <![CDATA[https://github.com/Ishmael-GameDev/Noclip-Accuracy/releases/download/v1/Noclip.Accuracy.dll]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="3636c03ff93a2c793928df5921d38c989e82b66556840e3d11ce721cf887b627">
+            <![CDATA[https://github.com/Ishmael-GameDev/Noclip-Accuracy/releases/download/v11/Noclip.Accuracy.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
