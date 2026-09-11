@@ -12656,17 +12656,15 @@ Enjoy!</Description>
     <Manifest>
         <Name>Spell Counter</Name>
         <Description>Spell counter mod with many modes: Spells, Casual and Chain Shorogos</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="6e6494db03b174f403d5f57ff7a01be42d81501378641fd999e5545b46ad909b">
-            <![CDATA[https://github.com/Ishmael-GameDev/Spell-ounter/releases/download/v1/Spell.ounter.dll]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="5c08394b61b9ae2f1183d4f1bfc3f600b54bd72f95e0869c7174c4a3d525e9f8">
+            <![CDATA[https://github.com/Ishmael-GameDev/Spell-Counter/releases/download/v11/SpellCounter.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
-            <Dependency>MagicUI</Dependency>
-            <Dependency>ModCommon</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Ishmael-GameDev/Spell-ounter]]>
+            <![CDATA[https://github.com/Ishmael-GameDev/Spell-Counter]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
