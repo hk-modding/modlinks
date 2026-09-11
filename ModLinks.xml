@@ -11312,7 +11312,7 @@ Enjoy!</Description>
         <Name>PlatformingQoL</Name>
         <Description>Quality of life improvements for Hollow Knight platforming, including better hitbox visualization and respawn animation skipping.</Description>
         <Version>1.3.0.0</Version>
-        <Link SHA256="074673ac724ac3431a169574291a1ef757b72507269b821e6eb86fa34cec2652">
+        <Link SHA256="6c1046297503fd639399522da579694ab2f890569e3f27f1abc04c1bdf32143e">
             <![CDATA[https://github.com/Ishmael-GameDev/Platforming-QoL-mod/releases/download/v3/PlatformingQoL.dll]]>
         </Link>
         <Dependencies />
