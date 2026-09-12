@@ -8322,9 +8322,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Knight of Nights</Name>
         <Description>A mod for the Holloween 2025 plando, with some rando integration.</Description>
-        <Version>2.0.7.0</Version>
-        <Link SHA256="4c1aa8b22b4b8b62d4123b67d8ebee9a32bc62544d154f21ecfee6309496c61d">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.7.0/KnightOfNights.zip]]>
+        <Version>2.0.8.0</Version>
+        <Link SHA256="f746e29206287d06f39b42f2bb4c29f2721e698d8c69285f36491967c61dfeeb">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.8.0/KnightOfNights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -8354,9 +8354,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.4.1.0</Version>
-        <Link SHA256="8aee6fe43da4f13ed9bbc77f423f55a90175489f336bb5e207240e4f4b7a708e">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.1.0/MoreDoors.zip]]>
+        <Version>3.4.2.0</Version>
+        <Link SHA256="26d3d861b39d04bdb5e324a5859cc82f0d6c41522e85d762ad0c844117f17a0e">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.2.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8399,9 +8399,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Scattered and Lost</Name>
         <Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-        <Version>1.6.5.0</Version>
-        <Link SHA256="581850f3a7eca9e272e183efbdc60f176a3ddd81c12977913ed10e7cf50a0430">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.5.0/Scattered.and.Lost.zip]]>
+        <Version>1.6.6.0</Version>
+        <Link SHA256="792f81e27d30f74df5cb87ee8b59e09fb5bff20dc97251a054588f1e3f210a78">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.6.0/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
