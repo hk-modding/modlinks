@@ -1298,6 +1298,19 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>GeoOverHud</Name>
+        <Description>A small mod to tweak the HUD rendering order</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="95C44CAC1DF0F37D82CC6AE7C4045359559FE82447B61AE1FAA864743C85975A"><![CDATA[https://github.com/TheMathGeek314/GeoOverHud/releases/download/v1.0.0.0/GeoOverHud.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/GeoOverHud/]]>
+        </Repository>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>LegacyRando</Name>
         <Description>A Randomizer connection for old removed objects</Description>
         <Version>1.0.0.0</Version>
@@ -12613,9 +12626,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Noclip Accuracy</Name>
         <Description>A lightweight mod that tracks how many spike damage hits you take during noclip / practice runs</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="d0a7d7996880251af339437d863a46582214c4159c9d9ed044e155b52fa47ed4">
-            <![CDATA[https://github.com/Ishmael-GameDev/Noclip-Accuracy/releases/download/v1/Noclip.Accuracy.dll]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="dfff63e5cf6b70763ff8ff5617d3bb92d2b4030d81ff83672cf2886caddabacb">
+            <![CDATA[https://github.com/Ishmael-GameDev/Noclip-Accuracy/releases/download/v11/Noclip.Accuracy.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12656,17 +12669,15 @@ Enjoy!</Description>
     <Manifest>
         <Name>Spell Counter</Name>
         <Description>Spell counter mod with many modes: Spells, Casual and Chain Shorogos</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="6e6494db03b174f403d5f57ff7a01be42d81501378641fd999e5545b46ad909b">
-            <![CDATA[https://github.com/Ishmael-GameDev/Spell-ounter/releases/download/v1/Spell.ounter.dll]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="5c08394b61b9ae2f1183d4f1bfc3f600b54bd72f95e0869c7174c4a3d525e9f8">
+            <![CDATA[https://github.com/Ishmael-GameDev/Spell-Counter/releases/download/v11/SpellCounter.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
-            <Dependency>MagicUI</Dependency>
-            <Dependency>ModCommon</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Ishmael-GameDev/Spell-ounter]]>
+            <![CDATA[https://github.com/Ishmael-GameDev/Spell-Counter]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
