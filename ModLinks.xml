@@ -11323,10 +11323,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>PlatformingQoL</Name>
-        <Description>Quality of life improvements for Hollow Knight platforming, including hitbox visualization and respawn animation skipping.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="323cf9dd9e70eb452b7ae0f518e6998fcd8572debc23fb2c8e1d76d762849084">
-            <![CDATA[https://github.com/Ishmael-GameDev/Platforming-QoL-mod/releases/download/PlatformingQoL-v1.2.0/Platforming.QoL.zip]]>
+        <Description>Quality of life improvements for Hollow Knight platforming, including better hitbox visualization and respawn animation skipping.</Description>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="6c1046297503fd639399522da579694ab2f890569e3f27f1abc04c1bdf32143e">
+            <![CDATA[https://github.com/Ishmael-GameDev/Platforming-QoL-mod/releases/download/v3/PlatformingQoL.dll]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -13072,6 +13072,50 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>HKMP.Timer</Name>
+        <Description>Synchronized timer for Hollow Knight multiplayer through HKMP.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="a296e6679cd8c6a0a524613873af33c2137a53d538510bdbad988abb5f2d413e">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Timer/releases/download/Release/HKMP.Timer.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/aristocrat27/HKMP.Timer]]>
+        </Repository>
+        <Tags>
+            <Tag>Accessibility</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Aristocrat</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>OneShot PvP</Name>
+        <Description>A fast-paced Hollow Knight PvP mod where players fight with 1 HP and limited spell casts.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="dacd9d0b0fbdd6b149136a440a5131b42f2e2bc278a11b63345114207e349f7b">
+            <![CDATA[https://github.com/aristocrat27/OneShot-PvP/releases/download/Release/OneShot_PvP.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/aristocrat27/OneShot-PvP]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Aristocrat</Author>
+            <Author>Bobry Cola</Author>
         </Authors>
     </Manifest>
 </ModLinks>
