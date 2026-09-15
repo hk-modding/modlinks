@@ -13075,24 +13075,46 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-    <Name>HKMP.Rounds</Name>
-    <Description>An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="929eb6ab40fb39f35ecc5b904331e7abd7013fdf06842e5ecb4a95fd91b32e06">
-        <![CDATA[https://github.com/aristocrat27/HKMP.Rounds/releases/download/Release/HKMP.Rounds.zip]]>
-    </Link>
-    <Dependencies>
-        <Dependency>HKMP</Dependency>
-    </Dependencies>
-    <Repository>
-        <![CDATA[https://github.com/aristocrat27/HKMP.Rounds]]>
-    </Repository>
-    <Tags>
-        <Tag>Gameplay</Tag>
-        <Tag>Utility</Tag>
-    </Tags>
-    <Authors>
-        <Author>Aristocrat</Author>
-    </Authors>
-</Manifest>
+        <Name>HKMP.Rounds</Name>
+        <Description>An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="929eb6ab40fb39f35ecc5b904331e7abd7013fdf06842e5ecb4a95fd91b32e06">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds/releases/download/Release/HKMP.Rounds.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Aristocrat</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>OneShot PvP</Name>
+        <Description>A fast-paced Hollow Knight PvP mod where players fight with 1 HP and limited spell casts.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="dacd9d0b0fbdd6b149136a440a5131b42f2e2bc278a11b63345114207e349f7b">
+            <![CDATA[https://github.com/aristocrat27/OneShot-PvP/releases/download/Release/OneShot_PvP.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/aristocrat27/OneShot-PvP]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Aristocrat</Author>
+            <Author>Bobry Cola</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
