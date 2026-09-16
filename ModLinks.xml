@@ -11153,6 +11153,27 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>FasterAnimators</Name>
+        <Description>Increases the speed of Animator objects, making some hazards faster</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="bd2319a2ee914d1a88d2b31db29d29c93a71c6d2c84787bd0e93280ed0071a70">
+            <![CDATA[https://github.com/cometcake575/FasterAnimators/releases/download/1.0.0.0/FasterAnimators.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/FasterAnimators]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/FasterAnimators/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>UltimateChickenKnight</Name>
         <Description>Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.</Description>
         <Version>4.0.12.0</Version>
