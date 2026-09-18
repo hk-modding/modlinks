@@ -11081,9 +11081,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.35.1.1</Version>
-        <Link SHA256="fdd2ad2a7ea61f12cf1fa8afb75d0e220500b94cce2becded2cfdfdd679f7051">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.35.1.1/Architect.zip]]>
+        <Version>3.35.3.0</Version>
+        <Link SHA256="6205fdc0ee15a7e66aa8a8610222b21e4c7ebf58d2761425d1f85babf552ec8c">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.35.3.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -11147,6 +11147,27 @@ Enjoy!</Description>
         </Issues>
         <Tags>
             <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>FasterAnimators</Name>
+        <Description>Increases the speed of Animator objects, making some hazards faster</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="bd2319a2ee914d1a88d2b31db29d29c93a71c6d2c84787bd0e93280ed0071a70">
+            <![CDATA[https://github.com/cometcake575/FasterAnimators/releases/download/1.0.0.0/FasterAnimators.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/FasterAnimators]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/FasterAnimators/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
         </Tags>
         <Authors>
             <Author>cometcake575</Author>
