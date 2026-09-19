@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
-      - uses: korelstar/xmllint-problem-matcher@v1
+      - uses: korelstar/xmllint-problem-matcher@v1.3.0
       - name: Setup XMLLint
         run: sudo apt update && sudo apt install --no-install-recommends -y libxml2-utils
       - name: Validate ModLinks.xml
