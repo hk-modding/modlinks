@@ -12667,19 +12667,23 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Ghost Macro</Name>
-        <Description>Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="7ab6653de492767c8b9807607ce0afa93fde3f83fd21df31fb8dbf8f5ccd71fd">
-            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v1/Ghost.Macro.dll]]>
+        <Description>Scene-based character recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays</Description>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="08bb6fd32aa4082ab24aa67637bc2ac7ffb3926bfcb7445637cc55b841163f47">
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v2/Ghost.Macro.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
-            <Dependency>MagicUI</Dependency>
-            <Dependency>DebugMod</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/blob/main/ReadMe.md]]>
+        </ReadMe>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
