@@ -1540,8 +1540,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.2.3</Version>
-        <Link SHA256="5273E6914DE91803ABF7074B5C2A13FD622453FEB4219FFAF62233BA9D0E8729"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.3/MoreStags.zip]]></Link>
+        <Version>1.1.2.4</Version>
+        <Link SHA256="AAB103E567748E0070834E502E0BD6E485F12C33C5C2734C5EE3641CE66413BB"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.4/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -11081,9 +11081,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.35.3.0</Version>
-        <Link SHA256="6205fdc0ee15a7e66aa8a8610222b21e4c7ebf58d2761425d1f85babf552ec8c">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.35.3.0/Architect.zip]]>
+        <Version>3.37.0.2</Version>
+        <Link SHA256="33ad40bd6e29643814c787844ae2456160493ddc4488c8d3dfaee2e2a10e3b53">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.37.0.2/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
