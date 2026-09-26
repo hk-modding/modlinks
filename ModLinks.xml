@@ -1540,8 +1540,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.2.3</Version>
-        <Link SHA256="5273E6914DE91803ABF7074B5C2A13FD622453FEB4219FFAF62233BA9D0E8729"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.3/MoreStags.zip]]></Link>
+        <Version>1.1.2.4</Version>
+        <Link SHA256="AAB103E567748E0070834E502E0BD6E485F12C33C5C2734C5EE3641CE66413BB"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.4/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -1833,8 +1833,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>ShuffledCharmEffects</Name>
         <Description>Equipped charms will have randomized effects</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="F9BFB81724F5BC48E2BA705D24B7BAC9D34B0B6144D16C2734F94358F80F9805"><![CDATA[https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.0/ShuffledCharmEffects.zip]]></Link>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="8BEC028DA2AA6C1D49A1494CA1359554A9A80253AE3D289C0DDC327D88A2ADEC"><![CDATA[https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.1/ShuffledCharmEffects.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -11081,9 +11081,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.35.3.0</Version>
-        <Link SHA256="6205fdc0ee15a7e66aa8a8610222b21e4c7ebf58d2761425d1f85babf552ec8c">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.35.3.0/Architect.zip]]>
+        <Version>3.37.0.2</Version>
+        <Link SHA256="33ad40bd6e29643814c787844ae2456160493ddc4488c8d3dfaee2e2a10e3b53">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.37.0.2/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12667,19 +12667,23 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Ghost Macro</Name>
-        <Description>Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="7ab6653de492767c8b9807607ce0afa93fde3f83fd21df31fb8dbf8f5ccd71fd">
-            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v1/Ghost.Macro.dll]]>
+        <Description>Scene-based character recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays</Description>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="08bb6fd32aa4082ab24aa67637bc2ac7ffb3926bfcb7445637cc55b841163f47">
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v2/Ghost.Macro.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
-            <Dependency>MagicUI</Dependency>
-            <Dependency>DebugMod</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/blob/main/ReadMe.md]]>
+        </ReadMe>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -12810,9 +12814,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Another Location</Name>
         <Description>Adds one location to the Randomizer. Terms and Conditions may apply</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256 ="c0e58d784014e470fc3a93f89bfe61a2ec1ce0d85c9d2ada46f2cb68143398c2">
-            <![CDATA[https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.0/AnotherLocation.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256 ="cbaef0e21c93b5d2771c6b2f1e42dee143da0bba5a8f5e8f57ebd09ee64fbf36">
+            <![CDATA[https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.1/AnotherLocation.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -12958,14 +12962,17 @@ Enjoy!</Description>
     <Manifest>
         <Name>GlobalList Atlas</Name>
         <Description>Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="da5861f2361c1b051a98d2e0cfe4551b6d7774aac8fe077441864bbac46ff7b8">
-            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1/GlobalListAtlas.dll]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="e565835d4281cc7da6206878d081d9c938f4a12d8d0f97c63d3371fa39283c05">
+            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1.5/GlobalListAtlas.dll]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/blob/main/README.md]]>
+        </ReadMe>
         <Integrations>
             <Integration>DecorationMaster</Integration>
             <Integration>ArchitectLegacy</Integration>
