@@ -4,6 +4,27 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>MidAirHealing</Name>
+        <DisplayName>MidAirHealing</DisplayName>
+        <Description>Allows you to heal in mid-air (as well as on water).</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="8BE1DFDA204CCA1DECA0A12943A4623221077B62EE57F01CB789E16AFD596A0D"><![CDATA[https://github.com/user500050/HKMidAirHealing/releases/download/v.1.1.0/MidAirHealing.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/user500050/HKMidAirHealing]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/user500050/HKMidAirHealing/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Accessibility</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>user500050</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Input Display</Name>
         <Description>Shows an input display in the bottom right corner. Compatible with both controller and mouse/keyboard.</Description>
         <Version>1.0.0.0</Version>
@@ -1540,8 +1561,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.2.3</Version>
-        <Link SHA256="5273E6914DE91803ABF7074B5C2A13FD622453FEB4219FFAF62233BA9D0E8729"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.3/MoreStags.zip]]></Link>
+        <Version>1.1.2.4</Version>
+        <Link SHA256="AAB103E567748E0070834E502E0BD6E485F12C33C5C2734C5EE3641CE66413BB"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.4/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -1833,8 +1854,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>ShuffledCharmEffects</Name>
         <Description>Equipped charms will have randomized effects</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="F9BFB81724F5BC48E2BA705D24B7BAC9D34B0B6144D16C2734F94358F80F9805"><![CDATA[https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.0/ShuffledCharmEffects.zip]]></Link>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="8BEC028DA2AA6C1D49A1494CA1359554A9A80253AE3D289C0DDC327D88A2ADEC"><![CDATA[https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.1/ShuffledCharmEffects.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -11081,9 +11102,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.35.3.0</Version>
-        <Link SHA256="6205fdc0ee15a7e66aa8a8610222b21e4c7ebf58d2761425d1f85babf552ec8c">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.35.3.0/Architect.zip]]>
+        <Version>3.37.0.3</Version>
+        <Link SHA256="51db418958372e69c3c29153fe0c23096bcb179285e5d07915d5e48a5f9f7141">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.37.0.3/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12597,8 +12618,8 @@ Enjoy!</Description>
         <Name>Charm Rebalanced</Name>
         <DisplayName>Charm Rebalanced Mod</DisplayName>
         <Description>Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!</Description>
-        <Version>3.0.6.0</Version>
-        <Link SHA256="cd9c8b928c8dd57d8432072c6701738f9f215359eab87f41efe441d630fb22cf"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.6.0/CharmRebalanced.zip]]></Link>
+        <Version>3.0.7.0</Version>
+        <Link SHA256="15c78ed5d2a4a49d2badb58be2d749fb2464cebbe3edad04ec29f3c08dcfccb0"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.7.0/CharmRebalanced.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
@@ -12667,19 +12688,23 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Ghost Macro</Name>
-        <Description>Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="7ab6653de492767c8b9807607ce0afa93fde3f83fd21df31fb8dbf8f5ccd71fd">
-            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v1/Ghost.Macro.dll]]>
+        <Description>Scene-based character recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays</Description>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="08bb6fd32aa4082ab24aa67637bc2ac7ffb3926bfcb7445637cc55b841163f47">
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v2/Ghost.Macro.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
-            <Dependency>MagicUI</Dependency>
-            <Dependency>DebugMod</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/blob/main/ReadMe.md]]>
+        </ReadMe>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -12810,9 +12835,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Another Location</Name>
         <Description>Adds one location to the Randomizer. Terms and Conditions may apply</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256 ="c0e58d784014e470fc3a93f89bfe61a2ec1ce0d85c9d2ada46f2cb68143398c2">
-            <![CDATA[https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.0/AnotherLocation.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256 ="cbaef0e21c93b5d2771c6b2f1e42dee143da0bba5a8f5e8f57ebd09ee64fbf36">
+            <![CDATA[https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.1/AnotherLocation.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -12958,14 +12983,17 @@ Enjoy!</Description>
     <Manifest>
         <Name>GlobalList Atlas</Name>
         <Description>Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="da5861f2361c1b051a98d2e0cfe4551b6d7774aac8fe077441864bbac46ff7b8">
-            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1/GlobalListAtlas.dll]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="e565835d4281cc7da6206878d081d9c938f4a12d8d0f97c63d3371fa39283c05">
+            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1.5/GlobalListAtlas.dll]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/blob/main/README.md]]>
+        </ReadMe>
         <Integrations>
             <Integration>DecorationMaster</Integration>
             <Integration>ArchitectLegacy</Integration>
@@ -13159,5 +13187,23 @@ Enjoy!</Description>
             <Author>Aristocrat</Author>
             <Author>Bobry Cola</Author>
         </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>MusicShuffle</Name>
+        <Description>Shuffles the soundtrack around randomly.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="fa39da1d40b67972d1856166c5ad9a47dc32afff5cd470c3a24aa35368f3b17b">
+            <![CDATA[https://github.com/thoughthouse/HollowKnight.MusicShuffle/releases/download/1.0.0.0/MusicShuffle.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/thoughthouse/HollowKnight.MusicShuffle]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
     </Manifest>
 </ModLinks>
