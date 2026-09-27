@@ -1435,8 +1435,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>EverySceneUtil</Name>
         <Description>A developer tool for running code on every scene in the game</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="FB530E8CB9680258D87D24C3B41E75D9B47344BE70D382FEBFAF2D56C9F830A2"><![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/releases/download/v1.2.0.0/EverySceneUtil.zip]]></Link>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="8C4010DC8142A8B2C4187B2ADDD593EC3DF3EF639F25426F6501F0B7F456D531"><![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/releases/download/v1.3.0.0/EverySceneUtil.zip]]></Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/]]>
