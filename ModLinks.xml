@@ -8245,7 +8245,7 @@ Enjoy!</Description>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Korzer420/TheHuntIsOn]]>
+            <![CDATA[https://github.com/dplochcoder/TheHuntIsOn]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -8377,9 +8377,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Knight of Nights</Name>
         <Description>A mod for the Holloween 2025 plando, with some rando integration.</Description>
-        <Version>2.0.9.0</Version>
-        <Link SHA256="10a903f78d3ed2aa311a0b7c6463882db2b4d2b348d9be82642dfcdc5faa44c1">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.9.0/KnightOfNights.zip]]>
+        <Version>2.0.10.0</Version>
+        <Link SHA256="90d4d2f02513d88d9f06151dbd9a59c2f9156c5cb615634acf1314690cd7000a">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.10.0/Knight.of.Nights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -8535,9 +8535,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SpoilerViewerMod</Name>
         <Description>Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.</Description>
-        <Version>2.13.0.0</Version>
-        <Link SHA256="5b1e276ed3affd88126f4847a96ea81359179252f586a1174cfd5dee949c2e8c">
-            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.13.0/SpoilerViewerMod.zip]]>
+        <Version>2.13.1.0</Version>
+        <Link SHA256="a6d987c43f9ccfcd1ee8dbac4123d79fa18981d24619d5e19dfd1e973a7c0adc">
+            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.13.1.0/SpoilerViewerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
