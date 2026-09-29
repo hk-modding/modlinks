@@ -8297,9 +8297,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.5.3.0</Version>
-        <Link SHA256="a7ca29532294cd054a91908c657a0e8826fbc0ff915ccf5e9c853768d15e1906">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.3.0/BugPrince.zip]]>
+        <Version>1.5.4.0</Version>
+        <Link SHA256="6dbce68f1d5742ad5bb5356051104f94215167ba0bb5ad85b15c00dfdc598998">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.4.0/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -8328,9 +8328,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.5.2.0</Version>
-        <Link SHA256="cb39db950dfb7760511cf88a9c06fa2329e43339e18353656ca37e308c7f4c5a">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.2.0/DarknessRandomizer.zip]]>
+        <Version>1.5.3.0</Version>
+        <Link SHA256="9267b012230b3c59f8a7c2432cdcecad73c6391afe9ea0bc154fe25055a6b758">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.3.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8409,9 +8409,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.4.2.0</Version>
-        <Link SHA256="26d3d861b39d04bdb5e324a5859cc82f0d6c41522e85d762ad0c844117f17a0e">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.2.0/MoreDoors.zip]]>
+        <Version>3.4.3.0</Version>
+        <Link SHA256="66d19cb7002b500a47012f00f79efb35545dc21e797cc5712ef3cb6f7838b3ee">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.3.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8454,9 +8454,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Scattered and Lost</Name>
         <Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-        <Version>1.6.6.0</Version>
-        <Link SHA256="792f81e27d30f74df5cb87ee8b59e09fb5bff20dc97251a054588f1e3f210a78">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.6.0/Scattered.and.Lost.zip]]>
+        <Version>1.6.7.0</Version>
+        <Link SHA256="36e135b964f11f429933fdf5838bb994c1688de3524da338e9330d88d5a2ec45">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.7.0/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8560,9 +8560,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TreasureHunt</Name>
         <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>1.7.3.0</Version>
-        <Link SHA256="4015ee3c26d8f9c459a0dac078b9f4cede7542a89c6c6906b7eedc8ee7e2fc63">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.3.0/TreasureHunt.zip]]>
+        <Version>1.7.4.0</Version>
+        <Link SHA256="3249585cfa8b56716b29d4303b9345ff4fcb688260687cf5a27ebc6f8415269d">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.4.0/TreasureHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
