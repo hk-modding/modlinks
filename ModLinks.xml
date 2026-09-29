@@ -8439,9 +8439,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>2.1.1.0</Version>
-        <Link SHA256="631dcebd371253e83cebd0b41e90ca596fad523625e5b98ac66a39ffb0d842fe">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.1.1.0/PurenailCore.zip]]>
+        <Version>2.2.0.0</Version>
+        <Link SHA256="30f664390ab1cb02313cb38716f830a846d5e7e42e893e46846c3b64b163e767">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.2.0.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore.Json</Dependency>
@@ -8450,6 +8450,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore]]>
         </Repository>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Scattered and Lost</Name>
