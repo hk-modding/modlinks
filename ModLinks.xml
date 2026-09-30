@@ -13209,4 +13209,28 @@ Enjoy!</Description>
             <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+        <Name>HollowKnightTAS</Name>
+        <Description>A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="1c42166aa4a7d38089bd0d30900c7662c7ba74d7b43a81079bfc0a333ee4f4c9">
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.0/HollowKnightTAS.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://raw.githubusercontent.com/windplusflower/HollowKnightTASMod/main/README.en.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Windflower</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
