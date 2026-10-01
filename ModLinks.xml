@@ -13209,4 +13209,30 @@ Enjoy!</Description>
             <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+        <Name>VocesDelVacio</Name>
+        <DisplayName>Voces del Vacío</DisplayName>
+        <Description>Mod de doblaje al español latino para Hollow Knight</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="33EFD65B8A4EFE622913A0FC9B2A8ECDF14E495007C51043F0C01C59059644C4">
+            <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio/releases/download/1.0.0.0/VocesDelVacio.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Core.FsmUtil</Dependency>
+            <Dependency>HKMirror</Dependency>
+            <Dependency>Osmi</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>FrogCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Z-LIVE</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
