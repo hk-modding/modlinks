@@ -13236,4 +13236,25 @@ Enjoy!</Description>
             <Author>Windflower</Author>
         </Authors>
     </Manifest>
+        <Manifest>
+        <Name>HollowKnightLocal8</Name>
+        <DisplayName>Hollow Knight Local8</DisplayName>
+        <Description>True local co-op for Hollow Knight. Play with 2-8 players in the same game world with shared enemies, bosses and progression.</Description>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="4EAF5176D980C1BF9E7D090E66D0657EAD5C3D304B115FC21E3779BFEF0CDD49"><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.9.0/HollowKnightLocal8-v0.9.0.zip]]></Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8]]></Repository>
+        <ReadMe><![CDATA[https://raw.githubusercontent.com/RaulSB-code/HollowKnight-Local8/main/README.md]]></ReadMe>
+        <Issues><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8/issues]]></Issues>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>LLM-Assisted</Tag>
+        </Tags>
+        <Authors>
+            <Author>RaulSB-code</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
