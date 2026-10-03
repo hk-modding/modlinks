@@ -4,6 +4,48 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>BetterParrying</Name>
+        <DisplayName>BetterParrying</DisplayName>
+        <Description>Simplifies the game's parrying mechanics.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="535F917D2FAFF5DAFD81ABED23857A95761C143BC465722974623453759BF6C8"><![CDATA[https://github.com/user500050/HKBetterParrying/releases/download/v.1.0.0/BetterParrying.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/user500050/HKBetterParrying]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/user500050/HKBetterParrying/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Accessibility</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>user500050</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>MidAirHealing</Name>
+        <DisplayName>MidAirHealing</DisplayName>
+        <Description>Allows you to heal in mid-air (as well as on water).</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="8BE1DFDA204CCA1DECA0A12943A4623221077B62EE57F01CB789E16AFD596A0D"><![CDATA[https://github.com/user500050/HKMidAirHealing/releases/download/v.1.1.0/MidAirHealing.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/user500050/HKMidAirHealing]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/user500050/HKMidAirHealing/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Accessibility</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>user500050</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Input Display</Name>
         <Description>Shows an input display in the bottom right corner. Compatible with both controller and mouse/keyboard.</Description>
         <Version>1.0.0.0</Version>
@@ -525,19 +567,19 @@
         <DisplayName>Pantheon Architect</DisplayName>
         <Description>Design and play custom Pantheon 5 lineups in Hollow Knight! Create your perfect boss gauntlet with any bosses in any order, then share your creations with friends using simple codes.</Description>
         <Version>1.0.0.4</Version>
-        <Link SHA256="e7d10561faef728dd1798a2a692ef30adfc525b4548b81c6b57538dfc62b1fd8"><![CDATA[https://github.com/ultranumbzz/pantheon-architect/releases/download/1.0.0.4/PantheonArchitect.zip]]></Link>
+        <Link SHA256="e7d10561faef728dd1798a2a692ef30adfc525b4548b81c6b57538dfc62b1fd8"><![CDATA[https://codeberg.org/PantheonArchitect/PantheonArchitect/releases/download/1.0.0.4/PantheonArchitect.zip]]></Link>
         <Dependencies />
         <Repository>
-            <![CDATA[https://github.com/ultranumbzz/pantheon-architect]]>
+            <![CDATA[https://codeberg.org/PantheonArchitect/PantheonArchitect]]>
         </Repository>
         <Issues>
-            <![CDATA[https://github.com/ultranumbzz/pantheon-architect/issues]]>
+            <![CDATA[https://codeberg.org/PantheonArchitect/PantheonArchitect/issues]]>
         </Issues>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
         <Authors>
-            <Author>ULTRAnumbz</Author>
+            <Author>PantheonArchitect</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -1414,8 +1456,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>EverySceneUtil</Name>
         <Description>A developer tool for running code on every scene in the game</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="FB530E8CB9680258D87D24C3B41E75D9B47344BE70D382FEBFAF2D56C9F830A2"><![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/releases/download/v1.2.0.0/EverySceneUtil.zip]]></Link>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="8C4010DC8142A8B2C4187B2ADDD593EC3DF3EF639F25426F6501F0B7F456D531"><![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/releases/download/v1.3.0.0/EverySceneUtil.zip]]></Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/EverySceneUtil/]]>
@@ -1540,8 +1582,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.2.3</Version>
-        <Link SHA256="5273E6914DE91803ABF7074B5C2A13FD622453FEB4219FFAF62233BA9D0E8729"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.3/MoreStags.zip]]></Link>
+        <Version>1.1.2.4</Version>
+        <Link SHA256="AAB103E567748E0070834E502E0BD6E485F12C33C5C2734C5EE3641CE66413BB"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.4/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -1833,8 +1875,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>ShuffledCharmEffects</Name>
         <Description>Equipped charms will have randomized effects</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="F9BFB81724F5BC48E2BA705D24B7BAC9D34B0B6144D16C2734F94358F80F9805"><![CDATA[https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.0/ShuffledCharmEffects.zip]]></Link>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="8BEC028DA2AA6C1D49A1494CA1359554A9A80253AE3D289C0DDC327D88A2ADEC"><![CDATA[https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.1/ShuffledCharmEffects.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -8203,7 +8245,7 @@ Enjoy!</Description>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Korzer420/TheHuntIsOn]]>
+            <![CDATA[https://github.com/dplochcoder/TheHuntIsOn]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -8255,9 +8297,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.5.3.0</Version>
-        <Link SHA256="a7ca29532294cd054a91908c657a0e8826fbc0ff915ccf5e9c853768d15e1906">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.3.0/BugPrince.zip]]>
+        <Version>1.5.4.0</Version>
+        <Link SHA256="6dbce68f1d5742ad5bb5356051104f94215167ba0bb5ad85b15c00dfdc598998">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.4.0/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -8286,9 +8328,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.5.2.0</Version>
-        <Link SHA256="cb39db950dfb7760511cf88a9c06fa2329e43339e18353656ca37e308c7f4c5a">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.2.0/DarknessRandomizer.zip]]>
+        <Version>1.5.3.0</Version>
+        <Link SHA256="9267b012230b3c59f8a7c2432cdcecad73c6391afe9ea0bc154fe25055a6b758">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.3.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8335,9 +8377,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Knight of Nights</Name>
         <Description>A mod for the Holloween 2025 plando, with some rando integration.</Description>
-        <Version>2.0.9.0</Version>
-        <Link SHA256="10a903f78d3ed2aa311a0b7c6463882db2b4d2b348d9be82642dfcdc5faa44c1">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.9.0/KnightOfNights.zip]]>
+        <Version>2.0.10.0</Version>
+        <Link SHA256="90d4d2f02513d88d9f06151dbd9a59c2f9156c5cb615634acf1314690cd7000a">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.10.0/Knight.of.Nights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -8367,9 +8409,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.4.2.0</Version>
-        <Link SHA256="26d3d861b39d04bdb5e324a5859cc82f0d6c41522e85d762ad0c844117f17a0e">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.2.0/MoreDoors.zip]]>
+        <Version>3.4.3.0</Version>
+        <Link SHA256="66d19cb7002b500a47012f00f79efb35545dc21e797cc5712ef3cb6f7838b3ee">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.3.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8397,9 +8439,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>2.1.1.0</Version>
-        <Link SHA256="631dcebd371253e83cebd0b41e90ca596fad523625e5b98ac66a39ffb0d842fe">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.1.1.0/PurenailCore.zip]]>
+        <Version>2.2.1.0</Version>
+        <Link SHA256="ebe50b2a3f77328af686509822bd002729c9df80cab9f2404bdaadf5c0947831">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.2.1.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore.Json</Dependency>
@@ -8408,13 +8450,16 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore]]>
         </Repository>
+        <Authors>
+            <Author>Purenail</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Scattered and Lost</Name>
         <Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-        <Version>1.6.6.0</Version>
-        <Link SHA256="792f81e27d30f74df5cb87ee8b59e09fb5bff20dc97251a054588f1e3f210a78">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.6.0/Scattered.and.Lost.zip]]>
+        <Version>1.6.7.0</Version>
+        <Link SHA256="36e135b964f11f429933fdf5838bb994c1688de3524da338e9330d88d5a2ec45">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.7.0/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8493,9 +8538,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SpoilerViewerMod</Name>
         <Description>Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.</Description>
-        <Version>2.13.0.0</Version>
-        <Link SHA256="5b1e276ed3affd88126f4847a96ea81359179252f586a1174cfd5dee949c2e8c">
-            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.13.0/SpoilerViewerMod.zip]]>
+        <Version>2.13.1.0</Version>
+        <Link SHA256="a6d987c43f9ccfcd1ee8dbac4123d79fa18981d24619d5e19dfd1e973a7c0adc">
+            <![CDATA[https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.13.1.0/SpoilerViewerMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8518,9 +8563,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TreasureHunt</Name>
         <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>1.7.3.0</Version>
-        <Link SHA256="4015ee3c26d8f9c459a0dac078b9f4cede7542a89c6c6906b7eedc8ee7e2fc63">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.3.0/TreasureHunt.zip]]>
+        <Version>1.7.4.0</Version>
+        <Link SHA256="3249585cfa8b56716b29d4303b9345ff4fcb688260687cf5a27ebc6f8415269d">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.4.0/TreasureHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -10742,9 +10787,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodhomeQoL</Name>
         <Description>This mod is a large collection of tools designed to help challenge runners with their tasks.</Description>
-        <Version>1.0.1.3</Version>
-        <Link SHA256="a5fc55e3987251b66eec364bfb053be34826b4ab1801b98b1cace4e1a9fdab45">
-            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.1.3/GodhomeQoL.zip]]>
+        <Version>1.0.1.4</Version>
+        <Link SHA256="30113c77f11db5287be6e9673617ca79db5eba6ceae792bc775797f102061e24">
+            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.1.4/GodhomeQoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
@@ -11081,9 +11126,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.35.3.0</Version>
-        <Link SHA256="6205fdc0ee15a7e66aa8a8610222b21e4c7ebf58d2761425d1f85babf552ec8c">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.35.3.0/Architect.zip]]>
+        <Version>3.37.3.4</Version>
+        <Link SHA256="cb0aa5cc7211f054eeaa9ad9aa00b24d33c9d41edd85a19e9779a16af797a03d">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.37.3.4/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12597,8 +12642,8 @@ Enjoy!</Description>
         <Name>Charm Rebalanced</Name>
         <DisplayName>Charm Rebalanced Mod</DisplayName>
         <Description>Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!</Description>
-        <Version>3.0.6.0</Version>
-        <Link SHA256="cd9c8b928c8dd57d8432072c6701738f9f215359eab87f41efe441d630fb22cf"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.6.0/CharmRebalanced.zip]]></Link>
+        <Version>3.0.7.0</Version>
+        <Link SHA256="15c78ed5d2a4a49d2badb58be2d749fb2464cebbe3edad04ec29f3c08dcfccb0"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.7.0/CharmRebalanced.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
@@ -12667,19 +12712,23 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Ghost Macro</Name>
-        <Description>Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="7ab6653de492767c8b9807607ce0afa93fde3f83fd21df31fb8dbf8f5ccd71fd">
-            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v1/Ghost.Macro.dll]]>
+        <Description>Scene-based character recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays</Description>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="08bb6fd32aa4082ab24aa67637bc2ac7ffb3926bfcb7445637cc55b841163f47">
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v2/Ghost.Macro.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
-            <Dependency>MagicUI</Dependency>
-            <Dependency>DebugMod</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/Ghost-Macro/blob/main/ReadMe.md]]>
+        </ReadMe>
+        <Integrations>
+            <Integration>Custom Knight</Integration>
+        </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
@@ -12710,9 +12759,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RespawnPoint Manager</Name>
         <Description>Spawnpoint manager that tracks, saves, render and switches player checkpoints across scenes with quick reset, preset system and custom spawn control</Description>
-        <Version>1.3.0.0</Version>
-        <Link SHA256="01ca59e9f54de1c9c23385db23c1a96edfb8fbf01a371450719cc297734fa5f4">
-            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v3/RespawnPointManager.dll]]>
+        <Version>1.4.0.0</Version>
+        <Link SHA256="db9f0f32701d998c637b9857c8ce58473bd5f1b5aaeac7b710f467baf9a0253e">
+            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v4/RespawnPointManager.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12720,6 +12769,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager/blob/main/ReadMe.md]]>
+        </ReadMe>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -12810,9 +12862,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Another Location</Name>
         <Description>Adds one location to the Randomizer. Terms and Conditions may apply</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256 ="c0e58d784014e470fc3a93f89bfe61a2ec1ce0d85c9d2ada46f2cb68143398c2">
-            <![CDATA[https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.0/AnotherLocation.zip]]>
+        <Version>1.0.0.1</Version>
+        <Link SHA256 ="cbaef0e21c93b5d2771c6b2f1e42dee143da0bba5a8f5e8f57ebd09ee64fbf36">
+            <![CDATA[https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.1/AnotherLocation.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -12958,14 +13010,17 @@ Enjoy!</Description>
     <Manifest>
         <Name>GlobalList Atlas</Name>
         <Description>[Broken on MacOS] Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="da5861f2361c1b051a98d2e0cfe4551b6d7774aac8fe077441864bbac46ff7b8">
-            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1/GlobalListAtlas.dll]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="e565835d4281cc7da6206878d081d9c938f4a12d8d0f97c63d3371fa39283c05">
+            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1.5/GlobalListAtlas.dll]]>
         </Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/blob/main/README.md]]>
+        </ReadMe>
         <Integrations>
             <Integration>DecorationMaster</Integration>
             <Integration>ArchitectLegacy</Integration>
@@ -13137,6 +13192,48 @@ Enjoy!</Description>
         <Authors>
             <Author>Aristocrat</Author>
             <Author>Bobry Cola</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>MusicShuffle</Name>
+        <Description>Shuffles the soundtrack around randomly.</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="97ac7b642db24c492349e1b0ccc8add04672677fa068b425fce907705b321474">
+            <![CDATA[https://github.com/thoughthouse/HollowKnight.MusicShuffle/releases/download/1.0.1.0/MusicShuffle.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/thoughthouse/HollowKnight.MusicShuffle]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>HollowKnightTAS</Name>
+        <Description>A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.</Description>
+        <Version>0.1.5.0</Version>
+        <Link SHA256="ec4f9e53bf70dbcd50e6dc3d48905a7649db8dba459d21dafd12a352962813fa">
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.5/HollowKnightTAS.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://raw.githubusercontent.com/windplusflower/HollowKnightTASMod/main/README.en.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Windflower</Author>
         </Authors>
     </Manifest>
 </ModLinks>
