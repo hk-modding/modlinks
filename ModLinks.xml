@@ -1355,8 +1355,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>LegacyRando</Name>
         <Description>A Randomizer connection for old removed objects</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="D45FCD1D31A6F060BEFD30D15B54326EFDA40F59E6F6E89B770A0E3C41DA956A"><![CDATA[https://github.com/TheMathGeek314/LegacyRando/releases/download/v1.0.0.0/LegacyRando.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="8A59265DDA829021F25931B1A586042DE376FB8F13E4DBAA73B4A6187B27FDB8"><![CDATA[https://github.com/TheMathGeek314/LegacyRando/releases/download/v1.0.1.0/LegacyRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -1778,8 +1778,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>VendorRando</Name>
         <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
-        <Version>1.1.4.1</Version>
-        <Link SHA256="0571BB841DC5D84F8D2E542C6F1DBEEB81B308A0BE4A06F6DBD7D41BDF2B055B"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.4.1/VendorRando.zip]]></Link>
+        <Version>1.1.5.0</Version>
+        <Link SHA256="9397C0FEF8F4489E69E243833C35102C0ACAC4A6853547D2E5F18CE9482E49D1"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.5.0/VendorRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -11427,7 +11427,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>OWO_HollowKnight</Name>
-        <Description>A mod that allows the integration of OWO Skin haptic device with HK</Description>
+        <Description>[STEAM ONLY] A mod that allows the integration of OWO Skin haptic device with HK</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="c40041b5733d3fce3f54cbbfddad63075b34999edebe550aa0970194de9ebe96">
             <![CDATA[https://github.com/OWODevelopers/OWO_HollowKnight/releases/download/1.0.0/OWO_HollowKnight.zip]]></Link>
@@ -12485,9 +12485,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MendBreakables</Name>
         <Description>Repairs certain breakable objects</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="87d1abed4c3d9f033dd71534182dbff2bb828780f370a790e76dfe6f0c03fc90">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.MendBreakables/releases/download/1.0.0.0/MendBreakables.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="5C4C95EE414F7C99F73FB3EE44E457F31DA97942F9AFF381787D02E40FEDC566">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MendBreakables/releases/download/1.0.1.0/MendBreakables.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12759,9 +12759,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RespawnPoint Manager</Name>
         <Description>Spawnpoint manager that tracks, saves, render and switches player checkpoints across scenes with quick reset, preset system and custom spawn control</Description>
-        <Version>1.3.0.0</Version>
-        <Link SHA256="01ca59e9f54de1c9c23385db23c1a96edfb8fbf01a371450719cc297734fa5f4">
-            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v3/RespawnPointManager.dll]]>
+        <Version>1.4.0.0</Version>
+        <Link SHA256="db9f0f32701d998c637b9857c8ce58473bd5f1b5aaeac7b710f467baf9a0253e">
+            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v4/RespawnPointManager.dll]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12769,6 +12769,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/Respawn-Point-Manager/blob/main/ReadMe.md]]>
+        </ReadMe>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
@@ -13006,7 +13009,7 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>GlobalList Atlas</Name>
-        <Description>Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.</Description>
+        <Description>[Broken on MacOS] Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="e565835d4281cc7da6206878d081d9c938f4a12d8d0f97c63d3371fa39283c05">
             <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1.5/GlobalListAtlas.dll]]>
@@ -13230,4 +13233,52 @@ Enjoy!</Description>
             <Tag>Cosmetic</Tag>
         </Tags>
     </Manifest>
+    <Manifest>
+        <Name>HollowKnightTAS</Name>
+        <Description>A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.</Description>
+        <Version>0.1.5.0</Version>
+        <Link SHA256="ec4f9e53bf70dbcd50e6dc3d48905a7649db8dba459d21dafd12a352962813fa">
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.5/HollowKnightTAS.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://raw.githubusercontent.com/windplusflower/HollowKnightTASMod/main/README.en.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Windflower</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+    <Name>VocesDelVacio</Name>
+    <Description>Mod de doblaje al español latino para Hollow Knight</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="558EE0C1342A7A0AB95FD1E335308110D6466CF0BA6BA7DB4DED597648B6A2D5">
+        <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio/releases/download/1.0.0.0/VocesdelVacio.zip]]>
+    </Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+        <Dependency>Core.FsmUtil</Dependency>
+        <Dependency>HKMirror</Dependency>
+        <Dependency>SFCore</Dependency>
+        <Dependency>FrogCore</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio]]>
+    </Repository>
+    <Tags>
+        <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+        <Author>Z-LIVE</Author>
+    </Authors>
+</Manifest>
 </ModLinks>
