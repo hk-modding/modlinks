@@ -13260,4 +13260,26 @@ Enjoy!</Description>
         <Author>Z-LIVE</Author>
     </Authors>
 </Manifest>
+<Manifest>
+    <Name>mahoraga-wheel</Name>
+    <Description>Hollow Knight mod that replaces the Absolute Radiance halo with mahogara's wheel</Description>
+    <Version>1.1.0.0</Version>
+    <Link SHA256="0a7c7d6028e42d2fffcb3ec92562c3c7fd0ff76de3a7542e42100a56d090ed35"><![CDATA[https://github.com/OsHK00/mahoraga-halo/releases/download/v1.1.0/mahoraga-halo.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+        <Dependency>ModCommon</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/OsHK00/mahoraga-halo]]>
+    </Repository>
+    <Issues>
+        <![CDATA[https://github.com/OsHK00/mahoraga-halo/issues]]>
+    </Issues>
+    <Tags>
+        <Tag>Cosmetic</Tag>
+    </Tags>
+    <Authors>
+        <Author>OscarHK</Author>
+    </Authors>
+</Manifest>
 </ModLinks>
