@@ -13215,9 +13215,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HollowKnightTAS</Name>
         <Description>A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.</Description>
-        <Version>0.1.5.0</Version>
-        <Link SHA256="ec4f9e53bf70dbcd50e6dc3d48905a7649db8dba459d21dafd12a352962813fa">
-            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.5/HollowKnightTAS.zip]]>
+        <Version>0.1.7.0</Version>
+        <Link SHA256="af993061af51ef7ed12804704dec0fbf250f06e8a519e395d2dc1a3f243ce58f">
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.7/HollowKnightTAS.zip]]>
         </Link>
         <Dependencies />
         <Repository>
