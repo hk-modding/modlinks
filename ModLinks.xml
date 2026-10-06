@@ -12981,10 +12981,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Teleport Master</Name>
-        <Description>Highlights rooms tracked by DecorationMaster/Architect and teleport there instantly, supports Full Map mode, and plays nicely with Additional Maps. </Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="d79ecf1f55b55a95d8d5c1e4385b4dd6233669a9e5be52225c231742e7eec35b">
-            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/v1/TeleportMaster.dll]]>
+        <Description>Teleport to any room by clicking it on the map, highlight rooms with DecorationMaster/Architect decorations or a custom palette, and use Full Map mode with Additional Maps support. With HKMP, the host can disable teleport or take away maps for all players. </Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="dd2a1b08d61463b815b4bbd9453e9a63ca497459f1b75d58ec94307051dfcdce">
+            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/v1.5/TeleportMaster.dll]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
@@ -12995,12 +12995,17 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/blob/main/ReadMe.md]]>
+        </ReadMe>
         <Integrations>
             <Integration>DecorationMaster</Integration>
             <Integration>ArchitectLegacy</Integration>
             <Integration>Architect</Integration>
+            <Integration>HKMP</Integration>
         </Integrations>
         <Tags>
+            <Tag>Gameplay</Tag>
             <Tag>Utility</Tag>
         </Tags>
         <Authors>
@@ -13216,9 +13221,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HollowKnightTAS</Name>
         <Description>A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.</Description>
-        <Version>0.1.5.0</Version>
-        <Link SHA256="ec4f9e53bf70dbcd50e6dc3d48905a7649db8dba459d21dafd12a352962813fa">
-            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.5/HollowKnightTAS.zip]]>
+        <Version>0.1.7.0</Version>
+        <Link SHA256="af993061af51ef7ed12804704dec0fbf250f06e8a519e395d2dc1a3f243ce58f">
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.7/HollowKnightTAS.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -13238,27 +13243,49 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-    <Name>VocesDelVacio</Name>
-    <Description>Mod de doblaje al español latino para Hollow Knight</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="558EE0C1342A7A0AB95FD1E335308110D6466CF0BA6BA7DB4DED597648B6A2D5">
-        <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio/releases/download/1.0.0.0/VocesdelVacio.zip]]>
-    </Link>
-    <Dependencies>
-        <Dependency>Satchel</Dependency>
-        <Dependency>Core.FsmUtil</Dependency>
-        <Dependency>HKMirror</Dependency>
-        <Dependency>SFCore</Dependency>
-        <Dependency>FrogCore</Dependency>
-    </Dependencies>
-    <Repository>
-        <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio]]>
-    </Repository>
-    <Tags>
-        <Tag>Gameplay</Tag>
-    </Tags>
-    <Authors>
-        <Author>Z-LIVE</Author>
-    </Authors>
-</Manifest>
+        <Name>VocesDelVacio</Name>
+        <Description>Mod de doblaje al español latino para Hollow Knight</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="558EE0C1342A7A0AB95FD1E335308110D6466CF0BA6BA7DB4DED597648B6A2D5">
+            <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio/releases/download/1.0.0.0/VocesdelVacio.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Core.FsmUtil</Dependency>
+            <Dependency>HKMirror</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>FrogCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Z-LIVE</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>mahoraga-wheel</Name>
+        <Description>Hollow Knight mod that replaces the Absolute Radiance halo with mahogara's wheel</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="0a7c7d6028e42d2fffcb3ec92562c3c7fd0ff76de3a7542e42100a56d090ed35"><![CDATA[https://github.com/OsHK00/mahoraga-halo/releases/download/v1.1.0/mahoraga-halo.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ModCommon</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/OsHK00/mahoraga-halo]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/OsHK00/mahoraga-halo/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>OscarHK</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
