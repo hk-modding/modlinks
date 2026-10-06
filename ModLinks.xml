@@ -13157,6 +13157,27 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>HKMP.Rounds</Name>
+        <Description>An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="3520782b87871219d7986f8484be7ee75cddbefe52582177fba1fdb15dbc57b0">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds/releases/download/1.1.0.0/HKMP.Rounds.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Aristocrat</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>HKMP.Timer</Name>
         <Description>Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.</Description>
         <Version>1.1.0.0</Version>
