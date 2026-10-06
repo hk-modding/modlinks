@@ -12981,10 +12981,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Teleport Master</Name>
-        <Description>Highlights rooms tracked by DecorationMaster/Architect and teleport there instantly, supports Full Map mode, and plays nicely with Additional Maps. </Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="d79ecf1f55b55a95d8d5c1e4385b4dd6233669a9e5be52225c231742e7eec35b">
-            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/v1/TeleportMaster.dll]]>
+        <Description>Teleport to any room by clicking it on the map, highlight rooms with DecorationMaster/Architect decorations or a custom palette, and use Full Map mode with Additional Maps support. With HKMP, the host can disable teleport or take away maps for all players. </Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="dd2a1b08d61463b815b4bbd9453e9a63ca497459f1b75d58ec94307051dfcdce">
+            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/v1.5/TeleportMaster.dll]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
@@ -12995,12 +12995,17 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/blob/main/ReadMe.md]]>
+        </ReadMe>
         <Integrations>
             <Integration>DecorationMaster</Integration>
             <Integration>ArchitectLegacy</Integration>
             <Integration>Architect</Integration>
+            <Integration>HKMP</Integration>
         </Integrations>
         <Tags>
+            <Tag>Gameplay</Tag>
             <Tag>Utility</Tag>
         </Tags>
         <Authors>
@@ -13009,10 +13014,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>GlobalList Atlas</Name>
-        <Description>[Broken on MacOS] Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="e565835d4281cc7da6206878d081d9c938f4a12d8d0f97c63d3371fa39283c05">
-            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1.5/GlobalListAtlas.dll]]>
+        <Description>Connects to the community's global spreadsheet archive of fan-made rated maps and the public Architect server catalog. Browse and filter maps by editor, tags, rating, verification status and league, then download, install and launch them from an in-game menu, including required editors and public mods.</Description>
+        <Version>2.5.0.0</Version>
+        <Link SHA256="a9770b275eb5975442755f763e6f7823f47debb03b16b656da33d7f6931631bc">
+            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v2.5/GlobalListAtlas.dll]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -13025,6 +13030,7 @@ Enjoy!</Description>
             <Integration>DecorationMaster</Integration>
             <Integration>ArchitectLegacy</Integration>
             <Integration>Architect</Integration>
+            <Integration>Teleport Master</Integration>
         </Integrations>
         <Tags>
             <Tag>Utility</Tag>
