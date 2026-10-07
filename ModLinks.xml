@@ -1355,8 +1355,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>LegacyRando</Name>
         <Description>A Randomizer connection for old removed objects</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="D45FCD1D31A6F060BEFD30D15B54326EFDA40F59E6F6E89B770A0E3C41DA956A"><![CDATA[https://github.com/TheMathGeek314/LegacyRando/releases/download/v1.0.0.0/LegacyRando.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="8A59265DDA829021F25931B1A586042DE376FB8F13E4DBAA73B4A6187B27FDB8"><![CDATA[https://github.com/TheMathGeek314/LegacyRando/releases/download/v1.0.1.0/LegacyRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -1778,8 +1778,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>VendorRando</Name>
         <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
-        <Version>1.1.4.1</Version>
-        <Link SHA256="0571BB841DC5D84F8D2E542C6F1DBEEB81B308A0BE4A06F6DBD7D41BDF2B055B"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.4.1/VendorRando.zip]]></Link>
+        <Version>1.1.5.0</Version>
+        <Link SHA256="9397C0FEF8F4489E69E243833C35102C0ACAC4A6853547D2E5F18CE9482E49D1"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.5.0/VendorRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -10767,9 +10767,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ReplayLogger</Name>
         <Description>ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.</Description>
-        <Version>1.1.0.6</Version>
-        <Link SHA256="29ed3e8c93b8150751b7b8d2b7c4df6e309a13450152199408940bc5b77727ac">
-            <![CDATA[https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.1.0.6/ReplayLogger.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="e1d26c37854be5ce357e315f6f5dabb11730c5889bfcf79b06578bd4d9c2aefc">
+            <![CDATA[https://github.com/NightFuryoOo/ReplayLogger/releases/download/v2.0.0.0/ReplayLogger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12485,9 +12485,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MendBreakables</Name>
         <Description>Repairs certain breakable objects</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="87d1abed4c3d9f033dd71534182dbff2bb828780f370a790e76dfe6f0c03fc90">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.MendBreakables/releases/download/1.0.0.0/MendBreakables.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="5C4C95EE414F7C99F73FB3EE44E457F31DA97942F9AFF381787D02E40FEDC566">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.MendBreakables/releases/download/1.0.1.0/MendBreakables.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12981,10 +12981,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Teleport Master</Name>
-        <Description>Highlights rooms tracked by DecorationMaster/Architect and teleport there instantly, supports Full Map mode, and plays nicely with Additional Maps. </Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="d79ecf1f55b55a95d8d5c1e4385b4dd6233669a9e5be52225c231742e7eec35b">
-            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/v1/TeleportMaster.dll]]>
+        <Description>Teleport to any room by clicking it on the map, highlight rooms with DecorationMaster/Architect decorations or a custom palette, and use Full Map mode with Additional Maps support. With HKMP, the host can disable teleport or take away maps for all players. </Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="dd2a1b08d61463b815b4bbd9453e9a63ca497459f1b75d58ec94307051dfcdce">
+            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/v1.5/TeleportMaster.dll]]>
         </Link>
         <Dependencies>
             <Dependency>MapChanger</Dependency>
@@ -12995,12 +12995,17 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master]]>
         </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/blob/main/ReadMe.md]]>
+        </ReadMe>
         <Integrations>
             <Integration>DecorationMaster</Integration>
             <Integration>ArchitectLegacy</Integration>
             <Integration>Architect</Integration>
+            <Integration>HKMP</Integration>
         </Integrations>
         <Tags>
+            <Tag>Gameplay</Tag>
             <Tag>Utility</Tag>
         </Tags>
         <Authors>
@@ -13009,10 +13014,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>GlobalList Atlas</Name>
-        <Description>[Broken on MacOS] Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="e565835d4281cc7da6206878d081d9c938f4a12d8d0f97c63d3371fa39283c05">
-            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1.5/GlobalListAtlas.dll]]>
+        <Description>Connects to the community's global spreadsheet archive of fan-made rated maps and the public Architect server catalog. Browse and filter maps by editor, tags, rating, verification status and league, then download, install and launch them from an in-game menu, including required editors and public mods.</Description>
+        <Version>2.5.0.0</Version>
+        <Link SHA256="a9770b275eb5975442755f763e6f7823f47debb03b16b656da33d7f6931631bc">
+            <![CDATA[https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v2.5/GlobalListAtlas.dll]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -13025,6 +13030,7 @@ Enjoy!</Description>
             <Integration>DecorationMaster</Integration>
             <Integration>ArchitectLegacy</Integration>
             <Integration>Architect</Integration>
+            <Integration>Teleport Master</Integration>
         </Integrations>
         <Tags>
             <Tag>Utility</Tag>
@@ -13151,11 +13157,32 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>HKMP.Rounds</Name>
+        <Description>An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="3520782b87871219d7986f8484be7ee75cddbefe52582177fba1fdb15dbc57b0">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds/releases/download/1.1.0.0/HKMP.Rounds.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Aristocrat</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>HKMP.Timer</Name>
-        <Description>Synchronized timer for Hollow Knight multiplayer through HKMP.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="a296e6679cd8c6a0a524613873af33c2137a53d538510bdbad988abb5f2d413e">
-            <![CDATA[https://github.com/aristocrat27/HKMP.Timer/releases/download/Release/HKMP.Timer.zip]]>
+        <Description>Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="530f38ae68d60c3ef01d5913c9afc835e4ce4067c0d7f47a43b78fc68d438ba5">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Timer/releases/download/1.1.0.0/HKMP.Timer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -13215,9 +13242,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HollowKnightTAS</Name>
         <Description>A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.</Description>
-        <Version>0.1.5.0</Version>
-        <Link SHA256="ec4f9e53bf70dbcd50e6dc3d48905a7649db8dba459d21dafd12a352962813fa">
-            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.5/HollowKnightTAS.zip]]>
+        <Version>0.1.7.0</Version>
+        <Link SHA256="af993061af51ef7ed12804704dec0fbf250f06e8a519e395d2dc1a3f243ce58f">
+            <![CDATA[https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.7/HollowKnightTAS.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -13237,11 +13264,57 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>VocesDelVacio</Name>
+        <Description>Mod de doblaje al español latino para Hollow Knight</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="558EE0C1342A7A0AB95FD1E335308110D6466CF0BA6BA7DB4DED597648B6A2D5">
+            <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio/releases/download/1.0.0.0/VocesdelVacio.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Core.FsmUtil</Dependency>
+            <Dependency>HKMirror</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>FrogCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Z-LIVE</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>mahoraga-wheel</Name>
+        <Description>Hollow Knight mod that replaces the Absolute Radiance halo with mahogara's wheel</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="0a7c7d6028e42d2fffcb3ec92562c3c7fd0ff76de3a7542e42100a56d090ed35"><![CDATA[https://github.com/OsHK00/mahoraga-halo/releases/download/v1.1.0/mahoraga-halo.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ModCommon</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/OsHK00/mahoraga-halo]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/OsHK00/mahoraga-halo/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>OscarHK</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Hollow Knight 8-Player Co-op</Name>
         <DisplayName>Hollow Knight 8-Player Co-op</DisplayName>
-        <Description>True local co-op for Hollow Knight. Play with 2-8 players in the same game world with shared enemies, bosses and progression.</Description>
-        <Version>0.9.0.0</Version>
-        <Link SHA256="4EAF5176D980C1BF9E7D090E66D0657EAD5C3D304B115FC21E3779BFEF0CDD49"><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.9.0/HollowKnightLocal8-v0.9.0.zip]]></Link>
+        <Description>Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.</Description>
+        <Version>0.10.0.0</Version>
+        <Link SHA256="4B14E65C60C0AD8A1F02E84D421901963F63AF623300FD3612B1FB103F9B3397"><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.10.0/HollowKnightLocal8-v0.10.0.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8]]></Repository>
         <ReadMe><![CDATA[https://raw.githubusercontent.com/RaulSB-code/HollowKnight-Local8/main/README.md]]></ReadMe>
@@ -13257,28 +13330,4 @@ Enjoy!</Description>
             <Author>RaulSB-code</Author>
         </Authors>
     </Manifest>
-    <Manifest>
-    <Name>VocesDelVacio</Name>
-    <Description>Mod de doblaje al español latino para Hollow Knight</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="558EE0C1342A7A0AB95FD1E335308110D6466CF0BA6BA7DB4DED597648B6A2D5">
-        <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio/releases/download/1.0.0.0/VocesdelVacio.zip]]>
-    </Link>
-    <Dependencies>
-        <Dependency>Satchel</Dependency>
-        <Dependency>Core.FsmUtil</Dependency>
-        <Dependency>HKMirror</Dependency>
-        <Dependency>SFCore</Dependency>
-        <Dependency>FrogCore</Dependency>
-    </Dependencies>
-    <Repository>
-        <![CDATA[https://github.com/smartmovil825-beep/VocesdelVacio]]>
-    </Repository>
-    <Tags>
-        <Tag>Gameplay</Tag>
-    </Tags>
-    <Authors>
-        <Author>Z-LIVE</Author>
-    </Authors>
-</Manifest>
 </ModLinks>
