@@ -13309,4 +13309,17 @@ Enjoy!</Description>
             <Author>OscarHK</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Hollow Knight Native Rumble — macOS</Name>
+        <DisplayName>Hollow Knight Native Rumble — macOS</DisplayName>
+        <Description>Native macOS controller rumble for Hollow Knight 1.5.75. Works through Rosetta. Tested with 8BitDo Ultimate 2. Supports only macOS builds.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="8093aaf4b64a12127abdc13e127db562dc53b0155cf5f796bd6757c4ff42c87d"><![CDATA[https://github.com/Last1kkk/hollow-knight-native-rumble/releases/download/v1.0.0/Hollow-Knight-Native-Rumble-v1.0.0.zip]]></Link>
+        <Dependencies/>
+        <Repository><![CDATA[https://github.com/Last1kkk/hollow-knight-native-rumble]]></Repository>
+        <Issues><![CDATA[https://github.com/Last1kkk/hollow-knight-native-rumble/issues]]></Issues>
+        <Authors>
+            <Author>Last1kkk</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
