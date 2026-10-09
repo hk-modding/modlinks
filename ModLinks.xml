@@ -11126,9 +11126,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.37.3.4</Version>
-        <Link SHA256="cb0aa5cc7211f054eeaa9ad9aa00b24d33c9d41edd85a19e9779a16af797a03d">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.37.3.4/Architect.zip]]>
+        <Version>3.38.0.0</Version>
+        <Link SHA256="fae1d7a9a2a199561f707bf5a84c4bd5a9c4ae4e4c30a2f8717a7e884dc62104">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.38.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -13149,6 +13149,27 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/Ishmael-GameDev/Instawings-Helper]]>
         </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>BetterScreenShot</Name>
+        <Description>Press Print Screen to freeze the game, zoom out up to ×25, and save any area of the room at full resolution to a file or the clipboard. </Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="2d22fe7934c69bdcb0cc92f3ad1934fe7acea9c2f5cba94467f24885618498a2">
+            <![CDATA[https://github.com/Ishmael-GameDev/BetterScreenShot/releases/download/v1/BetterScreenShot.dll]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/BetterScreenShot]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/BetterScreenShot/blob/main/ReadMe.md]]>
+        </ReadMe>
         <Tags>
             <Tag>Utility</Tag>
         </Tags>
