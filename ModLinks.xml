@@ -13157,6 +13157,27 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>BetterScreenShot</Name>
+        <Description>Press Print Screen to freeze the game, zoom out up to ×25, and save any area of the room at full resolution to a file or the clipboard. </Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="2d22fe7934c69bdcb0cc92f3ad1934fe7acea9c2f5cba94467f24885618498a2">
+            <![CDATA[https://github.com/Ishmael-GameDev/BetterScreenShot/releases/download/v1/BetterScreenShot.dll]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/BetterScreenShot]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Ishmael-GameDev/BetterScreenShot/blob/main/ReadMe.md]]>
+        </ReadMe>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>HKMP.Rounds</Name>
         <Description>An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.</Description>
         <Version>1.1.0.0</Version>
