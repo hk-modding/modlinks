@@ -13031,6 +13031,7 @@ Enjoy!</Description>
             <Integration>ArchitectLegacy</Integration>
             <Integration>Architect</Integration>
             <Integration>Teleport Master</Integration>
+            <Integration>HKMP</Integration>
         </Integrations>
         <Tags>
             <Tag>Utility</Tag>
