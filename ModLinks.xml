@@ -10777,6 +10777,9 @@ Enjoy!</Description>
         <Repository>
             <![CDATA[https://github.com/NightFuryoOo/ReplayLogger]]>
         </Repository>
+        <Tags>
+            <Tag>LLM-Assisted</Tag>
+        </Tags>
         <Authors>
             <Author>NightFuryo3o</Author>
             <Author>Egir</Author>
