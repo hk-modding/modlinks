@@ -96,6 +96,7 @@ If you are familiar with common Git and GitHub workflows, this approach may be m
         <Tag>Gameplay</Tag>
         <Tag>Joke</Tag>
         <Tag>Library</Tag>
+        <Tag>LLM-Assisted</Tag>
         <Tag>Optimization</Tag>
         <Tag>Utility</Tag>
     </Tags>
