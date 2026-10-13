@@ -7851,6 +7851,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/ygsbzr/PathOfPureVessel/releases/download/v1.0/PathOfPureVessel.zip]]>
         </Link>
         <Dependencies>
+            <Dependency>HKTool</Dependency>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
