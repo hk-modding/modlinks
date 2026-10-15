@@ -11130,9 +11130,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.38.1.0</Version>
-        <Link SHA256="5e25a6baed6ab07f121f18a593a17f7b520a3d3a83b708155874f59bf673c8ec">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.38.1.0/Architect.zip]]>
+        <Version>3.39.0.0</Version>
+        <Link SHA256="713b1a1de9c3772146b8ac08e705803a452a4e67d2c6ad3f37cf124f4223b892">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.39.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -13251,8 +13251,8 @@ Enjoy!</Description>
         <Name>MusicShuffle</Name>
         <Description>Shuffles the soundtrack around randomly.</Description>
         <Version>1.0.1.0</Version>
-        <Link SHA256="97ac7b642db24c492349e1b0ccc8add04672677fa068b425fce907705b321474">
-            <![CDATA[https://github.com/thoughthouse/HollowKnight.MusicShuffle/releases/download/1.0.1.0/MusicShuffle.zip]]>
+        <Link SHA256="6087ce0199238b9738846c1af1f3f9f9e2d152f26bbe7e876cb0aab755b6601d">
+            <![CDATA[https://github.com/thoughthouse/HollowKnight.MusicShuffle/releases/download/1.0.2.0/MusicShuffle.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
