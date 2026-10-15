@@ -13251,8 +13251,8 @@ Enjoy!</Description>
         <Name>MusicShuffle</Name>
         <Description>Shuffles the soundtrack around randomly.</Description>
         <Version>1.0.1.0</Version>
-        <Link SHA256="97ac7b642db24c492349e1b0ccc8add04672677fa068b425fce907705b321474">
-            <![CDATA[https://github.com/thoughthouse/HollowKnight.MusicShuffle/releases/download/1.0.1.0/MusicShuffle.zip]]>
+        <Link SHA256="6087ce0199238b9738846c1af1f3f9f9e2d152f26bbe7e876cb0aab755b6601d">
+            <![CDATA[https://github.com/thoughthouse/HollowKnight.MusicShuffle/releases/download/1.0.2.0/MusicShuffle.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
