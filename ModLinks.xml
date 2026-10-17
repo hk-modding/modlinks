@@ -4,6 +4,25 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>TerrariaArsenal</Name>
+        <DisplayName>Hollow Knight: But Terraria Wanted Me to Play It, So It Took My Game and Forced Me to Play It</DisplayName>
+        <Description>Play Hollow Knight as a Terraria character: 36 Terraria weapons (melee, ranged, magic, summoner with whips) from chests after bosses, Terraria accessories instead of movement abilities, Terraria boss bar, character creator and Terraria music. Requires Terraria installed - all Terraria assets are loaded from your own copy.</Description>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="C5CEAB8462FC32F2F5B38D18A4DE2C2C90B4CED73094381A94E034BB0B5C204D"><![CDATA[https://raw.githubusercontent.com/Kaenari/Hollow-Knight-But-Terraria-Wanted-Me-to-Play-It-So-It-Took-My-Game-and-Forced-Me-to-Play-It/afd0095fa9b1ea9be48a5a09cbde15181d193def/release/TerrariaArsenal_1.0.2.0.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/Kaenari/Hollow-Knight-But-Terraria-Wanted-Me-to-Play-It-So-It-Took-My-Game-and-Forced-Me-to-Play-It]]>
+        </Repository>
+        <Tags>
+            <Tag>Expansion</Tag>
+            <Tag>Gameplay</Tag>
+            <Tag>LLM-Assisted</Tag>
+        </Tags>
+        <Authors>
+            <Author>Kaenari</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>BetterParrying</Name>
         <DisplayName>BetterParrying</DisplayName>
         <Description>Simplifies the game's parrying mechanics.</Description>
