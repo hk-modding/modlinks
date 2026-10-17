@@ -13393,9 +13393,10 @@ Enjoy!</Description>
             <Tag>Gameplay</Tag>
             <Tag>Joke</Tag>
         </Tags>
-  </Manifest>
         <Authors>
             <Author>MuffinCakes65</Author>
+        </Authors>
+    </Manifest>
         <Name>HKMP.List</Name>
         <Description>An HKMP addon for displaying the player list and managing host settings.</Description>
         <Version>1.0.0.0</Version>
