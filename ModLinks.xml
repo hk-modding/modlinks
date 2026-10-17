@@ -13357,4 +13357,25 @@ Enjoy!</Description>
             <Author>RaulSB-code</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Bullshittery</Name>
+        <DisplayName>Bullshittery</DisplayName>
+        <Description>Adds probably the most random features you've ever seen, ranging from simple features to jawdropping bullshit</Description>
+        <Version>1.4.69.3</Version>
+        <Link SHA256="D2D399D32972A154128846BDB76BFC8A35107EC941733F431B4DA459C57CFA54"><![CDATA[https://github.com/ChadMcOrgans2022/Bullshittery/releases/download/v1.4.69.3/Bullshittery.1.4.69.3.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/ChadMcOrgans2022/Bullshittery]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ChadMcOrgans2022/Bullshitteryissues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Meme</Tag>
+        </Tags>
+        <Authors>
+            <Author>MuffinCakes65</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
