@@ -13380,14 +13380,14 @@ Enjoy!</Description>
         <Name>Bullshittery</Name>
         <DisplayName>Bullshittery</DisplayName>
         <Description>Adds probably the most random features you've ever seen, ranging from simple features to jawdropping bullshit</Description>
-        <Version>1.4.69.3</Version>
-        <Link SHA256="D2D399D32972A154128846BDB76BFC8A35107EC941733F431B4DA459C57CFA54"><![CDATA[https://github.com/ChadMcOrgans2022/Bullshittery/releases/download/v1.4.69.3/Bullshittery.1.4.69.3.zip]]></Link>
+        <Version>1.5.69.5</Version>
+        <Link SHA256="e8fc9f3a2ea38ce902b505e22580e7bd767b9b3e18d1a6e979855e4529a9e4f8"><![CDATA[https://github.com/ChadMcOrgans2022/Bullshittery/releases/download/v1.5.69.5/Bullshittery.1.5.69.5.zip]]></Link>
         <Dependencies/>
         <Repository>
             <![CDATA[https://github.com/ChadMcOrgans2022/Bullshittery]]>
         </Repository>
         <Issues>
-            <![CDATA[https://github.com/ChadMcOrgans2022/Bullshitteryissues]]>
+            <![CDATA[https://github.com/ChadMcOrgans2022/Bullshittery/issues]]>
         </Issues>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -13397,6 +13397,7 @@ Enjoy!</Description>
             <Author>MuffinCakes65</Author>
         </Authors>
     </Manifest>
+    <Manifest>
         <Name>HKMP.List</Name>
         <Description>An HKMP addon for displaying the player list and managing host settings.</Description>
         <Version>1.0.0.0</Version>
