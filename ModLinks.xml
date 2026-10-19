@@ -13377,6 +13377,27 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Bullshittery</Name>
+        <DisplayName>Bullshittery</DisplayName>
+        <Description>Adds probably the most random features you've ever seen, ranging from simple features to jawdropping bullshit</Description>
+        <Version>1.5.69.5</Version>
+        <Link SHA256="e8fc9f3a2ea38ce902b505e22580e7bd767b9b3e18d1a6e979855e4529a9e4f8"><![CDATA[https://github.com/ChadMcOrgans2022/Bullshittery/releases/download/v1.5.69.5/Bullshittery.1.5.69.5.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/ChadMcOrgans2022/Bullshittery]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ChadMcOrgans2022/Bullshittery/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Joke</Tag>
+        </Tags>
+        <Authors>
+            <Author>MuffinCakes65</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>HKMP.List</Name>
         <Description>An HKMP addon for displaying the player list and managing host settings.</Description>
         <Version>1.0.0.0</Version>
@@ -13398,6 +13419,27 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Aristocrat</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>GreenKnight</Name>
+        <DisplayName>Green Knight</DisplayName>
+        <Description>A mod which literally just makes the Knight green</Description>
+        <Version>1.0.255.0</Version>
+        <Link SHA256="d2c8879f72128b5e514c03ae9929077a8ad19f6f0627bf4ee953fa2e2d65beee"><![CDATA[https://github.com/ChadMcOrgans2022/GreenKnight/releases/download/v1.0.255.0/GreenKnight.1.0.255.0.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/ChadMcOrgans2022/GreenKnight]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ChadMcOrgans2022/GreenKnight/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Joke</Tag>
+        </Tags>
+        <Authors>
+            <Author>MuffinCakes65</Author>
         </Authors>
     </Manifest>
 </ModLinks>
