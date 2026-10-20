@@ -11321,10 +11321,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>CustomizableAbilities</Name>
-        <Description>Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.</Description>
-        <Version>1.3.4.1</Version>
-        <Link SHA256="ce975c343efc70596115ef0c3f3da7254e6f4fc272f521699aec0b37697adb5e">
-            <![CDATA[https://github.com/kon4ino/CustomizableAbilities/releases/download/1.3.4.1/CustomizableNailDamage.zip]]>
+        <Description>Mod that allows you to change the abilities: nail negative and fractional damage; amount of SOUL gaining from hits; dream nail damage and SOUL gain; spells; crystal dash damage; focus cost and focus time. Negative damage will heal enemies.</Description>
+        <Version>1.4.0.0</Version>
+        <Link SHA256="cb18cd40c69bf4477943dc900aee3079b954a5584fd6b6d5a98b21994cbed6e3">
+            <![CDATA[https://github.com/kon4ino/CustomizableAbilities/releases/download/1.4.0.0/CustomizableNailDamage.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
