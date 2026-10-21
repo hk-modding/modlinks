@@ -13204,9 +13204,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.Rounds</Name>
         <Description>An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="3520782b87871219d7986f8484be7ee75cddbefe52582177fba1fdb15dbc57b0">
-            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds/releases/download/1.1.0.0/HKMP.Rounds.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="23b8850e28e21fd33148b8b1df07800a3aabd81a69307af7064f8cf9e7990e0d">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds/releases/download/1.2.0.0/HKMP.Rounds.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
