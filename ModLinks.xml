@@ -892,8 +892,8 @@
     <Manifest>
         <Name>Wrong Gravity</Name>
         <Description>Hallownest? Hɐlloʍuǝsʇ!</Description>
-        <Version>1.0.0.8</Version>
-        <Link SHA256="80D50BDF72FE7FFD9A3CEFDB557475E63F4EF616C2ACCDA97A794D046D64B03D"><![CDATA[https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.8/WrongGravity.zip]]></Link>
+        <Version>1.0.0.9</Version>
+        <Link SHA256="C4B5C4A4C468288229855806567C5CD10F3DFBE6420A0BE7E371B86C944BA616"><![CDATA[https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.9/WrongGravity.zip]]></Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
