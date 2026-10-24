@@ -13359,8 +13359,8 @@ Enjoy!</Description>
         <Name>Hollow Knight 8-Player Co-op</Name>
         <DisplayName>Hollow Knight 8-Player Co-op</DisplayName>
         <Description>Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.</Description>
-        <Version>0.11.1.0</Version>
-        <Link SHA256="CF8A67C3256F7CC89F5645634EE2BD26DD539F19B9B22933A51F40F771D98D69"><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.11.1/HollowKnightLocal8-v0.11.1.zip]]></Link>
+        <Version>0.11.2.0</Version>
+        <Link SHA256="62FB936525F5A6A704A3C6854CBFC289C258F3DFD84A0148DEE4732BA9EDCB8A"><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.11.2/HollowKnightLocal8-v0.11.2.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8]]></Repository>
         <ReadMe><![CDATA[https://raw.githubusercontent.com/RaulSB-code/HollowKnight-Local8/main/README.md]]></ReadMe>
