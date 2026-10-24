@@ -3,7 +3,7 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
-        <Manifest>
+    <Manifest>
         <Name>BadApple</Name>
         <DisplayName>Bad Apple!!</DisplayName>
         <Description>Plays the Bad Apple!! shadow-art music video on a loop over the whole game. You can only see the game through the inside of the silhouettes. Purely visual, with optional music, background and size settings.</Description>
