@@ -13442,4 +13442,28 @@ Enjoy!</Description>
             <Author>MuffinCakes65</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>HKMP.Spectator</Name>
+        <Description>An HKMP addon that adds a spectator mode, free-cam, player tracking, and integration with HKMP.Rounds.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="f599994ca2fa5e7c814815b277c722546596da8978701508fd3b7f1a48d65b47">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Spectator/releases/download/Release/HKMP.Spectator.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/aristocrat27/HKMP.Spectator]]>
+        </Repository>
+<Integrations>
+        <Integration>HKMP.Rounds</Integration>
+    </Integrations>
+        <Tags>
+            <Tag>Accessibility</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Aristocrat</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
