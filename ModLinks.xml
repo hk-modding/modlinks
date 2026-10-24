@@ -4,6 +4,30 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>BadApple</Name>
+        <DisplayName>Bad Apple!!</DisplayName>
+        <Description>Plays the Bad Apple!! shadow-art music video on a loop over the whole game. You can only see the game through the inside of the silhouettes. Purely visual, with optional music, background and size settings.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="c6d0328d8ce100a6e3b0420766b6dafc80d6cfd74fc50532defff810c7bc6a3f"><![CDATA[https://github.com/Dreamy-Catty/HollowKnight.BadApple/releases/download/v1.0.0.0/BadApple.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Dreamy-Catty/HollowKnight.BadApple]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Dreamy-Catty/HollowKnight.BadApple/raw/refs/heads/main/README.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/Dreamy-Catty/HollowKnight.BadApple/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+            <Tag>Joke</Tag>
+        </Tags>
+        <Authors>
+            <Author>Dreamy-Catty</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>TerrariaArsenal</Name>
         <DisplayName>Hollow Knight: But Terraria Wanted Me to Play It, So It Took My Game and Forced Me to Play It</DisplayName>
         <Description>Play Hollow Knight as a Terraria character: 36 Terraria weapons (melee, ranged, magic, summoner with whips) from chests after bosses, Terraria accessories instead of movement abilities, Terraria boss bar, character creator and Terraria music. Requires Terraria installed - all Terraria assets are loaded from your own copy.</Description>
