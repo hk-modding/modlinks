@@ -916,8 +916,8 @@
     <Manifest>
         <Name>Wrong Gravity</Name>
         <Description>Hallownest? Hɐlloʍuǝsʇ!</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="A95BCAE12E8DD96EEA1D1107A3CB71D3090525CE864BFBF6E34E3BCB542D5137"><![CDATA[https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.0/WrongGravity.zip]]></Link>
+        <Version>1.0.0.9</Version>
+        <Link SHA256="C4B5C4A4C468288229855806567C5CD10F3DFBE6420A0BE7E371B86C944BA616"><![CDATA[https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.9/WrongGravity.zip]]></Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
@@ -11173,9 +11173,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.39.3.0</Version>
-        <Link SHA256="3f7234cbab8b7f9232eedeaf6470ea9de44fc2ed2eda81f5870a168e8754344a">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.39.3.0/Architect.zip]]>
+        <Version>3.39.4.0</Version>
+        <Link SHA256="eab9253c633885cb832654bc849c07805b325b55abb806dba22f183dbe8e210d">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.39.4.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -13383,8 +13383,8 @@ Enjoy!</Description>
         <Name>Hollow Knight 8-Player Co-op</Name>
         <DisplayName>Hollow Knight 8-Player Co-op</DisplayName>
         <Description>Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.</Description>
-        <Version>0.11.1.0</Version>
-        <Link SHA256="CF8A67C3256F7CC89F5645634EE2BD26DD539F19B9B22933A51F40F771D98D69"><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.11.1/HollowKnightLocal8-v0.11.1.zip]]></Link>
+        <Version>0.11.2.0</Version>
+        <Link SHA256="62FB936525F5A6A704A3C6854CBFC289C258F3DFD84A0148DEE4732BA9EDCB8A"><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.11.2/HollowKnightLocal8-v0.11.2.zip]]></Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/RaulSB-code/HollowKnight-Local8]]></Repository>
         <ReadMe><![CDATA[https://raw.githubusercontent.com/RaulSB-code/HollowKnight-Local8/main/README.md]]></ReadMe>
@@ -13464,6 +13464,30 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>MuffinCakes65</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>HKMP.Spectator</Name>
+        <Description>An HKMP addon that adds a spectator mode, free-cam, player tracking, and integration with HKMP.Rounds.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="f599994ca2fa5e7c814815b277c722546596da8978701508fd3b7f1a48d65b47">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Spectator/releases/download/Release/HKMP.Spectator.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/aristocrat27/HKMP.Spectator]]>
+        </Repository>
+<Integrations>
+        <Integration>HKMP.Rounds</Integration>
+    </Integrations>
+        <Tags>
+            <Tag>Accessibility</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Aristocrat</Author>
         </Authors>
     </Manifest>
 </ModLinks>
