@@ -1383,6 +1383,34 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>GhostPlando</Name>
+        <Description>Supplemental code for the Incorporeal Echoes plando</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="6F3922193812E9EB271A780E5BC411491CD93609DCDC5ECF07A328B0292EB85C"><![CDATA[https://github.com/TheMathGeek314/GhostPlando/releases/download/v1.0.0.0/GhostPlando.zip]]></Link>
+        <Dependencies>
+            <Dependency>AccessRandomizer</Dependency>
+            <Dependency>HKTool</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>ItemChangerDataLoader</Dependency>
+            <Dependency>LoreCore</Dependency>
+            <Dependency>Lore Randomizer</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>MoreDoors</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>WavLib</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/GhostPlando/]]>
+        </Repository>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+        </Integrations>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>GeoOverHud</Name>
         <Description>A small mod to tweak the HUD rendering order</Description>
         <Version>1.0.0.0</Version>
