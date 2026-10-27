@@ -1284,9 +1284,9 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>Spell Staller Charms</Name>
         <Description>Adds some fun spell-related charms</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="8ce818b7a5205d176e39a6510b6a45b1530fde903d5fc58713385d47b9ff78d2">
-            <![CDATA[https://github.com/Pengwizard/SpellStaller/releases/download/v1.0/SpellStaller.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="b248c67953b84dce975c28c8c61e96f3ca39e66c76e3b15862635313dce2c639">
+            <![CDATA[https://github.com/Pengwizard/SpellStaller/releases/download/v1.1/SpellStaller.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MenuChanger</Dependency>
@@ -1298,6 +1298,7 @@ Not recommended for use in new mods.</Description>
             <Dependency>RandomizerCore</Dependency>
             <Dependency>RandomizerCore.Json</Dependency>
             <Dependency>RandoSettingsManager</Dependency>
+            <Dependency>DebugMod</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Pengwizard/SpellStaller/]]>
@@ -1306,6 +1307,57 @@ Not recommended for use in new mods.</Description>
             <Author>Nopre</Author>
         </Authors>
     </Manifest>  
+    <Manifest>
+        <Name>Midautumn's Knightmare</Name>
+        <Description>Main mod for Nopre's 2026 Holloween Plando</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="b8a9f7b917a52a98c721e1e57543e6e6f4ff70cfceff111b3c73c3e63ecc8bc8">
+            <![CDATA[https://github.com/Pengwizard/CorruptedDreamsPlando/releases/download/v1.3/CorruptedDreamsPlando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MoreDoors</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>ItemChangerDataLoader</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
+            <Dependency>RandoSettingsManager</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>KorzUtils</Dependency>
+            <Dependency>MapChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>AccessRandomizer</Dependency>
+            <Dependency>CustomPoolInjector</Dependency>
+            <Dependency>DebugMod</Dependency>
+            <Dependency>ICExtraDeployers</Dependency>
+            <Dependency>ItemSync</Dependency>
+            <Dependency>QoL</Dependency>
+            <Dependency>Randomizable Levers</Dependency>
+            <Dependency>RandoPlus</Dependency>
+            <Dependency>RecentItemsDisplay</Dependency>
+            <Dependency>TheGloryOfBeingAFoolRandomizer</Dependency>
+            <Dependency>Spell Staller Charms</Dependency>
+            <Dependency>Scatternest</Dependency>
+            <Dependency>Extra Rando</Dependency>
+            <Dependency>BingoUI</Dependency>
+            <Dependency>Benchwarp</Dependency>
+            <Dependency>FStats</Dependency>
+            <Dependency>Rope Rando</Dependency>
+            <Dependency>FrogCore</Dependency>
+            <Dependency>RandoStats</Dependency>
+            <Dependency>HKTool</Dependency>
+            <Dependency>WavLib</Dependency>
+            <Dependency>RandoMapMod</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Pengwizard/CorruptedDreamsPlando/]]>
+        </Repository>
+        <Authors>
+            <Author>Nopre</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
         <Name>PedroSoulOrb</Name>
         <Description>A Hollow Knight mod that renders a friend when you have full soul</Description>
