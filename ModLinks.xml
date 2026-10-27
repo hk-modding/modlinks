@@ -1310,9 +1310,9 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>Midautumn's Knightmare</Name>
         <Description>Main mod for Nopre's 2026 Holloween Plando</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="47869fca91cbcfd13e29ea3ebb0fb2f74e8ec6e5563a9b8a11192afb3751d486">
-            <![CDATA[https://github.com/Pengwizard/CorruptedDreamsPlando/releases/download/v1.1/CorruptedDreamsPlando.zip]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="b8a9f7b917a52a98c721e1e57543e6e6f4ff70cfceff111b3c73c3e63ecc8bc8">
+            <![CDATA[https://github.com/Pengwizard/CorruptedDreamsPlando/releases/download/v1.3/CorruptedDreamsPlando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MoreDoors</Dependency>
@@ -1338,7 +1338,7 @@ Not recommended for use in new mods.</Description>
             <Dependency>RandoPlus</Dependency>
             <Dependency>RecentItemsDisplay</Dependency>
             <Dependency>TheGloryOfBeingAFoolRandomizer</Dependency>
-            <Dependency>SpellStaller</Dependency>
+            <Dependency>Spell Staller Charms</Dependency>
             <Dependency>Scatternest</Dependency>
             <Dependency>Extra Rando</Dependency>
             <Dependency>BingoUI</Dependency>
