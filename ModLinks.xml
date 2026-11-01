@@ -13620,4 +13620,29 @@ Enjoy!</Description>
             <Author>Aristocrat</Author>
         </Authors>
     </Manifest>
+     <Manifest>
+        <Name>Champion's Shell</Name>
+        <Description>Adds Champion's Shell, a 1-notch charm found in Dirtmouth that shows enemy health bars. Upgrade it at the Nailsmith with geo and relics to deal bonus nail damage to nearly dead enemies.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="67250a8705919b00fe9ff682241c7544b1221fbbfd07370bfddd52d85f49d4e6"><![CDATA[https://github.com/owenqren/Champion-s-Shell/releases/download/v0.1.0/ChampionsShell.zip]]></Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/owenqren/Champion-s-Shell]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/owenqren/Champion-s-Shell/raw/refs/heads/main/README.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/owenqren/Champion-s-Shell/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Charm</Tag>
+            <Tag>LLM-Assisted</Tag>
+        </Tags>
+        <Authors>
+            <Author>owenqren</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
