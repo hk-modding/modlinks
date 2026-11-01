@@ -13620,7 +13620,7 @@ Enjoy!</Description>
             <Author>Aristocrat</Author>
         </Authors>
     </Manifest>
-     <Manifest>
+    <Manifest>
         <Name>Champion's Shell</Name>
         <Description>Adds Champion's Shell, a 1-notch charm found in Dirtmouth that shows enemy health bars. Upgrade it at the Nailsmith with geo and relics to deal bonus nail damage to nearly dead enemies.</Description>
         <Version>0.1.0.0</Version>
