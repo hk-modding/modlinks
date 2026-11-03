@@ -1667,8 +1667,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>TheRealTransitionRando</Name>
         <Description>A Randomizer connection that puts transitions into the same pool as the other items</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="33921757FE6EF549E007C722E26F8DFC5AE958FACBF4A30000886A5A69DA3F08"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.1.0/TheRealTransitionRando.zip]]></Link>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="CEC45DABFB1D24F0C9291EDEDEAA18284CDE307F8CA41D3D98BE431563943C34"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.2.0/TheRealTransitionRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -1681,12 +1681,12 @@ Not recommended for use in new mods.</Description>
         </Repository>
         <Integrations>
             <Integration>BugPrince</Integration>
+            <Integration>ConnectionSettingsRando</Integration>
             <Integration>ItemSync</Integration>
             <Integration>RandoMapCore</Integration>
             <Integration>RandoSettingsManager</Integration>
             <Integration>RecentItemsDisplay</Integration>
             <Integration>Scattered and Lost</Integration>
-            <Integration>ConnectionSettingsRando</Integration>
         </Integrations>
         <Authors>
             <Author>TheMathGeek_314</Author>
