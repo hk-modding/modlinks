@@ -13645,4 +13645,22 @@ Enjoy!</Description>
             <Author>owenqren</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>GeoShare</Name>
+        <Description>Allows players to transfer Geo in HKMP lobbies using chat commands.</Description>
+        <Version>0.6.0.0</Version>
+        <Link SHA256="A2AE6403412996FFF730FF9C6555B53300B4D6A2176FD1A1D1CBE612AA51945B">https://github.com/Euktop/HKMP-GeoShare/releases/download/v0.6.0-beta/HKMPAddon.zip</Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Euktop/HKMP-GeoShare]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Euktop</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
