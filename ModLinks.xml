@@ -1755,8 +1755,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.2.4</Version>
-        <Link SHA256="AAB103E567748E0070834E502E0BD6E485F12C33C5C2734C5EE3641CE66413BB"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.4/MoreStags.zip]]></Link>
+        <Version>1.1.2.5</Version>
+        <Link SHA256="CACF4E6F3EC06341A0E13826BF59ECA8402910AE7C82E4D99BB7923B00E63C85"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.5/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -13651,7 +13651,9 @@ Enjoy!</Description>
         <Description>A range of quality of life changes that are valid for Team Hitless no hit runs.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="86ebc74accc9e6669f19fa27237c6d2ee8f3f1babf8ddcf31926e374038ae0a6"><![CDATA[https://github.com/kyleanderror13/QoL.Lite/releases/download/v1.0.0/QoL.Lite.zip]]></Link>
-        <Dependencies/>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/kyleanderror13/QoL.Lite]]>
         </Repository>
