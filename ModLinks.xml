@@ -13646,6 +13646,24 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>GeoShare</Name>
+        <Description>Allows players to transfer Geo in HKMP lobbies using chat commands.</Description>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="F0D0A36AF2E563EBC2DFD9C5D9C99F9B6D1DE71E8837417E37101F3FC37F8241">https://github.com/Euktop/HKMP-GeoShare/releases/download/v0.9.0-beta/GeoShare.zip</Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Euktop/HKMP-GeoShare]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Euktop</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>QoL.Lite</Name>
         <DisplayName>Quality of Life Lite</DisplayName>
         <Description>A range of quality of life changes that are valid for Team Hitless no hit runs.</Description>
