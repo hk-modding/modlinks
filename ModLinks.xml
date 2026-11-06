@@ -1755,8 +1755,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.2.4</Version>
-        <Link SHA256="AAB103E567748E0070834E502E0BD6E485F12C33C5C2734C5EE3641CE66413BB"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.4/MoreStags.zip]]></Link>
+        <Version>1.1.2.5</Version>
+        <Link SHA256="CACF4E6F3EC06341A0E13826BF59ECA8402910AE7C82E4D99BB7923B00E63C85"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.5/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -11303,9 +11303,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.39.5.0</Version>
-        <Link SHA256="9f4530f55abfe9cf5df00be116597e9b974b265f4a2e1008b0d0d330c57bbaf1">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.39.5.0/Architect.zip]]>
+        <Version>3.40.0.0</Version>
+        <Link SHA256="5804fb4d677fbe22e3dfd3517549632cb28851d283aec6875764e37aa8835772">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.40.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -11693,9 +11693,9 @@ Enjoy!</Description>
         <Name>Pale Court Charms</Name>
         <Description>Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer and Transcendence.
         Do not use with Pale Court,as both mods add the same charms.</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="3d877111f06a8febae07b72d582856b5d39234bbe2618df76f7eb9c9e770f684">
-            <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.4.0/PaleCourtCharms.zip]]>
+        <Version>1.4.1.0</Version>
+        <Link SHA256="0218d143fb89df88afb21548fab6db382a5bcf6289cde724d9e7b1f3e5837aa8">
+            <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.4.1/PaleCourtCharms.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -13669,7 +13669,9 @@ Enjoy!</Description>
         <Description>A range of quality of life changes that are valid for Team Hitless no hit runs.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="86ebc74accc9e6669f19fa27237c6d2ee8f3f1babf8ddcf31926e374038ae0a6"><![CDATA[https://github.com/kyleanderror13/QoL.Lite/releases/download/v1.0.0/QoL.Lite.zip]]></Link>
-        <Dependencies/>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/kyleanderror13/QoL.Lite]]>
         </Repository>
