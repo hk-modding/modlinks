@@ -13554,9 +13554,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.List</Name>
         <Description>An HKMP addon for displaying the player list and managing host settings.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="e3132865be37d6a4054a1ca3fb6ee7d8402b889f973b0af54bb85bc8ed5250c6">
-            <![CDATA[https://github.com/aristocrat27/HKMP.List/releases/download/Release/HKMP.List.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="7ebc40f079b4784e91b6ca88a5635232397389c3928d78efc60a456ee6fdb2ef">
+            <![CDATA[https://github.com/aristocrat27/HKMP.List/releases/download/1.1.0.0/HKMP.List.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -13566,6 +13566,7 @@ Enjoy!</Description>
         </Repository>
 <Integrations>
         <Integration>HKMP.Rounds</Integration>
+        <Integration>HKMP.MoreTeams</Integration>
     </Integrations>
         <Tags>
             <Tag>Accessibility</Tag>
