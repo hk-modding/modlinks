@@ -13510,6 +13510,19 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Hollow Knight Native Rumble — macOS</Name>
+        <DisplayName>Hollow Knight Native Rumble — macOS</DisplayName>
+        <Description>Native macOS controller rumble for Hollow Knight 1.5.78.11833. Works through Rosetta. Tested with 8BitDo Ultimate 2. Supports only macOS builds.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="8093aaf4b64a12127abdc13e127db562dc53b0155cf5f796bd6757c4ff42c87d"><![CDATA[https://github.com/Last1kkk/hollow-knight-native-rumble/releases/download/v1.0.0/Hollow-Knight-Native-Rumble-v1.0.0.zip]]></Link>
+        <Dependencies/>
+        <Repository><![CDATA[https://github.com/Last1kkk/hollow-knight-native-rumble]]></Repository>
+        <Issues><![CDATA[https://github.com/Last1kkk/hollow-knight-native-rumble/issues]]></Issues>
+        <Authors>
+            <Author>Last1kkk</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Hollow Knight 8-Player Co-op</Name>
         <DisplayName>Hollow Knight 8-Player Co-op</DisplayName>
         <Description>Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.</Description>
@@ -13684,6 +13697,30 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>kyleanderror13</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>HKMP.MoreTeams</Name>
+        <Description>An HKMP addon that adds 8 additional teams and the ability to create custom ones.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="c7e6b9ecbe7ac80434d4bb0037afca79ca723b9d983efdcc062e213ea8899b19">
+            <![CDATA[https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/Release/HKMP.MoreTeams.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/aristocrat27/HKMP.MoreTeams]]>
+        </Repository>
+<Integrations>
+        <Integration>HKMP.List</Integration>
+    </Integrations>
+        <Tags>
+            <Tag>Accessibility</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Aristocrat</Author>
         </Authors>
     </Manifest>
 </ModLinks>
