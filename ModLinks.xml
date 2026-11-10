@@ -10964,9 +10964,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodhomeQoL</Name>
         <Description>This mod is a large collection of tools designed to help challenge runners with their tasks.</Description>
-        <Version>1.0.1.4</Version>
-        <Link SHA256="30113c77f11db5287be6e9673617ca79db5eba6ceae792bc775797f102061e24">
-            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.1.4/GodhomeQoL.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="d2b7022d8a1a80ea4e497122b29fc61d3ccca36aae711506a49eede83fb8e230">
+            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v2.0.0.0/GodhomeQoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
@@ -10986,9 +10986,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKBattle</Name>
         <Description>HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.</Description>
-        <Version>1.0.0.3</Version>
-        <Link SHA256="cd361771daaacb00f6cbc8744298a76015f78349ea9ac2b2effde25531ded0c6">
-            <![CDATA[https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.3/HKBattle.zip]]>
+        <Version>1.0.0.4</Version>
+        <Link SHA256="061cbb74b8a0b2598ffe94c0c885aa8963cb5d77fa0163fe3153cf83db34c2f4">
+            <![CDATA[https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.4/HKBattle.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -11303,9 +11303,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.40.0.0</Version>
-        <Link SHA256="5804fb4d677fbe22e3dfd3517549632cb28851d283aec6875764e37aa8835772">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.40.0.0/Architect.zip]]>
+        <Version>3.40.1.0</Version>
+        <Link SHA256="40ece2f0efa301757ca2734b813622197fdfc5f8f2653106467d45efa24349ce">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.40.1.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -13510,6 +13510,19 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>Hollow Knight Native Rumble — macOS</Name>
+        <DisplayName>Hollow Knight Native Rumble — macOS</DisplayName>
+        <Description>Native macOS controller rumble for Hollow Knight 1.5.78.11833. Works through Rosetta. Tested with 8BitDo Ultimate 2. Supports only macOS builds.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="8093aaf4b64a12127abdc13e127db562dc53b0155cf5f796bd6757c4ff42c87d"><![CDATA[https://github.com/Last1kkk/hollow-knight-native-rumble/releases/download/v1.0.0/Hollow-Knight-Native-Rumble-v1.0.0.zip]]></Link>
+        <Dependencies/>
+        <Repository><![CDATA[https://github.com/Last1kkk/hollow-knight-native-rumble]]></Repository>
+        <Issues><![CDATA[https://github.com/Last1kkk/hollow-knight-native-rumble/issues]]></Issues>
+        <Authors>
+            <Author>Last1kkk</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Hollow Knight 8-Player Co-op</Name>
         <DisplayName>Hollow Knight 8-Player Co-op</DisplayName>
         <Description>Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.</Description>
@@ -13554,9 +13567,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.List</Name>
         <Description>An HKMP addon for displaying the player list and managing host settings.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="e3132865be37d6a4054a1ca3fb6ee7d8402b889f973b0af54bb85bc8ed5250c6">
-            <![CDATA[https://github.com/aristocrat27/HKMP.List/releases/download/Release/HKMP.List.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="7ebc40f079b4784e91b6ca88a5635232397389c3928d78efc60a456ee6fdb2ef">
+            <![CDATA[https://github.com/aristocrat27/HKMP.List/releases/download/1.1.0.0/HKMP.List.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -13566,6 +13579,7 @@ Enjoy!</Description>
         </Repository>
 <Integrations>
         <Integration>HKMP.Rounds</Integration>
+        <Integration>HKMP.MoreTeams</Integration>
     </Integrations>
         <Tags>
             <Tag>Accessibility</Tag>
@@ -13686,21 +13700,59 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-  <Name>Gaslight</Name>
-  <Description>FPS and mod load profiler. Shows what eats your FPS: in-game graph, per-mod and per-method timings, lag spikes with the culprit, HTML report. Observer only; interface in English and Russian.</Description>
-  <Version>1.1.0.0</Version>
-  <Link SHA256="f1dc6ed7d6004ab327cf052be55c1c197c7fa406277eb3b93608dbc99e0b5d96">
-    <![CDATA[https://github.com/Sova-89/Gaslight/releases/download/v1.1.0/Gaslight.zip]]>
-  </Link>
-  <Dependencies />
-  <Repository><![CDATA[https://github.com/Sova-89/Gaslight]]></Repository>
-  <ReadMe><![CDATA[https://github.com/Sova-89/Gaslight/raw/refs/heads/main/README.md]]></ReadMe>
-  <Tags>
-    <Tag>Utility</Tag>
-  </Tags>
-  <Integrations />
-  <Authors>
-    <Author>Sova</Author>
-  </Authors>
-</Manifest>
+        <Name>Gaslight</Name>
+        <Description>FPS and mod load profiler. Shows what eats your FPS: in-game graph, per-mod and per-method timings, lag spikes with the culprit, HTML report. Observer only; interface in English and Russian.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="f1dc6ed7d6004ab327cf052be55c1c197c7fa406277eb3b93608dbc99e0b5d96">
+            <![CDATA[https://github.com/Sova-89/Gaslight/releases/download/v1.1.0/Gaslight.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/Sova-89/Gaslight]]></Repository>
+        <ReadMe><![CDATA[https://github.com/Sova-89/Gaslight/raw/refs/heads/main/README.md]]></ReadMe>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Sova</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Stumble</Name>
+        <Description>The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="3f555eba76f4381b797cdd9f8e60ad3e24daaab6ce9d5d9b43b188761d4df7bb">https://github.com/BShadid/HKStumbleMod/releases/download/v0.1/Stumble.zip</Link>
+        <Dependencies/>
+        <Repository>https://github.com/BShadid/HKStumbleMod</Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>LLM-Assisted</Tag>
+        </Tags>
+        <Authors>
+            <Author>TCM</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>HKMP.MoreTeams</Name>
+        <Description>An HKMP addon that adds 8 additional teams and the ability to create custom ones.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="c7e6b9ecbe7ac80434d4bb0037afca79ca723b9d983efdcc062e213ea8899b19">
+            <![CDATA[https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/Release/HKMP.MoreTeams.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/aristocrat27/HKMP.MoreTeams]]>
+        </Repository>
+<Integrations>
+        <Integration>HKMP.List</Integration>
+    </Integrations>
+        <Tags>
+            <Tag>Accessibility</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Aristocrat</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
