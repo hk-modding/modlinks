@@ -4,6 +4,33 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>SuperUltrawideHUD</Name>
+        <DisplayName>Super Ultrawide HUD (32:9)</DisplayName>
+        <Description>HUD and menu layout fixes for 32:9 super-ultrawide screens only (e.g. 5120x1440). Moves the HUD to the screen edge, makes inventory, map, charms, journal, shop and pause menus use the full width. Every fix has its own On/Off switch. Requires WideCamera.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="8FD41737E153FDC4D21AA721BCA5392D8BEF7B51BF59A34B08B941DCBD643FB7">
+            <![CDATA[https://github.com/jinxcase000/SuperUltrawideHUD/releases/download/v1.0.0.0/SuperUltrawideHUD.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>WideCamera</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/jinxcase000/SuperUltrawideHUD]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/jinxcase000/SuperUltrawideHUD/raw/refs/heads/main/README.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/jinxcase000/SuperUltrawideHUD/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>jinxcase000</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>BadApple</Name>
         <DisplayName>Bad Apple!!</DisplayName>
         <Description>Plays the Bad Apple!! shadow-art music video on a loop over the whole game. You can only see the game through the inside of the silhouettes. Purely visual, with optional music, background and size settings.</Description>
