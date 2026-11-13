@@ -13718,9 +13718,9 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Stumble</Name>
-        <Description>The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="3f555eba76f4381b797cdd9f8e60ad3e24daaab6ce9d5d9b43b188761d4df7bb">https://github.com/BShadid/HKStumbleMod/releases/download/v0.1/Stumble.zip</Link>
+        <Description>The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up. With the Mantis Claw, they sometimes lose their grip on walls too.</Description>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="0d0b8b4523fdd4353bfd449a125775bd843222b3ea08eb422a7945b1dc058b22">https://github.com/BShadid/HKStumbleMod/releases/download/v0.2/Stumble.zip</Link>
         <Dependencies/>
         <Repository>https://github.com/BShadid/HKStumbleMod</Repository>
         <Tags>
