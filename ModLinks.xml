@@ -5,7 +5,7 @@
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
         <Name>ItemReveal</Name>
-        <DisplayName>Randomized Item Revealer</DisplayName>
+        <DisplayName>ItemReveal</DisplayName>
         <Description>A Hollow Knight mod that allows you to reveal the location of specific items on the map at the start of a randomizer 4 save.</Description>
         <Version>0.0.2.0</Version>
         <Link SHA256="15a9eeda6bf6955d7463690bee263605996c79c99e47af4950174ecb9850fb17"><![CDATA[https://github.com/jwwood3/ItemReveal/releases/download/v0.0.2.0/ItemReveal.zip]]></Link>
