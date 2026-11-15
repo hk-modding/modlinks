@@ -4,6 +4,58 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>NightmareAccess</Name>
+        <DisplayName>Nightmare Access</DisplayName>
+        <Description>Adds randomized non-consumable access requirements (Geo, Eggs, Essence, abilities, collectibles, etc.) to Randomizer 4 items and locations.</Description>
+        <Version>1.1.0.6</Version>
+        <Link SHA256="8d6c5029df7a23daee5946ec561757536109539a59a533986582b2cf6eee60ba"><![CDATA[https://github.com/Pikatyu8/NightmareAccess/releases/download/v1.1.0.6/NightmareAccess.dll]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Pikatyu8/NightmareAccess]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/Pikatyu8/NightmareAccess/raw/refs/heads/main/README.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/Pikatyu8/NightmareAccess/issues]]>
+        </Issues>
+        <Integrations>
+            <Integration>AccessRandomizer</Integration>
+            <Integration>AlphabetRando</Integration>
+            <Integration>BenchRando</Integration>
+            <Integration>BreakableWallRandomizer</Integration>
+            <Integration>CombatRandomizer</Integration>
+            <Integration>CorpseDreamRando</Integration>
+            <Integration>CurseRandomizer</Integration>
+            <Integration>DarknessRandomizer</Integration>
+            <Integration>ExtraRando</Integration>
+            <Integration>Fishing</Integration>
+            <Integration>FlowerRandomizer</Integration>
+            <Integration>GodhomeRandomizer</Integration>
+            <Integration>LoreRandomizer</Integration>
+            <Integration>MoreLocations</Integration>
+            <Integration>MoreStags</Integration>
+            <Integration>RandoPlus</Integration>
+            <Integration>RandoSettingsManager</Integration>
+            <Integration>RgbRando</Integration>
+            <Integration>RopeRando</Integration>
+            <Integration>TheGloryOfBeingAFoolRandomizer</Integration>
+            <Integration>YetAnotherRandoConnection</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>LLM-Assisted</Tag>
+        </Tags>
+        <Authors>
+            <Author>Pikatyu8</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>SuperUltrawideHUD</Name>
         <DisplayName>Super Ultrawide HUD (32:9)</DisplayName>
         <Description>HUD and menu layout fixes for 32:9 super-ultrawide screens only (e.g. 5120x1440). Moves the HUD to the screen edge, makes inventory, map, charms, journal, shop and pause menus use the full width. Every fix has its own On/Off switch. Requires WideCamera.</Description>
