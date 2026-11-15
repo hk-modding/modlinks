@@ -10,7 +10,7 @@
         <Version>0.1.0.0</Version>
         <Link SHA256="8b2aed1c694fd14cce7c1737ad30c97f8003751db9e788db7714cb1c78ac4b2b"><![CDATA[https://github.com/jwwood3/ItemReveal/releases/download/v0.1.0.0/ItemReveal.zip]]></Link>
         <Dependencies>
-            <Dependency>RandomizerMod</Dependency>
+            <Dependency>Randomizer 4</Dependency>
             <Dependency>RandomizerCore</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
