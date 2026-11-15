@@ -8820,9 +8820,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.6.8.0</Version>
-        <Link SHA256="E373C31A35755608AC282934E1CB603D194E72BB23B4C39BC9EF0617C30573FA">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.8/RandoMapMod.zip]]>
+        <Version>3.6.9.0</Version>
+        <Link SHA256="CCE0AA749672B509F094034A59ECF7C512401B185090E18F15517DDFA00B926E">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.9/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -11072,9 +11072,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapCore</Name>
         <Description>A library for RandoMapMod and ArchipelagoMapMod.</Description>
-        <Version>1.0.19.0</Version>
-        <Link SHA256="C8CAEC5FD204DB61006366C6B01478B91B2163090394CF2D56A7801AC44A5C73">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.19/RandoMapCore.zip]]>
+        <Version>1.0.20.0</Version>
+        <Link SHA256="FD4695A0641F3167AB27FACDA9D5D19C3F16361D849AB2BA96158401127A010C">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.20/RandoMapCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
