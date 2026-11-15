@@ -28,22 +28,22 @@
             <Integration>AccessRandomizer</Integration>
             <Integration>AlphabetRando</Integration>
             <Integration>BenchRando</Integration>
-            <Integration>BreakableWallRandomizer</Integration>
+            <Integration>Breakable Wall Randomizer</Integration>
             <Integration>CombatRandomizer</Integration>
             <Integration>CorpseDreamRando</Integration>
-            <Integration>CurseRandomizer</Integration>
+            <Integration>Curse Randomizer</Integration>
             <Integration>DarknessRandomizer</Integration>
-            <Integration>ExtraRando</Integration>
+            <Integration>Extra Rando</Integration>
             <Integration>Fishing</Integration>
             <Integration>FlowerRandomizer</Integration>
             <Integration>GodhomeRandomizer</Integration>
-            <Integration>LoreRandomizer</Integration>
+            <Integration>Lore Randomizer</Integration>
             <Integration>MoreLocations</Integration>
             <Integration>MoreStags</Integration>
             <Integration>RandoPlus</Integration>
             <Integration>RandoSettingsManager</Integration>
             <Integration>RgbRando</Integration>
-            <Integration>RopeRando</Integration>
+            <Integration>Rope Rando</Integration>
             <Integration>TheGloryOfBeingAFoolRandomizer</Integration>
             <Integration>YetAnotherRandoConnection</Integration>
         </Integrations>
