@@ -10964,9 +10964,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodhomeQoL</Name>
         <Description>This mod is a large collection of tools designed to help challenge runners with their tasks.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="d2b7022d8a1a80ea4e497122b29fc61d3ccca36aae711506a49eede83fb8e230">
-            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v2.0.0.0/GodhomeQoL.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="1cda8026dce1eacb11711678869ffb0c86f7febdbddeedc137bc2be22d2adf74">
+            <![CDATA[https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v2.1.0.0/GodhomeQoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Osmi</Dependency>
