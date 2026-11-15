@@ -56,6 +56,40 @@
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>ItemReveal</Name>
+        <DisplayName>ItemReveal</DisplayName>
+        <Description>A Hollow Knight mod that allows you to reveal the location of specific items on the map at the start of a randomizer 4 save.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="8b2aed1c694fd14cce7c1737ad30c97f8003751db9e788db7714cb1c78ac4b2b"><![CDATA[https://github.com/jwwood3/ItemReveal/releases/download/v0.1.0.0/ItemReveal.zip]]></Link>
+        <Dependencies>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>MapChanger</Dependency>
+            <Dependency>RandoMapMod</Dependency>
+            <Dependency>RandoMapCore</Dependency>
+            <Dependency>RandoSettingsManager</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/jwwood3/ItemReveal]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/jwwood3/ItemReveal/blob/main/ReadMe.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/jwwood3/ItemReveal/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>LLM-Assisted</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Jackson Wood</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>SuperUltrawideHUD</Name>
         <DisplayName>Super Ultrawide HUD (32:9)</DisplayName>
         <Description>HUD and menu layout fixes for 32:9 super-ultrawide screens only (e.g. 5120x1440). Moves the HUD to the screen edge, makes inventory, map, charms, journal, shop and pause menus use the full width. Every fix has its own On/Off switch. Requires WideCamera.</Description>
