@@ -8,7 +8,7 @@
         <DisplayName>Nightmare Access</DisplayName>
         <Description>Adds randomized non-consumable access requirements (Geo, Eggs, Essence, abilities, collectibles, etc.) to Randomizer 4 items and locations.</Description>
         <Version>1.1.0.6</Version>
-        <Link SHA256="8d6c5029df7a23daee5946ec561757536109539a59a533986582b2cf6eee60ba"><![CDATA[https://github.com/Pikatyu8/NightmareAccess/releases/download/v1.1.0.6/NightmareAccess.dll]]></Link>
+        <Link SHA256="0a5d5e9d1d5fbbfa446ed04aeda8cc4fe6cc64ba35bc2441581927c4082eba04"><![CDATA[https://github.com/Pikatyu8/NightmareAccess/releases/download/v1.1.0.6/NightmareAccess.dll]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
