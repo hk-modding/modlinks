@@ -3557,9 +3557,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
-        <Version>4.9.0.0</Version>
-        <Link SHA256="AE6DDF273249ED7EF75E26A5257CC2D7DE3F790230B1EAA8A57677161A65F0AC">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.9/QoL.zip]]>
+        <Version>4.10.0.0</Version>
+        <Link SHA256="B0145B8484A5A3FC462CD93E5D4DD36A3D975AA1F7814828DE4387028225F908">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.10/QoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
