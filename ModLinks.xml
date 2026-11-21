@@ -1869,8 +1869,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.2.6</Version>
-        <Link SHA256="967C78F627DE81F9CBFE1EC430E7193F76402F39571AAA500EE01A637714F9F3"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.6/MoreStags.zip]]></Link>
+        <Version>1.1.2.7</Version>
+        <Link SHA256="D57C7428F77E6B8CDE74017E41660E5D4754A1446D38AF71042A1FDEA4106A81"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.7/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -8908,9 +8908,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.3.11.0</Version>
-        <Link SHA256="0EC9097AE010CCBC68304BD337F133099DB79DA4BE58737B863E488726C0911D">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.11/MapChanger.zip]]>
+        <Version>1.3.12.0</Version>
+        <Link SHA256="A01A05560D46F680ADDEA289BA7A0ECCCF3B5E026D60090CFE97E81333E928A1">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.12/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
