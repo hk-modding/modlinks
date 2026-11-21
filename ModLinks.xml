@@ -13903,4 +13903,31 @@ Enjoy!</Description>
 			<Author>Lewixen</Author>
 		</Authors>
 	</Manifest>
+    <Manifest>
+        <Name>CreatureSpawner</Name>
+        <DisplayName>Creature Spawner</DisplayName>
+        <Description>Spawn any creature or boss anywhere with a hotkey (Ctrl by default; changeable in Mods &gt; Creature Spawner).</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="a06ef4d10bb49efd769181e7f8d1a81da5c5a622641ca656622dbcb9cfc42b7f">
+            <![CDATA[https://github.com/rennpas/CreatureSpawner/releases/download/v1.0.0/CreatureSpawner.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/rennpas/CreatureSpawner]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/rennpas/CreatureSpawner/raw/refs/heads/main/ReadMe.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/rennpas/CreatureSpawner/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Boss</Tag>
+            <Tag>Utility</Tag>
+            <Tag>LLM-Assisted</Tag>
+        </Tags>
+        <Authors>
+            <Author>rennpas</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
