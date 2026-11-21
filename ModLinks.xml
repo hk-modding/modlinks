@@ -3557,9 +3557,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
-        <Version>4.9.0.0</Version>
-        <Link SHA256="AE6DDF273249ED7EF75E26A5257CC2D7DE3F790230B1EAA8A57677161A65F0AC">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.9/QoL.zip]]>
+        <Version>4.10.0.0</Version>
+        <Link SHA256="B0145B8484A5A3FC462CD93E5D4DD36A3D975AA1F7814828DE4387028225F908">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.10/QoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -8908,9 +8908,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.3.11.0</Version>
-        <Link SHA256="0EC9097AE010CCBC68304BD337F133099DB79DA4BE58737B863E488726C0911D">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.11/MapChanger.zip]]>
+        <Version>1.3.12.0</Version>
+        <Link SHA256="A01A05560D46F680ADDEA289BA7A0ECCCF3B5E026D60090CFE97E81333E928A1">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.12/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
