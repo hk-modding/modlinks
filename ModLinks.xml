@@ -8,9 +8,7 @@
 	    <DisplayName>core.G'MIC</DisplayName>
 	    <Description>a collection of HK-compatible shaders from G'MIC</Description>
 	    <Version>0.1.0.0</Version>
-	    <Links>
-	        <Windows SHA256="c876ccb9c4cede827ed53d9b590f035811b6e1525873e1ef1514365713f4efdb"><![CDATA[https://github.com/Pikatyu8/core.G-MIC/releases/download/v0.1.0/core.GMIC.dll]]></Windows>
-	    </Links>
+	    <Link SHA256="c876ccb9c4cede827ed53d9b590f035811b6e1525873e1ef1514365713f4efdb"><![CDATA[https://github.com/Pikatyu8/core.G-MIC/releases/download/v0.1.0/core.GMIC.dll]]></Link>
 	    <Dependencies>
 	        <Dependency>Satchel</Dependency>
 	    </Dependencies>
