@@ -13520,9 +13520,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.Timer</Name>
         <Description>Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="530f38ae68d60c3ef01d5913c9afc835e4ce4067c0d7f47a43b78fc68d438ba5">
-            <![CDATA[https://github.com/aristocrat27/HKMP.Timer/releases/download/1.1.0.0/HKMP.Timer.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="d3e513699b0208975ccd077a574726fc035dd6ee806f2cdd6fd4db787772841c">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Timer/releases/download/1.2.0.0/HKMP.Timer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
