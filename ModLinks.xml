@@ -13854,9 +13854,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.MoreTeams</Name>
         <Description>An HKMP addon that adds 8 additional teams and the ability to create custom ones.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="c7e6b9ecbe7ac80434d4bb0037afca79ca723b9d983efdcc062e213ea8899b19">
-            <![CDATA[https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/Release/HKMP.MoreTeams.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="ec824db10b794b7cb5fda06e6bc6e0697d666920d7d255b76c1a3e586f173af4">
+            <![CDATA[https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/1.0.1.0/HKMP.MoreTeams.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
