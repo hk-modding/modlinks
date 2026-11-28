@@ -13879,8 +13879,8 @@ Enjoy!</Description>
 	<Manifest>
 		<Name>ParryMod</Name>
 		<Description>Sekiro-inspired parry with hand-drawn animations, custom sounds and boss reactions. Adds Shinobi's Charm.</Description>
-		<Version>1.0.0.0</Version>
-		<Link SHA256="ee6971917f039f7faa9546c3e104383a86adafa12fd98248cf1c69fb0f011a37"><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.0.0/ParryMod.zip]]></Link>
+		<Version>1.0.1.0</Version>
+		<Link SHA256="cfba49177c0ba589f7a44b004517fb72a238b370ebd4b10d0fb8d415aa58d64a"><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.1.0/ParryMod.zip]]></Link>
 		<Dependencies>
 			<Dependency>SFCore</Dependency>
 		</Dependencies>
@@ -13898,7 +13898,7 @@ Enjoy!</Description>
 		<Name>Back Dash</Name>
 		<Description>Brings back the cut beta back dash: dash backwards without turning around, also as a shadow dash.</Description>
 		<Version>1.0.0.0</Version>
-		<Link SHA256="e74357e8c479aade91ae248825b69ae0ec4359337f58c43a86ddbe1ff80f36ef"><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.0.0/BackDash.zip]]></Link>
+		<Link SHA256="d8a7f66f3fabd9f151f70a76a09466bfdfe5e90bbec54d3091f40bc2cbe0e0c5"><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.0.0/BackDash.zip]]></Link>
 		<Dependencies />
 		<Repository><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/blob/main/BACKDASH.md]]></Repository>
 		<Issues><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/issues]]></Issues>
