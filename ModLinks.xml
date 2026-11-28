@@ -1897,8 +1897,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.2.8</Version>
-        <Link SHA256="CAF0BE52A21F315093E0F54721AF116095601A451BC197AEAC307041FB6C801B"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.8/MoreStags.zip]]></Link>
+        <Version>1.1.2.9</Version>
+        <Link SHA256="8970D2E596A24A9E8B7E4B1673EA75DBA7CB1C4A64F1E9D4D94BA6FF1613D42A"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.2/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
