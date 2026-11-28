@@ -30,7 +30,7 @@
 	        <Author>Pikatyu8</Author>
 	    </Authors>
 	</Manifest>
-    <Manifest>
+    
         <Name>NightmareAccess</Name>
         <DisplayName>Nightmare Access</DisplayName>
         <Description>Adds randomized non-consumable access requirements (Geo, Eggs, Essence, abilities, collectibles, etc.) to Randomizer 4 items and locations.</Description>
@@ -82,7 +82,7 @@
             <Author>Pikatyu8</Author>
         </Authors>
     </Manifest>
-    <Manifest>
+    
         <Name>ItemReveal</Name>
         <DisplayName>ItemReveal</DisplayName>
         <Description>A Hollow Knight mod that allows you to reveal the location of specific items on the map at the start of a randomizer 4 save.</Description>
@@ -116,7 +116,7 @@
             <Author>Jackson Wood</Author>
         </Authors>
     </Manifest>
-    <Manifest>
+    
         <Name>SuperUltrawideHUD</Name>
         <DisplayName>Super Ultrawide HUD (32:9)</DisplayName>
         <Description>HUD and menu layout fixes for 32:9 super-ultrawide screens only (e.g. 5120x1440). Moves the HUD to the screen edge, makes inventory, map, charms, journal, shop and pause menus use the full width. Every fix has its own On/Off switch. Requires WideCamera.</Description>
@@ -144,7 +144,7 @@
             <Author>jinxcase000</Author>
         </Authors>
     </Manifest>
-    <Manifest>
+    
         <Name>BadApple</Name>
         <DisplayName>Bad Apple!!</DisplayName>
         <Description>Plays the Bad Apple!! shadow-art music video on a loop over the whole game. You can only see the game through the inside of the silhouettes. Purely visual, with optional music, background and size settings.</Description>
@@ -13936,5 +13936,17 @@ Enjoy!</Description>
         <Authors>
             <Author>rennpas</Author>
         </Authors>
+    </Manifest>
+	<Manifest>
+        <Name>HKmultiplayerPlus</Name>
+        <Description>Multiplayer co-op mod for Hollow Knight (1.5.78.11833): player and compass map sync, dynamic enemy HP scaling, independent Terraria-style loot, one-way boss arena gates, and automatic world save sync.</Description>
+        <Version>1.0.0</Version>
+        <Link SHA256="03147e53014d3a5543b47a69aa493d25c907d4db3a04deab51b8323048c3f038"><![CDATA[https://github.com/schodzidlo14-cell/HKmultiplayerPlus/releases/download/v1.0.0/HKmultiplayerPlus.zip]]></Link>
+        <Dependencies />
+        <Repository><![CDATA[https://github.com/schodzidlo14-cell/HKmultiplayerPlus]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
     </Manifest>
 </ModLinks>
