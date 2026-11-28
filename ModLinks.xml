@@ -11539,9 +11539,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>UltimateChickenKnight</Name>
         <Description>Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.</Description>
-        <Version>4.0.12.0</Version>
-        <Link SHA256="aea1283e48d030d541786e0dbac0d7799c80b457d66bfdf72850e738c5da0441">
-            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.0/UltimateChickenKnight.zip]]>
+        <Version>4.0.12.1</Version>
+        <Link SHA256="f13c0acb7a5c05bd4fb192cfcb263e472f23605ab2af4b58d7ec883ce1cdf8f0">
+            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.1/UltimateChickenKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Architect</Dependency>
