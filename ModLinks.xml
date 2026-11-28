@@ -1057,8 +1057,8 @@
     <Manifest>
         <Name>Wrong Gravity</Name>
         <Description>Hallownest? Hɐlloʍuǝsʇ!</Description>
-        <Version>1.0.0.9</Version>
-        <Link SHA256="C4B5C4A4C468288229855806567C5CD10F3DFBE6420A0BE7E371B86C944BA616"><![CDATA[https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.9/WrongGravity.zip]]></Link>
+        <Version>1.0.0.12</Version>
+        <Link SHA256="FAB2D048BA223147AB6B9C05EE0142B6FD469E0507B0A9D38BBBB0866C432DBF"><![CDATA[https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.12/WrongGravity.zip]]></Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
@@ -1603,8 +1603,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>Isma's Embrace</Name>
         <Description>A Randomizer connection for swimming beneath the surface</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="4BFCDFDA0F5388F091C591ACB503A7BA14B2936B7F5DBD250BD70D0368629072"><![CDATA[https://github.com/TheMathGeek314/IsmasEmbrace/releases/download/v1.0.1.0/IsmasEmbrace.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="C9F2F0AF3B16EA662F4466C48B510E243DE41E7218D22261748E481051F4D0E9"><![CDATA[https://github.com/TheMathGeek314/IsmasEmbrace/releases/download/v1.0.2.0/IsmasEmbrace.zip]]></Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -1619,6 +1619,7 @@ Not recommended for use in new mods.</Description>
         <Integrations>
             <Integration>CondensedSpoilerLogger</Integration>
             <Integration>ConnectionSettingsRando</Integration>
+            <Integration>FStats</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
         <Authors>
@@ -11444,9 +11445,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.40.2.1</Version>
-        <Link SHA256="a59e060e32a9ffff7d42aae0ac856a7b941436d9d997525bea25d7849f8330fc">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.40.2.1/Architect.zip]]>
+        <Version>3.41.0.0</Version>
+        <Link SHA256="c948266dcd1621ee6ac01f14ac22f32acf8e8f92c6744f232514aa111d316547">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.41.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -11539,9 +11540,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>UltimateChickenKnight</Name>
         <Description>Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.</Description>
-        <Version>4.0.12.0</Version>
-        <Link SHA256="aea1283e48d030d541786e0dbac0d7799c80b457d66bfdf72850e738c5da0441">
-            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.0/UltimateChickenKnight.zip]]>
+        <Version>4.0.12.1</Version>
+        <Link SHA256="f13c0acb7a5c05bd4fb192cfcb263e472f23605ab2af4b58d7ec883ce1cdf8f0">
+            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.1/UltimateChickenKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Architect</Dependency>
@@ -13499,12 +13500,13 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.Rounds</Name>
         <Description>An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="23b8850e28e21fd33148b8b1df07800a3aabd81a69307af7064f8cf9e7990e0d">
-            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds/releases/download/1.2.0.0/HKMP.Rounds.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="07bdaace477b9b14b19226d42da0c6e4c00da94512412be11690ef2bccd1d64f">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds/releases/download/2.0.0.0/HKMP.Rounds.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/aristocrat27/HKMP.Rounds]]>
@@ -13520,9 +13522,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.Timer</Name>
         <Description>Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="530f38ae68d60c3ef01d5913c9afc835e4ce4067c0d7f47a43b78fc68d438ba5">
-            <![CDATA[https://github.com/aristocrat27/HKMP.Timer/releases/download/1.1.0.0/HKMP.Timer.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="d3e513699b0208975ccd077a574726fc035dd6ee806f2cdd6fd4db787772841c">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Timer/releases/download/1.2.0.0/HKMP.Timer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -13537,28 +13539,6 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Aristocrat</Author>
-        </Authors>
-    </Manifest>
-    <Manifest>
-        <Name>OneShot PvP</Name>
-        <Description>A fast-paced Hollow Knight PvP mod where players fight with 1 HP and limited spell casts.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="dacd9d0b0fbdd6b149136a440a5131b42f2e2bc278a11b63345114207e349f7b">
-            <![CDATA[https://github.com/aristocrat27/OneShot-PvP/releases/download/Release/OneShot_PvP.zip]]>
-        </Link>
-        <Dependencies>
-            <Dependency>HKMP</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/aristocrat27/OneShot-PvP]]>
-        </Repository>
-        <Tags>
-            <Tag>Gameplay</Tag>
-            <Tag>Utility</Tag>
-        </Tags>
-        <Authors>
-            <Author>Aristocrat</Author>
-            <Author>Bobry Cola</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -13875,9 +13855,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.MoreTeams</Name>
         <Description>An HKMP addon that adds 8 additional teams and the ability to create custom ones.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="c7e6b9ecbe7ac80434d4bb0037afca79ca723b9d983efdcc062e213ea8899b19">
-            <![CDATA[https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/Release/HKMP.MoreTeams.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="ec824db10b794b7cb5fda06e6bc6e0697d666920d7d255b76c1a3e586f173af4">
+            <![CDATA[https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/1.0.1.0/HKMP.MoreTeams.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -13899,8 +13879,8 @@ Enjoy!</Description>
 	<Manifest>
 		<Name>ParryMod</Name>
 		<Description>Sekiro-inspired parry with hand-drawn animations, custom sounds and boss reactions. Adds Shinobi's Charm.</Description>
-		<Version>1.0.0.0</Version>
-		<Link SHA256="ee6971917f039f7faa9546c3e104383a86adafa12fd98248cf1c69fb0f011a37"><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.0.0/ParryMod.zip]]></Link>
+		<Version>1.0.1.0</Version>
+		<Link SHA256="cfba49177c0ba589f7a44b004517fb72a238b370ebd4b10d0fb8d415aa58d64a"><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.1.0/ParryMod.zip]]></Link>
 		<Dependencies>
 			<Dependency>SFCore</Dependency>
 		</Dependencies>
@@ -13918,7 +13898,7 @@ Enjoy!</Description>
 		<Name>Back Dash</Name>
 		<Description>Brings back the cut beta back dash: dash backwards without turning around, also as a shadow dash.</Description>
 		<Version>1.0.0.0</Version>
-		<Link SHA256="e74357e8c479aade91ae248825b69ae0ec4359337f58c43a86ddbe1ff80f36ef"><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.0.0/BackDash.zip]]></Link>
+		<Link SHA256="d8a7f66f3fabd9f151f70a76a09466bfdfe5e90bbec54d3091f40bc2cbe0e0c5"><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.0.0/BackDash.zip]]></Link>
 		<Dependencies />
 		<Repository><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/blob/main/BACKDASH.md]]></Repository>
 		<Issues><![CDATA[https://github.com/Lewixen/Parry-and-Back-Dash-Mods/issues]]></Issues>
