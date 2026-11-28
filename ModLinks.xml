@@ -13499,12 +13499,13 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.Rounds</Name>
         <Description>An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="23b8850e28e21fd33148b8b1df07800a3aabd81a69307af7064f8cf9e7990e0d">
-            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds/releases/download/1.2.0.0/HKMP.Rounds.zip]]>
+        <Version>2.0.0.0</Version>
+        <Link SHA256="07bdaace477b9b14b19226d42da0c6e4c00da94512412be11690ef2bccd1d64f">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Rounds/releases/download/2.0.0.0/HKMP.Rounds.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/aristocrat27/HKMP.Rounds]]>
@@ -13520,9 +13521,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.Timer</Name>
         <Description>Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="530f38ae68d60c3ef01d5913c9afc835e4ce4067c0d7f47a43b78fc68d438ba5">
-            <![CDATA[https://github.com/aristocrat27/HKMP.Timer/releases/download/1.1.0.0/HKMP.Timer.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="d3e513699b0208975ccd077a574726fc035dd6ee806f2cdd6fd4db787772841c">
+            <![CDATA[https://github.com/aristocrat27/HKMP.Timer/releases/download/1.2.0.0/HKMP.Timer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
@@ -13537,28 +13538,6 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Aristocrat</Author>
-        </Authors>
-    </Manifest>
-    <Manifest>
-        <Name>OneShot PvP</Name>
-        <Description>A fast-paced Hollow Knight PvP mod where players fight with 1 HP and limited spell casts.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="dacd9d0b0fbdd6b149136a440a5131b42f2e2bc278a11b63345114207e349f7b">
-            <![CDATA[https://github.com/aristocrat27/OneShot-PvP/releases/download/Release/OneShot_PvP.zip]]>
-        </Link>
-        <Dependencies>
-            <Dependency>HKMP</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/aristocrat27/OneShot-PvP]]>
-        </Repository>
-        <Tags>
-            <Tag>Gameplay</Tag>
-            <Tag>Utility</Tag>
-        </Tags>
-        <Authors>
-            <Author>Aristocrat</Author>
-            <Author>Bobry Cola</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -13875,9 +13854,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>HKMP.MoreTeams</Name>
         <Description>An HKMP addon that adds 8 additional teams and the ability to create custom ones.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="c7e6b9ecbe7ac80434d4bb0037afca79ca723b9d983efdcc062e213ea8899b19">
-            <![CDATA[https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/Release/HKMP.MoreTeams.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="ec824db10b794b7cb5fda06e6bc6e0697d666920d7d255b76c1a3e586f173af4">
+            <![CDATA[https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/1.0.1.0/HKMP.MoreTeams.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
